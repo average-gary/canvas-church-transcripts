@@ -7,7 +7,7 @@ duration: 00:47:45
 series: "Parables"
 transcript_source: whisper-large-v3-turbo
 word_count: 7925
-themes: ["stewardship", "obedience", "faithfulness", "kingdom of god", "accountability", "grace"]
+themes: ["stewardship", "obedience", "faithfulness", "kingdom of God", "accountability", "grace"]
 scriptures: ["Matthew 25:14-30", "Ephesians 2:10", "Matthew 24", "Matthew 22", "Revelation 4-5"]
 ---
 

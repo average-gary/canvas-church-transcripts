@@ -7,7 +7,7 @@ duration: 00:47:24
 series: "What's in a Name?"
 transcript_source: whisper-large-v3-turbo
 word_count: 8082
-themes: ["calling", "ministry", "good works", "kingdom of god", "spiritual gifts", "purpose"]
+themes: ["calling", "ministry", "good works", "kingdom of God", "spiritual gifts", "purpose"]
 scriptures: ["Ephesians 2:10", "1 Peter 2:9", "Galatians 2:20", "2 Corinthians 5:20", "Romans 1"]
 ---
 

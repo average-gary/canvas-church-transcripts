@@ -7,7 +7,7 @@ duration: 00:41:06
 series: "Practicing the Way: SABBATH"
 transcript_source: whisper-large-v3-turbo
 word_count: 6729
-themes: ["sabbath", "rest", "counter-cultural living", "identity in christ", "creation rhythms", "work-rest balance"]
+themes: ["Sabbath", "rest", "counter-cultural living", "identity in Christ", "creation rhythms", "work-rest balance"]
 scriptures: ["Genesis 1:14", "Genesis 2:1-3", "Exodus 20:8-11", "Leviticus 23", "Matthew 11:28-30", "Revelation 21:22-23"]
 ---
 

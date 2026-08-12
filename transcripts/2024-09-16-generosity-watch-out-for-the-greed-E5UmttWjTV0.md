@@ -7,7 +7,7 @@ duration: 00:52:26
 series: "Practicing the Way: GENEROSITY"
 transcript_source: whisper-large-v3-turbo
 word_count: 8280
-themes: ["greed", "contentment", "generosity", "simple living", "materialism", "kingdom of god"]
+themes: ["greed", "contentment", "generosity", "simple living", "materialism", "kingdom of God"]
 scriptures: ["Luke 12:15", "Matthew 6", "Matthew 19", "1 Timothy 6:6-10", "1 Timothy 6:17-19", "2 Corinthians 12", "Philippians 4", "Ecclesiastes 3:11"]
 ---
 

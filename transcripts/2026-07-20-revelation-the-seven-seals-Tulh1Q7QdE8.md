@@ -7,7 +7,7 @@ duration: 00:54:03
 series: "REVELATION"
 transcript_source: whisper-large-v3-turbo
 word_count: 8824
-themes: ["persecution", "prayer", "faithfulness", "suffering", "spiritual warfare", "false gospels", "endurance"]
+themes: ["persecution", "prayer", "faithfulness", "suffering", "spiritual warfare", "false Gospels", "endurance"]
 scriptures: ["Revelation 6:1-8", "Revelation 6:9-11", "Revelation 6:12-17", "Revelation 7:9", "Revelation 8:1-5", "Romans 8:35-39", "Romans 1", "Matthew 24", "Ephesians 6"]
 ---
 
@@ -19,11 +19,11 @@ scriptures: ["Revelation 6:1-8", "Revelation 6:9-11", "Revelation 6:12-17", "Rev
 
 ## Summary
 
-This sermon explores Revelation 6-8, presenting the seven seals as apocalyptic images revealing what the world looks like between Christ's ascension and return. The four horsemen depict cycles of deception, division, disparity, and death that result when people believe false gospels, while the remaining seals show martyrs crying out, the faithful multitude who can stand, and the call to prayerful endurance rather than fighting earthly enemies.
+This sermon explores Revelation 6-8, presenting the seven seals as apocalyptic images revealing what the world looks like between Christ's ascension and return. The four horsemen depict cycles of deception, division, disparity, and death that result when people believe false Gospels, while the remaining seals show martyrs crying out, the faithful multitude who can stand, and the call to prayerful endurance rather than fighting earthly enemies.
 
 **Key points**
 
-- The four horsemen represent deception (false gospels), division (tribalism and conflict), disparity (inequality), and death
+- The four horsemen represent deception (false Gospels), division (tribalism and conflict), disparity (inequality), and death
 - Persecuted martyrs cry 'how long?' and are told to rest while more faithful witnesses come
 - Only those sealed by trusting in Jesus—from every nation and tongue—can stand through suffering
 - The seventh seal reveals silence and prayer rising before God's throne as the faithful response

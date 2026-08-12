@@ -16,18 +16,17 @@ Search is layered:
 
 import argparse
 import html
-import json
 import re
 import shutil
 from collections import Counter, defaultdict
 from datetime import datetime
 
-from common import DATA, ROOT, hhmmss, load_index, paragraphs, slugify, transcript_path
+from common import (ROOT, hhmmss, load_index, load_summary, paragraphs, slugify,
+                    transcript_path)
 from render import cues_for
 
 DOCS = ROOT / "docs"
 SITE_SRC = ROOT / "site_src"
-SUMMARIES = DATA / "summaries"
 
 CHANNEL = "https://www.youtube.com/@CanvasWinchester"
 SITE_TITLE = "Canvas Sermon Archive"
@@ -157,8 +156,7 @@ def collect(limit=None):
         cues, source = cues_for(vid)
         if not cues:
             continue
-        sp = SUMMARIES / f"{vid}.json"
-        summary = json.loads(sp.read_text()) if sp.exists() else {}
+        summary = load_summary(vid)
         date = e.get("upload_date") or "0000-00-00"
         title = e.get("title") or vid
         paras = paragraphs(cues)

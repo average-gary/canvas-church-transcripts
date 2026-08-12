@@ -7,7 +7,7 @@ duration: 00:49:14
 series: "A SUMMER'S JOURNEY: Following the Apostle Paul on his Missionary Journeys"
 transcript_source: whisper-large-v3-turbo
 word_count: 8956
-themes: ["forgiveness", "reconciliation", "equality in christ", "christian community", "slavery and freedom", "social justice"]
+themes: ["forgiveness", "reconciliation", "equality in Christ", "Christian community", "slavery and freedom", "social justice"]
 scriptures: ["Philemon 1-25", "Colossians 3:11", "Colossians 3:22", "Colossians 4:1", "Colossians 4:9", "Galatians 3:28", "Deuteronomy 23:15", "Matthew 18", "Luke 7", "Ephesians 4", "James 5"]
 ---
 

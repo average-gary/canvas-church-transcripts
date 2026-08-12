@@ -7,7 +7,7 @@ duration: 00:49:18
 series: "DANIEL"
 transcript_source: whisper-large-v3-turbo
 word_count: 7372
-themes: ["pride", "humility", "repentance", "holy spirit power", "faithfulness", "mental health", "god's sovereignty"]
+themes: ["pride", "humility", "repentance", "Holy Spirit power", "faithfulness", "mental health", "God's sovereignty"]
 scriptures: ["Daniel 4"]
 ---
 

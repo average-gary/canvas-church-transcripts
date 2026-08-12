@@ -7,7 +7,7 @@ duration: 00:12:32
 series: "ADVENT 2023"
 transcript_source: whisper-large-v3-turbo
 word_count: 1588
-themes: ["advent", "love", "service", "incarnation", "faith and works", "christmas"]
+themes: ["Advent", "love", "service", "incarnation", "faith and works", "Christmas"]
 scriptures: ["John 3:16", "1 John 4:9-12", "1 John 4:19"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:53:26
 series: "Names of God"
 transcript_source: whisper-large-v3-turbo
 word_count: 7367
-themes: ["peace", "advent", "fulfillment of prophecy", "covenant", "wholeness", "trust"]
+themes: ["peace", "Advent", "fulfillment of prophecy", "covenant", "wholeness", "trust"]
 scriptures: ["Isaiah 9:6", "Isaiah 9:2", "Luke 2:10-14", "Isaiah 59:2", "Genesis 15", "Isaiah 53:5", "Isaiah 26:3", "Philippians 4:6-7", "Romans 12:18"]
 ---
 

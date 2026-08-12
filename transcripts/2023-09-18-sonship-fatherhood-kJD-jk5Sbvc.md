@@ -7,7 +7,7 @@ duration: 00:45:07
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7254
-themes: ["sonship", "adoption", "identity in christ", "spiritual formation", "fatherhood", "discipleship", "god's love", "inheritance"]
+themes: ["sonship", "adoption", "identity in Christ", "spiritual formation", "fatherhood", "discipleship", "God's love", "inheritance"]
 scriptures: ["Galatians 4:1-6", "Romans 6:12-14", "Romans 8:15", "Romans 8:23", "Romans 9:4", "Romans 5:5-8", "Romans 13:14", "1 Corinthians 4:15", "Hosea 4:14", "Ephesians 1:5"]
 ---
 

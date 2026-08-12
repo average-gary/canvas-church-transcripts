@@ -7,7 +7,7 @@ duration: 00:46:48
 series: "JAMES"
 transcript_source: whisper-large-v3-turbo
 word_count: 7979
-themes: ["humility", "judgment", "pride", "submission", "obedience", "trust in god"]
+themes: ["humility", "judgment", "pride", "submission", "obedience", "trust in God"]
 scriptures: ["James 4:10", "James 4:11-12", "James 4:13-17", "Matthew 7:5", "Matthew 6:25-27", "Philippians 2:3-11"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:48:53
 series: "GO & TELL"
 transcript_source: whisper-large-v3-turbo
 word_count: 8407
-themes: ["great commission", "evangelism", "kingdom of god", "hospitality", "obedience", "availability"]
+themes: ["great commission", "evangelism", "kingdom of God", "hospitality", "obedience", "availability"]
 scriptures: ["Matthew 9:35-38", "Acts 8:26-38", "James 1:26-27", "Acts 16:25-34", "Luke 19:10"]
 ---
 

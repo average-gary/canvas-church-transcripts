@@ -7,7 +7,7 @@ duration: 00:52:43
 series: "Practicing the Way: SERVICE"
 transcript_source: whisper-large-v3-turbo
 word_count: 8409
-themes: ["spiritual formation", "service", "love", "fruit of the spirit", "character transformation", "partnership with god"]
+themes: ["spiritual formation", "service", "love", "fruit of the spirit", "character transformation", "partnership with God"]
 scriptures: ["Mark 10:45", "Matthew 7:16-18", "Ephesians 4", "Genesis 1-3", "1 John 2:6", "1 John 3:18", "1 John 4:7", "Galatians 5:22-23", "1 Corinthians 13"]
 ---
 

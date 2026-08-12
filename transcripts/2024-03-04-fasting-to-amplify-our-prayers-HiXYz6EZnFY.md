@@ -7,7 +7,7 @@ duration: 00:56:21
 series: "Practicing the Way: FASTING"
 transcript_source: whisper-large-v3-turbo
 word_count: 7841
-themes: ["fasting", "prayer", "hearing god", "spiritual discipline", "surrender", "union with god"]
+themes: ["fasting", "prayer", "hearing God", "spiritual discipline", "surrender", "union with God"]
 scriptures: ["Acts 13:1-3", "Daniel 10", "Nehemiah 1:4-11", "Joel 2:12-13", "Jonah 3:5-10", "John 17", "Psalm 82"]
 ---
 

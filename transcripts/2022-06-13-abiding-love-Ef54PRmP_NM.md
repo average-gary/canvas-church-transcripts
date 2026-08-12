@@ -7,7 +7,7 @@ duration: 00:46:53
 series: "Fruit of the Spirit"
 transcript_source: whisper-large-v3-turbo
 word_count: 7883
-themes: ["agape love", "fruit of the spirit", "abiding in christ", "self-sacrifice", "god's character", "transformation"]
+themes: ["agape love", "fruit of the spirit", "abiding in Christ", "self-sacrifice", "God's character", "transformation"]
 scriptures: ["Galatians 5:13-14", "Galatians 5:22", "Matthew 22:34-40", "John 15:1-17", "1 John 4:7-16", "1 Corinthians 13"]
 ---
 

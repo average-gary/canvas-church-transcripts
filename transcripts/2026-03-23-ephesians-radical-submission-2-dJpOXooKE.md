@@ -7,7 +7,7 @@ duration: 00:41:49
 series: "EPHESIANS: Discovering the Identity of the Church"
 transcript_source: whisper-large-v3-turbo
 word_count: 7266
-themes: ["submission", "mutual love", "kingdom of god", "church community", "power and authority", "counter-cultural living"]
+themes: ["submission", "mutual love", "kingdom of God", "church community", "power and authority", "counter-cultural living"]
 scriptures: ["Ephesians 5:18-33", "Ephesians 6:1-9", "Philippians 2:3-11", "John 13:12-15", "Genesis 2:24"]
 ---
 

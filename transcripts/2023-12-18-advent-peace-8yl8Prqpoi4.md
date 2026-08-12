@@ -7,7 +7,7 @@ duration: 00:48:46
 series: "ADVENT 2023"
 transcript_source: whisper-large-v3-turbo
 word_count: 7704
-themes: ["peace", "advent", "kingdom of god", "enemy love", "political division", "submission to christ", "reconciliation"]
+themes: ["peace", "Advent", "kingdom of God", "enemy love", "political division", "submission to Christ", "reconciliation"]
 scriptures: ["Isaiah 9:6-7", "Romans 5:1-2", "John 3:16", "Matthew 5:8-10", "Matthew 5:43-45", "Ephesians 2:14", "1 Peter"]
 ---
 

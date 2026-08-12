@@ -7,7 +7,7 @@ duration: 00:43:50
 series: "RADICAL LIFE"
 transcript_source: whisper-large-v3-turbo
 word_count: 6787
-themes: ["kingdom values", "cultural accommodation", "spiritual maturity", "christ crucified", "counter-cultural living", "parenting"]
+themes: ["kingdom values", "cultural accommodation", "spiritual maturity", "Christ crucified", "counter-cultural living", "parenting"]
 scriptures: ["1 Corinthians 1:18-25", "Matthew 5:3-12", "Romans 8"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:51:21
 series: "We Are the Church"
 transcript_source: whisper-large-v3-turbo
 word_count: 7997
-themes: ["scripture", "authority", "jesus christ", "spiritual formation", "church membership", "interpretation"]
+themes: ["Scripture", "authority", "Jesus Christ", "spiritual formation", "church membership", "interpretation"]
 scriptures: ["John 14", "2 Timothy 3:14-17", "Romans 10:14-17", "Psalm 119", "Romans 7", "Psalm 91:4", "Hebrews"]
 ---
 
@@ -27,7 +27,7 @@ This sermon explains why the church requires members to accept the Bible as God'
 - The Bible progressively reveals God's single plan of salvation from Old Testament to New Testament
 - Scripture is both fully human and fully divine, inspired and authoritative
 - The Bible is profitable for teaching right beliefs, rebuking wrong beliefs, correcting behavior, and training in righteousness
-- The Word of God is meant to form us spiritually as we sit before it and let the Holy Spirit reveal our 'unknown unknowns'
+- The word of God is meant to form us spiritually as we sit before it and let the Holy Spirit reveal our 'unknown unknowns'
 
 **Scripture:** John 14, 2 Timothy 3:14-17, Romans 10:14-17, Psalm 119, Romans 7, Psalm 91:4, Hebrews
 

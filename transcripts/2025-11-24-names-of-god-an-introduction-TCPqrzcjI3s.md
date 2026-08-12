@@ -7,7 +7,7 @@ duration: 00:38:53
 series: "Names of God"
 transcript_source: whisper-large-v3-turbo
 word_count: 7013
-themes: ["names of god", "covenant relationship", "steadfast love", "mercy and justice", "incarnation", "advent"]
+themes: ["names of God", "covenant relationship", "steadfast love", "mercy and justice", "incarnation", "Advent"]
 scriptures: ["Exodus 34:5-10", "Exodus 3:4-14", "Genesis 1:1", "Genesis 14", "Genesis 15", "Genesis 16", "Isaiah 9:6", "Psalm 139", "Leviticus 26", "John 1:14", "Revelation 21:3", "1 John 4:8", "Romans 10", "Romans 12", "Philippians 2:11", "Matthew 5"]
 ---
 

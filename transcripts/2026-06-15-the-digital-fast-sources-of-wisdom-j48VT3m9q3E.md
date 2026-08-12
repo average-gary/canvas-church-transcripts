@@ -7,7 +7,7 @@ duration: 00:42:14
 series: "The Digital Fast"
 transcript_source: whisper-large-v3-turbo
 word_count: 6806
-themes: ["wisdom", "autonomy", "image of god", "technology", "idolatry", "surrender"]
+themes: ["wisdom", "autonomy", "image of God", "technology", "idolatry", "surrender"]
 scriptures: ["Genesis 1:26-28", "Genesis 2:15-17", "Genesis 3:1-7", "Genesis 11:1-4", "1 Kings 3", "Matthew 4", "John 5", "Romans 1:21-23", "Romans 5"]
 ---
 
@@ -15,11 +15,11 @@ scriptures: ["Genesis 1:26-28", "Genesis 2:15-17", "Genesis 3:1-7", "Genesis 11:
 
 *2026-06-15 — [watch on YouTube](https://www.youtube.com/watch?v=j48VT3m9q3E) — 00:42:14*
 
-> **The core human problem from Genesis to today is choosing to define wisdom and good for ourselves rather than receiving it from God, and technology amplifies this temptation by offering god-like capabilities that promise Eden apart from divine relationship.**
+> **The core human problem from Genesis to today is choosing to define wisdom and good for ourselves rather than receiving it from God, and technology amplifies this temptation by offering God-like capabilities that promise Eden apart from divine relationship.**
 
 ## Summary
 
-This sermon argues that the fall in Genesis was not about choosing evil over good, but about humanity seizing the authority to define wisdom for themselves rather than receiving it from God. Modern technology, especially smartphones, accelerates this same pattern by promising god-like attributes (omniscience, omnipresence, omnipotence) and creating the illusion that we can cultivate Eden-like circumstances apart from relationship with God.
+This sermon argues that the fall in Genesis was not about choosing evil over good, but about humanity seizing the authority to define wisdom for themselves rather than receiving it from God. Modern technology, especially smartphones, accelerates this same pattern by promising God-like attributes (omniscience, omnipresence, omnipotence) and creating the illusion that we can cultivate Eden-like circumstances apart from relationship with God.
 
 **Key points**
 

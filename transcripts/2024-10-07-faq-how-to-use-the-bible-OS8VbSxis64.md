@@ -7,7 +7,7 @@ duration: 00:48:31
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 8168
-themes: ["biblical interpretation", "scripture", "discipleship", "transformation", "wisdom", "christology"]
+themes: ["biblical interpretation", "Scripture", "discipleship", "transformation", "wisdom", "christology"]
 scriptures: ["2 Timothy 3:14-17", "Genesis 1", "Genesis 3", "Luke 24:27", "Psalm 1:1-3"]
 ---
 

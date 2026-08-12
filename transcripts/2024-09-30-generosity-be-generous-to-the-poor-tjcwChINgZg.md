@@ -7,7 +7,7 @@ duration: 00:52:53
 series: "Practicing the Way: GENEROSITY"
 transcript_source: whisper-large-v3-turbo
 word_count: 8589
-themes: ["generosity", "wealth", "poverty", "kingdom of god", "stewardship", "entitlement"]
+themes: ["generosity", "wealth", "poverty", "kingdom of God", "stewardship", "entitlement"]
 scriptures: ["Luke 12:13-21", "Luke 12:33", "Matthew 25", "1 John 3:16-18", "Genesis 1-3", "Ecclesiastes"]
 ---
 

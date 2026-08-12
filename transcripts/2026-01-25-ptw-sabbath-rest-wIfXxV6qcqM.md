@@ -7,7 +7,7 @@ duration: 00:15:19
 series: "Practicing the Way: SABBATH"
 transcript_source: whisper-large-v3-turbo
 word_count: 2618
-themes: ["sabbath", "rest", "spiritual disciplines", "contentment", "gratitude", "intentionality"]
+themes: ["Sabbath", "rest", "spiritual disciplines", "contentment", "gratitude", "intentionality"]
 scriptures: ["Exodus 20:8-11", "Deuteronomy 5:12-15"]
 ---
 

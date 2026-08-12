@@ -7,7 +7,7 @@ duration: 00:46:11
 series: "Practicing the Way: SABBATH"
 transcript_source: whisper-large-v3-turbo
 word_count: 6241
-themes: ["sabbath", "rest", "delight", "gratitude", "trust", "abundance", "community"]
+themes: ["Sabbath", "rest", "delight", "gratitude", "trust", "abundance", "community"]
 scriptures: ["Genesis 1", "Genesis 2:1-3", "Matthew 6:22-23", "Matthew 6:25-34"]
 ---
 

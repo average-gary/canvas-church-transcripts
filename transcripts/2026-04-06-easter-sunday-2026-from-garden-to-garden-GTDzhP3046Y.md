@@ -7,7 +7,7 @@ duration: 00:51:03
 series: "Easter 2026: Unstoppable"
 transcript_source: whisper-large-v3-turbo
 word_count: 7759
-themes: ["new creation", "resurrection", "restoration", "garden of eden", "redemption", "hope"]
+themes: ["new creation", "resurrection", "restoration", "garden of Eden", "redemption", "hope"]
 scriptures: ["Genesis 1:1-3", "Genesis 1:27", "Genesis 2", "Genesis 3", "John 1:1-5", "John 19:5", "John 19", "John 20", "John 21:15"]
 ---
 

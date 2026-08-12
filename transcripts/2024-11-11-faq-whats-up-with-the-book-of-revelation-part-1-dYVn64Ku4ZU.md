@@ -7,7 +7,7 @@ duration: 00:45:59
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 7880
-themes: ["heaven", "sovereignty of god", "persecution", "sacrificial love", "worship", "kingdom of god"]
+themes: ["heaven", "sovereignty of God", "persecution", "sacrificial love", "worship", "kingdom of God"]
 scriptures: ["Revelation 1:1", "Acts 1:6-7", "Revelation 4:1-2", "Revelation 4:8-11", "Revelation 5:1-14"]
 ---
 

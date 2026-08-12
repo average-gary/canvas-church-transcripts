@@ -7,7 +7,7 @@ duration: 00:12:34
 series: "Names of God"
 transcript_source: whisper-large-v3-turbo
 word_count: 1694
-themes: ["kingship of christ", "allegiance", "kingdom of god", "surrender", "sacrifice", "spiritual formation"]
+themes: ["kingship of Christ", "allegiance", "kingdom of God", "surrender", "sacrifice", "spiritual formation"]
 scriptures: ["Psalm 93:1-2", "John 18:33-40", "Revelation"]
 ---
 

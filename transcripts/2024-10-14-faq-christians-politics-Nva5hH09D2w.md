@@ -7,7 +7,7 @@ duration: 01:02:06
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 9308
-themes: ["kingdom of god", "citizenship", "politics", "exile", "community", "sacrifice"]
+themes: ["kingdom of God", "citizenship", "politics", "exile", "community", "sacrifice"]
 scriptures: ["Philippians 2:1-11", "1 Peter 2:11", "1 Peter 4:7-11", "Jeremiah 29:4-11", "Galatians 6:8-10"]
 ---
 

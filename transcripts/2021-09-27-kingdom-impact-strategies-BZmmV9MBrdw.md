@@ -7,7 +7,7 @@ duration: 00:40:39
 series: "DANIEL"
 transcript_source: whisper-large-v3-turbo
 word_count: 7246
-themes: ["faithfulness", "cultural engagement", "community", "character development", "identity in christ", "evangelism"]
+themes: ["faithfulness", "cultural engagement", "community", "character development", "identity in Christ", "evangelism"]
 scriptures: ["Daniel 1:8-21", "Jeremiah 29:4-7", "Romans 12:2", "Acts 17:22-23", "Ephesians 6:12"]
 ---
 

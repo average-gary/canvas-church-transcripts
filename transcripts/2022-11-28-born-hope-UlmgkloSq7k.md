@@ -7,7 +7,7 @@ duration: 00:44:24
 series: "Born: An Advent Series"
 transcript_source: whisper-large-v3-turbo
 word_count: 6531
-themes: ["hope", "advent", "freedom", "sanctification", "deliverance", "incarnation"]
+themes: ["hope", "Advent", "freedom", "sanctification", "deliverance", "incarnation"]
 scriptures: ["Hebrews 5:7-9", "Isaiah 61:1-2", "Luke 4:18", "2 Corinthians 1:8-20", "Titus 2:13", "1 John 3:2-3", "Ezekiel 34"]
 ---
 

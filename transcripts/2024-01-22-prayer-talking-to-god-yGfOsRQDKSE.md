@@ -7,7 +7,7 @@ duration: 01:23:14
 series: "Practicing the Way: PRAYER"
 transcript_source: whisper-large-v3-turbo
 word_count: 7710
-themes: ["prayer", "spiritual formation", "kingdom of god", "father heart of god", "forgiveness", "provision"]
+themes: ["prayer", "spiritual formation", "kingdom of God", "father heart of God", "forgiveness", "provision"]
 scriptures: ["Matthew 6", "Luke 15", "Exodus 34:6", "Matthew 6:25-33", "Isaiah 6"]
 ---
 

@@ -23,13 +23,12 @@ Passes, most useful first:
 """
 
 import argparse
-import json
 import re
 from collections import Counter, defaultdict
 from datetime import date
 
 from build_site import book_of
-from common import DATA, ROOT, load_index, transcript_path
+from common import ROOT, load_index, load_summary, transcript_path
 
 STOP = {"the", "a", "of", "and", "to", "in", "is", "for", "our", "we", "you",
         "your", "my", "on", "at", "with", "god", "jesus", "christ", "lord",
@@ -46,8 +45,7 @@ def load():
     for vid, e in idx.items():
         if not e.get("sermon") or not e.get("upload_date"):
             continue
-        p = DATA / "summaries" / f"{vid}.json"
-        sm = json.loads(p.read_text()) if p.exists() else {}
+        sm = load_summary(vid)
         books = Counter(b for b in (book_of(r) for r in (sm.get("scriptures") or [])) if b)
         out.append({
             "id": vid,

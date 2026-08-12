@@ -7,7 +7,7 @@ duration: 00:18:37
 series: "ADVENT 2024"
 transcript_source: whisper-large-v3-turbo
 word_count: 3143
-themes: ["love", "incarnation", "sacrifice", "presence", "advent", "service"]
+themes: ["love", "incarnation", "sacrifice", "presence", "Advent", "service"]
 scriptures: ["1 John 4:9", "Isaiah 7:14", "Philippians 2:6-7", "1 John 4:11-12", "Luke 5:16", "Mark 6:31", "Mark 6:34", "1 John 3:16"]
 ---
 
@@ -19,7 +19,7 @@ scriptures: ["1 John 4:9", "Isaiah 7:14", "Philippians 2:6-7", "1 John 4:11-12",
 
 ## Summary
 
-This Advent sermon explores how biblical love is most clearly demonstrated through sacrificial presence, exemplified by Jesus's incarnation. The pastor challenges the congregation to reflect Christ's love by being sacrificially present with God, themselves, and others while awaiting the second advent.
+This Advent sermon explores how biblical love is most clearly demonstrated through sacrificial presence, exemplified by Jesus's incarnation. The pastor challenges the congregation to reflect Christ's love by being sacrificially present with God, themselves, and others while awaiting the second Advent.
 
 **Key points**
 

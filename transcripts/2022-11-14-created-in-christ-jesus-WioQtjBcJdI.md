@@ -7,7 +7,7 @@ duration: 00:36:12
 series: "What's in a Name?"
 transcript_source: whisper-large-v3-turbo
 word_count: 5203
-themes: ["trauma and healing", "new creation", "unity in christ", "sanctification", "brokenness", "transformation"]
+themes: ["trauma and healing", "new creation", "unity in Christ", "sanctification", "brokenness", "transformation"]
 scriptures: ["Ephesians 2:10-22", "Romans 7", "Philippians 3:9", "Philippians 3:12", "Galatians 3:28"]
 ---
 

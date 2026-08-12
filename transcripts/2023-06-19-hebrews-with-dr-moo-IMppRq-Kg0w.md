@@ -7,7 +7,7 @@ duration: 00:26:20
 series: "POURED OUT"
 transcript_source: whisper-large-v3-turbo
 word_count: 3814
-themes: ["faith", "hope", "love", "grace", "christian community", "perseverance", "worship", "pilgrimage"]
+themes: ["faith", "hope", "love", "grace", "Christian community", "perseverance", "worship", "pilgrimage"]
 scriptures: ["Hebrews 10:19-25", "1 John 4:19", "Hebrews 9:19", "Hebrews 6"]
 ---
 

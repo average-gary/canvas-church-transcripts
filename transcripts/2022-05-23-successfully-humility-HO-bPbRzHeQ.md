@@ -7,7 +7,7 @@ duration: 00:45:57
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7554
-themes: ["humility", "sacrificial service", "pride", "incarnation", "exaltation", "kingdom of god"]
+themes: ["humility", "sacrificial service", "pride", "incarnation", "exaltation", "kingdom of God"]
 scriptures: ["Philippians 2:3-4", "Philippians 2:5-11", "Mark 10:21-23", "Mark 10:35-38", "Mark 14:46-47", "John 3:30", "John 13"]
 ---
 

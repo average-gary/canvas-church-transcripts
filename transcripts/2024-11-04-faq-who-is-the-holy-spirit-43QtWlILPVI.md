@@ -7,7 +7,7 @@ duration: 00:49:20
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 6774
-themes: ["holy spirit", "empowerment", "discernment", "obedience", "spiritual gifts", "prayer"]
+themes: ["Holy Spirit", "empowerment", "discernment", "obedience", "spiritual gifts", "prayer"]
 scriptures: ["Genesis 1:2", "John 3", "John 7", "John 14-16", "Romans 8", "Ephesians 5", "Galatians 5:22-23"]
 ---
 

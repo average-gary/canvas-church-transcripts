@@ -7,7 +7,7 @@ duration: 01:07:29
 series: "ADVENT 2023"
 transcript_source: whisper-large-v3-turbo
 word_count: 3738
-themes: ["joy", "christmas", "suffering", "trust", "perspective", "surrender"]
+themes: ["joy", "Christmas", "suffering", "trust", "perspective", "surrender"]
 scriptures: ["Luke 2:10", "Philippians 4:8-9", "Luke 10:20", "John 16:33"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:50:13
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 7378
-themes: ["light and darkness", "witness", "mission", "holy spirit", "transformation", "evangelism", "identity in christ", "blessing others"]
+themes: ["light and darkness", "witness", "mission", "Holy Spirit", "transformation", "evangelism", "identity in Christ", "blessing others"]
 scriptures: ["John 8:12", "John 7:33-37", "John 1:9", "John 9:5", "John 12:35", "Genesis 12:1-3", "John 3:8", "Matthew 5:14-16", "Acts 13:47", "Philippians 2:15", "Ephesians 5:8"]
 ---
 

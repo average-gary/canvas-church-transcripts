@@ -7,7 +7,7 @@ duration: 00:43:38
 series: "Parables"
 transcript_source: whisper-large-v3-turbo
 word_count: 8454
-themes: ["hearing and obedience", "spiritual growth", "kingdom of god", "perseverance", "community", "fruitfulness"]
+themes: ["hearing and obedience", "spiritual growth", "kingdom of God", "perseverance", "community", "fruitfulness"]
 scriptures: ["Mark 4:1-23", "Mark 3:9-21", "Isaiah 6:9", "Isaiah 27", "Matthew 13:14-17", "Matthew 7", "John 15", "2 Samuel"]
 ---
 

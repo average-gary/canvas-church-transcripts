@@ -7,7 +7,7 @@ duration: 00:46:51
 series: "Practicing the Way: SABBATH"
 transcript_source: whisper-large-v3-turbo
 word_count: 7740
-themes: ["sabbath", "worship", "surrender", "holiness", "idolatry", "rest"]
+themes: ["Sabbath", "worship", "surrender", "holiness", "idolatry", "rest"]
 scriptures: ["Genesis 2:2-3", "Exodus 16:23", "Deuteronomy 4"]
 ---
 

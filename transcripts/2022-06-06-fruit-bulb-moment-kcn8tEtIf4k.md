@@ -7,7 +7,7 @@ duration: 00:48:46
 series: "Fruit of the Spirit"
 transcript_source: whisper-large-v3-turbo
 word_count: 7829
-themes: ["sanctification", "holy spirit", "spiritual growth", "discipleship", "character formation", "obedience"]
+themes: ["sanctification", "Holy Spirit", "spiritual growth", "discipleship", "character formation", "obedience"]
 scriptures: ["Galatians 5:16-26", "Romans 7", "Genesis 3", "1 John 3:16"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:52:31
 series: "SEASON OF FORMATION"
 transcript_source: whisper-large-v3-turbo
 word_count: 9368
-themes: ["spiritual formation", "identity in christ", "wilderness", "temptation", "perseverance", "repentance"]
+themes: ["spiritual formation", "identity in Christ", "wilderness", "temptation", "perseverance", "repentance"]
 scriptures: ["Luke 3:21-22", "Luke 4:1-21", "Romans 8", "Deuteronomy 6", "Hebrews 4", "Psalm 13", "Habakkuk 3"]
 ---
 

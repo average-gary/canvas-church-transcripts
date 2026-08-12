@@ -7,7 +7,7 @@ duration: 00:49:59
 series: "Fruit of the Spirit"
 transcript_source: whisper-large-v3-turbo
 word_count: 7879
-themes: ["goodness", "holy spirit dependence", "humility", "justice and mercy", "spiritual fruit", "human brokenness"]
+themes: ["goodness", "Holy Spirit dependence", "humility", "justice and mercy", "spiritual fruit", "human brokenness"]
 scriptures: ["Genesis 1-2", "Genesis 3", "Romans 1:18-25", "Exodus 33:18-20", "Galatians 5", "Colossians 1:15", "John 14:9", "Micah 6:8", "Ephesians 2:8-10"]
 ---
 

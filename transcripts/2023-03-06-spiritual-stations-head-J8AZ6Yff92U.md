@@ -7,7 +7,7 @@ duration: 00:46:57
 series: "Spiritual Stations"
 transcript_source: whisper-large-v3-turbo
 word_count: 7518
-themes: ["bible study", "humility", "intellectual faith", "transformation", "open-mindedness", "unity"]
+themes: ["Bible study", "humility", "intellectual faith", "transformation", "open-mindedness", "unity"]
 scriptures: ["Acts 17:1-14", "Hebrews 4:12", "John 15:18-19", "Romans 11:33-36"]
 ---
 
@@ -27,7 +27,7 @@ This sermon contrasts two approaches to studying Scripture intellectually: the T
 - Both conservative and liberal Christians can fall into the trap of using Scripture to support political or theological positions rather than letting it challenge them
 - Proper Bible study requires examining motivations, understanding broad context, digging deeply into specifics, and working out interpretation in community
 - Deep study of Scripture should lead to both transformation and worship, but also expect internal and external conflict
-- The Word of God is living and powerful, able to discern thoughts and intents of the heart
+- The word of God is living and powerful, able to discern thoughts and intents of the heart
 
 **Scripture:** Acts 17:1-14, Hebrews 4:12, John 15:18-19, Romans 11:33-36
 

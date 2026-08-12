@@ -7,7 +7,7 @@ duration: 00:57:06
 series: "Resurrection Rumors"
 transcript_source: whisper-large-v3-turbo
 word_count: 5742
-themes: ["resurrection", "holy spirit", "mission", "fear and faith", "surrender", "communion"]
+themes: ["resurrection", "Holy Spirit", "mission", "fear and faith", "surrender", "communion"]
 scriptures: ["Luke 24:33-49", "John 20:19-23", "Genesis 12", "1 Corinthians", "2 Corinthians", "Isaiah"]
 ---
 

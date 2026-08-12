@@ -7,7 +7,7 @@ duration: 00:42:24
 series: "ADVENT 2024"
 transcript_source: whisper-large-v3-turbo
 word_count: 6649
-themes: ["hope", "advent", "resurrection", "obedience", "faithfulness", "participation"]
+themes: ["hope", "Advent", "resurrection", "obedience", "faithfulness", "participation"]
 scriptures: ["Luke 1:26-37", "1 Corinthians 15:16-20", "Hebrews 10:23", "Romans 4", "Isaiah 7:14", "Ephesians 2:10"]
 ---
 

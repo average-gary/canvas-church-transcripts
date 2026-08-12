@@ -7,7 +7,7 @@ duration: 00:40:44
 series: "Born: An Advent Series"
 transcript_source: whisper-large-v3-turbo
 word_count: 6386
-themes: ["peace", "trust", "surrender", "advent", "suffering", "lordship"]
+themes: ["peace", "trust", "surrender", "Advent", "suffering", "lordship"]
 scriptures: ["Psalm 23:1-6", "Romans 8:6", "1 Corinthians 15:54-57", "Daniel 3", "Isaiah 9:6-7", "Genesis 3"]
 ---
 

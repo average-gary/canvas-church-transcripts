@@ -7,7 +7,7 @@ duration: 00:46:44
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 7470
-themes: ["gospel", "kingdom of god", "salvation", "repentance", "baptism", "unity"]
+themes: ["gospel", "kingdom of God", "salvation", "repentance", "baptism", "unity"]
 scriptures: ["Mark 1:14-15", "1 Corinthians 15", "Colossians 2:13-14", "John 3:16", "Romans 6:23", "Jude 21", "John 10:10", "Philippians 4:7", "Psalm 23", "Matthew 25", "James 2", "John 17", "1 Timothy 3", "Matthew 6"]
 ---
 

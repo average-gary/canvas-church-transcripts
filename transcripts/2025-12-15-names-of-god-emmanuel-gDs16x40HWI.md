@@ -7,7 +7,7 @@ duration: 00:38:56
 series: "Names of God"
 transcript_source: whisper-large-v3-turbo
 word_count: 5760
-themes: ["joy", "presence of god", "incarnation", "emmanuel", "relationships", "holy spirit"]
+themes: ["joy", "presence of God", "incarnation", "emmanuel", "relationships", "Holy Spirit"]
 scriptures: ["Luke 2:10", "Matthew 1:23", "Psalm 16:11", "Psalm 21:6", "John 15:10-11", "2 John 1:12", "Hebrews 12:2"]
 ---
 

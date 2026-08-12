@@ -7,7 +7,7 @@ duration: 00:44:43
 series: "JAMES"
 transcript_source: whisper-large-v3-turbo
 word_count: 7462
-themes: ["temptation", "desire", "deception", "obedience", "sin", "victory in christ"]
+themes: ["temptation", "desire", "deception", "obedience", "sin", "victory in Christ"]
 scriptures: ["James 1:12-18", "Jeremiah 17:9", "Matthew 4:1-4", "Proverbs 7", "Hebrews 3:13"]
 ---
 

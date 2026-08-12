@@ -7,7 +7,7 @@ duration: 00:51:04
 series: "Parables"
 transcript_source: whisper-large-v3-turbo
 word_count: 7406
-themes: ["god's love", "grace", "worthiness", "identity", "belonging", "childlike faith"]
+themes: ["God's love", "grace", "worthiness", "identity", "belonging", "childlike faith"]
 scriptures: ["Luke 15:11-32", "Matthew 13:11-13", "Deuteronomy 7:6-8", "Titus 2:14", "Hebrews 3-4", "Luke 18:16-17", "Ephesians 3:14-19"]
 ---
 

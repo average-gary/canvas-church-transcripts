@@ -7,7 +7,7 @@ duration: 01:28:32
 series: "A SUMMER'S JOURNEY: Following the Apostle Paul on his Missionary Journeys"
 transcript_source: whisper-large-v3-turbo
 word_count: 12061
-themes: ["sanctification", "baptism", "spiritual formation", "dying to self", "allegiance to christ", "desert journey"]
+themes: ["sanctification", "baptism", "spiritual formation", "dying to self", "allegiance to Christ", "desert journey"]
 scriptures: ["Romans 6:1-14", "Exodus 14:19-23", "Philippians 2:12-13", "Genesis 1:28", "1 Corinthians 15", "John 6", "Galatians 2:20"]
 ---
 

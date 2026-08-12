@@ -7,7 +7,7 @@ duration: 00:50:41
 series: "Winter 2024"
 transcript_source: whisper-large-v3-turbo
 word_count: 5745
-themes: ["kingdom of god", "priorities", "spiritual disciplines", "generosity", "prayer", "anxiety", "treasure", "seeking god"]
+themes: ["kingdom of God", "priorities", "spiritual disciplines", "generosity", "prayer", "anxiety", "treasure", "seeking God"]
 scriptures: ["Matthew 6:1-34", "Matthew 6:22-23", "Matthew 6:33", "John 1:35-39", "Matthew 5:16"]
 ---
 

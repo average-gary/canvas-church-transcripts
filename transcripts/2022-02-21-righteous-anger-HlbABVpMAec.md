@@ -7,7 +7,7 @@ duration: 00:37:29
 series: "JAMES"
 transcript_source: whisper-large-v3-turbo
 word_count: 4849
-themes: ["anger", "listening", "self-control", "humility", "discipleship", "holy spirit"]
+themes: ["anger", "listening", "self-control", "humility", "discipleship", "Holy Spirit"]
 scriptures: ["James 1:19-20", "Galatians 5:22-23", "Matthew 16", "Luke 24:13-27", "John 3", "John 19:38-39", "Matthew 23", "Proverbs 29:22"]
 ---
 

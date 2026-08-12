@@ -7,7 +7,7 @@ duration: 00:36:09
 series: "My Part Matters"
 transcript_source: whisper-large-v3-turbo
 word_count: 5700
-themes: ["abiding in christ", "fruitfulness", "obedience", "love", "discipleship", "church unity"]
+themes: ["abiding in Christ", "fruitfulness", "obedience", "love", "discipleship", "church unity"]
 scriptures: ["John 15:1-8", "John 15:9-17", "Ezekiel 15", "Deuteronomy 14:2", "Jeremiah 2:21", "Psalm 80:8-15", "Hosea 10:1-2", "Exodus 3:14", "Zechariah 9:9", "James 1:22", "Romans 12"]
 ---
 

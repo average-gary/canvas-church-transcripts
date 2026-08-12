@@ -7,7 +7,7 @@ duration: 00:46:16
 series: "Born: An Advent Series"
 transcript_source: whisper-large-v3-turbo
 word_count: 7024
-themes: ["joy", "advent", "presence of Christ", "holy spirit", "service", "suffering", "generosity", "communion"]
+themes: ["joy", "Advent", "presence of Christ", "Holy Spirit", "service", "suffering", "generosity", "communion"]
 scriptures: ["Luke 2:10", "Romans 14:17-18", "Luke 1:41-44", "John 15:1-11", "Luke 24:41", "Luke 10:21", "Acts 13:52", "2 Corinthians 7:4-8", "2 Corinthians 8:1-2", "1 Thessalonians 1:6", "James 1:2", "1 Peter 1:6-9", "Hebrews 12:2"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:46:32
 series: "Practicing the Way: PRAYER"
 transcript_source: whisper-large-v3-turbo
 word_count: 9199
-themes: ["prayer", "listening to god", "holy spirit", "obedience", "intimacy with god", "discernment"]
+themes: ["prayer", "listening to God", "Holy Spirit", "obedience", "intimacy with God", "discernment"]
 scriptures: ["John 10:1-14", "John 10:3-4", "John 10:14", "John 10:27", "John 14", "Isaiah 30:21", "Hebrews 12:25", "1 Kings 19", "Hebrews 1:1", "1 Corinthians 12:8", "Galatians 5:17", "Romans 8:1", "Joel 2:28", "2 Corinthians 12", "1 John 4", "James 1:22", "Philippians 6:18"]
 ---
 

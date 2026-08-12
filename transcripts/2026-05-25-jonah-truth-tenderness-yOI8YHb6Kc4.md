@@ -24,7 +24,7 @@ This sermon concludes a series on Jonah by examining chapter 4, where Jonah's an
 **Key points**
 
 - Jonah partially quotes Exodus 34, omitting 'faithfulness' to challenge God's truthfulness
-- Like Jonah, we selectively use scripture to create a God who affirms our ideology
+- Like Jonah, we selectively use Scripture to create a God who affirms our ideology
 - Jonah goes east and builds his own shelter, symbolizing flight from God's presence and authority
 - God engages Jonah's heart through the parable of the plant, worm, and wind
 - God demonstrates both justice and mercy through Christ's sacrifice on the cross

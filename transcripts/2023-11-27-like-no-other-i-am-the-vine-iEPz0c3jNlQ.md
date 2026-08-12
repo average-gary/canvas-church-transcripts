@@ -7,7 +7,7 @@ duration: 00:39:12
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 6150
-themes: ["abiding in christ", "identity", "fruitfulness", "temple imagery", "covenant faithfulness", "intimacy with god"]
+themes: ["abiding in Christ", "identity", "fruitfulness", "temple imagery", "covenant faithfulness", "intimacy with God"]
 scriptures: ["John 15:1-17", "Exodus 3:14", "Jeremiah 2:21", "Psalm 80:8-16", "Isaiah 5:1-7", "Ezekiel 15:6-8", "Ezekiel 43", "Deuteronomy 14:2", "John 1", "John 2:19-22", "Colossians 1", "1 Corinthians 3:16", "1 Corinthians 6:19-20"]
 ---
 

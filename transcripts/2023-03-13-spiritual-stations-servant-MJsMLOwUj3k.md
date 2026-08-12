@@ -7,7 +7,7 @@ duration: 00:33:08
 series: "Spiritual Stations"
 transcript_source: whisper-large-v3-turbo
 word_count: 5085
-themes: ["servanthood", "humility", "obedience", "transformation", "spiritual disciplines", "partnership with christ"]
+themes: ["servanthood", "humility", "obedience", "transformation", "spiritual disciplines", "partnership with Christ"]
 scriptures: ["Titus 3:8", "John 2:1-12", "Matthew 20:25-28", "Matthew 6:1-4", "John 13:8-9", "Matthew 25:34-40"]
 ---
 

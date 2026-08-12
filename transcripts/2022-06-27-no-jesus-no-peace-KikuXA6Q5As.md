@@ -7,7 +7,7 @@ duration: 00:38:08
 series: "Fruit of the Spirit"
 transcript_source: whisper-large-v3-turbo
 word_count: 6811
-themes: ["peace", "anxiety", "holy spirit", "prayer", "gratitude", "trust"]
+themes: ["peace", "anxiety", "Holy Spirit", "prayer", "gratitude", "trust"]
 scriptures: ["Galatians 5:22", "John 14:25-31", "Philippians 4:4-9"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:29:56
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 4289
-themes: ["anxiety", "god's love", "security in christ", "trust", "worry", "faithfulness", "christ's supremacy"]
+themes: ["anxiety", "God's love", "security in Christ", "trust", "worry", "faithfulness", "Christ's supremacy"]
 scriptures: ["Romans 8:38-39", "Colossians 1:15-20", "Matthew 6:25-34", "Psalm 139:13-16", "Mark 9:24", "Ephesians 6:12-17", "Matthew 16:24-27", "Ephesians 3:17-19"]
 ---
 

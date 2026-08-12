@@ -7,7 +7,7 @@ duration: 00:38:25
 series: "GO & TELL"
 transcript_source: whisper-large-v3-turbo
 word_count: 6599
-themes: ["reconciliation", "boldness", "ambassadorship", "christian community", "joy", "gospel transformation"]
+themes: ["reconciliation", "boldness", "ambassadorship", "Christian community", "joy", "gospel transformation"]
 scriptures: ["Acts 16:16-34", "2 Corinthians 5:17-20", "Matthew 28", "John 10:27", "Revelation 2:4-5", "Colossians 3:15-17", "1 Corinthians 15", "Romans 5:5"]
 ---
 
@@ -19,12 +19,12 @@ scriptures: ["Acts 16:16-34", "2 Corinthians 5:17-20", "Matthew 28", "John 10:27
 
 ## Summary
 
-This series wrap-up sermon uses Paul and Silas's imprisonment in Acts 16 to illustrate the church's mission: bringing people into Christ-centered community where the gospel transforms them into bold, joyful ambassadors who proclaim reconciliation with God. The preacher emphasizes that boldness flows from familiarity with Christ gained through immersion in scripture, prayer, and community, not from assertiveness or willfulness.
+This series wrap-up sermon uses Paul and Silas's imprisonment in Acts 16 to illustrate the church's mission: bringing people into Christ-centered community where the gospel transforms them into bold, joyful ambassadors who proclaim reconciliation with God. The preacher emphasizes that boldness flows from familiarity with Christ gained through immersion in Scripture, prayer, and community, not from assertiveness or willfulness.
 
 **Key points**
 
 - The church is an 'ambassador academy' equipping believers for the ministry of reconciliation
-- Boldness comes from confidence rooted in familiarity with Christ through scripture, prayer, and community
+- Boldness comes from confidence rooted in familiarity with Christ through Scripture, prayer, and community
 - The gospel message is reconciliation—inviting rebels to lay down arms and return to God like the prodigal son
 - Joy in ministry flows from grateful perspective and hope in Christ, not from circumstances or results
 - The mission is cultivating God's kingdom by inviting real people into transformative Christian community

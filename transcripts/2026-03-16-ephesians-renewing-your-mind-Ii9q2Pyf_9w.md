@@ -7,7 +7,7 @@ duration: 00:48:20
 series: "EPHESIANS: Discovering the Identity of the Church"
 transcript_source: whisper-large-v3-turbo
 word_count: 8126
-themes: ["identity in christ", "transformation", "repentance", "sanctification", "community", "holiness"]
+themes: ["identity in Christ", "transformation", "repentance", "sanctification", "community", "holiness"]
 scriptures: ["Ephesians 4:17-5:21", "Genesis 3", "Ephesians 1-3"]
 ---
 

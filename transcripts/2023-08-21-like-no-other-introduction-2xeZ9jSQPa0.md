@@ -7,7 +7,7 @@ duration: 00:43:44
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 6508
-themes: ["identity of jesus", "faith and belief", "messianic fulfillment", "eternal life", "abundant life", "old testament typology"]
+themes: ["identity of Jesus", "faith and belief", "messianic fulfillment", "eternal life", "abundant life", "Old Testament typology"]
 scriptures: ["John 20:30-31", "John 1", "John 21", "John 3:16", "Genesis 3", "1 Peter 2:21-25"]
 ---
 

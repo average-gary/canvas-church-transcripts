@@ -7,7 +7,7 @@ duration: 00:41:18
 series: "My Part Matters"
 transcript_source: whisper-large-v3-turbo
 word_count: 7097
-themes: ["church unity", "community", "prayer", "holy spirit", "doctrine", "discipleship"]
+themes: ["church unity", "community", "prayer", "Holy Spirit", "doctrine", "discipleship"]
 scriptures: ["Acts 2:41-47", "1 Corinthians 15:3-4"]
 ---
 

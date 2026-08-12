@@ -7,7 +7,7 @@ duration: 01:00:23
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 9884
-themes: ["resurrection", "new creation", "incarnation", "kingdom of god", "redemption", "embodiment"]
+themes: ["resurrection", "new creation", "incarnation", "kingdom of God", "redemption", "embodiment"]
 scriptures: ["Genesis 1:1", "Genesis 1:26-31", "Genesis 3:22-24", "Revelation 21:1-27", "Revelation 22:1-5", "John 1:14", "Matthew 27:50-51", "Matthew 28:16-20", "John 14:12", "Acts 2:1-4", "1 Corinthians 6:19-20", "2 Corinthians 5:17", "2 Corinthians 5:20-21", "Colossians 1:15-23", "1 Corinthians 15", "John 3:16", "Luke 24"]
 ---
 

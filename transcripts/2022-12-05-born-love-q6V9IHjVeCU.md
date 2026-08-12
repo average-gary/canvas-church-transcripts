@@ -7,7 +7,7 @@ duration: 00:15:58
 series: "Born: An Advent Series"
 transcript_source: whisper-large-v3-turbo
 word_count: 1999
-themes: ["love", "sacrifice", "incarnation", "advent", "service", "discipleship"]
+themes: ["love", "sacrifice", "incarnation", "Advent", "service", "discipleship"]
 scriptures: ["Matthew 22:34-40", "John 13:34-35", "Romans 12:1", "James 2:8"]
 ---
 

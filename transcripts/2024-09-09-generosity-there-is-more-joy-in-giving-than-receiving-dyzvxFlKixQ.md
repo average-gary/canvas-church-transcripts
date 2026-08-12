@@ -7,7 +7,7 @@ duration: 00:49:35
 series: "Practicing the Way: GENEROSITY"
 transcript_source: whisper-large-v3-turbo
 word_count: 8080
-themes: ["generosity", "stewardship", "trust in god", "materialism", "kingdom of god", "discipleship"]
+themes: ["generosity", "stewardship", "trust in God", "materialism", "kingdom of God", "discipleship"]
 scriptures: ["Matthew 6:19-24", "Proverbs 14:12"]
 ---
 

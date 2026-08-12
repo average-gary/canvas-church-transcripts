@@ -7,7 +7,7 @@ duration: 00:43:32
 series: "Practicing the Way: SERVICE"
 transcript_source: whisper-large-v3-turbo
 word_count: 7671
-themes: ["fellowship", "hospitality", "service", "community", "family of god", "love of stranger"]
+themes: ["fellowship", "hospitality", "service", "community", "family of God", "love of stranger"]
 scriptures: ["Romans 12:13"]
 ---
 

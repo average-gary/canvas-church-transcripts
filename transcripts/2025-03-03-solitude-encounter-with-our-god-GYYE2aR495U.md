@@ -7,7 +7,7 @@ duration: 00:59:13
 series: "Practicing the Way: SOLITUDE"
 transcript_source: whisper-large-v3-turbo
 word_count: 7990
-themes: ["solitude", "surrender", "kingdom of god", "the cross", "prayer", "worldly wisdom"]
+themes: ["solitude", "surrender", "kingdom of God", "the cross", "prayer", "worldly wisdom"]
 scriptures: ["Mark 1:14-39", "John 6", "1 Corinthians 3", "Psalm 16", "Revelation 5", "Matthew 6:9-13"]
 ---
 

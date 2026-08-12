@@ -7,7 +7,7 @@ duration: 00:53:22
 series: "Do You See What I See?"
 transcript_source: whisper-large-v3-turbo
 word_count: 8970
-themes: ["advent", "anticipation", "salvation", "rejection", "surrender", "faith", "self-sufficiency"]
+themes: ["Advent", "anticipation", "salvation", "rejection", "surrender", "faith", "self-sufficiency"]
 scriptures: ["Luke 2:25-35", "Luke 1", "Genesis 3", "Isaiah 7", "Colossians 3:2", "1 Corinthians 1", "Matthew 16:24-25", "Ecclesiastes 3:11", "Revelation 21:1-5"]
 ---
 

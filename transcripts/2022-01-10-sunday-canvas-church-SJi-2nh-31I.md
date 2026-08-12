@@ -7,7 +7,7 @@ duration: 00:52:58
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 5932
-themes: ["shepherding", "guidance", "presence of god", "abundant life", "perseverance", "restoration"]
+themes: ["shepherding", "guidance", "presence of God", "abundant life", "perseverance", "restoration"]
 scriptures: ["John 9", "John 10:10", "John 10:14", "John 20", "Psalm 23", "Revelation 7:16-17"]
 ---
 

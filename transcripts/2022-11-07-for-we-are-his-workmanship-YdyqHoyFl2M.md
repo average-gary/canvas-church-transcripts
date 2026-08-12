@@ -7,7 +7,7 @@ duration: 00:43:12
 series: "What's in a Name?"
 transcript_source: whisper-large-v3-turbo
 word_count: 6206
-themes: ["identity", "community", "grace", "mission", "kingdom of god", "workmanship"]
+themes: ["identity", "community", "grace", "mission", "kingdom of God", "workmanship"]
 scriptures: ["Ephesians 2:8-10", "Romans 1:20", "Ephesians 2:19-22"]
 ---
 

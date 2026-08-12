@@ -7,7 +7,7 @@ duration: 00:41:49
 series: "Summer in Psalms"
 transcript_source: whisper-large-v3-turbo
 word_count: 6765
-themes: ["creation", "revelation", "repentance", "trust", "wrestling with scripture", "god's character"]
+themes: ["creation", "revelation", "repentance", "trust", "wrestling with Scripture", "God's character"]
 scriptures: ["Psalm 19", "Romans 11", "Revelation 4:11", "Exodus 34:6-7"]
 ---
 

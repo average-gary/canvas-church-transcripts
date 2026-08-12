@@ -7,7 +7,7 @@ duration: 00:54:48
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7969
-themes: ["obedience", "faith", "foreshadowing", "sacrifice", "relationship with god", "suffering"]
+themes: ["obedience", "faith", "foreshadowing", "sacrifice", "relationship with God", "suffering"]
 scriptures: ["Genesis 22", "Genesis 15:1-3", "Genesis 15:9", "Genesis 17:15-17", "Genesis 18", "Romans 12:1-2", "Hebrews 10"]
 ---
 

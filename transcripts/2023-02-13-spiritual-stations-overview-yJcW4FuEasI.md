@@ -7,7 +7,7 @@ duration: 00:48:53
 series: "Spiritual Stations"
 transcript_source: whisper-large-v3-turbo
 word_count: 5589
-themes: ["spiritual formation", "spiritual disciplines", "diversity in worship", "spiritual maturity", "experiencing god", "church unity"]
+themes: ["spiritual formation", "spiritual disciplines", "diversity in worship", "spiritual maturity", "experiencing God", "church unity"]
 scriptures: ["John 14:15", "Psalm 139:7-8", "Isaiah 55:8-9", "Matthew 6:9-13"]
 ---
 

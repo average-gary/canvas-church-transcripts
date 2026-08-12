@@ -7,7 +7,7 @@ duration: 00:40:17
 series: "REVELATION"
 transcript_source: whisper-large-v3-turbo
 word_count: 5677
-themes: ["worship", "kingdom of god", "sacrificial love", "suffering", "witness", "allegiance", "sovereignty"]
+themes: ["worship", "kingdom of God", "sacrificial love", "suffering", "witness", "allegiance", "sovereignty"]
 scriptures: ["Revelation 4:1-2", "Revelation 4:8", "Revelation 4:11", "Revelation 5", "Revelation 5:5", "Revelation 5:9-10", "1 Corinthians 1:18", "Matthew 6:10", "Matthew 4", "John 1:29"]
 ---
 

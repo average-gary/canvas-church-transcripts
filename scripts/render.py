@@ -15,19 +15,17 @@ re-run after changing formatting in common.py.
 """
 
 import argparse
-import json
 
 from common import (
     DATA,
     ROOT,
     TRANSCRIPTS,
-    hhmmss,
     load_index,
+    load_summary,
     paragraphs,
     parse_json3,
     parse_whisper_json,
     render_markdown,
-    slugify,
     transcript_path,
 )
 from fetch_captions import caption_file
@@ -101,8 +99,7 @@ def main():
         if words < MIN_WORDS:
             suspect.append((entry.get("title") or vid, words))
 
-        sp = DATA / "summaries" / f"{vid}.json"
-        summary = json.loads(sp.read_text()) if sp.exists() else None
+        summary = load_summary(vid)
 
         md = transcript_path(entry)
         md.write_text(render_markdown(entry, cues, source,

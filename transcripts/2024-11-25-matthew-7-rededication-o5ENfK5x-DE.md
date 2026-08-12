@@ -7,7 +7,7 @@ duration: 00:36:13
 series: "FAQ: What Does the Bible Say About..."
 transcript_source: whisper-large-v3-turbo
 word_count: 6145
-themes: ["obedience", "discipleship", "lordship of christ", "application", "perseverance", "rededication"]
+themes: ["obedience", "discipleship", "lordship of Christ", "application", "perseverance", "rededication"]
 scriptures: ["Matthew 7:24-29", "Proverbs 26:27", "Deuteronomy 31", "Proverbs 1", "John 2:19"]
 ---
 

@@ -7,7 +7,7 @@ duration: 00:56:57
 series: "Summer in Psalms"
 transcript_source: whisper-large-v3-turbo
 word_count: 7231
-themes: ["holy spirit power", "witness", "humility", "loving enemies", "christlikeness", "evangelism"]
+themes: ["Holy Spirit power", "witness", "humility", "loving enemies", "christlikeness", "evangelism"]
 scriptures: ["Acts 1:6-11", "Acts 1:8", "1 Samuel 24:3-20", "2 Corinthians 12:9", "Exodus 34"]
 ---
 

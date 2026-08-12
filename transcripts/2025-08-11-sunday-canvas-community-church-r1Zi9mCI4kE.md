@@ -7,7 +7,7 @@ duration: 02:11:22
 series: "Summer in Psalms"
 transcript_source: whisper-large-v3-turbo
 word_count: 8292
-themes: ["lament", "god's faithfulness", "prayer", "spiritual awareness", "trust in suffering", "knowing god's character"]
+themes: ["lament", "God's faithfulness", "prayer", "spiritual awareness", "trust in suffering", "knowing God's character"]
 scriptures: ["Psalm 143", "Matthew 11:25-30", "Psalm 23", "Matthew 7", "Psalm 34", "James"]
 ---
 

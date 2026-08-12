@@ -7,7 +7,7 @@ duration: 01:03:12
 series: "A SUMMER'S JOURNEY: Following the Apostle Paul on his Missionary Journeys"
 transcript_source: whisper-large-v3-turbo
 word_count: 9725
-themes: ["lordship of jesus", "obedience", "gospel", "church leadership", "false teaching", "holiness", "persecution", "idolatry"]
+themes: ["lordship of Jesus", "obedience", "gospel", "church leadership", "false teaching", "holiness", "persecution", "idolatry"]
 scriptures: ["Acts 20:17-38", "Acts 13-14", "Acts 15-18", "Acts 18-21", "1 Corinthians 1:22-24", "2 Timothy 4:3", "Revelation 2:1-7"]
 ---
 

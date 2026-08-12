@@ -7,7 +7,7 @@ duration: 00:34:25
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 5861
-themes: ["resurrection", "suffering", "doubt", "hope", "scripture", "redemption"]
+themes: ["resurrection", "suffering", "doubt", "hope", "Scripture", "redemption"]
 scriptures: ["Luke 24:13-35", "Genesis 3", "Genesis 12", "Hebrews 1", "1 Corinthians 15", "Deuteronomy"]
 ---
 

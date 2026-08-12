@@ -7,7 +7,7 @@ duration: 01:20:31
 series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 6498
-themes: ["peace", "shepherd", "trust", "submission", "advent", "provision"]
+themes: ["peace", "shepherd", "trust", "submission", "Advent", "provision"]
 scriptures: ["Isaiah 9:6", "Ezekiel 34:11-12", "Psalm 23", "Luke 2:14"]
 ---
 

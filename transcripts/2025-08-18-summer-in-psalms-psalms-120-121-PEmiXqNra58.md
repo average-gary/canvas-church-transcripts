@@ -7,7 +7,7 @@ duration: 00:36:28
 series: "Summer in Psalms"
 transcript_source: whisper-large-v3-turbo
 word_count: 5274
-themes: ["pilgrimage", "discipleship", "community", "perseverance", "spiritual formation", "trust in god"]
+themes: ["pilgrimage", "discipleship", "community", "perseverance", "spiritual formation", "trust in God"]
 scriptures: ["Psalm 120", "Psalm 121", "Genesis (Meshach and Kedar references)", "Hebrews (foreigners and strangers)"]
 ---
 

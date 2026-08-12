@@ -7,7 +7,7 @@ duration: 00:47:29
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 7705
-themes: ["resurrection", "faith", "glory of god", "death and life", "belief", "grief"]
+themes: ["resurrection", "faith", "glory of God", "death and life", "belief", "grief"]
 scriptures: ["John 11", "John 1:1-14", "John 20:31", "John 5", "John 12:24", "Romans 1:4"]
 ---
 

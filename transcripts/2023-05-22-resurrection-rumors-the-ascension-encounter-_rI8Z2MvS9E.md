@@ -7,7 +7,7 @@ duration: 00:42:18
 series: "Resurrection Rumors"
 transcript_source: whisper-large-v3-turbo
 word_count: 6950
-themes: ["ascension", "resurrection", "holy spirit", "witness", "gospel", "heaven and earth"]
+themes: ["ascension", "resurrection", "Holy Spirit", "witness", "gospel", "heaven and earth"]
 scriptures: ["Acts 1:7-11", "2 Kings 2:11-13", "Exodus 24", "Deuteronomy 18:15", "Psalm 110", "Genesis 3:8", "Matthew 6", "Luke 11", "1 Timothy 2:5", "John 16:5-15"]
 ---
 

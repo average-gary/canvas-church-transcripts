@@ -7,7 +7,7 @@ duration: 00:46:56
 series: "Parables"
 transcript_source: whisper-large-v3-turbo
 word_count: 7013
-themes: ["joyful surrender", "persistent invitation", "judgment", "religious hypocrisy", "kingdom of god", "repentance"]
+themes: ["joyful surrender", "persistent invitation", "judgment", "religious hypocrisy", "kingdom of God", "repentance"]
 scriptures: ["Matthew 22:1-14", "Hebrews 1:1-2"]
 ---
 

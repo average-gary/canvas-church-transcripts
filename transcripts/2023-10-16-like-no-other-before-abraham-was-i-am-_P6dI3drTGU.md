@@ -7,7 +7,7 @@ duration: 00:43:39
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 6896
-themes: ["identity of christ", "freedom from sin", "stubbornness", "deception", "slavery to sin", "divine nature"]
+themes: ["identity of Christ", "freedom from sin", "stubbornness", "deception", "slavery to sin", "divine nature"]
 scriptures: ["John 8:31-59", "Exodus 3:13-15", "John 1:1-14"]
 ---
 

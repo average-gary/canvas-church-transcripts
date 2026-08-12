@@ -7,7 +7,7 @@ duration: 00:44:14
 series: "Merger Trial Sermons"
 transcript_source: whisper-large-v3-turbo
 word_count: 6868
-themes: ["sabbath", "rest", "intimacy with god", "holiness", "time", "creation order"]
+themes: ["Sabbath", "rest", "intimacy with God", "holiness", "time", "creation order"]
 scriptures: ["Genesis 1:1-2:3", "Exodus 16:29", "Exodus 31:15", "Exodus 33", "Matthew 5-7", "Luke 6:17", "Mark 1-10", "Hebrews 4"]
 ---
 

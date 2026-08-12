@@ -7,7 +7,7 @@ duration: 00:55:49
 series: "Practicing the Way: PRAYER"
 transcript_source: whisper-large-v3-turbo
 word_count: 8213
-themes: ["contemplative prayer", "rest", "god's presence", "anxiety", "surrender", "stillness"]
+themes: ["contemplative prayer", "rest", "God's presence", "anxiety", "surrender", "stillness"]
 scriptures: ["Mark 6", "Psalm 46:10-11", "Psalm 91:1-10", "Hebrews 10", "Psalm 1", "Colossians 3:2", "Matthew 6:5-6", "James 4:8", "Matthew 11:28", "Revelation 3:20"]
 ---
 

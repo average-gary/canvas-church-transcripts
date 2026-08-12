@@ -195,6 +195,29 @@ def fix_caps(text):
     return text
 
 
+def load_summary(vid):
+    """Read a sermon summary with its proper nouns capitalised.
+
+    The summarizer is inconsistent about them - "God's presence" and "god's
+    love" both came back as themes - and every field here is displayed as-is,
+    as theme labels and in each sermon's rail, so it gets the same fix_caps
+    pass the transcripts get. Theme labels stay lowercase otherwise, which is
+    what they want to be: fix_caps only ever raises a proper noun.
+    """
+    path = DATA / "summaries" / f"{vid}.json"
+    if not path.exists():
+        return {}
+
+    def fix(value):
+        if isinstance(value, str):
+            return fix_caps(value)
+        if isinstance(value, list):
+            return [fix(v) for v in value]
+        return value
+
+    return {k: fix(v) for k, v in json.loads(path.read_text()).items()}
+
+
 def unpunctuated(cues, per_1k=20):
     """True when a transcription came out with no sentence punctuation.
 
