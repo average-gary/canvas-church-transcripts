@@ -1,0 +1,5455 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 16000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:39,000"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 39000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,000",
+				"to": "00:00:42,000"
+			},
+			"offsets": {
+				"from": 39000,
+				"to": 42000
+			},
+			"text": " Well, good morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,000",
+				"to": "00:00:43,000"
+			},
+			"offsets": {
+				"from": 42000,
+				"to": 43000
+			},
+			"text": " Good morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 43000,
+				"to": 44000
+			},
+			"text": " Good morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:46,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 46000
+			},
+			"text": " Oh, it's been a long week for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 46000,
+				"to": 48000
+			},
+			"text": " Anybody else have a long week?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:49,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 49000
+			},
+			"text": " All right, Gary."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 49000,
+				"to": 50000
+			},
+			"text": " I'm glad it's just me and you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:51,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 51000
+			},
+			"text": " We've had long weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,000",
+				"to": "00:00:54,000"
+			},
+			"offsets": {
+				"from": 51000,
+				"to": 54000
+			},
+			"text": " We can maybe hang out after this and complain."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 54000,
+				"to": 56000
+			},
+			"text": " Lament is the spiritual way to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:57,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 57000
+			},
+			"text": " We'll spiritually lament together."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,000",
+				"to": "00:00:59,000"
+			},
+			"offsets": {
+				"from": 57000,
+				"to": 59000
+			},
+			"text": " It would be good."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:01,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 61000
+			},
+			"text": " Even though it's been a long week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,000",
+				"to": "00:01:03,000"
+			},
+			"offsets": {
+				"from": 61000,
+				"to": 63000
+			},
+			"text": " so, so grateful to be in this place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,000",
+				"to": "00:01:07,000"
+			},
+			"offsets": {
+				"from": 63000,
+				"to": 67000
+			},
+			"text": " Sometimes I come here after a long week"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,000",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 67000,
+				"to": 71000
+			},
+			"text": " with anxiety, with stress, with worry, with concern,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,000",
+				"to": "00:01:16,000"
+			},
+			"offsets": {
+				"from": 71000,
+				"to": 76000
+			},
+			"text": " and yet the Spirit meets me in community with each one of you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,000",
+				"to": "00:01:19,000"
+			},
+			"offsets": {
+				"from": 76000,
+				"to": 79000
+			},
+			"text": " which is why we're commanded to do it every week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,000",
+				"to": "00:01:24,000"
+			},
+			"offsets": {
+				"from": 79000,
+				"to": 84000
+			},
+			"text": " because it's almost like the Lord designed it for our weary souls to encourage one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,000",
+				"to": "00:01:28,000"
+			},
+			"offsets": {
+				"from": 84000,
+				"to": 88000
+			},
+			"text": " And I'm glad to be here, glad to continue our psalm series,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,000",
+				"to": "00:01:32,000"
+			},
+			"offsets": {
+				"from": 88000,
+				"to": 92000
+			},
+			"text": " that we've been saying that the psalms is the prayer book of God's people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,000",
+				"to": "00:01:35,000"
+			},
+			"offsets": {
+				"from": 92000,
+				"to": 95000
+			},
+			"text": " that it speaks for us more than it speaks to us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,000",
+				"to": "00:01:37,000"
+			},
+			"offsets": {
+				"from": 95000,
+				"to": 97000
+			},
+			"text": " that it's full of laments and confessions,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,000",
+				"to": "00:01:39,000"
+			},
+			"offsets": {
+				"from": 97000,
+				"to": 99000
+			},
+			"text": " liturgy and hymns of praise,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,000",
+				"to": "00:01:43,000"
+			},
+			"offsets": {
+				"from": 99000,
+				"to": 103000
+			},
+			"text": " and that God's people have been repeating it in their own language,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,000",
+				"to": "00:01:46,000"
+			},
+			"offsets": {
+				"from": 103000,
+				"to": 106000
+			},
+			"text": " in their own culture for thousands of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,000",
+				"to": "00:01:49,000"
+			},
+			"offsets": {
+				"from": 106000,
+				"to": 109000
+			},
+			"text": " That it was the prayer book of Jesus and our New Testament authors,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,000",
+				"to": "00:01:54,000"
+			},
+			"offsets": {
+				"from": 109000,
+				"to": 114000
+			},
+			"text": " and they regularly reference it in their lives and in their teachings."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 117000
+			},
+			"text": " And not all the cultural language translates,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
+				"to": "00:02:02,000"
+			},
+			"offsets": {
+				"from": 117000,
+				"to": 122000
+			},
+			"text": " but the general human emotion and longings comes through loud and clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,000",
+				"to": "00:02:04,000"
+			},
+			"offsets": {
+				"from": 122000,
+				"to": 124000
+			},
+			"text": " It's our hope and our prayer throughout this series,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,000",
+				"to": "00:02:06,000"
+			},
+			"offsets": {
+				"from": 124000,
+				"to": 126000
+			},
+			"text": " as we interact with individual psalms,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:09,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 129000
+			},
+			"text": " as we think about how they pray for us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:14,000"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 134000
+			},
+			"text": " and invite us to pray our longings, our fears, our doubts, our hopes, our insecurities,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,000",
+				"to": "00:02:18,000"
+			},
+			"offsets": {
+				"from": 134000,
+				"to": 138000
+			},
+			"text": " as they invite us to commune with God in prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,000",
+				"to": "00:02:23,000"
+			},
+			"offsets": {
+				"from": 138000,
+				"to": 143000
+			},
+			"text": " That we would learn to reference this book when we don't have work."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,000",
+				"to": "00:02:28,000"
+			},
+			"offsets": {
+				"from": 143000,
+				"to": 148000
+			},
+			"text": " That we would learn to reference this book when we're struggling,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 148000,
+				"to": 153000
+			},
+			"text": " when we're wrestling, and when we're looking for words of praise and adoration."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:38,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 158000
+			},
+			"text": " So hopefully that comes through by the end of this series."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,000",
+				"to": "00:02:42,000"
+			},
+			"offsets": {
+				"from": 158000,
+				"to": 162000
+			},
+			"text": " Last week I discussed the psalm of praise that often feels aspirational at times."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,000",
+				"to": "00:02:44,000"
+			},
+			"offsets": {
+				"from": 162000,
+				"to": 164000
+			},
+			"text": " Donovan echoed that in our worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 164000,
+				"to": 170000
+			},
+			"text": " Sometimes we sing these songs and it just feels like they're more aspirational than truthful and authentic."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:58,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 178000
+			},
+			"text": " And yet my hope and my prayer is that as we continue to encourage you to spend more time with God in His presence,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,000",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 178000,
+				"to": 183000
+			},
+			"text": " that these proclamations of prayer will come out with more hope and confidence."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:11,000"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 191000
+			},
+			"text": " This week we're gonna turn our eyes to a psalm that speaks of God speaking to us through creation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,000",
+				"to": "00:03:16,000"
+			},
+			"offsets": {
+				"from": 191000,
+				"to": 196000
+			},
+			"text": " which as difficult, as challenging, as stressful as my week has been,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,000",
+				"to": "00:03:19,000"
+			},
+			"offsets": {
+				"from": 196000,
+				"to": 199000
+			},
+			"text": " this was my view this week for the last couple days."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,000",
+				"to": "00:03:25,000"
+			},
+			"offsets": {
+				"from": 200000,
+				"to": 205000
+			},
+			"text": " And so when I thought about, I didn't plan this, but when I thought about preaching about God's creation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,000",
+				"to": "00:03:31,000"
+			},
+			"offsets": {
+				"from": 205000,
+				"to": 211000
+			},
+			"text": " I realized that I think it's gonna be a little bit easier, since I'm coming home from this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,000",
+				"to": "00:03:35,000"
+			},
+			"offsets": {
+				"from": 211000,
+				"to": 215000
+			},
+			"text": " than maybe if I didn't get to see that this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,000",
+				"to": "00:03:37,000"
+			},
+			"offsets": {
+				"from": 215000,
+				"to": 217000
+			},
+			"text": " So, just figured I'd share that with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,000",
+				"to": "00:03:41,000"
+			},
+			"offsets": {
+				"from": 217000,
+				"to": 221000
+			},
+			"text": " I was in Colorado Springs for a conference with some other pastors,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,000",
+				"to": "00:03:43,000"
+			},
+			"offsets": {
+				"from": 221000,
+				"to": 223000
+			},
+			"text": " and they were like, \"You preaching this week?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,000",
+				"to": "00:03:44,000"
+			},
+			"offsets": {
+				"from": 223000,
+				"to": 224000
+			},
+			"text": " And I was like, \"Yeah, I'm preaching Psalm 19.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,000",
+				"to": "00:03:48,000"
+			},
+			"offsets": {
+				"from": 224000,
+				"to": 228000
+			},
+			"text": " And all of them were like, \"Should be easy.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,000",
+				"to": "00:03:51,000"
+			},
+			"offsets": {
+				"from": 228000,
+				"to": 231000
+			},
+			"text": " And I was like, \"Yeah, now that you mention it, hopefully.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,000",
+				"to": "00:03:52,000"
+			},
+			"offsets": {
+				"from": 231000,
+				"to": 232000
+			},
+			"text": " All right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,000",
+				"to": "00:03:55,000"
+			},
+			"offsets": {
+				"from": 232000,
+				"to": 235000
+			},
+			"text": " Let's pray, and let's hop into our psalm for this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,000",
+				"to": "00:04:01,000"
+			},
+			"offsets": {
+				"from": 235000,
+				"to": 241000
+			},
+			"text": " Father in heaven, we are so grateful that you speak to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,000",
+				"to": "00:04:05,000"
+			},
+			"offsets": {
+				"from": 241000,
+				"to": 245000
+			},
+			"text": " You speak to us through your creation, you speak to us through your word,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,000",
+				"to": "00:04:07,000"
+			},
+			"offsets": {
+				"from": 245000,
+				"to": 247000
+			},
+			"text": " and ultimately, you speak to us through your son."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,000",
+				"to": "00:04:14,000"
+			},
+			"offsets": {
+				"from": 250000,
+				"to": 254000
+			},
+			"text": " God, you have been speaking, you will continue to speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,000",
+				"to": "00:04:19,000"
+			},
+			"offsets": {
+				"from": 254000,
+				"to": 259000
+			},
+			"text": " You are speaking right now, but we have to have eyes to see and ears to hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,000",
+				"to": "00:04:23,000"
+			},
+			"offsets": {
+				"from": 259000,
+				"to": 263000
+			},
+			"text": " So God, give us that this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,000",
+				"to": "00:04:24,000"
+			},
+			"offsets": {
+				"from": 263000,
+				"to": 264000
+			},
+			"text": " Give us that this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,000",
+				"to": "00:04:26,000"
+			},
+			"offsets": {
+				"from": 264000,
+				"to": 266000
+			},
+			"text": " Give us that throughout our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,000",
+				"to": "00:04:33,000"
+			},
+			"offsets": {
+				"from": 266000,
+				"to": 273000
+			},
+			"text": " May we be a people who have spiritual eyes to see and ears to hear and minds to comprehend"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,000",
+				"to": "00:04:35,000"
+			},
+			"offsets": {
+				"from": 273000,
+				"to": 275000
+			},
+			"text": " all that you're telling us about yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,000",
+				"to": "00:04:38,000"
+			},
+			"offsets": {
+				"from": 275000,
+				"to": 278000
+			},
+			"text": " And may we not just receive that for ourselves personally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,000",
+				"to": "00:04:42,000"
+			},
+			"offsets": {
+				"from": 278000,
+				"to": 282000
+			},
+			"text": " but as we receive that for ourselves personally, may we extend that to others around us"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,000",
+				"to": "00:04:46,000"
+			},
+			"offsets": {
+				"from": 282000,
+				"to": 286000
+			},
+			"text": " who don't have a clear picture of you, who have their ears plugged and their eyes closed."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,000",
+				"to": "00:04:53,000"
+			},
+			"offsets": {
+				"from": 286000,
+				"to": 293000
+			},
+			"text": " May we be a visible representation of your character and your kingdom to everyone we interact with."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,000",
+				"to": "00:04:57,000"
+			},
+			"offsets": {
+				"from": 293000,
+				"to": 297000
+			},
+			"text": " God, for your glory, for our good, and for the good of our neighbor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,000",
+				"to": "00:05:01,000"
+			},
+			"offsets": {
+				"from": 297000,
+				"to": 301000
+			},
+			"text": " In Jesus' name I pray, amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,000",
+				"to": "00:05:04,000"
+			},
+			"offsets": {
+				"from": 301000,
+				"to": 304000
+			},
+			"text": " Psalm 19 is where we're gonna be."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,000",
+				"to": "00:05:09,000"
+			},
+			"offsets": {
+				"from": 304000,
+				"to": 309000
+			},
+			"text": " So if you want to open up your Bibles there, we would love, I would love for you to follow along with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,000",
+				"to": "00:05:13,000"
+			},
+			"offsets": {
+				"from": 309000,
+				"to": 313000
+			},
+			"text": " If you're new to the Bible, the book of Psalms is like smack dab in the middle."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,000",
+				"to": "00:05:18,000"
+			},
+			"offsets": {
+				"from": 313000,
+				"to": 318000
+			},
+			"text": " If you open up smack dab in the middle, turn left a couple pages, you should find Psalm 19."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,000",
+				"to": "00:05:24,000"
+			},
+			"offsets": {
+				"from": 319000,
+				"to": 324000
+			},
+			"text": " I have one of, you know, I talk about pastoral burdens."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,000",
+				"to": "00:05:30,000"
+			},
+			"offsets": {
+				"from": 324000,
+				"to": 330000
+			},
+			"text": " One of the pastoral blessings that I get to participate in on a regular basis is premarital counseling."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:33,000"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 333000
+			},
+			"text": " Some of you have gotten to spend time with me in that setting,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,000",
+				"to": "00:05:36,000"
+			},
+			"offsets": {
+				"from": 333000,
+				"to": 336000
+			},
+			"text": " and some of you maybe enjoyed yourselves and others not."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,000",
+				"to": "00:05:37,000"
+			},
+			"offsets": {
+				"from": 336000,
+				"to": 337000
+			},
+			"text": " Don't tell anybody, it's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,000",
+				"to": "00:05:39,000"
+			},
+			"offsets": {
+				"from": 337000,
+				"to": 339000
+			},
+			"text": " You don't have to raise your hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,000",
+				"to": "00:05:41,000"
+			},
+			"offsets": {
+				"from": 339000,
+				"to": 341000
+			},
+			"text": " We get to cover a lot of nuanced topics,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,000",
+				"to": "00:05:46,000"
+			},
+			"offsets": {
+				"from": 341000,
+				"to": 346000
+			},
+			"text": " but one simple concept that I often discuss with couples is that of the five love languages."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,000",
+				"to": "00:05:48,000"
+			},
+			"offsets": {
+				"from": 346000,
+				"to": 348000
+			},
+			"text": " Any of you familiar with the five love languages?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,000",
+				"to": "00:05:49,000"
+			},
+			"offsets": {
+				"from": 348000,
+				"to": 349000
+			},
+			"text": " Yeah, you've heard of it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,000",
+				"to": "00:05:52,000"
+			},
+			"offsets": {
+				"from": 349000,
+				"to": 352000
+			},
+			"text": " Okay, it's a pretty relatively simple concept,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,000",
+				"to": "00:05:57,000"
+			},
+			"offsets": {
+				"from": 352000,
+				"to": 357000
+			},
+			"text": " and the concept is that each of us naturally tend to receive love"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,000",
+				"to": "00:06:03,000"
+			},
+			"offsets": {
+				"from": 358000,
+				"to": 363000
+			},
+			"text": " and to communicate love through one or two of these love languages primarily."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,000",
+				"to": "00:06:07,000"
+			},
+			"offsets": {
+				"from": 363000,
+				"to": 367000
+			},
+			"text": " It's not that we don't receive and extend love through all of them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,000",
+				"to": "00:06:11,000"
+			},
+			"offsets": {
+				"from": 367000,
+				"to": 371000
+			},
+			"text": " but we tend to, based on our personality, based on our past experience,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,000",
+				"to": "00:06:14,000"
+			},
+			"offsets": {
+				"from": 371000,
+				"to": 374000
+			},
+			"text": " we tend to naturally kind of receive and communicate love."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,000",
+				"to": "00:06:20,000"
+			},
+			"offsets": {
+				"from": 374000,
+				"to": 380000
+			},
+			"text": " And the five love languages are touch, words of affirmation, acts of service, gifts, and quality time."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,000",
+				"to": "00:06:24,000"
+			},
+			"offsets": {
+				"from": 380000,
+				"to": 384000
+			},
+			"text": " So maybe as you hear those, you can kind of naturally think like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,000",
+				"to": "00:06:26,000"
+			},
+			"offsets": {
+				"from": 384000,
+				"to": 386000
+			},
+			"text": " oh yeah, like I receive love this way, extend love this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 386000,
+				"to": 392000
+			},
+			"text": " And what's interesting to me is as I interact with people is typically the way that they receive love most naturally"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:35,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 395000
+			},
+			"text": " is also the way that they communicate it, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,000",
+				"to": "00:06:39,000"
+			},
+			"offsets": {
+				"from": 395000,
+				"to": 399000
+			},
+			"text": " So like I'm a physical touch person primarily, and so I'm a hugger."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,000",
+				"to": "00:06:41,000"
+			},
+			"offsets": {
+				"from": 399000,
+				"to": 401000
+			},
+			"text": " I'm like, I'm always touching people on the shoulder."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,000",
+				"to": "00:06:43,000"
+			},
+			"offsets": {
+				"from": 401000,
+				"to": 403000
+			},
+			"text": " And now I realize that not everybody likes that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,000",
+				"to": "00:06:45,000"
+			},
+			"offsets": {
+				"from": 403000,
+				"to": 405000
+			},
+			"text": " And so now I'm like, I like get hesitant."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,000",
+				"to": "00:06:48,000"
+			},
+			"offsets": {
+				"from": 405000,
+				"to": 408000
+			},
+			"text": " I touch somebody and I'm like, oh, maybe they don't want to be touched."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,000",
+				"to": "00:06:51,000"
+			},
+			"offsets": {
+				"from": 408000,
+				"to": 411000
+			},
+			"text": " This is weird, but now I'm here and so they're stuck and so it's weird."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,000",
+				"to": "00:06:59,000"
+			},
+			"offsets": {
+				"from": 412000,
+				"to": 419000
+			},
+			"text": " But the reality is like, we often naturally receive or communicate love to others in a certain way."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,000",
+				"to": "00:07:06,000"
+			},
+			"offsets": {
+				"from": 419000,
+				"to": 426000
+			},
+			"text": " However, what I express to the couples and other people that I interact with is that as we mature as individuals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,000",
+				"to": "00:07:09,000"
+			},
+			"offsets": {
+				"from": 426000,
+				"to": 429000
+			},
+			"text": " and if we want deeper intimacy with those around us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,000",
+				"to": "00:07:14,000"
+			},
+			"offsets": {
+				"from": 429000,
+				"to": 434000
+			},
+			"text": " it's important that we learn to receive love the way that they communicate it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,000",
+				"to": "00:07:18,000"
+			},
+			"offsets": {
+				"from": 434000,
+				"to": 438000
+			},
+			"text": " even if it wouldn't naturally be received as love for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,000",
+				"to": "00:07:23,000"
+			},
+			"offsets": {
+				"from": 438000,
+				"to": 443000
+			},
+			"text": " And it's important that we learn to communicate love in the way that they receive it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,000",
+				"to": "00:07:28,000"
+			},
+			"offsets": {
+				"from": 443000,
+				"to": 448000
+			},
+			"text": " And this is a sacrificial self-giving experience that both of us participate in."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,000",
+				"to": "00:07:32,000"
+			},
+			"offsets": {
+				"from": 448000,
+				"to": 452000
+			},
+			"text": " And whenever we're in relationship with anybody, it doesn't have to be a marital relationship or a dating relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,000",
+				"to": "00:07:36,000"
+			},
+			"offsets": {
+				"from": 452000,
+				"to": 456000
+			},
+			"text": " Like if we want to mature and deepen our intimacy with other people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,000",
+				"to": "00:07:41,000"
+			},
+			"offsets": {
+				"from": 456000,
+				"to": 461000
+			},
+			"text": " like we've got to learn how they receive love and learn to extend love in that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,000",
+				"to": "00:07:45,000"
+			},
+			"offsets": {
+				"from": 461000,
+				"to": 465000
+			},
+			"text": " And I share this illustration at the beginning of this message in particular,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,000",
+				"to": "00:07:53,000"
+			},
+			"offsets": {
+				"from": 465000,
+				"to": 473000
+			},
+			"text": " because I think Psalm 19 primarily is a psalm about how God has chosen to communicate his love to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,000",
+				"to": "00:08:01,000"
+			},
+			"offsets": {
+				"from": 473000,
+				"to": 481000
+			},
+			"text": " He's chosen to communicate his character and his love to us in three very distinct and unique ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,000",
+				"to": "00:08:06,000"
+			},
+			"offsets": {
+				"from": 481000,
+				"to": 486000
+			},
+			"text": " And if we want to mature, if we want to deepen in our intimacy and in our relationship with God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,000",
+				"to": "00:08:12,000"
+			},
+			"offsets": {
+				"from": 486000,
+				"to": 492000
+			},
+			"text": " and if we want to mature and deepen in our ability to demonstrate his kingdom to those around us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,000",
+				"to": "00:08:19,000"
+			},
+			"offsets": {
+				"from": 492000,
+				"to": 499000
+			},
+			"text": " we have to learn to receive the love that God is communicating to us in the way that he's communicating to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,000",
+				"to": "00:08:24,000"
+			},
+			"offsets": {
+				"from": 499000,
+				"to": 504000
+			},
+			"text": " And for some of us, he's not always communicating the way that we would hope he would communicate to us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,000",
+				"to": "00:08:27,000"
+			},
+			"offsets": {
+				"from": 504000,
+				"to": 507000
+			},
+			"text": " Some of us were like, \"God, you're not being clear enough. You're not being direct enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,000",
+				"to": "00:08:29,000"
+			},
+			"offsets": {
+				"from": 507000,
+				"to": 509000
+			},
+			"text": " I'm not hearing what I need to hear.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,000",
+				"to": "00:08:32,000"
+			},
+			"offsets": {
+				"from": 509000,
+				"to": 512000
+			},
+			"text": " And yet this is how God has chosen to speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,000",
+				"to": "00:08:36,000"
+			},
+			"offsets": {
+				"from": 512000,
+				"to": 516000
+			},
+			"text": " And as we read in Romans chapter 11, who are we to question what he has chosen to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,000",
+				"to": "00:08:42,000"
+			},
+			"offsets": {
+				"from": 516000,
+				"to": 522000
+			},
+			"text": " And so God has clearly chosen to speak to us in three very distinct ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,000",
+				"to": "00:08:46,000"
+			},
+			"offsets": {
+				"from": 522000,
+				"to": 526000
+			},
+			"text": " And so if we're going to mature in our relationship with him, if we're going to deepen our intimacy with him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,000",
+				"to": "00:08:52,000"
+			},
+			"offsets": {
+				"from": 526000,
+				"to": 532000
+			},
+			"text": " we have to have eyes to see and ears to hear and minds to comprehend what he is communicating to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,000",
+				"to": "00:08:54,000"
+			},
+			"offsets": {
+				"from": 532000,
+				"to": 534000
+			},
+			"text": " And then if we want to take it a step further,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,000",
+				"to": "00:08:59,000"
+			},
+			"offsets": {
+				"from": 534000,
+				"to": 539000
+			},
+			"text": " we have to be able to communicate his love to others through these same languages."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,000",
+				"to": "00:09:00,000"
+			},
+			"offsets": {
+				"from": 539000,
+				"to": 540000
+			},
+			"text": " Does that make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,000",
+				"to": "00:09:03,000"
+			},
+			"offsets": {
+				"from": 540000,
+				"to": 543000
+			},
+			"text": " Man, I hope so, because I wrote this a week ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,000",
+				"to": "00:09:06,000"
+			},
+			"offsets": {
+				"from": 543000,
+				"to": 546000
+			},
+			"text": " And it sounds like it's making sense right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,000",
+				"to": "00:09:09,000"
+			},
+			"offsets": {
+				"from": 546000,
+				"to": 549000
+			},
+			"text": " It made sense a week ago. Hopefully it's making sense right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,000",
+				"to": "00:09:13,000"
+			},
+			"offsets": {
+				"from": 549000,
+				"to": 553000
+			},
+			"text": " So let's unpack this one language at a time."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,000",
+				"to": "00:09:18,000"
+			},
+			"offsets": {
+				"from": 553000,
+				"to": 558000
+			},
+			"text": " The first language that God communicates his love to us is through creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,000",
+				"to": "00:09:20,000"
+			},
+			"offsets": {
+				"from": 558000,
+				"to": 560000
+			},
+			"text": " We see this in the first six verses."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,000",
+				"to": "00:09:29,000"
+			},
+			"offsets": {
+				"from": 560000,
+				"to": 569000
+			},
+			"text": " Before we read it, this is a Psalm of David that most scholars would articulate as one of the most clear and beautiful psalms in the collection."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,000",
+				"to": "00:09:31,000"
+			},
+			"offsets": {
+				"from": 569000,
+				"to": 571000
+			},
+			"text": " It's C.S. Lewis' favorite psalm."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,000",
+				"to": "00:09:35,000"
+			},
+			"offsets": {
+				"from": 571000,
+				"to": 575000
+			},
+			"text": " So if you like C.S. Lewis, you have to like this psalm."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,000",
+				"to": "00:09:36,000"
+			},
+			"offsets": {
+				"from": 575000,
+				"to": 576000
+			},
+			"text": " I'm just kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,000",
+				"to": "00:09:44,000"
+			},
+			"offsets": {
+				"from": 576000,
+				"to": 584000
+			},
+			"text": " It communicates a few very simple truths in a poetic rhythm that comes through clearly and compellingly even in our English translation."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,000",
+				"to": "00:09:52,000"
+			},
+			"offsets": {
+				"from": 584000,
+				"to": 592000
+			},
+			"text": " I can only imagine what this psalm would have sounded like to the original audience in the original language."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,000",
+				"to": "00:09:58,000"
+			},
+			"offsets": {
+				"from": 592000,
+				"to": 598000
+			},
+			"text": " And because it is so clear and beautiful, the last thing that I want to do this morning is overanalyze it to death."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,000",
+				"to": "00:10:05,000"
+			},
+			"offsets": {
+				"from": 598000,
+				"to": 605000
+			},
+			"text": " Now, I'm by gifting a shepherd teacher, so I probably will overanalyze it a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,000",
+				"to": "00:10:09,000"
+			},
+			"offsets": {
+				"from": 605000,
+				"to": 609000
+			},
+			"text": " But I'd like to engage my right brain a little bit more this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,000",
+				"to": "00:10:15,000"
+			},
+			"offsets": {
+				"from": 609000,
+				"to": 615000
+			},
+			"text": " For those of you right brain creatives, the worst thing that I could do is overanalyze beautiful poetry, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,000",
+				"to": "00:10:26,000"
+			},
+			"offsets": {
+				"from": 615000,
+				"to": 626000
+			},
+			"text": " So what I want to do is I just want to read it slowly one or two times and just let it kind of do its work in our soul before I ever say anything about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,000",
+				"to": "00:10:34,000"
+			},
+			"offsets": {
+				"from": 626000,
+				"to": 634000
+			},
+			"text": " And hopefully, if everything I say makes a mess of it, just this time of reading it together, we'll do everything the Lord needs it to do for you this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,000",
+				"to": "00:10:40,000"
+			},
+			"offsets": {
+				"from": 634000,
+				"to": 640000
+			},
+			"text": " Psalm 19, verse one, \"The heavens declare the glory of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,000",
+				"to": "00:10:43,000"
+			},
+			"offsets": {
+				"from": 640000,
+				"to": 643000
+			},
+			"text": " The skies proclaim the work of His hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,000",
+				"to": "00:10:48,000"
+			},
+			"offsets": {
+				"from": 643000,
+				"to": 648000
+			},
+			"text": " Day after day they pour forth speech, and night after night they reveal knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,000",
+				"to": "00:10:49,000"
+			},
+			"offsets": {
+				"from": 648000,
+				"to": 649000
+			},
+			"text": " They have no speech."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,000",
+				"to": "00:10:52,000"
+			},
+			"offsets": {
+				"from": 649000,
+				"to": 652000
+			},
+			"text": " They use no words."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,000",
+				"to": "00:10:56,000"
+			},
+			"offsets": {
+				"from": 652000,
+				"to": 656000
+			},
+			"text": " No sound is heard from them, yet their voice goes out into all the earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,000",
+				"to": "00:10:58,000"
+			},
+			"offsets": {
+				"from": 656000,
+				"to": 658000
+			},
+			"text": " Their words to the ends of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,000",
+				"to": "00:11:01,000"
+			},
+			"offsets": {
+				"from": 658000,
+				"to": 661000
+			},
+			"text": " In the heavens, God has pitched a tent for the sun."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:01,000",
+				"to": "00:11:07,000"
+			},
+			"offsets": {
+				"from": 661000,
+				"to": 667000
+			},
+			"text": " It is like a bridegroom crumbling out of his chamber like a champion rejoicing to run its course."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,000",
+				"to": "00:11:12,000"
+			},
+			"offsets": {
+				"from": 667000,
+				"to": 672000
+			},
+			"text": " It rises at one end of the heavens and makes its circuit to the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,000",
+				"to": "00:11:19,000"
+			},
+			"offsets": {
+				"from": 672000,
+				"to": 679000
+			},
+			"text": " Nothing is deprived of its warmth.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,000",
+				"to": "00:11:22,000"
+			},
+			"offsets": {
+				"from": 679000,
+				"to": 682000
+			},
+			"text": " Psalm 19, verse one, \"The heavens declare the glory of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,000",
+				"to": "00:11:24,000"
+			},
+			"offsets": {
+				"from": 682000,
+				"to": 684000
+			},
+			"text": " The skies proclaim His handiwork."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,000",
+				"to": "00:11:28,000"
+			},
+			"offsets": {
+				"from": 684000,
+				"to": 688000
+			},
+			"text": " Day after day they pour forth speech, and night after night they reveal knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,000",
+				"to": "00:11:30,000"
+			},
+			"offsets": {
+				"from": 688000,
+				"to": 690000
+			},
+			"text": " They have no speech."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,000",
+				"to": "00:11:32,000"
+			},
+			"offsets": {
+				"from": 690000,
+				"to": 692000
+			},
+			"text": " They use no words."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,000",
+				"to": "00:11:34,000"
+			},
+			"offsets": {
+				"from": 692000,
+				"to": 694000
+			},
+			"text": " No sound is heard from them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,000",
+				"to": "00:11:38,000"
+			},
+			"offsets": {
+				"from": 694000,
+				"to": 698000
+			},
+			"text": " Yet their voice goes out into all the earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,000",
+				"to": "00:11:41,000"
+			},
+			"offsets": {
+				"from": 698000,
+				"to": 701000
+			},
+			"text": " Their words to the end of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,000",
+				"to": "00:11:43,000"
+			},
+			"offsets": {
+				"from": 701000,
+				"to": 703000
+			},
+			"text": " In the heavens, God has pitched a tent for the sun."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,000",
+				"to": "00:11:49,000"
+			},
+			"offsets": {
+				"from": 703000,
+				"to": 709000
+			},
+			"text": " It is like a bridegroom coming out of its chamber like a champion rejoicing to run his course."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,000",
+				"to": "00:11:53,000"
+			},
+			"offsets": {
+				"from": 709000,
+				"to": 713000
+			},
+			"text": " It rises at one end of the heavens and makes its circuit to the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,000",
+				"to": "00:11:58,000"
+			},
+			"offsets": {
+				"from": 713000,
+				"to": 718000
+			},
+			"text": " Nothing is deprived of its warmth.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,000",
+				"to": "00:12:03,000"
+			},
+			"offsets": {
+				"from": 718000,
+				"to": 723000
+			},
+			"text": " As I read this text, as I studied this text this week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,000",
+				"to": "00:12:06,000"
+			},
+			"offsets": {
+				"from": 723000,
+				"to": 726000
+			},
+			"text": " I kind of summarized those first six verses in this way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:06,000",
+				"to": "00:12:12,000"
+			},
+			"offsets": {
+				"from": 726000,
+				"to": 732000
+			},
+			"text": " that creation clearly communicates God's wisdom, His power, and His beauty."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,000",
+				"to": "00:12:13,000"
+			},
+			"offsets": {
+				"from": 732000,
+				"to": 733000
+			},
+			"text": " It just comes right through."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,000",
+				"to": "00:12:15,000"
+			},
+			"offsets": {
+				"from": 733000,
+				"to": 735000
+			},
+			"text": " I don't really have to explain it all that much,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,000",
+				"to": "00:12:21,000"
+			},
+			"offsets": {
+				"from": 735000,
+				"to": 741000
+			},
+			"text": " that David is looking around all creation and he is proclaiming in this poetic rhythm"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,000",
+				"to": "00:12:29,000"
+			},
+			"offsets": {
+				"from": 741000,
+				"to": 749000
+			},
+			"text": " that all of creation communicates that God is wise, that God is powerful, and that God is beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,000",
+				"to": "00:12:34,000"
+			},
+			"offsets": {
+				"from": 749000,
+				"to": 754000
+			},
+			"text": " David, who knows nothing about screen time limits or fluorescent lights,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,000",
+				"to": "00:12:36,000"
+			},
+			"offsets": {
+				"from": 754000,
+				"to": 756000
+			},
+			"text": " is the perfect narrator of this truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,000",
+				"to": "00:12:41,000"
+			},
+			"offsets": {
+				"from": 756000,
+				"to": 761000
+			},
+			"text": " He does not live in boxes with fake air conditioning, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,000",
+				"to": "00:12:45,000"
+			},
+			"offsets": {
+				"from": 761000,
+				"to": 765000
+			},
+			"text": " He does not live in this very tame, inclusive space."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,000",
+				"to": "00:12:49,000"
+			},
+			"offsets": {
+				"from": 765000,
+				"to": 769000
+			},
+			"text": " David, who grew up in the wilderness, who grew up in nature,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,000",
+				"to": "00:12:54,000"
+			},
+			"offsets": {
+				"from": 769000,
+				"to": 774000
+			},
+			"text": " who spent all of his time in creation, is the perfect narrator of this truth to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,000",
+				"to": "00:12:59,000"
+			},
+			"offsets": {
+				"from": 774000,
+				"to": 779000
+			},
+			"text": " Spending the majority of his childhood outside, moving from place to place,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,000",
+				"to": "00:13:06,000"
+			},
+			"offsets": {
+				"from": 779000,
+				"to": 786000
+			},
+			"text": " in a land that is filled with places that are extremely fertile and also arid desert."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,000",
+				"to": "00:13:12,000"
+			},
+			"offsets": {
+				"from": 786000,
+				"to": 792000
+			},
+			"text": " As a shepherd, he would have been extremely observant of all of the creation around him."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,000",
+				"to": "00:13:15,000"
+			},
+			"offsets": {
+				"from": 792000,
+				"to": 795000
+			},
+			"text": " At night, he would sit beneath the light of the innumerable stars."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,000",
+				"to": "00:13:22,000"
+			},
+			"offsets": {
+				"from": 795000,
+				"to": 802000
+			},
+			"text": " As the king, later in his life, he would have direct access to the finest views in all of the land."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,000",
+				"to": "00:13:30,000"
+			},
+			"offsets": {
+				"from": 802000,
+				"to": 810000
+			},
+			"text": " And with all of that first-hand experience, he can't help but acknowledge that all of creation declares the glory of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,000",
+				"to": "00:13:39,000"
+			},
+			"offsets": {
+				"from": 810000,
+				"to": 819000
+			},
+			"text": " If you have eyes to see, if you just look around long enough, he's saying you will see that God is wise and powerful and beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:39,000",
+				"to": "00:13:48,000"
+			},
+			"offsets": {
+				"from": 819000,
+				"to": 828000
+			},
+			"text": " He says it speaks loudly to every human being in every location throughout every time without saying a word."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,000",
+				"to": "00:13:53,000"
+			},
+			"offsets": {
+				"from": 828000,
+				"to": 833000
+			},
+			"text": " Creation is God's first language of love to all of humanity."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,000",
+				"to": "00:14:02,000"
+			},
+			"offsets": {
+				"from": 833000,
+				"to": 842000
+			},
+			"text": " There is not a place that the beauty of God's creation cannot be seen."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,000",
+				"to": "00:14:08,000"
+			},
+			"offsets": {
+				"from": 842000,
+				"to": 848000
+			},
+			"text": " David is saying if you stop and you look around with an open mind and an open heart for just a few minutes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,000",
+				"to": "00:14:15,000"
+			},
+			"offsets": {
+				"from": 848000,
+				"to": 855000
+			},
+			"text": " you will realize that there is a God who is infinitely wise and powerful and beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,000",
+				"to": "00:14:20,000"
+			},
+			"offsets": {
+				"from": 855000,
+				"to": 860000
+			},
+			"text": " I wrote down, I worked with Chad GPT a little bit this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,000",
+				"to": "00:14:25,000"
+			},
+			"offsets": {
+				"from": 860000,
+				"to": 865000
+			},
+			"text": " Just all confession here, laying it on the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,000",
+				"to": "00:14:42,000"
+			},
+			"offsets": {
+				"from": 865000,
+				"to": 882000
+			},
+			"text": " And what I asked Chad was, Chad, if I was David in Israel, what are some things about creation that I might observe that might demonstrate that God is wise, powerful, and beautiful?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,000",
+				"to": "00:14:47,000"
+			},
+			"offsets": {
+				"from": 882000,
+				"to": 887000
+			},
+			"text": " So these illustrations don't come from me, they come from the Holy Spirit empowering Chad GPT, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,000",
+				"to": "00:14:53,000"
+			},
+			"offsets": {
+				"from": 887000,
+				"to": 893000
+			},
+			"text": " And I don't know how, I don't know what I believe about that just yet, so give me some time."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,000",
+				"to": "00:14:57,000"
+			},
+			"offsets": {
+				"from": 893000,
+				"to": 897000
+			},
+			"text": " Don't call the board just yet, we'll figure it out together, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,000",
+				"to": "00:15:00,000"
+			},
+			"offsets": {
+				"from": 897000,
+				"to": 900000
+			},
+			"text": " Ant colonies."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,000",
+				"to": "00:15:11,000"
+			},
+			"offsets": {
+				"from": 900000,
+				"to": 911000
+			},
+			"text": " As David sat in the dirt watching over his flock, I can't help but just imagine him looking down."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,000",
+				"to": "00:15:16,000"
+			},
+			"offsets": {
+				"from": 911000,
+				"to": 916000
+			},
+			"text": " At colonies of the, some of the smallest animals."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,000",
+				"to": "00:15:18,000"
+			},
+			"offsets": {
+				"from": 916000,
+				"to": 918000
+			},
+			"text": " Some of the smallest creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,000",
+				"to": "00:15:20,000"
+			},
+			"offsets": {
+				"from": 918000,
+				"to": 920000
+			},
+			"text": " How they work together."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,000",
+				"to": "00:15:26,000"
+			},
+			"offsets": {
+				"from": 920000,
+				"to": 926000
+			},
+			"text": " How they work hard and seemingly do incredibly more things than they should be able to do with their size."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,000",
+				"to": "00:15:31,000"
+			},
+			"offsets": {
+				"from": 926000,
+				"to": 931000
+			},
+			"text": " How they sustain their own lives together."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,000",
+				"to": "00:15:36,000"
+			},
+			"offsets": {
+				"from": 931000,
+				"to": 936000
+			},
+			"text": " And how their existence works its way all the way up the ecosystem to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,000",
+				"to": "00:15:40,000"
+			},
+			"offsets": {
+				"from": 936000,
+				"to": 940000
+			},
+			"text": " I won't get into it, but I asked Chad GPT what would happen if there were no ants."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:40,000",
+				"to": "00:15:42,000"
+			},
+			"offsets": {
+				"from": 940000,
+				"to": 942000
+			},
+			"text": " It's not good."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,000",
+				"to": "00:15:45,000"
+			},
+			"offsets": {
+				"from": 942000,
+				"to": 945000
+			},
+			"text": " It's not good, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,000",
+				"to": "00:15:50,000"
+			},
+			"offsets": {
+				"from": 945000,
+				"to": 950000
+			},
+			"text": " We walk past these things, they seem insignificant, they seem small to us, but if we have eyes to see."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,000",
+				"to": "00:16:01,000"
+			},
+			"offsets": {
+				"from": 950000,
+				"to": 961000
+			},
+			"text": " It's all a part of God's wisdom, it's all a part of his creation, it's all the life blocks used to sustain all of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,000",
+				"to": "00:16:02,000"
+			},
+			"offsets": {
+				"from": 961000,
+				"to": 962000
+			},
+			"text": " Camels."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,000",
+				"to": "00:16:04,000"
+			},
+			"offsets": {
+				"from": 962000,
+				"to": 964000
+			},
+			"text": " Camels."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,000",
+				"to": "00:16:09,000"
+			},
+			"offsets": {
+				"from": 964000,
+				"to": 969000
+			},
+			"text": " Optimized for survival and travel in desert geography."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,000",
+				"to": "00:16:15,000"
+			},
+			"offsets": {
+				"from": 969000,
+				"to": 975000
+			},
+			"text": " Their nostrils closed to keep them from, you know, suffocating in sand."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,000",
+				"to": "00:16:22,000"
+			},
+			"offsets": {
+				"from": 976000,
+				"to": 982000
+			},
+			"text": " Their eyelashes are long to, so that they could be able to see like all, like you just look at a camel."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,000",
+				"to": "00:16:27,000"
+			},
+			"offsets": {
+				"from": 982000,
+				"to": 987000
+			},
+			"text": " I can imagine David just looking at a camel and saying, that doesn't happen by accident."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,000",
+				"to": "00:16:35,000"
+			},
+			"offsets": {
+				"from": 987000,
+				"to": 995000
+			},
+			"text": " That strange looking animal with a massive hump on his back was created by a all wise God to survive in this place."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,000",
+				"to": "00:16:44,000"
+			},
+			"offsets": {
+				"from": 997000,
+				"to": 1004000
+			},
+			"text": " So that we can travel and we can do the things we need to be, to do to thrive."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,000",
+				"to": "00:16:53,000"
+			},
+			"offsets": {
+				"from": 1004000,
+				"to": 1013000
+			},
+			"text": " From some of the smallest to some of the largest animals that David could observe, he could clearly see God's wisdom in his handiwork."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:54,000",
+				"to": "00:16:58,000"
+			},
+			"offsets": {
+				"from": 1014000,
+				"to": 1018000
+			},
+			"text": " And we have the privilege of learning from a guy like David who spent all of his time outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,000",
+				"to": "00:17:08,000"
+			},
+			"offsets": {
+				"from": 1018000,
+				"to": 1028000
+			},
+			"text": " And we have the privilege of learning from modern science who has been able to explore the universe far, far more than David ever would have."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,000",
+				"to": "00:17:18,000"
+			},
+			"offsets": {
+				"from": 1029000,
+				"to": 1038000
+			},
+			"text": " And scientists talk about this thing the earth exists in called the habitable, habitable zone, there we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:18,000",
+				"to": "00:17:25,000"
+			},
+			"offsets": {
+				"from": 1038000,
+				"to": 1045000
+			},
+			"text": " For those of you that got like a C minus in science, like me, the Goldilocks zone, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,000",
+				"to": "00:17:27,000"
+			},
+			"offsets": {
+				"from": 1045000,
+				"to": 1047000
+			},
+			"text": " We've heard it like that, that I resonate with."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,000",
+				"to": "00:17:39,000"
+			},
+			"offsets": {
+				"from": 1048000,
+				"to": 1059000
+			},
+			"text": " It's this place in which it's very, very rare for a planet like ours to be positioned where it is so that it can have all of the necessities of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,000",
+				"to": "00:17:43,000"
+			},
+			"offsets": {
+				"from": 1059000,
+				"to": 1063000
+			},
+			"text": " It's incredibly rare for a planet like earth to be positioned where it is to give us all, I just said that."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,000",
+				"to": "00:17:46,000"
+			},
+			"offsets": {
+				"from": 1063000,
+				"to": 1066000
+			},
+			"text": " I told you I wrote this a week ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,000",
+				"to": "00:17:48,000"
+			},
+			"offsets": {
+				"from": 1066000,
+				"to": 1068000
+			},
+			"text": " Here you go, you got it twice."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,000",
+				"to": "00:17:52,000"
+			},
+			"offsets": {
+				"from": 1068000,
+				"to": 1072000
+			},
+			"text": " God's creation, it clearly communicates his wisdom to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,000",
+				"to": "00:18:00,000"
+			},
+			"offsets": {
+				"from": 1073000,
+				"to": 1080000
+			},
+			"text": " From the smallest plants and animals to the structure of the galaxy, God's wisdom can be seen throughout all creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,000",
+				"to": "00:18:12,000"
+			},
+			"offsets": {
+				"from": 1080000,
+				"to": 1092000
+			},
+			"text": " And as we zoom out from the smallest animal to the largest universes that we can observe, it starts, it begins to bring God's power into clarity."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,000",
+				"to": "00:18:15,000"
+			},
+			"offsets": {
+				"from": 1092000,
+				"to": 1095000
+			},
+			"text": " The immensity of creation shows God's power."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,000",
+				"to": "00:18:22,000"
+			},
+			"offsets": {
+				"from": 1096000,
+				"to": 1102000
+			},
+			"text": " I'll never forget the first night, Marissa and I moved into our house in Virginia, for those of you who have been there."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,000",
+				"to": "00:18:24,000"
+			},
+			"offsets": {
+				"from": 1102000,
+				"to": 1104000
+			},
+			"text": " We live in the middle of nowhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,000",
+				"to": "00:18:27,000"
+			},
+			"offsets": {
+				"from": 1104000,
+				"to": 1107000
+			},
+			"text": " And it is awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,000",
+				"to": "00:18:34,000"
+			},
+			"offsets": {
+				"from": 1107000,
+				"to": 1114000
+			},
+			"text": " But we were moving from the city of Wilkes-Barre, which is not a huge city, but it's definitely a city."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,000",
+				"to": "00:18:39,000"
+			},
+			"offsets": {
+				"from": 1114000,
+				"to": 1119000
+			},
+			"text": " You know, we were on the corner of a block, there's lights and there's stuff everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,000",
+				"to": "00:18:47,000"
+			},
+			"offsets": {
+				"from": 1120000,
+				"to": 1127000
+			},
+			"text": " We moved to Gore, Virginia in the middle of nowhere in the fall and I just walked out under the night sky."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,000",
+				"to": "00:18:55,000"
+			},
+			"offsets": {
+				"from": 1127000,
+				"to": 1135000
+			},
+			"text": " I heard the wind blowing through these large palm trees that are out of the corner of my yard and I looked up at the sky and I'd never seen a sky so beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,000",
+				"to": "00:19:03,000"
+			},
+			"offsets": {
+				"from": 1135000,
+				"to": 1143000
+			},
+			"text": " The power of God, the immensity of God's creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,000",
+				"to": "00:19:07,000"
+			},
+			"offsets": {
+				"from": 1144000,
+				"to": 1147000
+			},
+			"text": " And David takes it a step further."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,000",
+				"to": "00:19:16,000"
+			},
+			"offsets": {
+				"from": 1147000,
+				"to": 1156000
+			},
+			"text": " Not only does he acknowledge how powerful God is through the skies, but he corrects the theology of many people of his day."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,000",
+				"to": "00:19:21,000"
+			},
+			"offsets": {
+				"from": 1156000,
+				"to": 1161000
+			},
+			"text": " He talks about how the sun is just eager to obey the word of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,000",
+				"to": "00:19:27,000"
+			},
+			"offsets": {
+				"from": 1162000,
+				"to": 1167000
+			},
+			"text": " The sun, the most powerful, incredible thing that they might have ever even observed or thought of."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,000",
+				"to": "00:19:34,000"
+			},
+			"offsets": {
+				"from": 1167000,
+				"to": 1174000
+			},
+			"text": " They were tempted, cultures all around David were tempted to worship the sun as a God or the God itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,000",
+				"to": "00:19:44,000"
+			},
+			"offsets": {
+				"from": 1174000,
+				"to": 1184000
+			},
+			"text": " And David says, no, no, no, no, God is so powerful that that thing that you think is the most powerful thing that you could ever imagine is eager to obey God daily."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,000",
+				"to": "00:19:50,000"
+			},
+			"offsets": {
+				"from": 1185000,
+				"to": 1190000
+			},
+			"text": " It does what he tells it to do because our God is powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,000",
+				"to": "00:20:06,000"
+			},
+			"offsets": {
+				"from": 1190000,
+				"to": 1206000
+			},
+			"text": " And the same could be said, you know, I was thinking about that this week and you're like, all right, Ryan, but like people these days aren't that clueless, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,000",
+				"to": "00:20:09,000"
+			},
+			"offsets": {
+				"from": 1207000,
+				"to": 1209000
+			},
+			"text": " People aren't worshiping the sun."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,000",
+				"to": "00:20:16,000"
+			},
+			"offsets": {
+				"from": 1209000,
+				"to": 1216000
+			},
+			"text": " But if we think about the ideology of atheistic scientists, that's what they're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,000",
+				"to": "00:20:24,000"
+			},
+			"offsets": {
+				"from": 1216000,
+				"to": 1224000
+			},
+			"text": " They're looking at the incredible nature of creation, the power of creation, and they're attributing the power of creation to creation itself."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,000",
+				"to": "00:20:27,000"
+			},
+			"offsets": {
+				"from": 1224000,
+				"to": 1227000
+			},
+			"text": " The creation somehow just figured out how to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,000",
+				"to": "00:20:39,000"
+			},
+			"offsets": {
+				"from": 1228000,
+				"to": 1239000
+			},
+			"text": " And I am not anti-science, we can learn an incredible amount from science, but if we're gonna learn from science, we have to start with the fact that creation does what God tells it to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,000",
+				"to": "00:20:43,000"
+			},
+			"offsets": {
+				"from": 1239000,
+				"to": 1243000
+			},
+			"text": " The sun does what God tells it to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,000",
+				"to": "00:20:51,000"
+			},
+			"offsets": {
+				"from": 1243000,
+				"to": 1251000
+			},
+			"text": " And if we begin to attribute worth and worship and honor and glory to creation itself, we've missed the point entirely."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,000",
+				"to": "00:20:59,000"
+			},
+			"offsets": {
+				"from": 1252000,
+				"to": 1259000
+			},
+			"text": " David says, creation clearly communicates God's wisdom, his power, and his beauty."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,000",
+				"to": "00:21:04,000"
+			},
+			"offsets": {
+				"from": 1259000,
+				"to": 1264000
+			},
+			"text": " All of this adds up to creation, revealing God's beauty or his glory all four seasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,000",
+				"to": "00:21:17,000"
+			},
+			"offsets": {
+				"from": 1264000,
+				"to": 1277000
+			},
+			"text": " From continent to continent, from desert plains to the Arctic tundra, from the remote rainforest to the urban center, all of creation is clearly communicating God's wisdom and his power and his beauty."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,000",
+				"to": "00:21:21,000"
+			},
+			"offsets": {
+				"from": 1278000,
+				"to": 1281000
+			},
+			"text": " So much so that we can get a glimpse into the heavenly realm."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,000",
+				"to": "00:21:23,000"
+			},
+			"offsets": {
+				"from": 1281000,
+				"to": 1283000
+			},
+			"text": " When we get a glimpse into the heavenly realm."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,000",
+				"to": "00:21:37,000"
+			},
+			"offsets": {
+				"from": 1283000,
+				"to": 1297000
+			},
+			"text": " When we get a glimpse into the heavenly realm, in the book of Revelation, we hear this chorus of praise breaking out."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,000",
+				"to": "00:21:41,000"
+			},
+			"offsets": {
+				"from": 1297000,
+				"to": 1301000
+			},
+			"text": " You are worthy, O Lord our God, to receive glory and honor and power."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,000",
+				"to": "00:21:42,000"
+			},
+			"offsets": {
+				"from": 1301000,
+				"to": 1302000
+			},
+			"text": " Why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,000",
+				"to": "00:21:47,000"
+			},
+			"offsets": {
+				"from": 1302000,
+				"to": 1307000
+			},
+			"text": " For you created all things and they exist because you created what you please."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,000",
+				"to": "00:21:54,000"
+			},
+			"offsets": {
+				"from": 1307000,
+				"to": 1314000
+			},
+			"text": " This is the heavenly beings breaking out in the praise chorus that David wrote."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,000",
+				"to": "00:22:02,000"
+			},
+			"offsets": {
+				"from": 1314000,
+				"to": 1322000
+			},
+			"text": " In his time, in his space, the same praise chorus is being sung throughout all creation for all eternity by the heavenly beings around the throne."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,000",
+				"to": "00:22:07,000"
+			},
+			"offsets": {
+				"from": 1322000,
+				"to": 1327000
+			},
+			"text": " You are worthy to receive honor and power and glory because of what you have made."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,000",
+				"to": "00:22:13,000"
+			},
+			"offsets": {
+				"from": 1327000,
+				"to": 1333000
+			},
+			"text": " Just look around at the glorious manifestation of your presence in creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,000",
+				"to": "00:22:19,000"
+			},
+			"offsets": {
+				"from": 1333000,
+				"to": 1339000
+			},
+			"text": " So the question then becomes, are we listening?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,000",
+				"to": "00:22:25,000"
+			},
+			"offsets": {
+				"from": 1339000,
+				"to": 1345000
+			},
+			"text": " Are we receiving God's communication about himself through nature?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:26,000",
+				"to": "00:22:30,000"
+			},
+			"offsets": {
+				"from": 1346000,
+				"to": 1350000
+			},
+			"text": " We regularly take time to reflect on the wisdom, power, and beauty found in God's creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,000",
+				"to": "00:22:35,000"
+			},
+			"offsets": {
+				"from": 1350000,
+				"to": 1355000
+			},
+			"text": " And when we see the brokenness of creation, because can we all acknowledge that creation is broken?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,000",
+				"to": "00:22:51,000"
+			},
+			"offsets": {
+				"from": 1355000,
+				"to": 1371000
+			},
+			"text": " This psalm invites us to wrestle with, when we come in contact with the brokenness of creation, are we going to attribute the brokenness of creation to the God who created it with wisdom, power, and beauty?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,000",
+				"to": "00:22:58,000"
+			},
+			"offsets": {
+				"from": 1371000,
+				"to": 1378000
+			},
+			"text": " Or are we going to acknowledge that it is us who has broken creation?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,000",
+				"to": "00:23:06,000"
+			},
+			"offsets": {
+				"from": 1378000,
+				"to": 1386000
+			},
+			"text": " And this is one of the most difficult realities that I wrestle with with people on a regular basis, is they are faced with the brokenness of creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,000",
+				"to": "00:23:10,000"
+			},
+			"offsets": {
+				"from": 1386000,
+				"to": 1390000
+			},
+			"text": " Is the natural tendency is to jump to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,000",
+				"to": "00:23:11,000"
+			},
+			"offsets": {
+				"from": 1390000,
+				"to": 1391000
+			},
+			"text": " How could God let this happen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,000",
+				"to": "00:23:12,000"
+			},
+			"offsets": {
+				"from": 1391000,
+				"to": 1392000
+			},
+			"text": " Why did God do this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,000",
+				"to": "00:23:14,000"
+			},
+			"offsets": {
+				"from": 1392000,
+				"to": 1394000
+			},
+			"text": " Why is God doing this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,000",
+				"to": "00:23:15,000"
+			},
+			"offsets": {
+				"from": 1394000,
+				"to": 1395000
+			},
+			"text": " Why is God doing this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,000",
+				"to": "00:23:23,000"
+			},
+			"offsets": {
+				"from": 1395000,
+				"to": 1403000
+			},
+			"text": " And I think this psalm helps us to realize that creation as it is intended to be, is wise, powerful, and beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,000",
+				"to": "00:23:25,000"
+			},
+			"offsets": {
+				"from": 1403000,
+				"to": 1405000
+			},
+			"text": " And it's still, we can still see it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,000",
+				"to": "00:23:29,000"
+			},
+			"offsets": {
+				"from": 1405000,
+				"to": 1409000
+			},
+			"text": " And yet when we see the brokenness, we cannot attribute the brokenness to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,000",
+				"to": "00:23:32,000"
+			},
+			"offsets": {
+				"from": 1409000,
+				"to": 1412000
+			},
+			"text": " Because we are the ones that rebelled against God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,000",
+				"to": "00:23:41,000"
+			},
+			"offsets": {
+				"from": 1412000,
+				"to": 1421000
+			},
+			"text": " So are we listening and are we communicating through God's creation?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,000",
+				"to": "00:23:45,000"
+			},
+			"offsets": {
+				"from": 1421000,
+				"to": 1425000
+			},
+			"text": " We are created in God's image and we are invited to have dominion over his creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,000",
+				"to": "00:23:52,000"
+			},
+			"offsets": {
+				"from": 1425000,
+				"to": 1432000
+			},
+			"text": " Are we having dominion in such a way that reflects his wisdom, his power, and his beauty or our own selfish desire?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,000",
+				"to": "00:23:59,000"
+			},
+			"offsets": {
+				"from": 1432000,
+				"to": 1439000
+			},
+			"text": " This is, I don't know how much to get into this a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,000",
+				"to": "00:24:07,000"
+			},
+			"offsets": {
+				"from": 1439000,
+				"to": 1447000
+			},
+			"text": " Just a prophetic announcement, not against us as individuals, but against our society as a whole."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,000",
+				"to": "00:24:16,000"
+			},
+			"offsets": {
+				"from": 1447000,
+				"to": 1456000
+			},
+			"text": " I am committed now and I don't know if I want it to or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,000",
+				"to": "00:24:32,000"
+			},
+			"offsets": {
+				"from": 1456000,
+				"to": 1472000
+			},
+			"text": " The way in which we as individuals and we as larger corporations interact with the creation that God has given us."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,000",
+				"to": "00:24:40,000"
+			},
+			"offsets": {
+				"from": 1472000,
+				"to": 1480000
+			},
+			"text": " Do we do it in a way that is all about how we can be profitable in this small, ample period of time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,000",
+				"to": "00:24:44,000"
+			},
+			"offsets": {
+				"from": 1480000,
+				"to": 1484000
+			},
+			"text": " Or do we zoom out and say this is a gift from God to be stewarded?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,000",
+				"to": "00:24:51,000"
+			},
+			"offsets": {
+				"from": 1484000,
+				"to": 1491000
+			},
+			"text": " And again, I say this because most of us don't have the power to make the decisions that are being made with God's creation in this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,000",
+				"to": "00:24:56,000"
+			},
+			"offsets": {
+				"from": 1491000,
+				"to": 1496000
+			},
+			"text": " But we can, as individuals, what are we doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,000",
+				"to": "00:25:04,000"
+			},
+			"offsets": {
+				"from": 1496000,
+				"to": 1504000
+			},
+			"text": " To communicate to the world around us that God has given us a gift and this gift is to be stewarded for the good of everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,000",
+				"to": "00:25:07,000"
+			},
+			"offsets": {
+				"from": 1504000,
+				"to": 1507000
+			},
+			"text": " Not just for our own selfish ambition."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,000",
+				"to": "00:25:08,000"
+			},
+			"offsets": {
+				"from": 1507000,
+				"to": 1508000
+			},
+			"text": " Ambition."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,000",
+				"to": "00:25:14,000"
+			},
+			"offsets": {
+				"from": 1508000,
+				"to": 1514000
+			},
+			"text": " God's creation is wisdom, power, it's beauty."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:14,000",
+				"to": "00:25:17,000"
+			},
+			"offsets": {
+				"from": 1514000,
+				"to": 1517000
+			},
+			"text": " And it goes beyond all geography and all culture and all language."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,000",
+				"to": "00:25:18,000"
+			},
+			"offsets": {
+				"from": 1517000,
+				"to": 1518000
+			},
+			"text": " It's hard to misinterpret."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,000",
+				"to": "00:25:24,000"
+			},
+			"offsets": {
+				"from": 1518000,
+				"to": 1524000
+			},
+			"text": " God is not just speaking to one category of people, to one culture of people, to one language of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,000",
+				"to": "00:25:29,000"
+			},
+			"offsets": {
+				"from": 1524000,
+				"to": 1529000
+			},
+			"text": " When he offers creation as his love language to the world, it is to the whole world."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,000",
+				"to": "00:25:38,000"
+			},
+			"offsets": {
+				"from": 1529000,
+				"to": 1538000
+			},
+			"text": " So that everyone can see and be without excuse that there is a God who is wise and powerful and beautiful."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,000",
+				"to": "00:25:47,000"
+			},
+			"offsets": {
+				"from": 1538000,
+				"to": 1547000
+			},
+			"text": " He moves on because what we find out throughout scripture is that this isn't all that God wants us to know about himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,000",
+				"to": "00:25:54,000"
+			},
+			"offsets": {
+				"from": 1547000,
+				"to": 1554000
+			},
+			"text": " What we can learn through creation is like God, character, and love 101."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,000",
+				"to": "00:25:55,000"
+			},
+			"offsets": {
+				"from": 1554000,
+				"to": 1555000
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,000",
+				"to": "00:25:57,000"
+			},
+			"offsets": {
+				"from": 1555000,
+				"to": 1557000
+			},
+			"text": " But he offers us 201."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,000",
+				"to": "00:26:00,000"
+			},
+			"offsets": {
+				"from": 1557000,
+				"to": 1560000
+			},
+			"text": " It isn't all that God wants to communicate about himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,000",
+				"to": "00:26:09,000"
+			},
+			"offsets": {
+				"from": 1560000,
+				"to": 1569000
+			},
+			"text": " So God enters a specific culture and a specific language and communicates more clearly to us through his law."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,000",
+				"to": "00:26:12,000"
+			},
+			"offsets": {
+				"from": 1569000,
+				"to": 1572000
+			},
+			"text": " Specifically through the law of the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,000",
+				"to": "00:26:15,000"
+			},
+			"offsets": {
+				"from": 1572000,
+				"to": 1575000
+			},
+			"text": " Let's read it in verse seven."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,000",
+				"to": "00:26:20,000"
+			},
+			"offsets": {
+				"from": 1575000,
+				"to": 1580000
+			},
+			"text": " David says, \"The law of the Lord is perfect, refreshing the soul."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,000",
+				"to": "00:26:24,000"
+			},
+			"offsets": {
+				"from": 1580000,
+				"to": 1584000
+			},
+			"text": " The statutes of the Lord are trustworthy, making the wise simple."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,000",
+				"to": "00:26:27,000"
+			},
+			"offsets": {
+				"from": 1584000,
+				"to": 1587000
+			},
+			"text": " The precepts of the Lord are right, giving joy to the heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,000",
+				"to": "00:26:31,000"
+			},
+			"offsets": {
+				"from": 1587000,
+				"to": 1591000
+			},
+			"text": " The commands of the Lord are radiant, giving light to the eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,000",
+				"to": "00:26:35,000"
+			},
+			"offsets": {
+				"from": 1591000,
+				"to": 1595000
+			},
+			"text": " The fear of the Lord is pure, enduring forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,000",
+				"to": "00:26:37,000"
+			},
+			"offsets": {
+				"from": 1595000,
+				"to": 1597000
+			},
+			"text": " The decrees of the Lord are firm."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,000",
+				"to": "00:26:40,000"
+			},
+			"offsets": {
+				"from": 1597000,
+				"to": 1600000
+			},
+			"text": " And all of them are righteous."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,000",
+				"to": "00:26:45,000"
+			},
+			"offsets": {
+				"from": 1600000,
+				"to": 1605000
+			},
+			"text": " They are more precious than gold, more than pure gold."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,000",
+				"to": "00:26:48,000"
+			},
+			"offsets": {
+				"from": 1605000,
+				"to": 1608000
+			},
+			"text": " They are sweeter than honey, honey from the honeycomb."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,000",
+				"to": "00:26:53,000"
+			},
+			"offsets": {
+				"from": 1608000,
+				"to": 1613000
+			},
+			"text": " By them your servant is warned in keeping them."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,000",
+				"to": "00:26:55,000"
+			},
+			"offsets": {
+				"from": 1613000,
+				"to": 1615000
+			},
+			"text": " There is great reward.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,000",
+				"to": "00:27:07,000"
+			},
+			"offsets": {
+				"from": 1615000,
+				"to": 1627000
+			},
+			"text": " David switches here from the general term for God, which is El, to the specific name of God that he gave to the Israel people, which is Yahweh."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,000",
+				"to": "00:27:16,000"
+			},
+			"offsets": {
+				"from": 1628000,
+				"to": 1636000
+			},
+			"text": " It's almost like David wants us to see and to acknowledge that God's written word gives us a clearer definition of who he is than just his creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,000",
+				"to": "00:27:25,000"
+			},
+			"offsets": {
+				"from": 1636000,
+				"to": 1645000
+			},
+			"text": " That God is drawing closer to us, that he is giving us more specific understanding of who he is, more than can just be observed in creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,000",
+				"to": "00:27:28,000"
+			},
+			"offsets": {
+				"from": 1645000,
+				"to": 1648000
+			},
+			"text": " God doesn't just give us creation and hope we figure it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:28,000",
+				"to": "00:27:31,000"
+			},
+			"offsets": {
+				"from": 1648000,
+				"to": 1651000
+			},
+			"text": " He moves closer."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,000",
+				"to": "00:27:36,000"
+			},
+			"offsets": {
+				"from": 1651000,
+				"to": 1656000
+			},
+			"text": " It's what he has been doing since our rebellion in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,000",
+				"to": "00:27:38,000"
+			},
+			"offsets": {
+				"from": 1656000,
+				"to": 1658000
+			},
+			"text": " It's what he continues to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,000",
+				"to": "00:27:39,000"
+			},
+			"offsets": {
+				"from": 1658000,
+				"to": 1659000
+			},
+			"text": " God moves closer to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,000",
+				"to": "00:27:43,000"
+			},
+			"offsets": {
+				"from": 1659000,
+				"to": 1663000
+			},
+			"text": " He gives us clearer definitions of who he is."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,000",
+				"to": "00:27:47,000"
+			},
+			"offsets": {
+				"from": 1663000,
+				"to": 1667000
+			},
+			"text": " He chooses to specifically inhabit the people, the culture, and the language of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,000",
+				"to": "00:27:53,000"
+			},
+			"offsets": {
+				"from": 1667000,
+				"to": 1673000
+			},
+			"text": " Not because Israel is better than any other people, culture, or language, but because of his grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,000",
+				"to": "00:27:55,000"
+			},
+			"offsets": {
+				"from": 1673000,
+				"to": 1675000
+			},
+			"text": " I need us to hear that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,000",
+				"to": "00:28:01,000"
+			},
+			"offsets": {
+				"from": 1675000,
+				"to": 1681000
+			},
+			"text": " God chose to work through the nation of Israel, not because they were special, but because he is gracious."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,000",
+				"to": "00:28:15,000"
+			},
+			"offsets": {
+				"from": 1681000,
+				"to": 1695000
+			},
+			"text": " And he chose to move into a specific people, group, culture, and language so that every tribe, nation, and tongue could hear and see and have the word of God translated into their language and the gospel of Jesus given to them in their language."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,000",
+				"to": "00:28:19,000"
+			},
+			"offsets": {
+				"from": 1695000,
+				"to": 1699000
+			},
+			"text": " In their language, God is moving closer to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,000",
+				"to": "00:28:24,000"
+			},
+			"offsets": {
+				"from": 1699000,
+				"to": 1704000
+			},
+			"text": " He is giving us the clearer definition of who he is through his word."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,000",
+				"to": "00:28:35,000"
+			},
+			"offsets": {
+				"from": 1704000,
+				"to": 1715000
+			},
+			"text": " As I pondered this, again, beautiful and poetic language about God's law, his written word, I summarized it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,000",
+				"to": "00:28:42,000"
+			},
+			"offsets": {
+				"from": 1715000,
+				"to": 1722000
+			},
+			"text": " God's word is good, and it is intended to enlighten, encourage, and convict."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,000",
+				"to": "00:28:45,000"
+			},
+			"offsets": {
+				"from": 1722000,
+				"to": 1725000
+			},
+			"text": " I mean, just read it, there's adjectives and verbs."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,000",
+				"to": "00:28:50,000"
+			},
+			"offsets": {
+				"from": 1725000,
+				"to": 1730000
+			},
+			"text": " It's all just like it's saying the same thing over and over and over again, that God's word is perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,000",
+				"to": "00:28:52,000"
+			},
+			"offsets": {
+				"from": 1730000,
+				"to": 1732000
+			},
+			"text": " It brings benefit to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,000",
+				"to": "00:28:55,000"
+			},
+			"offsets": {
+				"from": 1732000,
+				"to": 1735000
+			},
+			"text": " God's statutes are trustworthy, it brings benefit to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,000",
+				"to": "00:28:57,000"
+			},
+			"offsets": {
+				"from": 1735000,
+				"to": 1737000
+			},
+			"text": " His precepts are right, it brings benefit to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,000",
+				"to": "00:29:03,000"
+			},
+			"offsets": {
+				"from": 1737000,
+				"to": 1743000
+			},
+			"text": " God's word is given to us so that we might live the abundant life that he created us for."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,000",
+				"to": "00:29:05,000"
+			},
+			"offsets": {
+				"from": 1743000,
+				"to": 1745000
+			},
+			"text": " But are we listening?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:05,000",
+				"to": "00:29:08,000"
+			},
+			"offsets": {
+				"from": 1745000,
+				"to": 1748000
+			},
+			"text": " Are we receiving it as good?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,000",
+				"to": "00:29:12,000"
+			},
+			"offsets": {
+				"from": 1748000,
+				"to": 1752000
+			},
+			"text": " Are we allowing it to enlighten, encourage, and convict us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,000",
+				"to": "00:29:22,000"
+			},
+			"offsets": {
+				"from": 1752000,
+				"to": 1762000
+			},
+			"text": " And I know what some of you might be thinking, especially since all that David has when he's writing this is the Old Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:22,000",
+				"to": "00:29:25,000"
+			},
+			"offsets": {
+				"from": 1762000,
+				"to": 1765000
+			},
+			"text": " Anybody know where I'm going with this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,000",
+				"to": "00:29:39,000"
+			},
+			"offsets": {
+				"from": 1765000,
+				"to": 1779000
+			},
+			"text": " I know what some of you might be thinking, \"Pastor, I've read the Old Testament, and there's some stuff in there that doesn't seem good, and it doesn't do too much to enlighten or encourage me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,000",
+				"to": "00:29:44,000"
+			},
+			"offsets": {
+				"from": 1779000,
+				"to": 1784000
+			},
+			"text": " And I just want to acknowledge that tension this morning, and I want you to know that I hear you and that I resonate with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,000",
+				"to": "00:29:54,000"
+			},
+			"offsets": {
+				"from": 1784000,
+				"to": 1794000
+			},
+			"text": " I'm in the Old Testament right now in my reading through the Bible in a year plan, and there's some passages where I'm like, good, enlightening, encouraging, like, ah, I'm struggling."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,000",
+				"to": "00:30:01,000"
+			},
+			"offsets": {
+				"from": 1794000,
+				"to": 1801000
+			},
+			"text": " But I think that it's important that we zoom out and make sure we get the big picture before we lose the forest for the trees."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,000",
+				"to": "00:30:11,000"
+			},
+			"offsets": {
+				"from": 1801000,
+				"to": 1811000
+			},
+			"text": " When God is giving the very beginning of His law, the Ten Commandments to Moses on Mount Sinai, the second time, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:11,000",
+				"to": "00:30:20,000"
+			},
+			"offsets": {
+				"from": 1811000,
+				"to": 1820000
+			},
+			"text": " The second time, which again demonstrates God's graciousness and faithfulness to a people who is rebellious and unfaithful to the thing that He's inviting them to."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,000",
+				"to": "00:30:25,000"
+			},
+			"offsets": {
+				"from": 1820000,
+				"to": 1825000
+			},
+			"text": " Again, we often look at God and we're like, \"Where's the goodness? Where's the encouragement?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,000",
+				"to": "00:30:28,000"
+			},
+			"offsets": {
+				"from": 1825000,
+				"to": 1828000
+			},
+			"text": " It's like, ah, mirror? Anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:28,000",
+				"to": "00:30:39,000"
+			},
+			"offsets": {
+				"from": 1828000,
+				"to": 1839000
+			},
+			"text": " Okay, so when God was giving His people the law the second time, He tells Moses essentially a two-sentence summary of God's character."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,000",
+				"to": "00:30:44,000"
+			},
+			"offsets": {
+				"from": 1839000,
+				"to": 1844000
+			},
+			"text": " He's like, \"If you want to know who I am, this is who I am.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,000",
+				"to": "00:30:49,000"
+			},
+			"offsets": {
+				"from": 1844000,
+				"to": 1849000
+			},
+			"text": " In my opinion, my humble opinion, one of the most significant passages in the entire Bible, Yahweh,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,000",
+				"to": "00:30:55,000"
+			},
+			"offsets": {
+				"from": 1849000,
+				"to": 1855000
+			},
+			"text": " Yahweh, the Creator God who is wise and beautiful and powerful, He draws near to a specific group of person,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,000",
+				"to": "00:31:00,000"
+			},
+			"offsets": {
+				"from": 1855000,
+				"to": 1860000
+			},
+			"text": " to an individual who is broken, imperfect, and messed up, and He draws near to Him."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,000",
+				"to": "00:31:06,000"
+			},
+			"offsets": {
+				"from": 1860000,
+				"to": 1866000
+			},
+			"text": " And He says this, \"The Lord came down in a cloud and He stood there with Moses.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:31:06,000",
+				"to": "00:31:09,000"
+			},
+			"offsets": {
+				"from": 1866000,
+				"to": 1869000
+			},
+			"text": " He called out His own personal name to Moses."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,000",
+				"to": "00:31:15,000"
+			},
+			"offsets": {
+				"from": 1869000,
+				"to": 1875000
+			},
+			"text": " He said, \"Yahweh, the Lord, the God of compassion and mercy."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,000",
+				"to": "00:31:23,000"
+			},
+			"offsets": {
+				"from": 1875000,
+				"to": 1883000
+			},
+			"text": " I am slow to anger and I am filled with unfailing love and faithfulness.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,000",
+				"to": "00:31:30,000"
+			},
+			"offsets": {
+				"from": 1883000,
+				"to": 1890000
+			},
+			"text": " God's summary statement about Himself to His people, \"This is who I am.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,000",
+				"to": "00:31:34,000"
+			},
+			"offsets": {
+				"from": 1890000,
+				"to": 1894000
+			},
+			"text": " I lavish unfailing love to a thousand generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:34,000",
+				"to": "00:31:40,000"
+			},
+			"offsets": {
+				"from": 1894000,
+				"to": 1900000
+			},
+			"text": " I forgive iniquity, rebellion, and sins, but I do not excuse the guilty."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,000",
+				"to": "00:31:47,000"
+			},
+			"offsets": {
+				"from": 1900000,
+				"to": 1907000
+			},
+			"text": " And what I get from this passage is that all of God's word is aimed at helping us better understand this God"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,000",
+				"to": "00:31:53,000"
+			},
+			"offsets": {
+				"from": 1907000,
+				"to": 1913000
+			},
+			"text": " in His abounding steadfast love."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,000",
+				"to": "00:31:55,000"
+			},
+			"offsets": {
+				"from": 1913000,
+				"to": 1915000
+			},
+			"text": " But He's not holding anything back from us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,000",
+				"to": "00:32:00,000"
+			},
+			"offsets": {
+				"from": 1915000,
+				"to": 1920000
+			},
+			"text": " He also says, \"I am just and I will not let unchecked, unrepentant sin go unpunished"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,000",
+				"to": "00:32:04,000"
+			},
+			"offsets": {
+				"from": 1920000,
+				"to": 1924000
+			},
+			"text": " because unchecked and unrepentant sin causes harm to ourselves and others.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,000",
+				"to": "00:32:09,000"
+			},
+			"offsets": {
+				"from": 1924000,
+				"to": 1929000
+			},
+			"text": " And I am a God who is gracious and compassionate and I do not want you to harm yourself or others."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,000",
+				"to": "00:32:13,000"
+			},
+			"offsets": {
+				"from": 1929000,
+				"to": 1933000
+			},
+			"text": " And so I will be just if you continue to plug your ears and close your eyes"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,000",
+				"to": "00:32:17,000"
+			},
+			"offsets": {
+				"from": 1933000,
+				"to": 1937000
+			},
+			"text": " and do whatever it is that you want to do without my permission.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,000",
+				"to": "00:32:21,000"
+			},
+			"offsets": {
+				"from": 1937000,
+				"to": 1941000
+			},
+			"text": " So when we come to a passage of Scripture that doesn't seem to be good,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,000",
+				"to": "00:32:26,000"
+			},
+			"offsets": {
+				"from": 1941000,
+				"to": 1946000
+			},
+			"text": " that doesn't enlighten, encourage, or convict us according to God's definition of Himself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,000",
+				"to": "00:32:30,000"
+			},
+			"offsets": {
+				"from": 1946000,
+				"to": 1950000
+			},
+			"text": " then my argument is that we are missing something and we should keep digging."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,000",
+				"to": "00:32:34,000"
+			},
+			"offsets": {
+				"from": 1950000,
+				"to": 1954000
+			},
+			"text": " And this is a lifelong pursuit."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,000",
+				"to": "00:32:38,000"
+			},
+			"offsets": {
+				"from": 1954000,
+				"to": 1958000
+			},
+			"text": " I've been studying the Scripture pretty seriously for a number of years"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,000",
+				"to": "00:32:43,000"
+			},
+			"offsets": {
+				"from": 1958000,
+				"to": 1963000
+			},
+			"text": " and there are still some really difficult passages where I have yet to find where it is good,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,000",
+				"to": "00:32:45,000"
+			},
+			"offsets": {
+				"from": 1963000,
+				"to": 1965000
+			},
+			"text": " enlightening, encouraging, and convicting."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,000",
+				"to": "00:32:49,000"
+			},
+			"offsets": {
+				"from": 1965000,
+				"to": 1969000
+			},
+			"text": " But I just trust Yahweh enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,000",
+				"to": "00:32:53,000"
+			},
+			"offsets": {
+				"from": 1969000,
+				"to": 1973000
+			},
+			"text": " I've lived enough life with this God who is compassionate and gracious,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,000",
+				"to": "00:32:55,000"
+			},
+			"offsets": {
+				"from": 1973000,
+				"to": 1975000
+			},
+			"text": " slow to anger, abounding in steadfast love."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,000",
+				"to": "00:33:00,000"
+			},
+			"offsets": {
+				"from": 1975000,
+				"to": 1980000
+			},
+			"text": " I've done enough life with Him that I can trust Him in the tension of the difficulty of the passages"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,000",
+				"to": "00:33:02,000"
+			},
+			"offsets": {
+				"from": 1980000,
+				"to": 1982000
+			},
+			"text": " that I have come to not yet understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,000",
+				"to": "00:33:05,000"
+			},
+			"offsets": {
+				"from": 1982000,
+				"to": 1985000
+			},
+			"text": " And I hope this testimony is an encouragement to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,000",
+				"to": "00:33:11,000"
+			},
+			"offsets": {
+				"from": 1985000,
+				"to": 1991000
+			},
+			"text": " When you come to a difficult passage, when you don't understand what it is that God is doing, keep wrestling."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,000",
+				"to": "00:33:18,000"
+			},
+			"offsets": {
+				"from": 1991000,
+				"to": 1998000
+			},
+			"text": " One of the fathers of the nation of Israel, like he's famous for wrestling with God."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,000",
+				"to": "00:33:24,000"
+			},
+			"offsets": {
+				"from": 1998000,
+				"to": 2004000
+			},
+			"text": " The Jewish people still to this day, they cling to that when they wrestle in the text of Scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,000",
+				"to": "00:33:28,000"
+			},
+			"offsets": {
+				"from": 2004000,
+				"to": 2008000
+			},
+			"text": " They never want to just read it and say, okay, God said it, I believe it, we're moving on."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:28,000",
+				"to": "00:33:34,000"
+			},
+			"offsets": {
+				"from": 2008000,
+				"to": 2014000
+			},
+			"text": " No, they wrestle with God and we as a people of God are invited to wrestle with God when we struggle."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,000",
+				"to": "00:33:51,000"
+			},
+			"offsets": {
+				"from": 2017000,
+				"to": 2031000
+			},
+			"text": " And I think so many people have walked away from the faith because people on stages like this have read complex, difficult passages of Scripture and tried to make them simple and say, believe it, get over your struggles and move on."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,000",
+				"to": "00:33:54,000"
+			},
+			"offsets": {
+				"from": 2031000,
+				"to": 2034000
+			},
+			"text": " And people haven't been able to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:54,000",
+				"to": "00:33:57,000"
+			},
+			"offsets": {
+				"from": 2034000,
+				"to": 2037000
+			},
+			"text": " And what I want to create here at our church is a culture where it's okay to wrestle."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:57,000",
+				"to": "00:34:01,000"
+			},
+			"offsets": {
+				"from": 2037000,
+				"to": 2041000
+			},
+			"text": " It's okay to not understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,000",
+				"to": "00:34:05,000"
+			},
+			"offsets": {
+				"from": 2042000,
+				"to": 2045000
+			},
+			"text": " But we fall back on the definition of God he gives to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,000",
+				"to": "00:34:09,000"
+			},
+			"offsets": {
+				"from": 2045000,
+				"to": 2049000
+			},
+			"text": " He is compassionate and gracious, slow to anger, abounding, steadfast, love."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,000",
+				"to": "00:34:11,000"
+			},
+			"offsets": {
+				"from": 2049000,
+				"to": 2051000
+			},
+			"text": " You guys alive?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,000",
+				"to": "00:34:13,000"
+			},
+			"offsets": {
+				"from": 2051000,
+				"to": 2053000
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,000",
+				"to": "00:34:19,000"
+			},
+			"offsets": {
+				"from": 2053000,
+				"to": 2059000
+			},
+			"text": " I lost my place because I said a lot of things that weren't in my notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,000",
+				"to": "00:34:20,000"
+			},
+			"offsets": {
+				"from": 2059000,
+				"to": 2060000
+			},
+			"text": " There we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,000",
+				"to": "00:34:33,000"
+			},
+			"offsets": {
+				"from": 2063000,
+				"to": 2073000
+			},
+			"text": " Marissa and I regularly have discussions about what type of rules we are going to implement with Rory as he gets older and gains more independence."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,000",
+				"to": "00:34:41,000"
+			},
+			"offsets": {
+				"from": 2073000,
+				"to": 2081000
+			},
+			"text": " Rules about screen time, devices, social media, sleepovers, you know, these type of things that are going to be challenging and difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,000",
+				"to": "00:34:52,000"
+			},
+			"offsets": {
+				"from": 2081000,
+				"to": 2092000
+			},
+			"text": " And our theory is that if we pre-decide now, before he comes to us and says, but my friends, but my friends, it's like, if we can get on the same page now, write some declarations down, get ahead of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,000",
+				"to": "00:35:01,000"
+			},
+			"offsets": {
+				"from": 2092000,
+				"to": 2101000
+			},
+			"text": " That maybe we will be able to stay steadfast in the midst of his, you know, loving face."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:01,000",
+				"to": "00:35:02,000"
+			},
+			"offsets": {
+				"from": 2101000,
+				"to": 2102000
+			},
+			"text": " I know you guys are laughing at me."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,000",
+				"to": "00:35:04,000"
+			},
+			"offsets": {
+				"from": 2102000,
+				"to": 2104000
+			},
+			"text": " All of you that have older kids, you're like, good luck."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,000",
+				"to": "00:35:15,000"
+			},
+			"offsets": {
+				"from": 2110000,
+				"to": 2115000
+			},
+			"text": " Hey, right now it might be pie in the sky, but we're still, we're, we're convinced that we'll be able to do it by God's grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,000",
+				"to": "00:35:21,000"
+			},
+			"offsets": {
+				"from": 2115000,
+				"to": 2121000
+			},
+			"text": " And in 10 years, when we mess up, I'll, I'll look to you all and you can tell me, you can tell me what to do next."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,000",
+				"to": "00:35:25,000"
+			},
+			"offsets": {
+				"from": 2121000,
+				"to": 2125000
+			},
+			"text": " But here's the reality about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:25,000",
+				"to": "00:35:38,000"
+			},
+			"offsets": {
+				"from": 2125000,
+				"to": 2138000
+			},
+			"text": " Is no matter how poorly we executed, I know for a fact that there are going to be some or many rules that will be interpreted by Rory's friends as unkind, unloving, or at least, at the very least, unfun."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,000",
+				"to": "00:35:55,000"
+			},
+			"offsets": {
+				"from": 2139000,
+				"to": 2155000
+			},
+			"text": " But my hope and my prayer is that because of the time and relationship invested in my beautiful baby boy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,000",
+				"to": "00:35:59,000"
+			},
+			"offsets": {
+				"from": 2155000,
+				"to": 2159000
+			},
+			"text": " that when he comes to a rule that he doesn't understand,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,000",
+				"to": "00:36:05,000"
+			},
+			"offsets": {
+				"from": 2160000,
+				"to": 2165000
+			},
+			"text": " when he comes to a decree that me and his mother have made that is for his good,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:05,000",
+				"to": "00:36:15,000"
+			},
+			"offsets": {
+				"from": 2165000,
+				"to": 2175000
+			},
+			"text": " that even if he can't see it, and even if he doesn't understand it, and even if everyone around him and all his friends are saying, your parents stink."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,000",
+				"to": "00:36:19,000"
+			},
+			"offsets": {
+				"from": 2177000,
+				"to": 2179000
+			},
+			"text": " They don't want you to have fun."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,000",
+				"to": "00:36:22,000"
+			},
+			"offsets": {
+				"from": 2179000,
+				"to": 2182000
+			},
+			"text": " They don't want you to experience true and abundant life."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,000",
+				"to": "00:36:31,000"
+			},
+			"offsets": {
+				"from": 2182000,
+				"to": 2191000
+			},
+			"text": " My hope and my prayer is that he will look at his mother and his father who have loved him, who have loved him well."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,000",
+				"to": "00:36:34,000"
+			},
+			"offsets": {
+				"from": 2191000,
+				"to": 2194000
+			},
+			"text": " And he will say, I don't get this one."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,000",
+				"to": "00:36:37,000"
+			},
+			"offsets": {
+				"from": 2194000,
+				"to": 2197000
+			},
+			"text": " This one doesn't make any sense to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,000",
+				"to": "00:36:40,000"
+			},
+			"offsets": {
+				"from": 2199000,
+				"to": 2200000
+			},
+			"text": " But I trust him."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,000",
+				"to": "00:36:53,000"
+			},
+			"offsets": {
+				"from": 2200000,
+				"to": 2213000
+			},
+			"text": " My hope is that because of Rory's relational proximity to us, that even if he doesn't understand every rule we put into place,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,000",
+				"to": "00:36:58,000"
+			},
+			"offsets": {
+				"from": 2213000,
+				"to": 2218000
+			},
+			"text": " that ultimately he will choose to submit to them because of our relationship and track record of sacrificial love."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,000",
+				"to": "00:37:02,000"
+			},
+			"offsets": {
+				"from": 2219000,
+				"to": 2222000
+			},
+			"text": " And I think that's what David is expressing here in this poem."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,000",
+				"to": "00:37:06,000"
+			},
+			"offsets": {
+				"from": 2222000,
+				"to": 2226000
+			},
+			"text": " I don't think David fully understood all of God's decrees and all of his laws."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,000",
+				"to": "00:37:11,000"
+			},
+			"offsets": {
+				"from": 2226000,
+				"to": 2231000
+			},
+			"text": " And we might not fully understand why God says or does what he says or does in every situation."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,000",
+				"to": "00:37:19,000"
+			},
+			"offsets": {
+				"from": 2231000,
+				"to": 2239000
+			},
+			"text": " But for those of us who have had a track record of relationship with him, who have seen his faithfulness and his grace to us and others,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,000",
+				"to": "00:37:24,000"
+			},
+			"offsets": {
+				"from": 2239000,
+				"to": 2244000
+			},
+			"text": " my prayer is that we can with conviction say that the law of the Lord is perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,000",
+				"to": "00:37:30,000"
+			},
+			"offsets": {
+				"from": 2245000,
+				"to": 2250000
+			},
+			"text": " Refreshing the soul, the statutes of the Lord are trustworthy, making wise the simple."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,000",
+				"to": "00:37:34,000"
+			},
+			"offsets": {
+				"from": 2250000,
+				"to": 2254000
+			},
+			"text": " The precepts of the Lord are right, giving joy to the heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,000",
+				"to": "00:37:38,000"
+			},
+			"offsets": {
+				"from": 2254000,
+				"to": 2258000
+			},
+			"text": " The commands of the Lord are radiant, giving light to the eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,000",
+				"to": "00:37:41,000"
+			},
+			"offsets": {
+				"from": 2258000,
+				"to": 2261000
+			},
+			"text": " The fear of the Lord is pure, enduring forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:41,000",
+				"to": "00:37:47,000"
+			},
+			"offsets": {
+				"from": 2261000,
+				"to": 2267000
+			},
+			"text": " The decrees of the Lord are firm and all of them are righteous."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,000",
+				"to": "00:37:54,000"
+			},
+			"offsets": {
+				"from": 2270000,
+				"to": 2274000
+			},
+			"text": " They are more precious than gold, much more than pure gold."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,000",
+				"to": "00:37:57,000"
+			},
+			"offsets": {
+				"from": 2274000,
+				"to": 2277000
+			},
+			"text": " They are sweeter than honey from the honeycomb."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,000",
+				"to": "00:38:04,000"
+			},
+			"offsets": {
+				"from": 2277000,
+				"to": 2284000
+			},
+			"text": " When we interact with God's word, does it enlighten and convict and encourage us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,000",
+				"to": "00:38:05,000"
+			},
+			"offsets": {
+				"from": 2284000,
+				"to": 2285000
+			},
+			"text": " Do we view it as good?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,000",
+				"to": "00:38:09,000"
+			},
+			"offsets": {
+				"from": 2285000,
+				"to": 2289000
+			},
+			"text": " And when we communicate God's word to others,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,000",
+				"to": "00:38:15,000"
+			},
+			"offsets": {
+				"from": 2289000,
+				"to": 2295000
+			},
+			"text": " do we do so in a way that enlightens, encourages and convicts?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:15,000",
+				"to": "00:38:20,000"
+			},
+			"offsets": {
+				"from": 2295000,
+				"to": 2300000
+			},
+			"text": " If not, we are presenting a shallow or false version of God to those around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:20,000",
+				"to": "00:38:22,000"
+			},
+			"offsets": {
+				"from": 2300000,
+				"to": 2302000
+			},
+			"text": " And I don't have time to get into it a bunch."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,000",
+				"to": "00:38:25,000"
+			},
+			"offsets": {
+				"from": 2302000,
+				"to": 2305000
+			},
+			"text": " I can just give you a couple hints and you'll know."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,000",
+				"to": "00:38:32,000"
+			},
+			"offsets": {
+				"from": 2305000,
+				"to": 2312000
+			},
+			"text": " But there are categories of Christians that only want to share things about God that encourage."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,000",
+				"to": "00:38:46,000"
+			},
+			"offsets": {
+				"from": 2314000,
+				"to": 2326000
+			},
+			"text": " And what I'm going to stand on in my leadership of this church is that we have to be a people that share all of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,000",
+				"to": "00:38:50,000"
+			},
+			"offsets": {
+				"from": 2326000,
+				"to": 2330000
+			},
+			"text": " That we have to be encouraging."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,000",
+				"to": "00:38:55,000"
+			},
+			"offsets": {
+				"from": 2330000,
+				"to": 2335000
+			},
+			"text": " We have to meet people where they are and speak the love of God into their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,000",
+				"to": "00:39:02,000"
+			},
+			"offsets": {
+				"from": 2336000,
+				"to": 2342000
+			},
+			"text": " And yet we have to stand firm on truth when God says things that we don't even understand, that don't make sense to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:02,000",
+				"to": "00:39:04,000"
+			},
+			"offsets": {
+				"from": 2342000,
+				"to": 2344000
+			},
+			"text": " And we're like, God, why this rule?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,000",
+				"to": "00:39:10,000"
+			},
+			"offsets": {
+				"from": 2344000,
+				"to": 2350000
+			},
+			"text": " That we're willing to trust him and invite others to trust him in the same way."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:10,000",
+				"to": "00:39:21,000"
+			},
+			"offsets": {
+				"from": 2350000,
+				"to": 2361000
+			},
+			"text": " David moves from understanding God's language of creation, his language and his word, and this leads him to some time of self-reflection."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,000",
+				"to": "00:39:28,000"
+			},
+			"offsets": {
+				"from": 2362000,
+				"to": 2368000
+			},
+			"text": " He allows God's revelation about himself through creation and through his word to lead him to some self-reflection."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,000",
+				"to": "00:39:36,000"
+			},
+			"offsets": {
+				"from": 2368000,
+				"to": 2376000
+			},
+			"text": " I heard one pastor say that this passage invites us to look up at God's creation, to look down at God's word, and to look in at our own hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,000",
+				"to": "00:39:39,000"
+			},
+			"offsets": {
+				"from": 2376000,
+				"to": 2379000
+			},
+			"text": " Verse 12."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:39,000",
+				"to": "00:39:43,000"
+			},
+			"offsets": {
+				"from": 2379000,
+				"to": 2383000
+			},
+			"text": " But who can discern their own errors?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:43,000",
+				"to": "00:39:46,000"
+			},
+			"offsets": {
+				"from": 2383000,
+				"to": 2386000
+			},
+			"text": " Forgive me, God, for my hidden faults."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:48,000",
+				"to": "00:39:51,000"
+			},
+			"offsets": {
+				"from": 2388000,
+				"to": 2391000
+			},
+			"text": " Keep your servant also from willful sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,000",
+				"to": "00:39:53,000"
+			},
+			"offsets": {
+				"from": 2391000,
+				"to": 2393000
+			},
+			"text": " May they not rule over me."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,000",
+				"to": "00:39:57,000"
+			},
+			"offsets": {
+				"from": 2393000,
+				"to": 2397000
+			},
+			"text": " Then I will be blameless and innocent of great transgression."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,000",
+				"to": "00:39:59,000"
+			},
+			"offsets": {
+				"from": 2397000,
+				"to": 2399000
+			},
+			"text": " He ends with this incredible prayer of reflection."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:59,000",
+				"to": "00:40:06,000"
+			},
+			"offsets": {
+				"from": 2399000,
+				"to": 2406000
+			},
+			"text": " May these words of my mouth and the meditations of my heart be pleasing in your sight, Lord, my rock and my redeemer."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:10,000",
+				"to": "00:40:21,000"
+			},
+			"offsets": {
+				"from": 2410000,
+				"to": 2421000
+			},
+			"text": " Because God has made his wisdom, his power and his beauty known to us through creation, because his word enlightens, encourages and convicts, we should surrender our lives to his leadership."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,000",
+				"to": "00:40:25,000"
+			},
+			"offsets": {
+				"from": 2421000,
+				"to": 2425000
+			},
+			"text": " That's what David is wrestling with here in this last section."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,000",
+				"to": "00:40:30,000"
+			},
+			"offsets": {
+				"from": 2426000,
+				"to": 2430000
+			},
+			"text": " But he knows firsthand experience that it isn't as easy as it sounds in a poem."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:30,000",
+				"to": "00:40:33,000"
+			},
+			"offsets": {
+				"from": 2430000,
+				"to": 2433000
+			},
+			"text": " We are broken people."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:33,000",
+				"to": "00:40:38,000"
+			},
+			"offsets": {
+				"from": 2433000,
+				"to": 2438000
+			},
+			"text": " So David says here, God, I sin and I don't even realize that I'm sinning."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,000",
+				"to": "00:40:41,000"
+			},
+			"offsets": {
+				"from": 2438000,
+				"to": 2441000
+			},
+			"text": " Reveal that to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,000",
+				"to": "00:40:45,000"
+			},
+			"offsets": {
+				"from": 2441000,
+				"to": 2445000
+			},
+			"text": " Show me the ways in which I am rebelling against you without my knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,000",
+				"to": "00:40:50,000"
+			},
+			"offsets": {
+				"from": 2445000,
+				"to": 2450000
+			},
+			"text": " Forgive me of that and give me the ability to quit it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:51,000",
+				"to": "00:40:56,000"
+			},
+			"offsets": {
+				"from": 2451000,
+				"to": 2456000
+			},
+			"text": " And then he moves on and he says, and then there's some sins like that I know for a fact are sins and I keep doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:56,000",
+				"to": "00:41:02,000"
+			},
+			"offsets": {
+				"from": 2456000,
+				"to": 2462000
+			},
+			"text": " Any of us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:02,000",
+				"to": "00:41:07,000"
+			},
+			"offsets": {
+				"from": 2462000,
+				"to": 2467000
+			},
+			"text": " Any of us so broken, so rebellion that we're sinning and we don't even realize it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:07,000",
+				"to": "00:41:16,000"
+			},
+			"offsets": {
+				"from": 2467000,
+				"to": 2476000
+			},
+			"text": " Any of us so stubborn that we know we're sinning and we keep doing it even though we know it's killing us and those around us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:17,000",
+				"to": "00:41:24,000"
+			},
+			"offsets": {
+				"from": 2477000,
+				"to": 2484000
+			},
+			"text": " What David comes to reflect on, he says, God, may the meditations of my heart, may the words of my mouth be pleasing to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:24,000",
+				"to": "00:41:27,000"
+			},
+			"offsets": {
+				"from": 2484000,
+				"to": 2487000
+			},
+			"text": " May I realize the sins that I'm committing that I don't know about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,000",
+				"to": "00:41:33,000"
+			},
+			"offsets": {
+				"from": 2487000,
+				"to": 2493000
+			},
+			"text": " And may I repent and have victory over the sins that I do know about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:33,000",
+				"to": "00:41:38,000"
+			},
+			"offsets": {
+				"from": 2493000,
+				"to": 2498000
+			},
+			"text": " God's word and his creation should lead us to some self-reflection."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,000",
+				"to": "00:41:49,000"
+			},
+			"offsets": {
+				"from": 2501000,
+				"to": 2509000
+			},
+			"text": " God's word and his creation should lead us to some repentance."
+		}
+	]
+}

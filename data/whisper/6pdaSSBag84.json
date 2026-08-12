@@ -1,0 +1,4751 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:21,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 21080
+			},
+			"text": " Well, good morning. Thanks for coming. It's good to see you again. My name is Ryan and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,080",
+				"to": "00:00:26,900"
+			},
+			"offsets": {
+				"from": 21080,
+				"to": 26900
+			},
+			"text": " privilege of being one of the pastors here. And I am so pumped to dive back into the book"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,900",
+				"to": "00:00:31,500"
+			},
+			"offsets": {
+				"from": 26900,
+				"to": 31500
+			},
+			"text": " of Daniel as we have just been going chapter by chapter through the book of Daniel. If"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,500",
+				"to": "00:00:36,320"
+			},
+			"offsets": {
+				"from": 31500,
+				"to": 36320
+			},
+			"text": " you are newer here, I'm going to do a quick review so that we all get on the same page,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,320",
+				"to": "00:00:40,800"
+			},
+			"offsets": {
+				"from": 36320,
+				"to": 40800
+			},
+			"text": " let you know where we're going to go for the rest of this series. Then we'll pray and we"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,800",
+				"to": "00:00:45,860"
+			},
+			"offsets": {
+				"from": 40800,
+				"to": 45860
+			},
+			"text": " will dive into the book. But up front, I want to celebrate something awesome. Maybe some"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,860",
+				"to": "00:00:49,780"
+			},
+			"offsets": {
+				"from": 45860,
+				"to": 49780
+			},
+			"text": " of you noticed and maybe some of you didn't. Did you see that we had a new member on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,780",
+				"to": "00:00:56,540"
+			},
+			"offsets": {
+				"from": 49780,
+				"to": 56540
+			},
+			"text": " worship team that just about met the minimum height requirement? You know, I used to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,540",
+				"to": "00:01:00,540"
+			},
+			"offsets": {
+				"from": 56540,
+				"to": 60540
+			},
+			"text": " a mentor that always said that kids are not the church of tomorrow, they're the church"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,540",
+				"to": "00:01:05,100"
+			},
+			"offsets": {
+				"from": 60540,
+				"to": 65100
+			},
+			"text": " of today. And I just thought that was so awesome to see her hop in and serve our church like"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,100",
+				"to": "00:01:10,420"
+			},
+			"offsets": {
+				"from": 65100,
+				"to": 70420
+			},
+			"text": " that. So that's really cool. So where we've been in the book of Daniel, throughout this"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,420",
+				"to": "00:01:15,700"
+			},
+			"offsets": {
+				"from": 70420,
+				"to": 75700
+			},
+			"text": " series, we've said that the Bible isn't just about what happened, but it's about what always"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,700",
+				"to": "00:01:20,160"
+			},
+			"offsets": {
+				"from": 75700,
+				"to": 80160
+			},
+			"text": " happens. And what we mean when we say that is we believe that Daniel is a real historical"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,160",
+				"to": "00:01:25,680"
+			},
+			"offsets": {
+				"from": 80160,
+				"to": 85680
+			},
+			"text": " character, that he lived a real historical life in and around the nation of Babylon. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,680",
+				"to": "00:01:30,240"
+			},
+			"offsets": {
+				"from": 85680,
+				"to": 90240
+			},
+			"text": " we believe that Babylon is a real place. And all of these things actually happened. But we also"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,240",
+				"to": "00:01:35,980"
+			},
+			"offsets": {
+				"from": 90240,
+				"to": 95980
+			},
+			"text": " believe that God preserved this story for us, because it teaches us something about ourselves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,980",
+				"to": "00:01:43,240"
+			},
+			"offsets": {
+				"from": 95980,
+				"to": 103240
+			},
+			"text": " right? We believe that the enemy works throughout secular cultures from the beginning up until now."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,240",
+				"to": "00:01:48,820"
+			},
+			"offsets": {
+				"from": 103240,
+				"to": 108820
+			},
+			"text": " And oftentimes the Bible refers to secular culture as Babylon, right? Like the enemy is working"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,820",
+				"to": "00:01:56,780"
+			},
+			"offsets": {
+				"from": 108820,
+				"to": 116780
+			},
+			"text": " behind secular culture to get people to not live for God's hands, but to live for the world. And so as we"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,780",
+				"to": "00:02:02,380"
+			},
+			"offsets": {
+				"from": 116780,
+				"to": 122380
+			},
+			"text": " look at the book of Daniel, yes, we're looking at a real figure, but we're also looking at somebody"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,380",
+				"to": "00:02:08,940"
+			},
+			"offsets": {
+				"from": 122380,
+				"to": 128940
+			},
+			"text": " that we can follow the example of, right? The book of Daniel was written to inspire hope in the hearts of"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,940",
+				"to": "00:02:14,580"
+			},
+			"offsets": {
+				"from": 128940,
+				"to": 134580
+			},
+			"text": " believers in every generation that just as Daniel and his friends were able to be faithful in the midst"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,580",
+				"to": "00:02:21,800"
+			},
+			"offsets": {
+				"from": 134580,
+				"to": 141800
+			},
+			"text": " of a secular culture that was trying to get them to live for lesser things than if we can follow his"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,800",
+				"to": "00:02:29,340"
+			},
+			"offsets": {
+				"from": 141800,
+				"to": 149340
+			},
+			"text": " example. But his example is just a shadow of Jesus that ultimately we have characters like Daniel to point"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,340",
+				"to": "00:02:37,380"
+			},
+			"offsets": {
+				"from": 149340,
+				"to": 157380
+			},
+			"text": " us to the ultimate example of faithfulness in Jesus, that we can overcome the enemy, that we can have an"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,380",
+				"to": "00:02:42,260"
+			},
+			"offsets": {
+				"from": 157380,
+				"to": 162260
+			},
+			"text": " influence in secular culture because of who Jesus is and what he's done. That's what we've looked at all"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,260",
+				"to": "00:02:48,020"
+			},
+			"offsets": {
+				"from": 162260,
+				"to": 168020
+			},
+			"text": " throughout the book. And this week we're going to wrap up the narrative section of this book with probably"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,020",
+				"to": "00:02:52,980"
+			},
+			"offsets": {
+				"from": 168020,
+				"to": 172980
+			},
+			"text": " the most famous story in the book of Daniel. Even if you did not grow up going to church, you've probably"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,980",
+				"to": "00:02:58,880"
+			},
+			"offsets": {
+				"from": 172980,
+				"to": 178880
+			},
+			"text": " heard about Daniel and the lion's den. So the first six chapters of the book of Daniel are the narrative"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,880",
+				"to": "00:03:05,460"
+			},
+			"offsets": {
+				"from": 178880,
+				"to": 185460
+			},
+			"text": " story. They, they, they get us from how Daniel got activity in Babylon at a young age all the way up"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,460",
+				"to": "00:03:12,920"
+			},
+			"offsets": {
+				"from": 185460,
+				"to": 192920
+			},
+			"text": " until now. He is a old 80 year old man in Babylon and Babylon has been taken over by the Medes and the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,920",
+				"to": "00:03:18,260"
+			},
+			"offsets": {
+				"from": 192920,
+				"to": 198260
+			},
+			"text": " Persians. And this is kind of the end of the narrative section. And then next week we're going to wrap up"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,260",
+				"to": "00:03:24,020"
+			},
+			"offsets": {
+				"from": 198260,
+				"to": 204020
+			},
+			"text": " the whole series with which if you're familiar with the Bible, you know, there's six more chapters in"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,020",
+				"to": "00:03:27,560"
+			},
+			"offsets": {
+				"from": 204020,
+				"to": 207560
+			},
+			"text": " Daniel. You're like, you're going to preach six chapters in one week. We're going to pack a lunch,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,560",
+				"to": "00:03:33,700"
+			},
+			"offsets": {
+				"from": 207560,
+				"to": 213700
+			},
+			"text": " right? Um, so the, the last six chapters are about prophecy and end times. And so I'm just going to"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,700",
+				"to": "00:03:38,960"
+			},
+			"offsets": {
+				"from": 213700,
+				"to": 218960
+			},
+			"text": " summarize all of that in one week here in this with Michelle this week. She said, sick, you're going"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,960",
+				"to": "00:03:45,540"
+			},
+			"offsets": {
+				"from": 218960,
+				"to": 225540
+			},
+			"text": " to preach on the end times on Halloween. And I was, she was like, you guys plan that? No, we didn't. Um,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,540",
+				"to": "00:03:48,960"
+			},
+			"offsets": {
+				"from": 225540,
+				"to": 228960
+			},
+			"text": " but it's awesome. We're going to preach on the end times on Halloween. It's going to be great."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,300",
+				"to": "00:03:54,640"
+			},
+			"offsets": {
+				"from": 229300,
+				"to": 234640
+			},
+			"text": " Um, so that's kind of where we are headed for the rest of this series. Let me pray and then we'll hop"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,640",
+				"to": "00:04:00,540"
+			},
+			"offsets": {
+				"from": 234640,
+				"to": 240540
+			},
+			"text": " into our texts and walk through it this morning. Father, we are so grateful, um, for the lessons that"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,540",
+				"to": "00:04:04,940"
+			},
+			"offsets": {
+				"from": 240540,
+				"to": 244940
+			},
+			"text": " we've learned through the book of Daniel up until this point. We're thankful for Daniel, who is a"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,940",
+				"to": "00:04:10,680"
+			},
+			"offsets": {
+				"from": 244940,
+				"to": 250680
+			},
+			"text": " historical figure who lived a faithful life in the midst of persecution, in the midst of suffering,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,760",
+				"to": "00:04:19,720"
+			},
+			"offsets": {
+				"from": 250760,
+				"to": 259720
+			},
+			"text": " in the midst of difficulty, he stood, um, for truth. He was faithful and his faithfulness is an example,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,720",
+				"to": "00:04:26,780"
+			},
+			"offsets": {
+				"from": 259720,
+				"to": 266780
+			},
+			"text": " a shadow of ultimately the perfect faithfulness of Jesus, who you sent to give us an example of how to"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,780",
+				"to": "00:04:32,960"
+			},
+			"offsets": {
+				"from": 266780,
+				"to": 272960
+			},
+			"text": " live our lives. God, help us to see Jesus through the book of Daniel this morning. Help us to understand"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,960",
+				"to": "00:04:40,000"
+			},
+			"offsets": {
+				"from": 272960,
+				"to": 280000
+			},
+			"text": " how we should live in light of who Jesus is and what he's done moving forward. It's in Jesus name."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,000",
+				"to": "00:04:46,420"
+			},
+			"offsets": {
+				"from": 280000,
+				"to": 286420
+			},
+			"text": " I pray. Amen. Well, if you have your Bibles, I'd love to have you turn to Daniel chapter six,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,420",
+				"to": "00:04:52,920"
+			},
+			"offsets": {
+				"from": 286420,
+				"to": 292920
+			},
+			"text": " uh, flipping pages or opening up your apps, um, to get to Daniel chapter six. That'd be great. As you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,920",
+				"to": "00:04:58,740"
+			},
+			"offsets": {
+				"from": 292920,
+				"to": 298740
+			},
+			"text": " turning there, um, a little bit of participation from the audience. Uh, how many of you would say"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,740",
+				"to": "00:05:06,500"
+			},
+			"offsets": {
+				"from": 298740,
+				"to": 306500
+			},
+			"text": " that you regularly, um, have your finances on a budget with margin? If you have a budget and that"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,500",
+				"to": "00:05:11,460"
+			},
+			"offsets": {
+				"from": 306500,
+				"to": 311460
+			},
+			"text": " budget includes margin, do me a favor, raise your hand. I will raise my hand and then put it down and"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,460",
+				"to": "00:05:16,720"
+			},
+			"offsets": {
+				"from": 311460,
+				"to": 316720
+			},
+			"text": " then put it back up again, because sometimes I do this well. Uh, sometimes I don't do this so well."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,720",
+				"to": "00:05:21,280"
+			},
+			"offsets": {
+				"from": 316720,
+				"to": 321280
+			},
+			"text": " My wife and I went through a Dave Ramsey course, not too many years ago and we got on track and things"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,280",
+				"to": "00:05:26,840"
+			},
+			"offsets": {
+				"from": 321280,
+				"to": 326840
+			},
+			"text": " were great. And then I like nice things and I don't make a lot of money. So in order to buy nice"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,840",
+				"to": "00:05:30,580"
+			},
+			"offsets": {
+				"from": 326840,
+				"to": 330580
+			},
+			"text": " things, there's not always the most margin in my budget, but you know, we'll, we'll figure it out"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,580",
+				"to": "00:05:36,140"
+			},
+			"offsets": {
+				"from": 330580,
+				"to": 336140
+			},
+			"text": " one of these days. Um, but here's the beauty about having a budget with some of you guys are like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,140",
+				"to": "00:05:40,500"
+			},
+			"offsets": {
+				"from": 336140,
+				"to": 340500
+			},
+			"text": " Ryan, I have student loans. There's no such thing as a budget with margins, margins when you have"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,500",
+				"to": "00:05:45,420"
+			},
+			"offsets": {
+				"from": 340500,
+				"to": 345420
+			},
+			"text": " student loans. And I get that. I've been there, done that. Um, but here's the beautiful thing about"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,420",
+				"to": "00:05:50,720"
+			},
+			"offsets": {
+				"from": 345420,
+				"to": 350720
+			},
+			"text": " having a budget with margins is, is you, you live the usual months, right? Like usual months,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,720",
+				"to": "00:05:53,940"
+			},
+			"offsets": {
+				"from": 350720,
+				"to": 353940
+			},
+			"text": " you know how much is going to come in and how much is going to go out for the most part."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,020",
+				"to": "00:05:57,740"
+			},
+			"offsets": {
+				"from": 354020,
+				"to": 357740
+			},
+			"text": " There's some variables in there, but for the most part, you know what usual months look"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,740",
+				"to": "00:06:02,760"
+			},
+			"offsets": {
+				"from": 357740,
+				"to": 362760
+			},
+			"text": " like. And so when you budget with margin during the usual months, what happens when the unusual"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,760",
+				"to": "00:06:09,340"
+			},
+			"offsets": {
+				"from": 362760,
+				"to": 369340
+			},
+			"text": " months come up is you're prepared, you're ready. You know, what's you, you have a pile of finances"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,340",
+				"to": "00:06:16,900"
+			},
+			"offsets": {
+				"from": 369340,
+				"to": 376900
+			},
+			"text": " ready for the unusual times. I say that because I think the overarching point that we're going"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,900",
+				"to": "00:06:21,340"
+			},
+			"offsets": {
+				"from": 376900,
+				"to": 381340
+			},
+			"text": " to come back to all throughout the book of, uh, or all throughout Daniel chapter six is this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,340",
+				"to": "00:06:29,220"
+			},
+			"offsets": {
+				"from": 381340,
+				"to": 389220
+			},
+			"text": " that usual faithfulness to God prepares us for faith, unusual circumstances of life that usual"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,220",
+				"to": "00:06:33,380"
+			},
+			"offsets": {
+				"from": 389220,
+				"to": 393380
+			},
+			"text": " faithfulness to God. So, so, so like budgeting with margin, right? Like, you know, what's coming"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,380",
+				"to": "00:06:38,940"
+			},
+			"offsets": {
+				"from": 393380,
+				"to": 398940
+			},
+			"text": " in, you know, what's going out, but, but you prepare for the unusual time. See, Daniel lived his life in"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,940",
+				"to": "00:06:45,420"
+			},
+			"offsets": {
+				"from": 398940,
+				"to": 405420
+			},
+			"text": " such a way where he was faithful in the regular days. Like he was, he was regularly committed to"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,420",
+				"to": "00:06:50,880"
+			},
+			"offsets": {
+				"from": 405420,
+				"to": 410880
+			},
+			"text": " building his life on a relationship with the one true and living God. He did that day in and day out"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,880",
+				"to": "00:06:58,160"
+			},
+			"offsets": {
+				"from": 410880,
+				"to": 418160
+			},
+			"text": " consistently during regular times. So that when hard times come, when unusual times come, he was ready,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,160",
+				"to": "00:07:02,640"
+			},
+			"offsets": {
+				"from": 418160,
+				"to": 422640
+			},
+			"text": " he was prepared. We're going to keep coming back to this point. As we go throughout the book of Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,640",
+				"to": "00:07:09,580"
+			},
+			"offsets": {
+				"from": 422640,
+				"to": 429580
+			},
+			"text": " chapter six, we're going to see that usual faithfulness to God prepares us for faithfulness"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,580",
+				"to": "00:07:16,600"
+			},
+			"offsets": {
+				"from": 429580,
+				"to": 436600
+			},
+			"text": " in unusual circumstances. Look with me in Daniel chapter six, starting in verse one says Darius,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,600",
+				"to": "00:07:21,720"
+			},
+			"offsets": {
+				"from": 436600,
+				"to": 441720
+			},
+			"text": " the Mede decided to divide the kingdom into 120 provinces. So last week we ended it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,720",
+				"to": "00:07:28,200"
+			},
+			"offsets": {
+				"from": 441720,
+				"to": 448200
+			},
+			"text": " King Nebuchadnezzar's grandson, Bells are, um, not Belshazzar. What is it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,400",
+				"to": "00:07:39,140"
+			},
+			"offsets": {
+				"from": 450400,
+				"to": 459140
+			},
+			"text": " Is that right? All right. His grandson, Belshazzar, um, did some bad things and ultimately God decided"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,140",
+				"to": "00:07:44,700"
+			},
+			"offsets": {
+				"from": 459140,
+				"to": 464700
+			},
+			"text": " to take the kingdom away from him. And that very night, the Medes and the Persians marched in under"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,700",
+				"to": "00:07:49,820"
+			},
+			"offsets": {
+				"from": 464700,
+				"to": 469820
+			},
+			"text": " the walls. They dammed up the river and marched in under the walls. And now, uh, Daniel finds himself"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,820",
+				"to": "00:07:55,520"
+			},
+			"offsets": {
+				"from": 469820,
+				"to": 475520
+			},
+			"text": " yet again under the leadership of a Darius, the Mede. He decided to divide the kingdoms into 120"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,520",
+				"to": "00:08:02,300"
+			},
+			"offsets": {
+				"from": 475520,
+				"to": 482300
+			},
+			"text": " provinces and he appointed a high officer to rule each province. The king also chose Daniel and two"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,300",
+				"to": "00:08:07,160"
+			},
+			"offsets": {
+				"from": 482300,
+				"to": 487160
+			},
+			"text": " other administrators to supervise the high officers and to protect the king's interests. So you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,160",
+				"to": "00:08:15,700"
+			},
+			"offsets": {
+				"from": 487160,
+				"to": 495700
+			},
+			"text": " imagine, um, Babylon was a nation run by power, right? The rule of law was power and military force. And now"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,700",
+				"to": "00:08:21,420"
+			},
+			"offsets": {
+				"from": 495700,
+				"to": 501420
+			},
+			"text": " the Medes and the Persians are going to come in and they are a government run by the rule of law. And so what we"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,420",
+				"to": "00:08:26,360"
+			},
+			"offsets": {
+				"from": 501420,
+				"to": 506360
+			},
+			"text": " have here is he's kind of setting up 120 different judges all throughout the land. And then he's going"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,360",
+				"to": "00:08:31,800"
+			},
+			"offsets": {
+				"from": 506360,
+				"to": 511800
+			},
+			"text": " to appoint Daniel and two other people as the Supreme court. So this is kind of how the government's"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,800",
+				"to": "00:08:35,600"
+			},
+			"offsets": {
+				"from": 511800,
+				"to": 515600
+			},
+			"text": " going to work, right? There's 120 judges, just like America has a bunch of different local and district"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,600",
+				"to": "00:08:42,520"
+			},
+			"offsets": {
+				"from": 515600,
+				"to": 522520
+			},
+			"text": " courts. And then over those district courts are the Supreme courts. So, um, Darius, the Mede sets this"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,520",
+				"to": "00:08:48,260"
+			},
+			"offsets": {
+				"from": 522520,
+				"to": 528260
+			},
+			"text": " up. There's 120 judges. And then Daniel finds himself being one of the Supreme judges, which is pretty"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,260",
+				"to": "00:08:54,880"
+			},
+			"offsets": {
+				"from": 528260,
+				"to": 534880
+			},
+			"text": " epic. If you think about it, he's an old man at this point. Um, and it says Daniel soon proved himself"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,880",
+				"to": "00:09:00,680"
+			},
+			"offsets": {
+				"from": 534880,
+				"to": 540680
+			},
+			"text": " more capable than all the other administrators and high officers because of Daniel's great ability."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,680",
+				"to": "00:09:09,040"
+			},
+			"offsets": {
+				"from": 540680,
+				"to": 549040
+			},
+			"text": " The King made plans to place him over the entire empire. Then listen to this, the other administrators"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,040",
+				"to": "00:09:15,220"
+			},
+			"offsets": {
+				"from": 549040,
+				"to": 555220
+			},
+			"text": " and high officers, they began searching for some fault in the way that Daniel was handling his government"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,220",
+				"to": "00:09:24,440"
+			},
+			"offsets": {
+				"from": 555220,
+				"to": 564440
+			},
+			"text": " affairs, but they couldn't find anything to criticize or condemn. So Darius, the Daniel is so good at his"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,440",
+				"to": "00:09:28,880"
+			},
+			"offsets": {
+				"from": 564440,
+				"to": 568880
+			},
+			"text": " job. I'm going to find a way to even promote him above being one of the three Supreme court judges."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,880",
+				"to": "00:09:34,840"
+			},
+			"offsets": {
+				"from": 568880,
+				"to": 574840
+			},
+			"text": " It's going to be me, Daniel, and then the Supreme court justices, and then the 120 judges. And obviously"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,840",
+				"to": "00:09:39,300"
+			},
+			"offsets": {
+				"from": 574840,
+				"to": 579300
+			},
+			"text": " his coworkers are not so thrilled about this because he's not even a part of their nation, right? Like"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,300",
+				"to": "00:09:44,380"
+			},
+			"offsets": {
+				"from": 579300,
+				"to": 584380
+			},
+			"text": " he's an exile from, uh, Jerusalem and he's not even a part of the Medes and the Persians and he's going"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,380",
+				"to": "00:09:49,000"
+			},
+			"offsets": {
+				"from": 584380,
+				"to": 589000
+			},
+			"text": " to be number two in command. They don't like this. So they look for a way, um, to figure out how to get"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,000",
+				"to": "00:09:57,680"
+			},
+			"offsets": {
+				"from": 589000,
+				"to": 597680
+			},
+			"text": " him in trouble and they can't. Um, and then it says verse four, it says Daniel was handling the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,680",
+				"to": "00:10:02,600"
+			},
+			"offsets": {
+				"from": 597680,
+				"to": 602600
+			},
+			"text": " government affairs, but they couldn't find anything to criticize or condemn. Why? He was faithful,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,360",
+				"to": "00:10:08,380"
+			},
+			"offsets": {
+				"from": 603360,
+				"to": 608380
+			},
+			"text": " always responsible and completely trustworthy. If you write in your Bible, I'd love to encourage you"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,380",
+				"to": "00:10:15,020"
+			},
+			"offsets": {
+				"from": 608380,
+				"to": 615020
+			},
+			"text": " to circle, highlight, underline. Daniel was faithful. Daniel was always responsible and he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,020",
+				"to": "00:10:20,820"
+			},
+			"offsets": {
+				"from": 615020,
+				"to": 620820
+			},
+			"text": " completely trustworthy. So they concluded our only chance of finding grounds for accusing Daniel will"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,820",
+				"to": "00:10:25,360"
+			},
+			"offsets": {
+				"from": 620820,
+				"to": 625360
+			},
+			"text": " be in connection with the rules of his religion. If we're going to get him in trouble, we've got to"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,360",
+				"to": "00:10:31,960"
+			},
+			"offsets": {
+				"from": 625360,
+				"to": 631960
+			},
+			"text": " attack his faith in God because that's the one thing. That's the one place he's susceptible to an attack."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,960",
+				"to": "00:10:38,520"
+			},
+			"offsets": {
+				"from": 631960,
+				"to": 638520
+			},
+			"text": " So the administrators and high officers went to the King and said, long live King Darius. Listen to this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,520",
+				"to": "00:10:43,900"
+			},
+			"offsets": {
+				"from": 638520,
+				"to": 643900
+			},
+			"text": " We are all in agreement. Is everybody in agreement? We'll find out here in a second. We are all in"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,900",
+				"to": "00:10:49,620"
+			},
+			"offsets": {
+				"from": 643900,
+				"to": 649620
+			},
+			"text": " agreement. We administrators, officials, high officers, advisors, and governors that the King make a law that"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,620",
+				"to": "00:10:56,500"
+			},
+			"offsets": {
+				"from": 649620,
+				"to": 656500
+			},
+			"text": " will be strictly enforced. Give orders that for the next 30 days, any, any person who prays to anyone,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,500",
+				"to": "00:11:04,220"
+			},
+			"offsets": {
+				"from": 656500,
+				"to": 664220
+			},
+			"text": " divine or human, except for you, your majesty will be thrown into the den of wine to King Darius. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,220",
+				"to": "00:11:08,400"
+			},
+			"offsets": {
+				"from": 664220,
+				"to": 668400
+			},
+			"text": " they lie to him. They say all the administrators. Well, Daniel is one of the administrators, and I don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,400",
+				"to": "00:11:13,820"
+			},
+			"offsets": {
+				"from": 668400,
+				"to": 673820
+			},
+			"text": " think he signed off on this rule, but they say, all of us are in agreement. We think you're so good at"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,820",
+				"to": "00:11:19,900"
+			},
+			"offsets": {
+				"from": 673820,
+				"to": 679900
+			},
+			"text": " being King. Like you're so epic. You're pretty much God. So why don't you make a decree that for the next"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,900",
+				"to": "00:11:29,580"
+			},
+			"offsets": {
+				"from": 679900,
+				"to": 689580
+			},
+			"text": " 30 days, nobody's allowed to pray to anyone except for you. So King Darius signed the law. But when"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,580",
+				"to": "00:11:36,740"
+			},
+			"offsets": {
+				"from": 689580,
+				"to": 696740
+			},
+			"text": " Daniel learned that the law had been signed, he went home, knelt down again. If you write in your Bible,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,740",
+				"to": "00:11:44,280"
+			},
+			"offsets": {
+				"from": 696740,
+				"to": 704280
+			},
+			"text": " circle, highlight, underline, as usual, in his upstairs room, with his windows open towards"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:44,280",
+				"to": "00:11:53,120"
+			},
+			"offsets": {
+				"from": 704280,
+				"to": 713120
+			},
+			"text": " Jerusalem, he prayed three times a day, just as he had always done, giving thanks to his God."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,120",
+				"to": "00:12:01,460"
+			},
+			"offsets": {
+				"from": 713120,
+				"to": 721460
+			},
+			"text": " Daniel's life was built on the usualness to God. No matter what circumstances he found himself in,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,460",
+				"to": "00:12:08,380"
+			},
+			"offsets": {
+				"from": 721460,
+				"to": 728380
+			},
+			"text": " all throughout his life, his life was built on these principles. He usually got down on his knees"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,380",
+				"to": "00:12:13,640"
+			},
+			"offsets": {
+				"from": 728380,
+				"to": 733640
+			},
+			"text": " three times a day and prayed. He was so consistent. He was so faithful with these practices that his"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,640",
+				"to": "00:12:18,840"
+			},
+			"offsets": {
+				"from": 733640,
+				"to": 738840
+			},
+			"text": " enemies, these other administrators knew. They knew for a fact that if they didn't agree that he couldn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,840",
+				"to": "00:12:25,200"
+			},
+			"offsets": {
+				"from": 738840,
+				"to": 745200
+			},
+			"text": " pray to God, that he would be there praying to God. Daniel built his life on faithfulness to God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,200",
+				"to": "00:12:30,160"
+			},
+			"offsets": {
+				"from": 745200,
+				"to": 750160
+			},
+			"text": " unusual times, and that prepared him to be faithful even in unusual times when he found himself under"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,160",
+				"to": "00:12:34,980"
+			},
+			"offsets": {
+				"from": 750160,
+				"to": 754980
+			},
+			"text": " spiritual attack, when he found himself under the difficulties of life, when he found himself being"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,980",
+				"to": "00:12:40,900"
+			},
+			"offsets": {
+				"from": 754980,
+				"to": 760900
+			},
+			"text": " persecuted by a secular government that didn't value the same things he valued because of his"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,900",
+				"to": "00:12:47,280"
+			},
+			"offsets": {
+				"from": 760900,
+				"to": 767280
+			},
+			"text": " faithfulness in usual times. He found himself prepared and ready to be faithful in unusual times. See,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,280",
+				"to": "00:12:53,060"
+			},
+			"offsets": {
+				"from": 767280,
+				"to": 773060
+			},
+			"text": " Daniel's life was a roller coaster. He found himself employed by different forms of government,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,060",
+				"to": "00:12:58,660"
+			},
+			"offsets": {
+				"from": 773060,
+				"to": 778660
+			},
+			"text": " in slavery, out of slavery, in positions of employment, in retirement and out of retirement. Daniel's life"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,660",
+				"to": "00:13:05,700"
+			},
+			"offsets": {
+				"from": 778660,
+				"to": 785700
+			},
+			"text": " was up and down and all around. He lived in captivity to a foreign nation and found himself in all kinds of"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,700",
+				"to": "00:13:11,340"
+			},
+			"offsets": {
+				"from": 785700,
+				"to": 791340
+			},
+			"text": " different circumstances. But at the end of all of it, the Bible says that he was known for his"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,340",
+				"to": "00:13:21,220"
+			},
+			"offsets": {
+				"from": 791340,
+				"to": 801220
+			},
+			"text": " faithfulness, his responsibility, and his trustworthiness. See, we can be tempted to read stories like this"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,220",
+				"to": "00:13:28,260"
+			},
+			"offsets": {
+				"from": 801220,
+				"to": 808260
+			},
+			"text": " and think that Daniel is some kind of superhuman spiritual being that the angels just carried into"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,260",
+				"to": "00:13:34,340"
+			},
+			"offsets": {
+				"from": 808260,
+				"to": 814340
+			},
+			"text": " Babylon so that he could perfectly fulfill his responsibility. But what we got to get back to"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,340",
+				"to": "00:13:41,460"
+			},
+			"offsets": {
+				"from": 814340,
+				"to": 821460
+			},
+			"text": " is this. Daniel's a real person with real struggles. Daniel had a really difficult life."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,540",
+				"to": "00:13:49,320"
+			},
+			"offsets": {
+				"from": 823540,
+				"to": 829320
+			},
+			"text": " And we read a couple of these epic stories in the book of Daniel and see how God used Daniel in some"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,320",
+				"to": "00:13:54,880"
+			},
+			"offsets": {
+				"from": 829320,
+				"to": 834880
+			},
+			"text": " miraculous ways. But the reality is Daniel was just a normal person, an ordinary guy who regularly"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,880",
+				"to": "00:14:00,560"
+			},
+			"offsets": {
+				"from": 834880,
+				"to": 840560
+			},
+			"text": " decided to be faithful in usual circumstances, which prepared him for faithfulness in unusual"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,560",
+				"to": "00:14:09,200"
+			},
+			"offsets": {
+				"from": 840560,
+				"to": 849200
+			},
+			"text": " circumstances. Like the Daniel we see. The Daniel we see responding to these dreams and this is a Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,200",
+				"to": "00:14:18,480"
+			},
+			"offsets": {
+				"from": 849200,
+				"to": 858480
+			},
+			"text": " that is just faithful to God in ordinary situations. Daniel's reputation to the watching world was not built"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,480",
+				"to": "00:14:26,560"
+			},
+			"offsets": {
+				"from": 858480,
+				"to": 866560
+			},
+			"text": " around his personality type, his job title, his family of origin, or anything else temporary. Daniel's reputation to"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,560",
+				"to": "00:14:32,080"
+			},
+			"offsets": {
+				"from": 866560,
+				"to": 872080
+			},
+			"text": " the watching world was built on his personal relationship with the one true and living God. These other"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,080",
+				"to": "00:14:37,120"
+			},
+			"offsets": {
+				"from": 872080,
+				"to": 877120
+			},
+			"text": " administrators, his enemies, the people that wanted to see him gone, they knew that the reason he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,120",
+				"to": "00:14:43,760"
+			},
+			"offsets": {
+				"from": 877120,
+				"to": 883760
+			},
+			"text": " faithful, the reason he was trustworthy, was because of his religion. See that in in verse uh five they say"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,760",
+				"to": "00:14:49,200"
+			},
+			"offsets": {
+				"from": 883760,
+				"to": 889200
+			},
+			"text": " the only chance we find of having grounds to accuse Daniel will be in connection with the rules of his"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,200",
+				"to": "00:14:53,680"
+			},
+			"offsets": {
+				"from": 889200,
+				"to": 893680
+			},
+			"text": " religion. He was such a faithful guy that they knew the only way they would get him in trouble"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,680",
+				"to": "00:15:00,480"
+			},
+			"offsets": {
+				"from": 895680,
+				"to": 900480
+			},
+			"text": " is when it comes to the scriptures. The other administrators knew they could only charge Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,480",
+				"to": "00:15:07,200"
+			},
+			"offsets": {
+				"from": 900480,
+				"to": 907200
+			},
+			"text": " by lying. Like he was so faithful. He was such a good dude that the only way they could get him"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,200",
+				"to": "00:15:12,560"
+			},
+			"offsets": {
+				"from": 907200,
+				"to": 912560
+			},
+			"text": " in trouble was by lying. Does that make any of you feel less than? Because I'm sure people could find"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,560",
+				"to": "00:15:17,040"
+			},
+			"offsets": {
+				"from": 912560,
+				"to": 917040
+			},
+			"text": " some things in my life to point to and say that guy should not be in charge because of this or that."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,040",
+				"to": "00:15:21,600"
+			},
+			"offsets": {
+				"from": 917040,
+				"to": 921600
+			},
+			"text": " Like if I was running for office and they did the whole um what do they do when they go in and they"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,600",
+				"to": "00:15:26,240"
+			},
+			"offsets": {
+				"from": 921600,
+				"to": 926240
+			},
+			"text": " look through every area of your life for like the last 30 years. If they found my twitter feed if I"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,240",
+				"to": "00:15:29,840"
+			},
+			"offsets": {
+				"from": 926240,
+				"to": 929840
+			},
+			"text": " had one right I'm sure there would be a tweet somewhere that they could accuse me of but Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,840",
+				"to": "00:15:34,720"
+			},
+			"offsets": {
+				"from": 929840,
+				"to": 934720
+			},
+			"text": " didn't have that. He didn't have that because he was faithful and because twitter didn't exist which"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,720",
+				"to": "00:15:42,240"
+			},
+			"offsets": {
+				"from": 934720,
+				"to": 942240
+			},
+			"text": " you know might be good for all of us. But this reminds me of a passage in Galatians chapter five"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,240",
+				"to": "00:15:46,240"
+			},
+			"offsets": {
+				"from": 942240,
+				"to": 946240
+			},
+			"text": " that a lot of us might be familiar with. If you grew up in Sunday school maybe you sang a song"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,240",
+				"to": "00:15:50,160"
+			},
+			"offsets": {
+				"from": 946240,
+				"to": 950160
+			},
+			"text": " about it. The the fruits of the spirit. Anybody familiar with the fruits of the spirit? Some of"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,160",
+				"to": "00:15:54,480"
+			},
+			"offsets": {
+				"from": 950160,
+				"to": 954480
+			},
+			"text": " you guys memorized that passage. I memorized that passage not as a child but as an adult and I didn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,480",
+				"to": "00:16:00,080"
+			},
+			"offsets": {
+				"from": 954480,
+				"to": 960080
+			},
+			"text": " memorize it for the part that we all know but the part at the end right. So the the scriptures say"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,080",
+				"to": "00:16:06,160"
+			},
+			"offsets": {
+				"from": 960080,
+				"to": 966160
+			},
+			"text": " that the fruit of the spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,160",
+				"to": "00:16:11,760"
+			},
+			"offsets": {
+				"from": 966160,
+				"to": 971760
+			},
+			"text": " and self-control. But at the end of that passage it says against these things there is no law."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,800",
+				"to": "00:16:18,720"
+			},
+			"offsets": {
+				"from": 972800,
+				"to": 978720
+			},
+			"text": " And ultimately what Paul's getting at is if our life is built on faithfulness. If the fruit of our"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:18,720",
+				"to": "00:16:23,200"
+			},
+			"offsets": {
+				"from": 978720,
+				"to": 983200
+			},
+			"text": " love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:23,200",
+				"to": "00:16:28,640"
+			},
+			"offsets": {
+				"from": 983200,
+				"to": 988640
+			},
+			"text": " Nobody's going to be able to accuse us of any any wrongdoing. There's no law against loving someone."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,640",
+				"to": "00:16:33,520"
+			},
+			"offsets": {
+				"from": 988640,
+				"to": 993520
+			},
+			"text": " There's no law against being patient with other people. There's no law against being peaceful with"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,520",
+				"to": "00:16:38,720"
+			},
+			"offsets": {
+				"from": 993520,
+				"to": 998720
+			},
+			"text": " other people, right? There's nothing that that our enemies can accuse us of if we're being faithful"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,720",
+				"to": "00:16:43,920"
+			},
+			"offsets": {
+				"from": 998720,
+				"to": 1003920
+			},
+			"text": " to God. And that's where Daniel finds himself. He's so faithful to God that the only way that the"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:43,920",
+				"to": "00:16:47,520"
+			},
+			"offsets": {
+				"from": 1003920,
+				"to": 1007520
+			},
+			"text": " accusers can accuse Daniel of anything is by lying."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,520",
+				"to": "00:16:53,440"
+			},
+			"offsets": {
+				"from": 1007520,
+				"to": 1013440
+			},
+			"text": " Listen to me this morning, please. Do not build your reputation."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,440",
+				"to": "00:17:00,560"
+			},
+			"offsets": {
+				"from": 1013440,
+				"to": 1020560
+			},
+			"text": " Do not build what the what people think about you on the outside. Do not build those things on your"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,560",
+				"to": "00:17:06,160"
+			},
+			"offsets": {
+				"from": 1020560,
+				"to": 1026160
+			},
+			"text": " personality type, on your Enneagram number, on your job title, on your family of origin, on where you came"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,160",
+				"to": "00:17:12,240"
+			},
+			"offsets": {
+				"from": 1026160,
+				"to": 1032240
+			},
+			"text": " from, on what you've done, on the things that you've achieved in your job. Do not build your reputation on"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,240",
+				"to": "00:17:18,000"
+			},
+			"offsets": {
+				"from": 1032240,
+				"to": 1038000
+			},
+			"text": " temporary things. Root your identity and your reputation in your personal relationship with the one true and"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:18,000",
+				"to": "00:17:25,920"
+			},
+			"offsets": {
+				"from": 1038000,
+				"to": 1045920
+			},
+			"text": " living God. Build your reputation. Build your life on faithfulness to God because that never goes away."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,600",
+				"to": "00:17:31,120"
+			},
+			"offsets": {
+				"from": 1047600,
+				"to": 1051120
+			},
+			"text": " This is what Daniel did in season and out of season. He built his life."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,120",
+				"to": "00:17:34,800"
+			},
+			"offsets": {
+				"from": 1051120,
+				"to": 1054800
+			},
+			"text": " How do we do this? How do we build our life"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,800",
+				"to": "00:17:38,480"
+			},
+			"offsets": {
+				"from": 1054800,
+				"to": 1058480
+			},
+			"text": " on an intentional relationship with God? I'd say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:38,480",
+				"to": "00:17:43,680"
+			},
+			"offsets": {
+				"from": 1058480,
+				"to": 1063680
+			},
+			"text": " you know, when I was growing up, we called them spiritual disciplines, holy habits, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,680",
+				"to": "00:17:47,680"
+			},
+			"offsets": {
+				"from": 1063680,
+				"to": 1067680
+			},
+			"text": " And my generation has gotten away from this. We've gotten away from encouraging people to spend"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,680",
+				"to": "00:17:53,360"
+			},
+			"offsets": {
+				"from": 1067680,
+				"to": 1073360
+			},
+			"text": " regular time in the word with God, to spend regular time in worship and prayer. We've gotten away from encouraging"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,360",
+				"to": "00:17:57,200"
+			},
+			"offsets": {
+				"from": 1073360,
+				"to": 1077200
+			},
+			"text": " people to have a journal where they write down things that they're struggling with, where they write down prayer"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,200",
+				"to": "00:18:04,560"
+			},
+			"offsets": {
+				"from": 1077200,
+				"to": 1084560
+			},
+			"text": " requests, where they keep track of things that God is doing in their life. We got away from encouraging"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:04,560",
+				"to": "00:18:08,720"
+			},
+			"offsets": {
+				"from": 1084560,
+				"to": 1088720
+			},
+			"text": " people to have accountability partners. We've gotten away from these things. Why? Because we're afraid"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,720",
+				"to": "00:18:14,960"
+			},
+			"offsets": {
+				"from": 1088720,
+				"to": 1094960
+			},
+			"text": " that they're going to become legalistic, right? Like, I think my generation saw some legalism in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,960",
+				"to": "00:18:19,680"
+			},
+			"offsets": {
+				"from": 1094960,
+				"to": 1099680
+			},
+			"text": " generation before, and so we swung the pendulum and said, we can have this organic, awesome relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,680",
+				"to": "00:18:26,400"
+			},
+			"offsets": {
+				"from": 1099680,
+				"to": 1106400
+			},
+			"text": " with God. And we never have to have any of these rules or regulations or lists. And I get that. I"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,400",
+				"to": "00:18:31,440"
+			},
+			"offsets": {
+				"from": 1106400,
+				"to": 1111440
+			},
+			"text": " understand the heart of that. But I think the reality is the same way you do with your budget."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,440",
+				"to": "00:18:36,080"
+			},
+			"offsets": {
+				"from": 1111440,
+				"to": 1116080
+			},
+			"text": " You sit down each month, you write down, you know, as usual, you know what your monthly schedule looks"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,080",
+				"to": "00:18:41,280"
+			},
+			"offsets": {
+				"from": 1116080,
+				"to": 1121280
+			},
+			"text": " like when money comes in, when it goes out, you know, to prepare for difficult situations in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,280",
+				"to": "00:18:45,200"
+			},
+			"offsets": {
+				"from": 1121280,
+				"to": 1125200
+			},
+			"text": " future. The same should be true with our relationship with God. We know what our daily schedules look like."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,200",
+				"to": "00:18:49,920"
+			},
+			"offsets": {
+				"from": 1125200,
+				"to": 1129920
+			},
+			"text": " We know what our weekly schedules look like. If we're going to prioritize our relationship with God above"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,920",
+				"to": "00:18:55,520"
+			},
+			"offsets": {
+				"from": 1129920,
+				"to": 1135520
+			},
+			"text": " everything else, we should build those things, the usual rhythms of our life. Because here's what I"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,520",
+				"to": "00:19:02,640"
+			},
+			"offsets": {
+				"from": 1135520,
+				"to": 1142640
+			},
+			"text": " know to be true. Unusual times are coming. Difficulty is coming for you. And if you do not have your"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,640",
+				"to": "00:19:07,840"
+			},
+			"offsets": {
+				"from": 1142640,
+				"to": 1147840
+			},
+			"text": " faith, your trust, your identity rooted in your relationship with God, when difficulty comes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,520",
+				"to": "00:19:13,360"
+			},
+			"offsets": {
+				"from": 1149520,
+				"to": 1153360
+			},
+			"text": " when hardship comes, when the accuser comes and lies to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,360",
+				"to": "00:19:19,840"
+			},
+			"offsets": {
+				"from": 1153360,
+				"to": 1159840
+			},
+			"text": " if your life isn't rooted in truth, your life will be uprooted really quickly."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,840",
+				"to": "00:19:26,560"
+			},
+			"offsets": {
+				"from": 1159840,
+				"to": 1166560
+			},
+			"text": " So I think we've got to be intentional with our spiritual formation. I think there's some ways"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,560",
+				"to": "00:19:30,080"
+			},
+			"offsets": {
+				"from": 1166560,
+				"to": 1170080
+			},
+			"text": " that we can do it without being legalistic. I'm not here, I'm not going to tell you that you have"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,080",
+				"to": "00:19:34,000"
+			},
+			"offsets": {
+				"from": 1170080,
+				"to": 1174000
+			},
+			"text": " to get up before the sun rises if you're going to have a good relationship with God. I'm not going"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,000",
+				"to": "00:19:37,040"
+			},
+			"offsets": {
+				"from": 1174000,
+				"to": 1177040
+			},
+			"text": " to tell you when you should do it. I'm not going to tell you for how long you should do it. I'm not"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,040",
+				"to": "00:19:40,240"
+			},
+			"offsets": {
+				"from": 1177040,
+				"to": 1180240
+			},
+			"text": " going to tell you exactly what it looks like for you, but I'm telling you, you should do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,240",
+				"to": "00:19:45,120"
+			},
+			"offsets": {
+				"from": 1180240,
+				"to": 1185120
+			},
+			"text": " You should sit down and you should pray in your relationship with God. You should ask the Holy"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,120",
+				"to": "00:19:52,480"
+			},
+			"offsets": {
+				"from": 1185120,
+				"to": 1192480
+			},
+			"text": " Spirit, what should I do to usually and regularly build my relationship with you? What are some"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,480",
+				"to": "00:19:59,760"
+			},
+			"offsets": {
+				"from": 1192480,
+				"to": 1199760
+			},
+			"text": " holy habits that I can build into my life? John Mark Comer says this. He says that spiritual formation"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,760",
+				"to": "00:20:06,560"
+			},
+			"offsets": {
+				"from": 1199760,
+				"to": 1206560
+			},
+			"text": " is not a Christian thing, it's a human thing. Spiritual formation is not a Christian thing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,560",
+				"to": "00:20:10,800"
+			},
+			"offsets": {
+				"from": 1206560,
+				"to": 1210800
+			},
+			"text": " it's a human thing. What he's saying there is we're all spiritual beings. And if we're not"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,800",
+				"to": "00:20:16,480"
+			},
+			"offsets": {
+				"from": 1210800,
+				"to": 1216480
+			},
+			"text": " intentional to to form our spirituality towards God and towards our relationship with God, the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,480",
+				"to": "00:20:22,080"
+			},
+			"offsets": {
+				"from": 1216480,
+				"to": 1222080
+			},
+			"text": " the culture and our flesh will get us away from that. He ends the quote by saying Christian formation"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,080",
+				"to": "00:20:28,320"
+			},
+			"offsets": {
+				"from": 1222080,
+				"to": 1228320
+			},
+			"text": " is counter formation to the world, the flesh and Satan. If we're not intentional"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,760",
+				"to": "00:20:36,640"
+			},
+			"offsets": {
+				"from": 1229760,
+				"to": 1236640
+			},
+			"text": " to take charge of our own spiritual formation to walk towards God in prayer and worship and in trusting"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,640",
+				"to": "00:20:41,040"
+			},
+			"offsets": {
+				"from": 1236640,
+				"to": 1241040
+			},
+			"text": " the Holy Spirit in our life and finding accountability with other brothers and sisters in Christ, if we"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,040",
+				"to": "00:20:46,400"
+			},
+			"offsets": {
+				"from": 1241040,
+				"to": 1246400
+			},
+			"text": " are not intentional, the world, the flesh and our enemy will form our spiritual lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,400",
+				"to": "00:20:52,720"
+			},
+			"offsets": {
+				"from": 1246400,
+				"to": 1252720
+			},
+			"text": " Spiritual formation isn't a Christian thing. We're all being formed spiritually, but Christian formation"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,720",
+				"to": "00:20:58,960"
+			},
+			"offsets": {
+				"from": 1252720,
+				"to": 1258960
+			},
+			"text": " is counter to the world, the flesh and Satan. So Daniel builds his life on unusual faithfulness."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,960",
+				"to": "00:21:04,160"
+			},
+			"offsets": {
+				"from": 1258960,
+				"to": 1264160
+			},
+			"text": " And that prepares him for this unusual situation where he's told that he cannot pray to God for 30 days."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,600",
+				"to": "00:21:09,040"
+			},
+			"offsets": {
+				"from": 1265600,
+				"to": 1269040
+			},
+			"text": " So think with me hypothetically in this situation, like what are Daniel's options?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,040",
+				"to": "00:21:15,760"
+			},
+			"offsets": {
+				"from": 1269040,
+				"to": 1275760
+			},
+			"text": " What can Daniel do during these 30 days? Well, he could pause praying for 30 days, right? It's not that long."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:16,400",
+				"to": "00:21:20,880"
+			},
+			"offsets": {
+				"from": 1276400,
+				"to": 1280880
+			},
+			"text": " 30 days is not that long. One month of not praying is not that big of a deal, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,880",
+				"to": "00:21:27,360"
+			},
+			"offsets": {
+				"from": 1280880,
+				"to": 1287360
+			},
+			"text": " If I was Daniel, I'm in my 80s. I've done all of the things that Daniel's done. I found myself in slavery"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,360",
+				"to": "00:21:36,480"
+			},
+			"offsets": {
+				"from": 1287360,
+				"to": 1296480
+			},
+			"text": " to Babylon. I'd be like, God, I'm so old and tired. Like, I really don't want to end my life in the den of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,480",
+				"to": "00:21:41,520"
+			},
+			"offsets": {
+				"from": 1296480,
+				"to": 1301520
+			},
+			"text": " lions. Like, you know, I love you. You know, I've been faithful. Can we just take a break?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,320",
+				"to": "00:21:48,080"
+			},
+			"offsets": {
+				"from": 1302320,
+				"to": 1308080
+			},
+			"text": " 30 days, right? Like, just give me 30 days. I promise I'll think about you. But if you just"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,080",
+				"to": "00:21:53,120"
+			},
+			"offsets": {
+				"from": 1308080,
+				"to": 1313120
+			},
+			"text": " give me 30 days so that I don't end in the lions, he could have paused praying. But that would have"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,120",
+				"to": "00:21:57,680"
+			},
+			"offsets": {
+				"from": 1313120,
+				"to": 1317680
+			},
+			"text": " been unwise for spiritual formation, right? 30 days doesn't sound like a long time, but we know the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,680",
+				"to": "00:22:03,520"
+			},
+			"offsets": {
+				"from": 1317680,
+				"to": 1323520
+			},
+			"text": " world, the flesh, and the enemy is spiritually forming us. When we're not spiritually forming"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,520",
+				"to": "00:22:07,520"
+			},
+			"offsets": {
+				"from": 1323520,
+				"to": 1327520
+			},
+			"text": " ourselves towards God, the world, the flesh, and the enemy will spiritually form us away from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,520",
+				"to": "00:22:16,240"
+			},
+			"offsets": {
+				"from": 1327520,
+				"to": 1336240
+			},
+			"text": " 30 days is a long time. Daniel knew that wasn't an option for him. Another option, he could have hid"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,240",
+				"to": "00:22:20,480"
+			},
+			"offsets": {
+				"from": 1336240,
+				"to": 1340480
+			},
+			"text": " and prayed, right? He didn't have to have his doors open. He didn't have to face Jerusalem. He could have"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,480",
+				"to": "00:22:27,520"
+			},
+			"offsets": {
+				"from": 1340480,
+				"to": 1347520
+			},
+			"text": " gone into the closet, closed the doors, and prayed for a little bit. But he knew that was unwise for"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,520",
+				"to": "00:22:32,160"
+			},
+			"offsets": {
+				"from": 1347520,
+				"to": 1352160
+			},
+			"text": " spiritual influence. He knew that the world was watching. He couldn't hide his spirituality. He"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,160",
+				"to": "00:22:37,280"
+			},
+			"offsets": {
+				"from": 1352160,
+				"to": 1357280
+			},
+			"text": " couldn't hide his relationship with God because he knew that that's what they were looking for. They"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,280",
+				"to": "00:22:43,360"
+			},
+			"offsets": {
+				"from": 1357280,
+				"to": 1363360
+			},
+			"text": " were going to watch to see how he responded to this attack. And he knew if he hid and prayed that he"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,360",
+				"to": "00:22:47,600"
+			},
+			"offsets": {
+				"from": 1363360,
+				"to": 1367600
+			},
+			"text": " would lose his spiritual influence over their lives. They would think he's a hypocrite. He only prays when"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,600",
+				"to": "00:22:54,880"
+			},
+			"offsets": {
+				"from": 1367600,
+				"to": 1374880
+			},
+			"text": " life's good. He only talks to his God when it is convenient for him. He could have got really angry and"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,880",
+				"to": "00:23:00,000"
+			},
+			"offsets": {
+				"from": 1374880,
+				"to": 1380000
+			},
+			"text": " protested, made some signs, got a couple other good Israelites around, and they could have went into the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,000",
+				"to": "00:23:04,000"
+			},
+			"offsets": {
+				"from": 1380000,
+				"to": 1384000
+			},
+			"text": " street corners with their signs saying, \"We're going to pray no matter what. They might have a cool"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,000",
+				"to": "00:23:10,400"
+			},
+			"offsets": {
+				"from": 1384000,
+				"to": 1390400
+			},
+			"text": " chant.\" I should have thought of a chant to build into my outline. I didn't. Man, bummer. But he knew"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,400",
+				"to": "00:23:17,840"
+			},
+			"offsets": {
+				"from": 1390400,
+				"to": 1397840
+			},
+			"text": " this was unwise for a spiritual reputation, right? Like, if he, as an exile in this new nation, went in and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,840",
+				"to": "00:23:25,280"
+			},
+			"offsets": {
+				"from": 1397840,
+				"to": 1405280
+			},
+			"text": " said, \"You guys have to respect our religious beliefs,\" he knew that he was going to turn them away from the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,280",
+				"to": "00:23:30,800"
+			},
+			"offsets": {
+				"from": 1405280,
+				"to": 1410800
+			},
+			"text": " one true and living God. And his job as an exile in Babylon, as an exile in the Medes and the Persians,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,800",
+				"to": "00:23:37,440"
+			},
+			"offsets": {
+				"from": 1410800,
+				"to": 1417440
+			},
+			"text": " was to point people back to the one true and living God. So he did the only thing that he could"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,440",
+				"to": "00:23:44,160"
+			},
+			"offsets": {
+				"from": 1417440,
+				"to": 1424160
+			},
+			"text": " do as a faithful believer. He kept doing the one thing that he'd always done, as usual."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,360",
+				"to": "00:23:52,560"
+			},
+			"offsets": {
+				"from": 1427360,
+				"to": 1432560
+			},
+			"text": " See, we live in a culture where even if we're being faithful, even if we're doing what God's calling"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,560",
+				"to": "00:23:56,880"
+			},
+			"offsets": {
+				"from": 1432560,
+				"to": 1436880
+			},
+			"text": " us to do, even if our lives are built on our relationship with God and the fruit of our life"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,880",
+				"to": "00:24:03,360"
+			},
+			"offsets": {
+				"from": 1436880,
+				"to": 1443360
+			},
+			"text": " is love, joy, peace, patience, kindness, goodness, faithfulness, our culture still might misunderstand"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,360",
+				"to": "00:24:12,560"
+			},
+			"offsets": {
+				"from": 1443360,
+				"to": 1452560
+			},
+			"text": " us. They might still think negative thoughts about us. Choosing to continue to be faithful, even in unusual"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,560",
+				"to": "00:24:18,000"
+			},
+			"offsets": {
+				"from": 1452560,
+				"to": 1458000
+			},
+			"text": " circumstances, it's a great way for us to follow the teaching of Jesus and turn the other cheek."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,000",
+				"to": "00:24:25,440"
+			},
+			"offsets": {
+				"from": 1458000,
+				"to": 1465440
+			},
+			"text": " Right? Like Jesus says when we're attacked, when we're smacked, we turn the other cheek. When people"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,440",
+				"to": "00:24:37,200"
+			},
+			"offsets": {
+				"from": 1465440,
+				"to": 1477200
+			},
+			"text": " come against us, we respond in peace. And this is what Daniel does to his accusers. They bring an accusation"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,200",
+				"to": "00:24:45,680"
+			},
+			"offsets": {
+				"from": 1477200,
+				"to": 1485680
+			},
+			"text": " against him. He doesn't fight back. Peacefully lives his life in relationship with God. Daniel's faithful in"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,680",
+				"to": "00:24:51,520"
+			},
+			"offsets": {
+				"from": 1485680,
+				"to": 1491520
+			},
+			"text": " usual circumstances. It prepares him for faithful, faithfulness in unusual circumstances. It says then the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,520",
+				"to": "00:24:55,040"
+			},
+			"offsets": {
+				"from": 1491520,
+				"to": 1495040
+			},
+			"text": " official, the officials, they went together to Daniel's house. They knew where he was going to be. They knew what"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:55,040",
+				"to": "00:25:01,040"
+			},
+			"offsets": {
+				"from": 1495040,
+				"to": 1501040
+			},
+			"text": " time he was going to be there because he's there every day as usual. And they found him praying. And, and look at this."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,040",
+				"to": "00:25:04,960"
+			},
+			"offsets": {
+				"from": 1501040,
+				"to": 1504960
+			},
+			"text": " What's he doing? He's asking for God's help."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,960",
+				"to": "00:25:13,840"
+			},
+			"offsets": {
+				"from": 1504960,
+				"to": 1513840
+			},
+			"text": " See, who knows what Daniel prayed for on a regular basis, but this unusual circumstance is what he"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,840",
+				"to": "00:25:18,560"
+			},
+			"offsets": {
+				"from": 1513840,
+				"to": 1518560
+			},
+			"text": " needed more than anything else is he needed God's help. Daniel was there praying for God's help."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,440",
+				"to": "00:25:25,280"
+			},
+			"offsets": {
+				"from": 1519440,
+				"to": 1525280
+			},
+			"text": " So they went straight to the king and they reminded him about this law. Did you not sign that for the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,280",
+				"to": "00:25:31,360"
+			},
+			"offsets": {
+				"from": 1525280,
+				"to": 1531360
+			},
+			"text": " next 30 days, any person who prays to anyone divine or human, except you, your majesty will be thrown into"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,360",
+				"to": "00:25:37,760"
+			},
+			"offsets": {
+				"from": 1531360,
+				"to": 1537760
+			},
+			"text": " the den of lions. Yes. The king replied that decision stands. It is an official law of the Medes and Persians"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,760",
+				"to": "00:25:43,600"
+			},
+			"offsets": {
+				"from": 1537760,
+				"to": 1543600
+			},
+			"text": " that cannot be revoked. Even Darius couldn't revoke his own law. Once he signed it, they then told the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,600",
+				"to": "00:25:50,080"
+			},
+			"offsets": {
+				"from": 1543600,
+				"to": 1550080
+			},
+			"text": " king that man, Daniel, one of the captives from Judah is ignoring you and your law. He still prays"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,080",
+				"to": "00:25:58,080"
+			},
+			"offsets": {
+				"from": 1550080,
+				"to": 1558080
+			},
+			"text": " to God three times a day. Hearing this, listen, the king was deeply troubled. He tried to think of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,080",
+				"to": "00:26:03,120"
+			},
+			"offsets": {
+				"from": 1558080,
+				"to": 1563120
+			},
+			"text": " way to save Daniel. He spent the rest of the day looking for a way to get Daniel out of this predicament."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,120",
+				"to": "00:26:08,080"
+			},
+			"offsets": {
+				"from": 1563120,
+				"to": 1568080
+			},
+			"text": " In the evening, the men went together to the king and said, your majesty, you know that according"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,080",
+				"to": "00:26:14,240"
+			},
+			"offsets": {
+				"from": 1568080,
+				"to": 1574240
+			},
+			"text": " to the law of the Medes and Persians, no law that the king signs can be changed. So at last,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,240",
+				"to": "00:26:20,080"
+			},
+			"offsets": {
+				"from": 1574240,
+				"to": 1580080
+			},
+			"text": " the king gave orders for Daniel to be arrested and to be thrown into the den of lions. The king said to"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,080",
+				"to": "00:26:27,840"
+			},
+			"offsets": {
+				"from": 1580080,
+				"to": 1587840
+			},
+			"text": " him, may your God whom you serve faithfully rescue you. A stone was brought and placed over the mouth"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,840",
+				"to": "00:26:32,880"
+			},
+			"offsets": {
+				"from": 1587840,
+				"to": 1592880
+			},
+			"text": " of the den. The king sealed the stone with his own royal seal and the seals of nobles so that no one"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,880",
+				"to": "00:26:38,960"
+			},
+			"offsets": {
+				"from": 1592880,
+				"to": 1598960
+			},
+			"text": " could rescue Daniel. Then the king returned to his place and he spent the night fasting. He refused"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:38,960",
+				"to": "00:26:46,720"
+			},
+			"offsets": {
+				"from": 1598960,
+				"to": 1606720
+			},
+			"text": " his usual entertainment and couldn't sleep at all that night. So we see Daniel being accused. Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,720",
+				"to": "00:26:52,400"
+			},
+			"offsets": {
+				"from": 1606720,
+				"to": 1612400
+			},
+			"text": " put in this really unusual situation. He responds in usual faithfulness, even in unusual circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,400",
+				"to": "00:26:57,440"
+			},
+			"offsets": {
+				"from": 1612400,
+				"to": 1617440
+			},
+			"text": " And then we see two different responses from the people on the other side, the people that didn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:57,440",
+				"to": "00:27:03,120"
+			},
+			"offsets": {
+				"from": 1617440,
+				"to": 1623120
+			},
+			"text": " have a relationship with one true God. We see the administrators and we see Darius. The administrator's"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,120",
+				"to": "00:27:09,840"
+			},
+			"offsets": {
+				"from": 1623120,
+				"to": 1629840
+			},
+			"text": " response shows us that no matter what we do, we will always have enemies on this earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,840",
+				"to": "00:27:18,160"
+			},
+			"offsets": {
+				"from": 1629840,
+				"to": 1638160
+			},
+			"text": " Like no matter how faithful, consistent, trustworthy, respectful, responsible we might live our lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:18,160",
+				"to": "00:27:22,560"
+			},
+			"offsets": {
+				"from": 1638160,
+				"to": 1642560
+			},
+			"text": " there will always be people who will find something wrong with the way that we live our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,200",
+				"to": "00:27:31,840"
+			},
+			"offsets": {
+				"from": 1643200,
+				"to": 1651840
+			},
+			"text": " We will always have enemies. Don't cripple your life, trying to please everybody. Don't ruin your life,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,840",
+				"to": "00:27:37,440"
+			},
+			"offsets": {
+				"from": 1651840,
+				"to": 1657440
+			},
+			"text": " trying to build your life on the reputation of others. Let's build our life on faithfulness to God"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,440",
+				"to": "00:27:43,680"
+			},
+			"offsets": {
+				"from": 1657440,
+				"to": 1663680
+			},
+			"text": " and trust him with our reputation, even when people find something wrong with the way that we're living"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,680",
+				"to": "00:27:49,440"
+			},
+			"offsets": {
+				"from": 1663680,
+				"to": 1669440
+			},
+			"text": " our lives. I need my twos on the Enneagram to hear this. I'm a two. I live for the approval of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,440",
+				"to": "00:27:55,520"
+			},
+			"offsets": {
+				"from": 1669440,
+				"to": 1675520
+			},
+			"text": " We have to get this down to our socks, down in our bones, that no matter how righteous we live our"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,520",
+				"to": "00:28:01,440"
+			},
+			"offsets": {
+				"from": 1675520,
+				"to": 1681440
+			},
+			"text": " lives, people will find something wrong with us. The administrators were unwilling to see the good"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,440",
+				"to": "00:28:08,480"
+			},
+			"offsets": {
+				"from": 1681440,
+				"to": 1688480
+			},
+			"text": " in Daniel. But then we see Darius's response, right? He's like, he's distraught. He sees Daniel's life."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:08,480",
+				"to": "00:28:13,360"
+			},
+			"offsets": {
+				"from": 1688480,
+				"to": 1693360
+			},
+			"text": " He sees Daniel's faithfulness. He knows Daniel doesn't deserve to be where Daniel is about to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,360",
+				"to": "00:28:19,840"
+			},
+			"offsets": {
+				"from": 1693360,
+				"to": 1699840
+			},
+			"text": " Darius's response shows us what God can do in the hearts of unbelievers when they see us live lives"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,840",
+				"to": "00:28:27,600"
+			},
+			"offsets": {
+				"from": 1699840,
+				"to": 1707600
+			},
+			"text": " of usual faithfulness that leads us to be faithful in usual times. Darius's heart posture towards Daniel"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,600",
+				"to": "00:28:33,680"
+			},
+			"offsets": {
+				"from": 1707600,
+				"to": 1713680
+			},
+			"text": " and towards Daniel's God shows us what God can do when we are faithful in the midst of unusual"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,680",
+				"to": "00:28:41,200"
+			},
+			"offsets": {
+				"from": 1713680,
+				"to": 1721200
+			},
+			"text": " circumstances. Like God uses the testimony of believers suffering well for the sake of Jesus to turn"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,200",
+				"to": "00:28:47,360"
+			},
+			"offsets": {
+				"from": 1721200,
+				"to": 1727360
+			},
+			"text": " people's eyes towards the one true and living God. And if we're going to be faithful in unusual"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,360",
+				"to": "00:28:54,240"
+			},
+			"offsets": {
+				"from": 1727360,
+				"to": 1734240
+			},
+			"text": " circumstances, it has to start in the usual circumstances. Like we can't just live ordinary"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,240",
+				"to": "00:29:00,400"
+			},
+			"offsets": {
+				"from": 1734240,
+				"to": 1740400
+			},
+			"text": " lives where we kind of talk to God every once in a while when we have some extra time. And you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,400",
+				"to": "00:29:06,800"
+			},
+			"offsets": {
+				"from": 1740400,
+				"to": 1746800
+			},
+			"text": " we read the Bible once every couple of months when we have some extra time. And then when things go"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,800",
+				"to": "00:29:13,840"
+			},
+			"offsets": {
+				"from": 1746800,
+				"to": 1753840
+			},
+			"text": " south, when life hits hard, then all of a sudden we're like, all right, it's time. Triage time."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,840",
+				"to": "00:29:17,600"
+			},
+			"offsets": {
+				"from": 1753840,
+				"to": 1757600
+			},
+			"text": " Come here. I'm in my prayer closet. You need to show up. You need to be faithful. You need to show"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,600",
+				"to": "00:29:22,880"
+			},
+			"offsets": {
+				"from": 1757600,
+				"to": 1762880
+			},
+			"text": " me how to be faithful. Like that doesn't happen. Usual faithfulness, regular intentionality with God"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:22,880",
+				"to": "00:29:28,400"
+			},
+			"offsets": {
+				"from": 1762880,
+				"to": 1768400
+			},
+			"text": " prepares us for unusual circumstances. And then when we're faithful, God can use that to stir people's"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,400",
+				"to": "00:29:34,880"
+			},
+			"offsets": {
+				"from": 1768400,
+				"to": 1774880
+			},
+			"text": " hearts to see the one true living God through our life. I think a really cool illustration of this"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,880",
+				"to": "00:29:43,680"
+			},
+			"offsets": {
+				"from": 1774880,
+				"to": 1783680
+			},
+			"text": " recently in our culture. I read an article this week as I was researching from 2018. And that article"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,680",
+				"to": "00:29:50,320"
+			},
+			"offsets": {
+				"from": 1783680,
+				"to": 1790320
+			},
+			"text": " was entitled \"Coming Out as a Friend of Dan Cathy.\" It was written by the president of Campus Pride."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,440",
+				"to": "00:30:00,480"
+			},
+			"offsets": {
+				"from": 1791440,
+				"to": 1800480
+			},
+			"text": " He's in a homosexual marriage for the last 20 years. He's a lifelong LGBTQ+ activist. He was in charge of"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:00,480",
+				"to": "00:30:08,560"
+			},
+			"offsets": {
+				"from": 1800480,
+				"to": 1808560
+			},
+			"text": " some of the first initial protests of Chick-fil-A, of Dan Cathy. And he wrote this article because of"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,560",
+				"to": "00:30:17,360"
+			},
+			"offsets": {
+				"from": 1808560,
+				"to": 1817360
+			},
+			"text": " the way that Dan Cathy responded to the protests. See, Dan Cathy didn't hide. He didn't run away from"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,360",
+				"to": "00:30:20,320"
+			},
+			"offsets": {
+				"from": 1817360,
+				"to": 1820320
+			},
+			"text": " where he was giving his money, from the things that he values in his life."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,320",
+				"to": "00:30:29,680"
+			},
+			"offsets": {
+				"from": 1820320,
+				"to": 1829680
+			},
+			"text": " He didn't try and cover these things up. He didn't get angry and demand some protests back"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,680",
+				"to": "00:30:32,640"
+			},
+			"offsets": {
+				"from": 1829680,
+				"to": 1832640
+			},
+			"text": " in return. They were actually expecting Dan Cathy to do some"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,640",
+				"to": "00:30:36,320"
+			},
+			"offsets": {
+				"from": 1832640,
+				"to": 1836320
+			},
+			"text": " sales and some things that would discourage people from protesting. Instead, he just"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,040",
+				"to": "00:30:41,520"
+			},
+			"offsets": {
+				"from": 1837040,
+				"to": 1841520
+			},
+			"text": " kept his mouth shut, continued to be faithful to what God was calling him to be faithful to. And then"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,520",
+				"to": "00:30:48,720"
+			},
+			"offsets": {
+				"from": 1841520,
+				"to": 1848720
+			},
+			"text": " guess what he did? He reached out to this guy. He said, \"Let's have lunch. Let's talk. I'd love to hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,720",
+				"to": "00:30:54,880"
+			},
+			"offsets": {
+				"from": 1848720,
+				"to": 1854880
+			},
+			"text": " how you got to a place where you're, you so don't like my organization that you want to organize this"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,880",
+				"to": "00:30:59,520"
+			},
+			"offsets": {
+				"from": 1854880,
+				"to": 1859520
+			},
+			"text": " protest.\" And then, over the next couple of years, they had lunches together and dinners together. They"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,520",
+				"to": "00:31:04,800"
+			},
+			"offsets": {
+				"from": 1859520,
+				"to": 1864800
+			},
+			"text": " were in each other's homes. And ultimately, this guy wrote this article. And at the end of the article,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,800",
+				"to": "00:31:10,560"
+			},
+			"offsets": {
+				"from": 1864800,
+				"to": 1870560
+			},
+			"text": " he says, \"I still don't agree with Dan Cathy's view on marriage. I still don't agree with his politics or"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:10,560",
+				"to": "00:31:18,480"
+			},
+			"offsets": {
+				"from": 1870560,
+				"to": 1878480
+			},
+			"text": " where he donates his money. But at the end of the day, he's my friend.\" And I can't help"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,480",
+				"to": "00:31:25,920"
+			},
+			"offsets": {
+				"from": 1878480,
+				"to": 1885920
+			},
+			"text": " but think that this story is rooted in Dan Cathy being faithful in usual times. He's doing what"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,920",
+				"to": "00:31:30,640"
+			},
+			"offsets": {
+				"from": 1885920,
+				"to": 1890640
+			},
+			"text": " he felt like God was calling him to do, building his relationship with God on a brick by day. So"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,640",
+				"to": "00:31:38,320"
+			},
+			"offsets": {
+				"from": 1890640,
+				"to": 1898320
+			},
+			"text": " this unusual thing came when half of a nation was protesting his nation. He wasn't panicked. He wasn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,320",
+				"to": "00:31:45,280"
+			},
+			"offsets": {
+				"from": 1898320,
+				"to": 1905280
+			},
+			"text": " afraid of what might happen. He didn't shy away. He just kept being faithful. He kept doing the thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,280",
+				"to": "00:31:56,400"
+			},
+			"offsets": {
+				"from": 1905280,
+				"to": 1916400
+			},
+			"text": " Jesus was calling him to do. And I imagine that as Daniel was being led to the lion's den, I imagine"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:56,400",
+				"to": "00:32:02,960"
+			},
+			"offsets": {
+				"from": 1916400,
+				"to": 1922960
+			},
+			"text": " he was reminded of the situation his friends were in not too long ago when they were being marched"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,960",
+				"to": "00:32:09,200"
+			},
+			"offsets": {
+				"from": 1922960,
+				"to": 1929200
+			},
+			"text": " into the fiery furnace. What his friends said is they said, \"God's able to deliver us. God's able to"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,200",
+				"to": "00:32:15,760"
+			},
+			"offsets": {
+				"from": 1929200,
+				"to": 1935760
+			},
+			"text": " protect us. But even if he doesn't, we're still going to be faithful.\" I can't help but think that"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,760",
+				"to": "00:32:23,600"
+			},
+			"offsets": {
+				"from": 1935760,
+				"to": 1943600
+			},
+			"text": " Daniel, as he was going to the lion's den, said to Darius, \"Darius, save me from this.\" But even if he"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,600",
+				"to": "00:32:32,080"
+			},
+			"offsets": {
+				"from": 1943600,
+				"to": 1952080
+			},
+			"text": " doesn't, I swear to God because one day my God will return. He will make things right. He can save me from"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,080",
+				"to": "00:32:39,120"
+			},
+			"offsets": {
+				"from": 1952080,
+				"to": 1959120
+			},
+			"text": " this, but even if he doesn't. Believers, we should develop a faith that expects God to do the miraculous,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,120",
+				"to": "00:32:43,200"
+			},
+			"offsets": {
+				"from": 1959120,
+				"to": 1963200
+			},
+			"text": " but where we can learn to be content even if he doesn't."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:44,160",
+				"to": "00:32:48,320"
+			},
+			"offsets": {
+				"from": 1964160,
+				"to": 1968320
+			},
+			"text": " Some of us are in some really difficult situations in life right now when we're praying for miracles."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,320",
+				"to": "00:32:54,240"
+			},
+			"offsets": {
+				"from": 1968320,
+				"to": 1974240
+			},
+			"text": " We're believing that God's going to show up and do the miraculous, and we should. We should pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,240",
+				"to": "00:33:01,360"
+			},
+			"offsets": {
+				"from": 1974240,
+				"to": 1981360
+			},
+			"text": " We should pray our hearts and our minds out. We should pray until the rug on our carpet is worn"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,360",
+				"to": "00:33:05,920"
+			},
+			"offsets": {
+				"from": 1981360,
+				"to": 1985920
+			},
+			"text": " out from our knee prints. We should pray and beg God to show up for miracles, but we should build a"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,920",
+				"to": "00:33:16,240"
+			},
+			"offsets": {
+				"from": 1985920,
+				"to": 1996240
+			},
+			"text": " faith that even if he doesn't, we can trust him. Verse 19, \"Very early the next morning, the king"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,240",
+				"to": "00:33:21,200"
+			},
+			"offsets": {
+				"from": 1996240,
+				"to": 2001200
+			},
+			"text": " got up and he hurried out to the lion's den. When he got there, he called out in anguish, \"Daniel,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:21,200",
+				"to": "00:33:28,560"
+			},
+			"offsets": {
+				"from": 2001200,
+				"to": 2008560
+			},
+			"text": " servant of the living God, was your God whom you serve so faithfully able to rescue you from"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,440",
+				"to": "00:33:39,920"
+			},
+			"offsets": {
+				"from": 2009440,
+				"to": 2019920
+			},
+			"text": " the lions.\" Daniel answered, \"Long live the king. My God sent his angels to shake the lion's mouth so"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,920",
+				"to": "00:33:45,040"
+			},
+			"offsets": {
+				"from": 2019920,
+				"to": 2025040
+			},
+			"text": " that they would not hurt me, for I have been found innocent in his sight, and I have not wronged you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:45,040",
+				"to": "00:33:52,080"
+			},
+			"offsets": {
+				"from": 2025040,
+				"to": 2032080
+			},
+			"text": " the king was overjoyed and ordered that Daniel be lifted from the den. Not a scratch was found on him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,080",
+				"to": "00:34:03,760"
+			},
+			"offsets": {
+				"from": 2032080,
+				"to": 2043760
+			},
+			"text": " for he had trusted God.\" So God shows up. God does the miracle that Daniel knew that rewards"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,760",
+				"to": "00:34:12,080"
+			},
+			"offsets": {
+				"from": 2043760,
+				"to": 2052080
+			},
+			"text": " faithfulness in usual times with in-the-moment blessings, right? Like if we had time to open up"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,080",
+				"to": "00:34:16,800"
+			},
+			"offsets": {
+				"from": 2052080,
+				"to": 2056800
+			},
+			"text": " the floor and ask believers in here to raise their hands and share times where God showed up and did"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,800",
+				"to": "00:34:21,680"
+			},
+			"offsets": {
+				"from": 2056800,
+				"to": 2061680
+			},
+			"text": " the miraculous, did the thing that nobody else thought was possible, I'm sure that we would have"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,680",
+				"to": "00:34:31,280"
+			},
+			"offsets": {
+				"from": 2061680,
+				"to": 2071280
+			},
+			"text": " plenty of time filled with testimonies of God showing up. But if we had more time, we'd also have believers"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:31,280",
+				"to": "00:34:36,720"
+			},
+			"offsets": {
+				"from": 2071280,
+				"to": 2076720
+			},
+			"text": " who love God, raised their hand, prayed for a miracle, and it didn't happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,720",
+				"to": "00:34:44,320"
+			},
+			"offsets": {
+				"from": 2076720,
+				"to": 2084320
+			},
+			"text": " See, God doesn't owe us in-the-moment miracles. He doesn't promise in-the-moment miracles. He asks"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,320",
+				"to": "00:34:50,480"
+			},
+			"offsets": {
+				"from": 2084320,
+				"to": 2090480
+			},
+			"text": " us to pray for them, and sometimes he shows up and blesses us within-the-moment miracles. But Daniel knew"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,280",
+				"to": "00:34:56,880"
+			},
+			"offsets": {
+				"from": 2091280,
+				"to": 2096880
+			},
+			"text": " that even if God didn't come through with a moment, miracle, he would be faithful to his eternal"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,880",
+				"to": "00:35:03,840"
+			},
+			"offsets": {
+				"from": 2096880,
+				"to": 2103840
+			},
+			"text": " promises. See, Daniel saw example after example. He promised something, and then God be faithful to"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,840",
+				"to": "00:35:12,480"
+			},
+			"offsets": {
+				"from": 2103840,
+				"to": 2112480
+			},
+			"text": " deliver on his promises. And so he knew that that God's promises about the end would come true, and they"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,480",
+				"to": "00:35:19,280"
+			},
+			"offsets": {
+				"from": 2112480,
+				"to": 2119280
+			},
+			"text": " would be worth it. Perfect example of this is in Isaiah chapter 44. Isaiah was written a couple hundred years"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:19,280",
+				"to": "00:35:24,880"
+			},
+			"offsets": {
+				"from": 2119280,
+				"to": 2124880
+			},
+			"text": " years before the book of Daniels to prophesy to the Israelites about their captivity"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,880",
+				"to": "00:35:29,600"
+			},
+			"offsets": {
+				"from": 2124880,
+				"to": 2129600
+			},
+			"text": " in Babylon. So Daniel had read this book. He knew what was contained in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,600",
+				"to": "00:35:35,440"
+			},
+			"offsets": {
+				"from": 2129600,
+				"to": 2135440
+			},
+			"text": " And just a couple months before, a couple months or a couple years, we don't know for sure, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,440",
+				"to": "00:35:41,040"
+			},
+			"offsets": {
+				"from": 2135440,
+				"to": 2141040
+			},
+			"text": " not too far after, or not too far before Daniel got cast into the lion's den,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:43,600",
+				"to": "00:35:49,200"
+			},
+			"offsets": {
+				"from": 2143600,
+				"to": 2149200
+			},
+			"text": " the Medes and the Persians marched under the wall in Babylon because they had dammed up the river."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,200",
+				"to": "00:35:56,800"
+			},
+			"offsets": {
+				"from": 2149200,
+				"to": 2156800
+			},
+			"text": " And in Isaiah, 200 years before this ever happened, it says this in Isaiah chapter 44,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,800",
+				"to": "00:36:05,680"
+			},
+			"offsets": {
+				"from": 2156800,
+				"to": 2165680
+			},
+			"text": " 44 verse 27 and 28, when God says, when I speak to the rivers and say, dry up, they will be dry."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,480",
+				"to": "00:36:13,520"
+			},
+			"offsets": {
+				"from": 2166480,
+				"to": 2173520
+			},
+			"text": " When I say Cyrus, he is my shepherd, he will certainly do as I say. See, God promised 200"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,520",
+				"to": "00:36:20,320"
+			},
+			"offsets": {
+				"from": 2173520,
+				"to": 2180320
+			},
+			"text": " years before that he would dry up the river and he would send in Cyrus and Darius and that they would"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,320",
+				"to": "00:36:25,200"
+			},
+			"offsets": {
+				"from": 2180320,
+				"to": 2185200
+			},
+			"text": " ultimately be the ones that would usher in or usher the Israelites back to the city of Jerusalem so that"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,200",
+				"to": "00:36:31,920"
+			},
+			"offsets": {
+				"from": 2185200,
+				"to": 2191920
+			},
+			"text": " they could rebuild their temple and rebuild their walls. Daniel knew that even if God didn't show up in"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,920",
+				"to": "00:36:37,200"
+			},
+			"offsets": {
+				"from": 2191920,
+				"to": 2197200
+			},
+			"text": " his situation in that moment, he knew that God had been faithful to his promises and that God had"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:37,200",
+				"to": "00:36:44,320"
+			},
+			"offsets": {
+				"from": 2197200,
+				"to": 2204320
+			},
+			"text": " ultimately promised him something better. He knew that he could suffer for the sake of God because"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,320",
+				"to": "00:36:49,440"
+			},
+			"offsets": {
+				"from": 2204320,
+				"to": 2209440
+			},
+			"text": " he knew that what was to come was better. We might not see God shut the mouth of the lions that we are"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,440",
+				"to": "00:36:55,840"
+			},
+			"offsets": {
+				"from": 2209440,
+				"to": 2215840
+			},
+			"text": " facing today, but there will come a day when God will shut the mouth of every line and all tears and"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,840",
+				"to": "00:37:04,720"
+			},
+			"offsets": {
+				"from": 2215840,
+				"to": 2224720
+			},
+			"text": " all pain will be wiped away. Hosea says this, on that day, I will make a covenant with all the wild"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,720",
+				"to": "00:37:10,640"
+			},
+			"offsets": {
+				"from": 2224720,
+				"to": 2230640
+			},
+			"text": " animals, with the birds of the sky and the animals that scurry along on the ground so they will not"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,640",
+				"to": "00:37:15,760"
+			},
+			"offsets": {
+				"from": 2230640,
+				"to": 2235760
+			},
+			"text": " harm you. Listen to this, I will remove all of the weapons of war from the land, all of the swords and"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,760",
+				"to": "00:37:22,400"
+			},
+			"offsets": {
+				"from": 2235760,
+				"to": 2242400
+			},
+			"text": " all of the bows so that you can live unafraid in peace and safety. I will make you my bride forever,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,400",
+				"to": "00:37:29,120"
+			},
+			"offsets": {
+				"from": 2242400,
+				"to": 2249120
+			},
+			"text": " showing you righteousness and justice, unfailing love and compassion. I will be faithful to you"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:29,120",
+				"to": "00:37:35,040"
+			},
+			"offsets": {
+				"from": 2249120,
+				"to": 2255040
+			},
+			"text": " and I will make you mine and you will finally know me as Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,040",
+				"to": "00:37:42,160"
+			},
+			"offsets": {
+				"from": 2255040,
+				"to": 2262160
+			},
+			"text": " See, God might not shut the mouth of the lions that you're facing right now in this moment,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,160",
+				"to": "00:37:48,000"
+			},
+			"offsets": {
+				"from": 2262160,
+				"to": 2268000
+			},
+			"text": " but there's going to come a day in the mouth of every line will be shut when there'll be no more"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:48,000",
+				"to": "00:37:52,560"
+			},
+			"offsets": {
+				"from": 2268000,
+				"to": 2272560
+			},
+			"text": " suffering, no more pain, no more war, when there will be peace and prosperity on the land, when"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:52,560",
+				"to": "00:37:58,160"
+			},
+			"offsets": {
+				"from": 2272560,
+				"to": 2278160
+			},
+			"text": " God will wipe away every tear from our eyes and there will be no more mourning. There will only"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,160",
+				"to": "00:38:04,080"
+			},
+			"offsets": {
+				"from": 2278160,
+				"to": 2284080
+			},
+			"text": " be joy. And listen to this, we will finally know God, God's Lord. That usual faithfulness will pay off"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,080",
+				"to": "00:38:07,840"
+			},
+			"offsets": {
+				"from": 2284080,
+				"to": 2287840
+			},
+			"text": " because we'll see him face to face."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,840",
+				"to": "00:38:17,840"
+			},
+			"offsets": {
+				"from": 2289840,
+				"to": 2297840
+			},
+			"text": " Because of what Jesus has done on our behalf will be brought into this kingdom with no more mourning, no more pain."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,840",
+				"to": "00:38:25,520"
+			},
+			"offsets": {
+				"from": 2297840,
+				"to": 2305520
+			},
+			"text": " So I'm here to encourage you this morning. Like if you're facing some serious difficulty in your life"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,520",
+				"to": "00:38:31,360"
+			},
+			"offsets": {
+				"from": 2305520,
+				"to": 2311360
+			},
+			"text": " right now and you're waiting for God to show up and he hasn't, keep praying, keep seeking, keep asking"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,360",
+				"to": "00:38:36,240"
+			},
+			"offsets": {
+				"from": 2311360,
+				"to": 2316240
+			},
+			"text": " other believers to pray. And let's, let's, let's seek and hope and pray that God shows up and does"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:36,240",
+				"to": "00:38:42,400"
+			},
+			"offsets": {
+				"from": 2316240,
+				"to": 2322400
+			},
+			"text": " the miraculous. But even if he doesn't, he's going to fulfill his eternal promises."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,400",
+				"to": "00:38:48,560"
+			},
+			"offsets": {
+				"from": 2322400,
+				"to": 2328560
+			},
+			"text": " There's going to come a day when this thing that is the most important, most heartbreaking, most"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:48,560",
+				"to": "00:38:53,920"
+			},
+			"offsets": {
+				"from": 2328560,
+				"to": 2333920
+			},
+			"text": " difficult thing in your life won't matter anymore because God will have come back and made everything"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,920",
+				"to": "00:38:56,320"
+			},
+			"offsets": {
+				"from": 2333920,
+				"to": 2336320
+			},
+			"text": " right."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,320",
+				"to": "00:39:05,840"
+			},
+			"offsets": {
+				"from": 2336320,
+				"to": 2345840
+			},
+			"text": " Darius says to the people of every race and nation and language throughout the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,840",
+				"to": "00:39:11,120"
+			},
+			"offsets": {
+				"from": 2345840,
+				"to": 2351120
+			},
+			"text": " peace and prosperity to you. I decree that everyone throughout my kingdom should tremble with fear"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:11,120",
+				"to": "00:39:18,560"
+			},
+			"offsets": {
+				"from": 2351120,
+				"to": 2358560
+			},
+			"text": " before the God of Daniel, for he is the living God and he will endure forever. His kingdom will never"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:18,560",
+				"to": "00:39:25,840"
+			},
+			"offsets": {
+				"from": 2358560,
+				"to": 2365840
+			},
+			"text": " be destroyed and this rule will never end. He rescues and saves his people. He performs miraculous signs"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,840",
+				"to": "00:39:33,360"
+			},
+			"offsets": {
+				"from": 2365840,
+				"to": 2373360
+			},
+			"text": " and wonders in heaven and on earth. He rescued Daniel from the power of lions. So Daniel prospered during"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,360",
+				"to": "00:39:43,280"
+			},
+			"offsets": {
+				"from": 2373360,
+				"to": 2383280
+			},
+			"text": " the reign of Darius, during the reign of Cyrus, the Persian. So how does Darius respond to God's miracle"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:43,280",
+				"to": "00:39:50,880"
+			},
+			"offsets": {
+				"from": 2383280,
+				"to": 2390880
+			},
+			"text": " in Daniel's life? He says God, Daniel's God is the one true and living God. See, Darius's faith was a"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,880",
+				"to": "00:39:58,000"
+			},
+			"offsets": {
+				"from": 2390880,
+				"to": 2398000
+			},
+			"text": " momentary response to a miracle. And that's awesome. We celebrate that. We, we think that that's amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,000",
+				"to": "00:40:03,520"
+			},
+			"offsets": {
+				"from": 2398000,
+				"to": 2403520
+			},
+			"text": " But I would say this, that faithfulness that lasts is built on daily decisions to build your life on a"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:03,520",
+				"to": "00:40:12,240"
+			},
+			"offsets": {
+				"from": 2403520,
+				"to": 2412240
+			},
+			"text": " relationship with the one true God. See, Darius had this huge moment with God, this momentary decision"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:12,240",
+				"to": "00:40:18,160"
+			},
+			"offsets": {
+				"from": 2412240,
+				"to": 2418160
+			},
+			"text": " where he said, this God is the one true God. And then we don't know what happens from there."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,160",
+				"to": "00:40:25,600"
+			},
+			"offsets": {
+				"from": 2418160,
+				"to": 2425600
+			},
+			"text": " And I know there are people in this room that have had those moments, those one-time moments where"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,600",
+				"to": "00:40:32,080"
+			},
+			"offsets": {
+				"from": 2425600,
+				"to": 2432080
+			},
+			"text": " you're like, God is real. Jesus is who he said he is. I'm going to follow him. And then maybe you did"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,080",
+				"to": "00:40:38,560"
+			},
+			"offsets": {
+				"from": 2432080,
+				"to": 2438560
+			},
+			"text": " that for a while. Maybe some circumstances in your life came or some doubts or some questions or some fears"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,560",
+				"to": "00:40:45,680"
+			},
+			"offsets": {
+				"from": 2438560,
+				"to": 2445680
+			},
+			"text": " came. And you ended up walking away from that because your faith wasn't built on daily relationship with"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,680",
+				"to": "00:40:50,320"
+			},
+			"offsets": {
+				"from": 2445680,
+				"to": 2450320
+			},
+			"text": " God, but your faith was built on one momentary response and in, in the moment to an emotion."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:50,320",
+				"to": "00:40:58,720"
+			},
+			"offsets": {
+				"from": 2450320,
+				"to": 2458720
+			},
+			"text": " If that's you, I'm here to call you back. I'm here to call you back to faith in God. It's like Daniel's"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:58,720",
+				"to": "00:41:05,520"
+			},
+			"offsets": {
+				"from": 2458720,
+				"to": 2465520
+			},
+			"text": " faith was built on daily relationship to God. See, Matthew chapter seven in this way says this, that"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,520",
+				"to": "00:41:12,240"
+			},
+			"offsets": {
+				"from": 2465520,
+				"to": 2472240
+			},
+			"text": " anyone who listens to my teachings and follows it is wise, like a person who builds his house on solid"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,240",
+				"to": "00:41:19,040"
+			},
+			"offsets": {
+				"from": 2472240,
+				"to": 2479040
+			},
+			"text": " rock. Though the rain come in torrents, unusual circumstances, and the floodwaters rise and the"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:19,040",
+				"to": "00:41:24,880"
+			},
+			"offsets": {
+				"from": 2479040,
+				"to": 2484880
+			},
+			"text": " winds beat against that house, it won't collapse. Why? Because it's built on usual faithfulness. It's built"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:24,880",
+				"to": "00:41:30,640"
+			},
+			"offsets": {
+				"from": 2484880,
+				"to": 2490640
+			},
+			"text": " on a bedrock. It's built on trusting Jesus says and what he does every single day."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,640",
+				"to": "00:41:37,360"
+			},
+			"offsets": {
+				"from": 2490640,
+				"to": 2497360
+			},
+			"text": " But anyone who hears my teachings and doesn't obey it is foolish. It's like a person who builds his"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,360",
+				"to": "00:41:41,760"
+			},
+			"offsets": {
+				"from": 2497360,
+				"to": 2501760
+			},
+			"text": " house on the sand. And when the unusual times come, when the rains come, the floods come, and the winds"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,760",
+				"to": "00:41:46,080"
+			},
+			"offsets": {
+				"from": 2501760,
+				"to": 2506080
+			},
+			"text": " beat against the house, it will collapse with a mighty collapse."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,920",
+				"to": "00:41:57,840"
+			},
+			"offsets": {
+				"from": 2511920,
+				"to": 2517840
+			},
+			"text": " So what's our response to Jesus this morning?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,840",
+				"to": "00:42:06,880"
+			},
+			"offsets": {
+				"from": 2517840,
+				"to": 2526880
+			},
+			"text": " Have we made decisions in the past that were mostly built around emotion, excitement, what we saw God"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,880",
+				"to": "00:42:10,560"
+			},
+			"offsets": {
+				"from": 2526880,
+				"to": 2530560
+			},
+			"text": " doing in the moment? And have we allowed our relationship with God to drift away? Are we"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,560",
+				"to": "00:42:13,200"
+			},
+			"offsets": {
+				"from": 2530560,
+				"to": 2533200
+			},
+			"text": " building our life on less than eternal things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:13,200",
+				"to": "00:42:18,000"
+			},
+			"offsets": {
+				"from": 2533200,
+				"to": 2538000
+			},
+			"text": " Are we like Daniel?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,000",
+				"to": "00:42:26,320"
+			},
+			"offsets": {
+				"from": 2538000,
+				"to": 2546320
+			},
+			"text": " Do we build our life on usual faithfulness to God so that when unusual times come, we're ready,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,320",
+				"to": "00:42:32,480"
+			},
+			"offsets": {
+				"from": 2546320,
+				"to": 2552480
+			},
+			"text": " we're prepared to follow Jesus even in the midst of persecution, even in the midst of difficulty?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,200",
+				"to": "00:42:39,680"
+			},
+			"offsets": {
+				"from": 2553200,
+				"to": 2559680
+			},
+			"text": " Let's be a church. Let's be a church. Let's be a people who build our life on the solid rock day in and day"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,680",
+				"to": "00:42:48,160"
+			},
+			"offsets": {
+				"from": 2559680,
+				"to": 2568160
+			},
+			"text": " out. We make the choice to build our identity, our relationship with God in usual times so that"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:48,160",
+				"to": "00:42:54,880"
+			},
+			"offsets": {
+				"from": 2568160,
+				"to": 2574880
+			},
+			"text": " when unusual times come, we can be faithful. And who knows what God might do? Who knows what miracles"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:54,880",
+				"to": "00:43:00,160"
+			},
+			"offsets": {
+				"from": 2574880,
+				"to": 2580160
+			},
+			"text": " he might show up and do? Who knows how many people might come to Jesus because they see us faithful in"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,160",
+				"to": "00:43:05,120"
+			},
+			"offsets": {
+				"from": 2580160,
+				"to": 2585120
+			},
+			"text": " unusual times. They see us standing firm when they know they wouldn't be able to stand firm because"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,120",
+				"to": "00:43:10,320"
+			},
+			"offsets": {
+				"from": 2585120,
+				"to": 2590320
+			},
+			"text": " they don't have the foundation that is Jesus. Let's build our life on Jesus. Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:10,320",
+				"to": "00:43:20,560"
+			},
+			"offsets": {
+				"from": 2590320,
+				"to": 2600560
+			},
+			"text": " Father, we're so thankful for stories like Daniel in the lion's den where we see you show up and do"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:20,560",
+				"to": "00:43:29,600"
+			},
+			"offsets": {
+				"from": 2600560,
+				"to": 2609600
+			},
+			"text": " the miraculous. We see you honor day in and day out faithfulness of Daniel. But the Bible is filled"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:29,600",
+				"to": "00:43:33,760"
+			},
+			"offsets": {
+				"from": 2609600,
+				"to": 2613760
+			},
+			"text": " with stories of people who were faithful day in and day out and didn't see you show up in the miraculous."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,760",
+				"to": "00:43:40,720"
+			},
+			"offsets": {
+				"from": 2613760,
+				"to": 2620720
+			},
+			"text": " So that's, that's not something that we're promised. God, we're promised eternal"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:40,720",
+				"to": "00:43:47,360"
+			},
+			"offsets": {
+				"from": 2620720,
+				"to": 2627360
+			},
+			"text": " joy, eternal pleasure, eternal rest from pain and suffering. And so in the midst of our temporary pain"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,360",
+				"to": "00:43:53,120"
+			},
+			"offsets": {
+				"from": 2627360,
+				"to": 2633120
+			},
+			"text": " and suffering, let's, let's not get angry when you don't show up, but let's just be faithful to build our"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:53,120",
+				"to": "00:44:02,880"
+			},
+			"offsets": {
+				"from": 2633120,
+				"to": 2642880
+			},
+			"text": " our life on the rock. Let's be a church of people who build our life daily on faithfulness to God so"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:02,880",
+				"to": "00:44:11,840"
+			},
+			"offsets": {
+				"from": 2642880,
+				"to": 2651840
+			},
+			"text": " that when the winds come, when the rain pours, beat on the house. May our house stand firm on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:11,840",
+				"to": "00:44:21,600"
+			},
+			"offsets": {
+				"from": 2651840,
+				"to": 2661600
+			},
+			"text": " foundation of foundation that is Jesus. In his name I pray. Amen."
+		}
+	]
+}

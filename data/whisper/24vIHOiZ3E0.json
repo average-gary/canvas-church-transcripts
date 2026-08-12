@@ -1,0 +1,1814 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:01,000",
+				"to": "00:00:07,780"
+			},
+			"offsets": {
+				"from": 1000,
+				"to": 7780
+			},
+			"text": " Well, hello, Canvas Community Church, and welcome to the last Sunday of the year here."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,780",
+				"to": "00:00:13,960"
+			},
+			"offsets": {
+				"from": 7780,
+				"to": 13960
+			},
+			"text": " It has been our tradition to not have any in-person gatherings on the last Sunday of the year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,960",
+				"to": "00:00:20,880"
+			},
+			"offsets": {
+				"from": 13960,
+				"to": 20880
+			},
+			"text": " and historically we have elected to pre-record a service to give our staff and all of our incredible volunteers"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,880",
+				"to": "00:00:25,500"
+			},
+			"offsets": {
+				"from": 20880,
+				"to": 25500
+			},
+			"text": " an intentional rest at the end of a long and busy year."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,280",
+				"to": "00:00:30,200"
+			},
+			"offsets": {
+				"from": 26280,
+				"to": 30200
+			},
+			"text": " We're going to be talking about Sabbath here in a few weeks at the church,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,200",
+				"to": "00:00:34,980"
+			},
+			"offsets": {
+				"from": 30200,
+				"to": 34980
+			},
+			"text": " and just a reminder that God invites us to rest in His presence"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,980",
+				"to": "00:00:42,880"
+			},
+			"offsets": {
+				"from": 34980,
+				"to": 42880
+			},
+			"text": " and that a relationship with God is not rooted in what we do for Him, but what we do with Him."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,880",
+				"to": "00:00:49,440"
+			},
+			"offsets": {
+				"from": 42880,
+				"to": 49440
+			},
+			"text": " And typically we record a pretty standard service with a few worship songs and a short devotional message."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,440",
+				"to": "00:00:55,200"
+			},
+			"offsets": {
+				"from": 49440,
+				"to": 55200
+			},
+			"text": " However, this year I have really been impacted by some guided prayer meditations"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,200",
+				"to": "00:01:02,040"
+			},
+			"offsets": {
+				"from": 55200,
+				"to": 62040
+			},
+			"text": " from an app called Lectio 365, put together by an organization called 24-7 Prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,040",
+				"to": "00:01:08,860"
+			},
+			"offsets": {
+				"from": 62040,
+				"to": 68860
+			},
+			"text": " Love for you to check that out and find if it is beneficial to you in your spiritual journey at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,860",
+				"to": "00:01:14,300"
+			},
+			"offsets": {
+				"from": 68860,
+				"to": 74300
+			},
+			"text": " They have three kind of prayer meditations a day, a morning, a midday, and an evening."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,300",
+				"to": "00:01:23,000"
+			},
+			"offsets": {
+				"from": 74300,
+				"to": 83000
+			},
+			"text": " And so I decided that I would attempt to write out a guided prayer meditation for us using this Lectio format."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,000",
+				"to": "00:01:31,540"
+			},
+			"offsets": {
+				"from": 83000,
+				"to": 91540
+			},
+			"text": " I think it is a helpful reminder to us that spiritual formation is not just an isolated activity in the brain,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,540",
+				"to": "00:01:33,680"
+			},
+			"offsets": {
+				"from": 91540,
+				"to": 93680
+			},
+			"text": " but it includes our whole person."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,820",
+				"to": "00:01:41,080"
+			},
+			"offsets": {
+				"from": 94820,
+				"to": 101080
+			},
+			"text": " And we actually did a foundational sermon series on this a while back called Spiritual Stations,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,080",
+				"to": "00:01:46,440"
+			},
+			"offsets": {
+				"from": 101080,
+				"to": 106440
+			},
+			"text": " just about how we as different people worship and connect with God in different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,440",
+				"to": "00:01:49,660"
+			},
+			"offsets": {
+				"from": 106440,
+				"to": 109660
+			},
+			"text": " And Lectio and prayer meditation was one of those ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,660",
+				"to": "00:01:57,900"
+			},
+			"offsets": {
+				"from": 109660,
+				"to": 117900
+			},
+			"text": " And so if you missed that series or you want to refresh, I will post a link to that in the comments just so you can check that out."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,900",
+				"to": "00:02:04,200"
+			},
+			"offsets": {
+				"from": 117900,
+				"to": 124200
+			},
+			"text": " But just hopefully today becomes an opportunity for us to just sit in the presence of God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,200",
+				"to": "00:02:06,980"
+			},
+			"offsets": {
+				"from": 124200,
+				"to": 126980
+			},
+			"text": " our whole selves, bring our whole selves into prayer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,240",
+				"to": "00:02:13,440"
+			},
+			"offsets": {
+				"from": 127240,
+				"to": 133440
+			},
+			"text": " and ask the Holy Spirit to work through the prayers and the reading of Scripture and the meditation"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,440",
+				"to": "00:02:20,440"
+			},
+			"offsets": {
+				"from": 133440,
+				"to": 140440
+			},
+			"text": " to just draw us closer into His presence and conform us more into His image."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,440",
+				"to": "00:02:23,520"
+			},
+			"offsets": {
+				"from": 140440,
+				"to": 143520
+			},
+			"text": " We decided not to record some worship songs."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,520",
+				"to": "00:02:32,460"
+			},
+			"offsets": {
+				"from": 143520,
+				"to": 152460
+			},
+			"text": " And instead, I am going to put a slide on the screen with some songs that would pair well with our meditation this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,460",
+				"to": "00:02:41,720"
+			},
+			"offsets": {
+				"from": 152460,
+				"to": 161720
+			},
+			"text": " If you want to pause this video and go find your favorite recording of whatever your favorite song is that's listed on the screen,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,720",
+				"to": "00:02:50,100"
+			},
+			"offsets": {
+				"from": 161720,
+				"to": 170100
+			},
+			"text": " or just a song that you feel will help prepare your heart or your family or your small group's heart for this time of prayer and meditation."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,100",
+				"to": "00:02:51,520"
+			},
+			"offsets": {
+				"from": 170100,
+				"to": 171520
+			},
+			"text": " So feel free to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,520",
+				"to": "00:02:54,980"
+			},
+			"offsets": {
+				"from": 171520,
+				"to": 174980
+			},
+			"text": " If not, I'm going to go ahead and pray and we can get started."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,520",
+				"to": "00:03:08,200"
+			},
+			"offsets": {
+				"from": 176520,
+				"to": 188200
+			},
+			"text": " Father in heaven, we thank you for another year, another opportunity to, God, just experience you in new ways,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,200",
+				"to": "00:03:13,600"
+			},
+			"offsets": {
+				"from": 188200,
+				"to": 193600
+			},
+			"text": " experience you in old ways, be challenged and convicted and encouraged."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,600",
+				"to": "00:03:19,060"
+			},
+			"offsets": {
+				"from": 193600,
+				"to": 199060
+			},
+			"text": " And God, we just thank you for the gift of life, the gift of breath in our lungs."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,820",
+				"to": "00:03:25,480"
+			},
+			"offsets": {
+				"from": 199820,
+				"to": 205480
+			},
+			"text": " And we just pray for this upcoming year, God, that we as a people of God would be led by the Spirit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,480",
+				"to": "00:03:31,260"
+			},
+			"offsets": {
+				"from": 205480,
+				"to": 211260
+			},
+			"text": " be conformed into the image of Jesus, embody the kingdom of God on earth as it is in heaven,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,260",
+				"to": "00:03:34,320"
+			},
+			"offsets": {
+				"from": 211260,
+				"to": 214320
+			},
+			"text": " for your glory, for our good, for the good of our neighbor."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,320",
+				"to": "00:03:36,160"
+			},
+			"offsets": {
+				"from": 214320,
+				"to": 216160
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,160",
+				"to": "00:03:47,980"
+			},
+			"offsets": {
+				"from": 216160,
+				"to": 227980
+			},
+			"text": " Well, in 1925, Pope Pius XI added a service to the church calendar called Christ is King."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,200",
+				"to": "00:03:57,880"
+			},
+			"offsets": {
+				"from": 228200,
+				"to": 237880
+			},
+			"text": " It was a response to rising nationalism, secularism, and the marginalization of Christ's authority and public discourse."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,880",
+				"to": "00:04:05,640"
+			},
+			"offsets": {
+				"from": 237880,
+				"to": 245640
+			},
+			"text": " It is now celebrated by many streams of the church, and it is typically celebrated on the last Sunday of the church calendar"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,640",
+				"to": "00:04:09,040"
+			},
+			"offsets": {
+				"from": 245640,
+				"to": 249040
+			},
+			"text": " or the last Sunday before Advent begins."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,040",
+				"to": "00:04:13,780"
+			},
+			"offsets": {
+				"from": 249040,
+				"to": 253780
+			},
+			"text": " However, since we don't strictly follow any liturgical calendar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,780",
+				"to": "00:04:21,280"
+			},
+			"offsets": {
+				"from": 253780,
+				"to": 261280
+			},
+			"text": " I thought the last Sunday of the calendar year would be a good opportunity for us to reflect on the kingship of Christ,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,280",
+				"to": "00:04:27,500"
+			},
+			"offsets": {
+				"from": 261280,
+				"to": 267500
+			},
+			"text": " his cross-shaped kingdom of sacrificial and self-giving love,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,500",
+				"to": "00:04:30,620"
+			},
+			"offsets": {
+				"from": 267500,
+				"to": 270620
+			},
+			"text": " his resurrection and ascension to the throne,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,620",
+				"to": "00:04:34,500"
+			},
+			"offsets": {
+				"from": 270620,
+				"to": 274500
+			},
+			"text": " demonstrating his kingdom and his dominion over all creation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,500",
+				"to": "00:04:39,800"
+			},
+			"offsets": {
+				"from": 274500,
+				"to": 279800
+			},
+			"text": " and his eventual return, making visible his authority over all creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,740",
+				"to": "00:04:43,540"
+			},
+			"offsets": {
+				"from": 280740,
+				"to": 283540
+			},
+			"text": " It's aimed at challenging our competing allegiances,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,540",
+				"to": "00:04:48,240"
+			},
+			"offsets": {
+				"from": 283540,
+				"to": 288240
+			},
+			"text": " whether they be political, national, ideological, or personal."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,240",
+				"to": "00:04:51,120"
+			},
+			"offsets": {
+				"from": 288240,
+				"to": 291120
+			},
+			"text": " So as we pray together today,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,120",
+				"to": "00:04:55,200"
+			},
+			"offsets": {
+				"from": 291120,
+				"to": 295200
+			},
+			"text": " I invite each of us to consider our allegiances over the past year."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,880",
+				"to": "00:05:01,200"
+			},
+			"offsets": {
+				"from": 295880,
+				"to": 301200
+			},
+			"text": " In what areas of our lives did we allow Christ to function as King?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,200",
+				"to": "00:05:09,340"
+			},
+			"offsets": {
+				"from": 301200,
+				"to": 309340
+			},
+			"text": " In what area of our lives have we given our ultimate allegiance to someone else or something else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,340",
+				"to": "00:05:19,080"
+			},
+			"offsets": {
+				"from": 309340,
+				"to": 319080
+			},
+			"text": " And how might the Holy Spirit be inviting us to bend the knee of surrender to the teachings and examples of Jesus in this coming year?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,620",
+				"to": "00:05:26,860"
+			},
+			"offsets": {
+				"from": 319620,
+				"to": 326860
+			},
+			"text": " We will be using the pattern from Lectio Divina where they pause, reflect, ask, and yield."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,860",
+				"to": "00:05:28,900"
+			},
+			"offsets": {
+				"from": 326860,
+				"to": 328900
+			},
+			"text": " P-R-A-Y."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,900",
+				"to": "00:05:35,440"
+			},
+			"offsets": {
+				"from": 328900,
+				"to": 335440
+			},
+			"text": " And so, as we enter prayer now, we pause to be still."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,440",
+				"to": "00:05:39,620"
+			},
+			"offsets": {
+				"from": 335440,
+				"to": 339620
+			},
+			"text": " Breathe slowly."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,620",
+				"to": "00:05:46,400"
+			},
+			"offsets": {
+				"from": 339620,
+				"to": 346400
+			},
+			"text": " We recenter our scattered senses upon the indwelling presence of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,620",
+				"to": "00:05:53,340"
+			},
+			"offsets": {
+				"from": 346620,
+				"to": 353340
+			},
+			"text": " Almighty and everlasting God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,340",
+				"to": "00:05:58,380"
+			},
+			"offsets": {
+				"from": 353340,
+				"to": 358380
+			},
+			"text": " whose will it is to restore all things in your well-beloved Son,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,380",
+				"to": "00:06:01,580"
+			},
+			"offsets": {
+				"from": 358380,
+				"to": 361580
+			},
+			"text": " the King of kings and Lord of lords,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,580",
+				"to": "00:06:05,180"
+			},
+			"offsets": {
+				"from": 361580,
+				"to": 365180
+			},
+			"text": " mercifully grant that peoples of the earth,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,180",
+				"to": "00:06:07,200"
+			},
+			"offsets": {
+				"from": 365180,
+				"to": 367200
+			},
+			"text": " divided and enslaved by sin,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,200",
+				"to": "00:06:11,740"
+			},
+			"offsets": {
+				"from": 367200,
+				"to": 371740
+			},
+			"text": " may be freed and brought together under his most gracious rule,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,740",
+				"to": "00:06:15,780"
+			},
+			"offsets": {
+				"from": 371740,
+				"to": 375780
+			},
+			"text": " who lives and reigns with you and the Holy Spirit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,780",
+				"to": "00:06:17,160"
+			},
+			"offsets": {
+				"from": 375780,
+				"to": 377160
+			},
+			"text": " one God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,160",
+				"to": "00:06:18,860"
+			},
+			"offsets": {
+				"from": 377160,
+				"to": 378860
+			},
+			"text": " now and forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,860",
+				"to": "00:06:20,060"
+			},
+			"offsets": {
+				"from": 378860,
+				"to": 380060
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,060",
+				"to": "00:06:28,060"
+			},
+			"offsets": {
+				"from": 380060,
+				"to": 388060
+			},
+			"text": " We choose to rejoice today with this opening line from the Royal Psalm, Psalm 93."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,560",
+				"to": "00:06:31,380"
+			},
+			"offsets": {
+				"from": 389560,
+				"to": 391380
+			},
+			"text": " The Lord reigns."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,380",
+				"to": "00:06:34,260"
+			},
+			"offsets": {
+				"from": 391380,
+				"to": 394260
+			},
+			"text": " He is robed in majesty."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,260",
+				"to": "00:06:37,960"
+			},
+			"offsets": {
+				"from": 394260,
+				"to": 397960
+			},
+			"text": " The Lord is robed in majesty and armed with strength."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,960",
+				"to": "00:06:41,740"
+			},
+			"offsets": {
+				"from": 397960,
+				"to": 401740
+			},
+			"text": " Indeed, the world is established firm and secure."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,740",
+				"to": "00:06:45,500"
+			},
+			"offsets": {
+				"from": 401740,
+				"to": 405500
+			},
+			"text": " Your throne was established long ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,500",
+				"to": "00:06:50,120"
+			},
+			"offsets": {
+				"from": 405500,
+				"to": 410120
+			},
+			"text": " You are from all eternity."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,380",
+				"to": "00:06:53,440"
+			},
+			"offsets": {
+				"from": 411380,
+				"to": 413440
+			},
+			"text": " In today's scripture reading,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,440",
+				"to": "00:07:00,000"
+			},
+			"offsets": {
+				"from": 413440,
+				"to": 420000
+			},
+			"text": " we turn to a famous dialogue between Jesus and Pontius Pilate prior to his crucifixion."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,000",
+				"to": "00:07:03,700"
+			},
+			"offsets": {
+				"from": 420000,
+				"to": 423700
+			},
+			"text": " Scripture reads,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,700",
+				"to": "00:07:07,340"
+			},
+			"offsets": {
+				"from": 424700,
+				"to": 427340
+			},
+			"text": " Pilate then went back inside the palace,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,340",
+				"to": "00:07:09,660"
+			},
+			"offsets": {
+				"from": 427340,
+				"to": 429660
+			},
+			"text": " summoned Jesus and asked him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,660",
+				"to": "00:07:11,580"
+			},
+			"offsets": {
+				"from": 429660,
+				"to": 431580
+			},
+			"text": " Are you the King of the Jews?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,580",
+				"to": "00:07:14,240"
+			},
+			"offsets": {
+				"from": 431580,
+				"to": 434240
+			},
+			"text": " Is that your own idea?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,240",
+				"to": "00:07:15,080"
+			},
+			"offsets": {
+				"from": 434240,
+				"to": 435080
+			},
+			"text": " Jesus asked."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,080",
+				"to": "00:07:17,800"
+			},
+			"offsets": {
+				"from": 435080,
+				"to": 437800
+			},
+			"text": " Or did others talk to you about me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,800",
+				"to": "00:07:19,300"
+			},
+			"offsets": {
+				"from": 437800,
+				"to": 439300
+			},
+			"text": " Am I a Jew?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,300",
+				"to": "00:07:20,440"
+			},
+			"offsets": {
+				"from": 439300,
+				"to": 440440
+			},
+			"text": " Pilate replied."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,440",
+				"to": "00:07:24,180"
+			},
+			"offsets": {
+				"from": 440440,
+				"to": 444180
+			},
+			"text": " Your own people and chief priests handed you over to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,180",
+				"to": "00:07:25,620"
+			},
+			"offsets": {
+				"from": 444180,
+				"to": 445620
+			},
+			"text": " What is it that you have done?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,780",
+				"to": "00:07:27,560"
+			},
+			"offsets": {
+				"from": 446780,
+				"to": 447560
+			},
+			"text": " Jesus said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,560",
+				"to": "00:07:29,420"
+			},
+			"offsets": {
+				"from": 447560,
+				"to": 449420
+			},
+			"text": " My kingdom is not of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,420",
+				"to": "00:07:30,680"
+			},
+			"offsets": {
+				"from": 449420,
+				"to": 450680
+			},
+			"text": " If it were,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,680",
+				"to": "00:07:35,160"
+			},
+			"offsets": {
+				"from": 450680,
+				"to": 455160
+			},
+			"text": " my servants would fight to prevent my arrest by the Jewish leaders."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,160",
+				"to": "00:07:38,220"
+			},
+			"offsets": {
+				"from": 455160,
+				"to": 458220
+			},
+			"text": " But now my kingdom is from another place."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,220",
+				"to": "00:07:39,620"
+			},
+			"offsets": {
+				"from": 458220,
+				"to": 459620
+			},
+			"text": " You are a king then,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,620",
+				"to": "00:07:40,320"
+			},
+			"offsets": {
+				"from": 459620,
+				"to": 460320
+			},
+			"text": " said Pilate."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,320",
+				"to": "00:07:41,840"
+			},
+			"offsets": {
+				"from": 460320,
+				"to": 461840
+			},
+			"text": " Jesus answered,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,840",
+				"to": "00:07:43,440"
+			},
+			"offsets": {
+				"from": 461840,
+				"to": 463440
+			},
+			"text": " You say that I am a king."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,440",
+				"to": "00:07:44,460"
+			},
+			"offsets": {
+				"from": 463440,
+				"to": 464460
+			},
+			"text": " In fact,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,460",
+				"to": "00:07:48,340"
+			},
+			"offsets": {
+				"from": 464460,
+				"to": 468340
+			},
+			"text": " the reason I was born and came into this world is to testify to the truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,340",
+				"to": "00:07:51,760"
+			},
+			"offsets": {
+				"from": 468340,
+				"to": 471760
+			},
+			"text": " Everyone on the side of truth listens to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,760",
+				"to": "00:07:54,180"
+			},
+			"offsets": {
+				"from": 471760,
+				"to": 474180
+			},
+			"text": " What is truth?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,180",
+				"to": "00:07:55,700"
+			},
+			"offsets": {
+				"from": 474180,
+				"to": 475700
+			},
+			"text": " Retorted Pilate."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,500",
+				"to": "00:07:57,080"
+			},
+			"offsets": {
+				"from": 476500,
+				"to": 477080
+			},
+			"text": " With this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,080",
+				"to": "00:07:58,800"
+			},
+			"offsets": {
+				"from": 477080,
+				"to": 478800
+			},
+			"text": " he went out again to the Jews,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,800",
+				"to": "00:08:00,220"
+			},
+			"offsets": {
+				"from": 478800,
+				"to": 480220
+			},
+			"text": " gathered there and said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,220",
+				"to": "00:08:02,960"
+			},
+			"offsets": {
+				"from": 480220,
+				"to": 482960
+			},
+			"text": " I find no basis for charge against him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,960",
+				"to": "00:08:07,580"
+			},
+			"offsets": {
+				"from": 482960,
+				"to": 487580
+			},
+			"text": " but it is your custom for me to release to you one prisoner at the time of the Passover."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,580",
+				"to": "00:08:10,520"
+			},
+			"offsets": {
+				"from": 487580,
+				"to": 490520
+			},
+			"text": " Do you want me to release this King of the Jews?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,520",
+				"to": "00:08:13,900"
+			},
+			"offsets": {
+				"from": 490520,
+				"to": 493900
+			},
+			"text": " They shouted back,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,900",
+				"to": "00:08:15,360"
+			},
+			"offsets": {
+				"from": 493900,
+				"to": 495360
+			},
+			"text": " No, not him."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,360",
+				"to": "00:08:17,700"
+			},
+			"offsets": {
+				"from": 495360,
+				"to": 497700
+			},
+			"text": " Give us Barabbas."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,700",
+				"to": "00:08:24,640"
+			},
+			"offsets": {
+				"from": 497700,
+				"to": 504640
+			},
+			"text": " The secular politician missed the nature of Christ's kingdom,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,220",
+				"to": "00:08:31,020"
+			},
+			"offsets": {
+				"from": 505220,
+				"to": 511020
+			},
+			"text": " and the religious Jews rejected the cross-shaped sacrificial nature of his kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,020",
+				"to": "00:08:48,220"
+			},
+			"offsets": {
+				"from": 511020,
+				"to": 528220
+			},
+			"text": " In what ways might we miss the nature of God's kingdom or the cross-shaped sacrificial nature of his kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,560",
+				"to": "00:08:52,720"
+			},
+			"offsets": {
+				"from": 530560,
+				"to": 532720
+			},
+			"text": " Sovereign Lord and King of the universe,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,720",
+				"to": "00:08:59,060"
+			},
+			"offsets": {
+				"from": 532720,
+				"to": 539060
+			},
+			"text": " we acknowledge our propensity to misunderstand the nature of your kingdom and to give our allegiance to other things."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,060",
+				"to": "00:09:04,720"
+			},
+			"offsets": {
+				"from": 539060,
+				"to": 544720
+			},
+			"text": " Please awaken our heart to see this rebellion and rejection when it happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,420",
+				"to": "00:09:09,460"
+			},
+			"offsets": {
+				"from": 545420,
+				"to": 549460
+			},
+			"text": " Give us the strength to believe that your ways are better than our ways,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,460",
+				"to": "00:09:11,840"
+			},
+			"offsets": {
+				"from": 549460,
+				"to": 551840
+			},
+			"text": " that your thoughts are better than our thoughts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,840",
+				"to": "00:09:19,160"
+			},
+			"offsets": {
+				"from": 551840,
+				"to": 559160
+			},
+			"text": " and help us this year to surrender wholeheartedly to your kingdom with a glad and sincere heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,160",
+				"to": "00:09:30,540"
+			},
+			"offsets": {
+				"from": 563160,
+				"to": 570540
+			},
+			"text": " I invite you to think now of someone in your life who has rejected God's kingdom for a lesser allegiance."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,540",
+				"to": "00:09:37,700"
+			},
+			"offsets": {
+				"from": 570540,
+				"to": 577700
+			},
+			"text": " Spend time now asking God to awaken their hearts to his kingdom in this coming year."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,700",
+				"to": "00:09:46,800"
+			},
+			"offsets": {
+				"from": 577700,
+				"to": 586800
+			},
+			"text": " Pray that God might use you as an ambassador to this person or persons in a way that leads to their salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,960",
+				"to": "00:10:05,380"
+			},
+			"offsets": {
+				"from": 586960,
+				"to": 605380
+			},
+			"text": " Father in heaven, may your kingdom come and your will be done on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,720",
+				"to": "00:10:12,000"
+			},
+			"offsets": {
+				"from": 609720,
+				"to": 612000
+			},
+			"text": " As we return to the passage in John,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,000",
+				"to": "00:10:17,220"
+			},
+			"offsets": {
+				"from": 612000,
+				"to": 617220
+			},
+			"text": " we listen for the Holy Spirit to speak a specific word of challenge or encouragement to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,220",
+				"to": "00:10:26,140"
+			},
+			"offsets": {
+				"from": 617220,
+				"to": 626140
+			},
+			"text": " What word or phrase might God be inviting us to meditate on from this passage in the coming hours or days?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,140",
+				"to": "00:10:32,880"
+			},
+			"offsets": {
+				"from": 626140,
+				"to": 632880
+			},
+			"text": " Pilate then went back inside the palace, summoned Jesus and asked him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,880",
+				"to": "00:10:34,700"
+			},
+			"offsets": {
+				"from": 632880,
+				"to": 634700
+			},
+			"text": " Are you king of the Jews?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,640",
+				"to": "00:10:39,780"
+			},
+			"offsets": {
+				"from": 635640,
+				"to": 639780
+			},
+			"text": " Is that your own idea, Jesus asked, or did others talk to you about me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,780",
+				"to": "00:10:41,280"
+			},
+			"offsets": {
+				"from": 639780,
+				"to": 641280
+			},
+			"text": " Am I a Jew?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,280",
+				"to": "00:10:42,080"
+			},
+			"offsets": {
+				"from": 641280,
+				"to": 642080
+			},
+			"text": " Pilate replied."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,080",
+				"to": "00:10:45,380"
+			},
+			"offsets": {
+				"from": 642080,
+				"to": 645380
+			},
+			"text": " Your own people and chief priests handed you over to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,380",
+				"to": "00:10:47,100"
+			},
+			"offsets": {
+				"from": 645380,
+				"to": 647100
+			},
+			"text": " What is it you have done?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,100",
+				"to": "00:10:49,400"
+			},
+			"offsets": {
+				"from": 647100,
+				"to": 649400
+			},
+			"text": " Jesus said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,400",
+				"to": "00:10:51,380"
+			},
+			"offsets": {
+				"from": 649400,
+				"to": 651380
+			},
+			"text": " My kingdom is not of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,380",
+				"to": "00:10:55,580"
+			},
+			"offsets": {
+				"from": 651380,
+				"to": 655580
+			},
+			"text": " If it were, my servants would fight to prevent my arrest by the Jewish leaders."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,580",
+				"to": "00:10:57,960"
+			},
+			"offsets": {
+				"from": 655580,
+				"to": 657960
+			},
+			"text": " But now my kingdom is from another place."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,960",
+				"to": "00:11:00,880"
+			},
+			"offsets": {
+				"from": 657960,
+				"to": 660880
+			},
+			"text": " You are a king then, said Pilate."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,880",
+				"to": "00:11:02,320"
+			},
+			"offsets": {
+				"from": 660880,
+				"to": 662320
+			},
+			"text": " Jesus answered,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,320",
+				"to": "00:11:03,600"
+			},
+			"offsets": {
+				"from": 662320,
+				"to": 663600
+			},
+			"text": " You say that I am king."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,080",
+				"to": "00:11:08,120"
+			},
+			"offsets": {
+				"from": 664080,
+				"to": 668120
+			},
+			"text": " In fact, the reason I was born and came into this world is to testify to the truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,120",
+				"to": "00:11:11,140"
+			},
+			"offsets": {
+				"from": 668120,
+				"to": 671140
+			},
+			"text": " Everyone on the side of truth listens to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,140",
+				"to": "00:11:13,140"
+			},
+			"offsets": {
+				"from": 671140,
+				"to": 673140
+			},
+			"text": " What is truth?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,140",
+				"to": "00:11:14,040"
+			},
+			"offsets": {
+				"from": 673140,
+				"to": 674040
+			},
+			"text": " Retorted Pilate."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,040",
+				"to": "00:11:16,660"
+			},
+			"offsets": {
+				"from": 674040,
+				"to": 676660
+			},
+			"text": " With this, he went out again to the Jews,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,660",
+				"to": "00:11:18,120"
+			},
+			"offsets": {
+				"from": 676660,
+				"to": 678120
+			},
+			"text": " gathered there and said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,120",
+				"to": "00:11:20,520"
+			},
+			"offsets": {
+				"from": 678120,
+				"to": 680520
+			},
+			"text": " I find no basis for a charge against him."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,520",
+				"to": "00:11:25,260"
+			},
+			"offsets": {
+				"from": 680520,
+				"to": 685260
+			},
+			"text": " But it is your custom for me to release to you one prisoner at the time of Passover."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,260",
+				"to": "00:11:28,000"
+			},
+			"offsets": {
+				"from": 685260,
+				"to": 688000
+			},
+			"text": " Do you want me to release the king of the Jews?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,000",
+				"to": "00:11:29,500"
+			},
+			"offsets": {
+				"from": 688000,
+				"to": 689500
+			},
+			"text": " They shouted back,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,500",
+				"to": "00:11:30,700"
+			},
+			"offsets": {
+				"from": 689500,
+				"to": 690700
+			},
+			"text": " No, not him."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,700",
+				"to": "00:11:32,600"
+			},
+			"offsets": {
+				"from": 690700,
+				"to": 692600
+			},
+			"text": " Give us Barabbas."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,600",
+				"to": "00:11:41,460"
+			},
+			"offsets": {
+				"from": 692600,
+				"to": 701460
+			},
+			"text": " And now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,460",
+				"to": "00:11:46,120"
+			},
+			"offsets": {
+				"from": 701460,
+				"to": 706120
+			},
+			"text": " as we prepare to take this time of prayer into our coming day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,120",
+				"to": "00:11:47,600"
+			},
+			"offsets": {
+				"from": 706120,
+				"to": 707600
+			},
+			"text": " the Lord who loves us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,600",
+				"to": "00:11:53,100"
+			},
+			"offsets": {
+				"from": 707600,
+				"to": 713100
+			},
+			"text": " assures us of this current spiritual reality in the book of Revelation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,100",
+				"to": "00:12:12,880"
+			},
+			"offsets": {
+				"from": 713100,
+				"to": 732880
+			},
+			"text": " Father, help me to live this day to the full, being true to you in every way."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,960",
+				"to": "00:12:18,520"
+			},
+			"offsets": {
+				"from": 732960,
+				"to": 738520
+			},
+			"text": " Jesus, help me to give myself away to others, being kind to everyone I need."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,520",
+				"to": "00:12:21,800"
+			},
+			"offsets": {
+				"from": 738520,
+				"to": 741800
+			},
+			"text": " Spirit, help me to love the lost,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,800",
+				"to": "00:12:27,060"
+			},
+			"offsets": {
+				"from": 741800,
+				"to": 747060
+			},
+			"text": " proclaiming Christ the King in all I do and say."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,060",
+				"to": "00:12:28,440"
+			},
+			"offsets": {
+				"from": 747060,
+				"to": 748440
+			},
+			"text": " Amen."
+		}
+	]
+}

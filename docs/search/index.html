@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search · Canvas Sermon Archive</title>
+<meta name="description" content="Canvas Sermon Archive">
+<link rel="stylesheet" href="../assets/styles.css">
+<link href="../pagefind/pagefind-ui.css" rel="stylesheet">
+</head>
+<body data-root="../">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead" data-pagefind-ignore>
+  <div class="masthead-in">
+    <a class="wordmark" href="../">Canvas<span>/</span>Archive</a>
+    <nav>
+      <a href="../search/">Search</a>
+      <a href="../all/">All sermons</a>
+      <a href="../series/">Series</a>
+      <a href="../themes/">Themes</a>
+      <a href="../scripture/">Scripture</a>
+      <a href="../timeline/">Timeline</a>
+    </nav>
+    <button class="icon-btn" id="theme-toggle" type="button">dark</button>
+  </div>
+</header>
+<main id="main" class="wrap">
+
+<div class="page-head">
+  <div class="kicker label">Full-text search</div>
+  <h1>Search every sermon</h1>
+  <p class="dek">Searches all 1.73 million words. Open a result and
+  the term is highlighted in the transcript with a timestamp for every occurrence, so
+  you can jump straight to where it was said.</p>
+</div>
+<div id="search"></div>
+<p class="hint mt">Try a phrase in quotes, or filter by series and year once results appear.</p>
+
+</main>
+<footer class="site" data-pagefind-ignore>
+  <div class="wrap">
+    <p>Transcripts of sermons published by Canvas Community Church at
+      <a href="https://www.youtube.com/@CanvasWinchester">@CanvasWinchester</a>. Sermon content belongs to the church.</p>
+    <p>Transcribed locally with whisper.cpp (large-v3-turbo). This is unedited
+      machine transcription: expect errors in proper nouns and scripture
+      references, and check the recording before quoting.</p>
+    <p class="hint">Press <kbd>/</kbd> to search · <kbd>f</kbd> find in page · <kbd>n</kbd> next hit</p>
+  </div>
+</footer>
+<script src="../assets/app.js" defer></script>
+
+<script src="../pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: false,
+      showImages: false,
+      pageSize: 12,
+      excerptLength: 30,
+      // Carry the query onto the sermon page, which then highlights every
+      // occurrence and lists a timestamp for each.
+      processResult: function (result) {
+        var box = document.querySelector('.pagefind-ui__search-input');
+        var q = box && box.value ? box.value.trim() : '';
+        if (q && result.url.indexOf('q=') === -1) {
+          result.url += (result.url.indexOf('?') === -1 ? '?' : '&')
+            + 'q=' + encodeURIComponent(q);
+        }
+        return result;
+      }
+    });
+    var q = new URLSearchParams(location.search).get('q');
+    if (q) {
+      var box = document.querySelector('.pagefind-ui__search-input');
+      if (box) { box.value = q; box.dispatchEvent(new Event('input', {bubbles: true})); }
+    }
+  });
+</script>
+
+</body>
+</html>

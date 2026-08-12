@@ -1,0 +1,4564 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:11,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 11880
+			},
+			"text": " well good morning church good to see you all we left ourselves the shortest amount of time"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,880",
+				"to": "00:00:14,940"
+			},
+			"offsets": {
+				"from": 11880,
+				"to": 14940
+			},
+			"text": " for probably the hardest passages that we're going to cover in the book of Ephesians"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,940",
+				"to": "00:00:20,660"
+			},
+			"offsets": {
+				"from": 14940,
+				"to": 20660
+			},
+			"text": " so let's just you know let's just do the things that sound good if you want to follow along in"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,660",
+				"to": "00:00:24,920"
+			},
+			"offsets": {
+				"from": 20660,
+				"to": 24920
+			},
+			"text": " your Bibles we're going to be in Ephesians chapter 5 and 6 let me throw up I'm gonna have"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,920",
+				"to": "00:00:31,040"
+			},
+			"offsets": {
+				"from": 24920,
+				"to": 31040
+			},
+			"text": " to skip most of my recap so we you know we do we do record our sermons put them online so if you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,040",
+				"to": "00:00:35,480"
+			},
+			"offsets": {
+				"from": 31040,
+				"to": 35480
+			},
+			"text": " missed anything that's happened so far in the Ephesians series check that out I don't have"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,480",
+				"to": "00:00:40,420"
+			},
+			"offsets": {
+				"from": 35480,
+				"to": 40420
+			},
+			"text": " time to recap it but this image kind of does a a good job of helping us realize where we've been"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,420",
+				"to": "00:00:46,820"
+			},
+			"offsets": {
+				"from": 40420,
+				"to": 46820
+			},
+			"text": " through the book of Ephesians the book of Ephesians unpacks how we live in a broken world under the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,820",
+				"to": "00:00:52,460"
+			},
+			"offsets": {
+				"from": 46820,
+				"to": 52460
+			},
+			"text": " influence of demonic forces called powers and principalities they separate us into identities"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,460",
+				"to": "00:00:58,780"
+			},
+			"offsets": {
+				"from": 52460,
+				"to": 58780
+			},
+			"text": " that allow us to dehumanize one another to fight for what feels like limited resources rather than"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,780",
+				"to": "00:01:04,740"
+			},
+			"offsets": {
+				"from": 58780,
+				"to": 64740
+			},
+			"text": " to live with open hands and abundance realizing that God has given us everything we need but through"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,740",
+				"to": "00:01:14,360"
+			},
+			"offsets": {
+				"from": 64740,
+				"to": 74360
+			},
+			"text": " the cross through Jesus's death burial resurrection and ascension he has lifted us above the powers and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,360",
+				"to": "00:01:19,460"
+			},
+			"offsets": {
+				"from": 74360,
+				"to": 79460
+			},
+			"text": " principalities and seated us with him in the heavenly places forming the church which we are saying the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,460",
+				"to": "00:01:25,460"
+			},
+			"offsets": {
+				"from": 79460,
+				"to": 85460
+			},
+			"text": " the book of Ephesians is all about how the church lives as they working model of new creation between"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,460",
+				"to": "00:01:31,480"
+			},
+			"offsets": {
+				"from": 85460,
+				"to": 91480
+			},
+			"text": " Christ's inaugurated kingdom and his consummated kingdom and now we are zooming in and looking at what"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,480",
+				"to": "00:01:37,780"
+			},
+			"offsets": {
+				"from": 91480,
+				"to": 97780
+			},
+			"text": " does it look like for the church to live that way with essentially a foot in two worlds because even"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,780",
+				"to": "00:01:43,520"
+			},
+			"offsets": {
+				"from": 97780,
+				"to": 103520
+			},
+			"text": " though we've been raised and seated with Christ in the heavenly places we still live on this earth and so"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,520",
+				"to": "00:01:49,520"
+			},
+			"offsets": {
+				"from": 103520,
+				"to": 109520
+			},
+			"text": " what does it look like for the church to have a foot in both worlds to to both live towards new creation and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,520",
+				"to": "00:01:57,520"
+			},
+			"offsets": {
+				"from": 109520,
+				"to": 117520
+			},
+			"text": " acknowledge the pain and brokenness of old creation so that's where we've been and we are rounding third headed to"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,520",
+				"to": "00:02:01,520"
+			},
+			"offsets": {
+				"from": 117520,
+				"to": 121520
+			},
+			"text": " home in the book of Ephesians this week we'll talk about what does it look like to form community"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,520",
+				"to": "00:02:07,520"
+			},
+			"offsets": {
+				"from": 121520,
+				"to": 127520
+			},
+			"text": " with a foot in both worlds and next week Corey's going to talk about violence and"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,520",
+				"to": "00:02:11,520"
+			},
+			"offsets": {
+				"from": 127520,
+				"to": 131520
+			},
+			"text": " warfare with a foot in both worlds and we're going to have our children in here it's going to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,520",
+				"to": "00:02:18,520"
+			},
+			"offsets": {
+				"from": 131520,
+				"to": 138520
+			},
+			"text": " awesome it's Palm Sunday we we kind of did that on purpose right all right I'll let Corey preach that I"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,520",
+				"to": "00:02:24,200"
+			},
+			"offsets": {
+				"from": 138520,
+				"to": 144200
+			},
+			"text": " want to preach it but I'll let Corey preach it let's pray father in heaven we are so grateful for the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,200",
+				"to": "00:02:29,520"
+			},
+			"offsets": {
+				"from": 144200,
+				"to": 149520
+			},
+			"text": " opportunity to gather together with brothers and sisters who have been raised and seated with Christ in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,520",
+				"to": "00:02:39,520"
+			},
+			"offsets": {
+				"from": 149520,
+				"to": 159520
+			},
+			"text": " heavenly places who have been formed into a new multi-generational multi-ethnic diverse community of believers"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,520",
+				"to": "00:02:49,280"
+			},
+			"offsets": {
+				"from": 159520,
+				"to": 169280
+			},
+			"text": " surrendered to the lamb who was slain for us and God we have the very difficult task of working out how we"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,280",
+				"to": "00:02:57,520"
+			},
+			"offsets": {
+				"from": 169280,
+				"to": 177520
+			},
+			"text": " live your kingdom out on earth as it is in heaven until you return it's a less difficult task if we were all"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,520",
+				"to": "00:03:04,520"
+			},
+			"offsets": {
+				"from": 177520,
+				"to": 184520
+			},
+			"text": " the same but we're not and so that makes it extremely difficult to help us by your spirit with grace and"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,520",
+				"to": "00:03:11,520"
+			},
+			"offsets": {
+				"from": 184520,
+				"to": 191520
+			},
+			"text": " compassion for one another figure out what it looks like to embody your kingdom so that the world around"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,520",
+				"to": "00:03:17,520"
+			},
+			"offsets": {
+				"from": 191520,
+				"to": 197520
+			},
+			"text": " us might see that there is hope in the midst of the brokenness that there is peace for the hurting that"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,520",
+				"to": "00:03:24,520"
+			},
+			"offsets": {
+				"from": 197520,
+				"to": 204520
+			},
+			"text": " that there is resurrection on the other side of death God we love you and we thank you for Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,520",
+				"to": "00:03:32,080"
+			},
+			"offsets": {
+				"from": 204520,
+				"to": 212080
+			},
+			"text": " it's in his name I pray amen do me a favor if you have ever been a teacher in the public or private"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,080",
+				"to": "00:03:37,520"
+			},
+			"offsets": {
+				"from": 212080,
+				"to": 217520
+			},
+			"text": " education system raise your hand for me we've got a lot of you in the room I just want to say thank you so"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,520",
+				"to": "00:03:44,520"
+			},
+			"offsets": {
+				"from": 217520,
+				"to": 224520
+			},
+			"text": " thank you so much for your service I grew up in a family of two teachers and it's such an important vocation"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,520",
+				"to": "00:03:49,520"
+			},
+			"offsets": {
+				"from": 224520,
+				"to": 229520
+			},
+			"text": " and so I want to say thank you and then I want to use you as my opening illustration so that sound good"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,520",
+				"to": "00:03:58,520"
+			},
+			"offsets": {
+				"from": 229520,
+				"to": 238520
+			},
+			"text": " so what I know to be true from personal experience is that about 30 or 40 years ago if there was a problem in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,520",
+				"to": "00:04:03,520"
+			},
+			"offsets": {
+				"from": 238520,
+				"to": 243520
+			},
+			"text": " classroom if there was tension if a parent got a call from the teacher the administration what I believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,520",
+				"to": "00:04:08,520"
+			},
+			"offsets": {
+				"from": 243520,
+				"to": 248520
+			},
+			"text": " would have been true 30 to 40 years ago is that the child would immediately have been assumed to be at"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,520",
+				"to": "00:04:15,520"
+			},
+			"offsets": {
+				"from": 248520,
+				"to": 255520
+			},
+			"text": " fault by the parent does everybody agree with that in general we're talking generalities right all right"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,520",
+				"to": "00:04:20,520"
+			},
+			"offsets": {
+				"from": 255520,
+				"to": 260520
+			},
+			"text": " it's the kids fall they're in trouble they did something wrong what what seems to be true at least"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,520",
+				"to": "00:04:24,520"
+			},
+			"offsets": {
+				"from": 260520,
+				"to": 264520
+			},
+			"text": " nowadays and and maybe you teachers can correct me after the sermon but if there's a problem in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,520",
+				"to": "00:04:32,520"
+			},
+			"offsets": {
+				"from": 264520,
+				"to": 272520
+			},
+			"text": " classroom if there's tension if a parent gets called it's your fault the kid did nothing wrong they are"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,520",
+				"to": "00:04:38,520"
+			},
+			"offsets": {
+				"from": 272520,
+				"to": 278520
+			},
+			"text": " perfect little sweet angels that are not capable of sin and so you obviously did something incorrect"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,520",
+				"to": "00:04:46,520"
+			},
+			"offsets": {
+				"from": 278520,
+				"to": 286520
+			},
+			"text": " in the situation and so again broad generalities I think some of my teachers are laughing because"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,520",
+				"to": "00:04:53,520"
+			},
+			"offsets": {
+				"from": 286520,
+				"to": 293520
+			},
+			"text": " maybe that's the case broad generalities but what happens is is the same situation right there's problem"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,520",
+				"to": "00:04:57,520"
+			},
+			"offsets": {
+				"from": 293520,
+				"to": 297520
+			},
+			"text": " there's tension right there's problem there's tension but parents come from two very different"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,520",
+				"to": "00:05:02,520"
+			},
+			"offsets": {
+				"from": 297520,
+				"to": 302520
+			},
+			"text": " perspectives to the same situation and come to two very different conclusions about how to view the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,520",
+				"to": "00:05:10,520"
+			},
+			"offsets": {
+				"from": 302520,
+				"to": 310520
+			},
+			"text": " problem or the tension and as we come to a passage that is particularly problematic in our modern"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,520",
+				"to": "00:05:17,520"
+			},
+			"offsets": {
+				"from": 310520,
+				"to": 317520
+			},
+			"text": " culture 2,000 removed 2,000 years removed from Paul's culture that he's writing to as we come to a"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,520",
+				"to": "00:05:25,520"
+			},
+			"offsets": {
+				"from": 317520,
+				"to": 325520
+			},
+			"text": " problem passage oftentimes Christians in America Christians forever have come to this text with two very"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,520",
+				"to": "00:05:29,520"
+			},
+			"offsets": {
+				"from": 325520,
+				"to": 329520
+			},
+			"text": " different perspectives we're going to talk about wives submitting to your husbands children obeying your"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,520",
+				"to": "00:05:35,520"
+			},
+			"offsets": {
+				"from": 329520,
+				"to": 335520
+			},
+			"text": " parents and slaves obeying your masters right we can see how this could be a difficult complex passage for"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,520",
+				"to": "00:05:43,520"
+			},
+			"offsets": {
+				"from": 335520,
+				"to": 343520
+			},
+			"text": " us to work with and oftentimes I've seen two very different perspectives when coming to this text one I would call a"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,520",
+				"to": "00:05:52,520"
+			},
+			"offsets": {
+				"from": 343520,
+				"to": 352520
+			},
+			"text": " religious perspective which is a group of people that out of reverence for God out of submission to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,520",
+				"to": "00:05:58,520"
+			},
+			"offsets": {
+				"from": 352520,
+				"to": 358520
+			},
+			"text": " inerrancy of Scripture they come to a hard passage and they say look it's hard but God said it I believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,520",
+				"to": "00:06:05,520"
+			},
+			"offsets": {
+				"from": 358520,
+				"to": 365520
+			},
+			"text": " I believe it and this is just how it is right and and some some people actually they don't say it's hard they"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,520",
+				"to": "00:06:13,520"
+			},
+			"offsets": {
+				"from": 365520,
+				"to": 373520
+			},
+			"text": " actually like the implications of the text for them if they're in power and anyway well I'll leave that but but but but we"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,520",
+				"to": "00:06:18,520"
+			},
+			"offsets": {
+				"from": 373520,
+				"to": 378520
+			},
+			"text": " come to it with this like black and white okay God said it I believe it there's no nuance there's no context"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,520",
+				"to": "00:06:24,520"
+			},
+			"offsets": {
+				"from": 378520,
+				"to": 384520
+			},
+			"text": " like we're just taking it at its word and then the other I would say is more of a therapeutic reading which"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,520",
+				"to": "00:06:29,520"
+			},
+			"offsets": {
+				"from": 384520,
+				"to": 389520
+			},
+			"text": " is like we read the Scripture to get the things out that will benefit us and if we see something that doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,520",
+				"to": "00:06:35,520"
+			},
+			"offsets": {
+				"from": 389520,
+				"to": 395520
+			},
+			"text": " look like it applies to us we just ignore it and we say like oh that's that's 2,000 years removed different"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,520",
+				"to": "00:06:39,520"
+			},
+			"offsets": {
+				"from": 395520,
+				"to": 399520
+			},
+			"text": " culture different time doesn't apply to me I'll skip over that passage and get to the cool one about"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,520",
+				"to": "00:06:46,520"
+			},
+			"offsets": {
+				"from": 399520,
+				"to": 406520
+			},
+			"text": " Jesus like a lamb being slain right like we read the text therapeutically what does this have to do with"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,520",
+				"to": "00:06:50,520"
+			},
+			"offsets": {
+				"from": 406520,
+				"to": 410520
+			},
+			"text": " me and if I find a passage I don't like I can just kind of push it aside and say oh this must not have"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,520",
+				"to": "00:06:57,520"
+			},
+			"offsets": {
+				"from": 410520,
+				"to": 417520
+			},
+			"text": " any implications for my life and I think what Paul wants us to do is something far more complex and"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,520",
+				"to": "00:07:03,520"
+			},
+			"offsets": {
+				"from": 417520,
+				"to": 423520
+			},
+			"text": " contextual I think just like the parents in the tension with the kid the the truth is probably somewhere in"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,520",
+				"to": "00:07:09,520"
+			},
+			"offsets": {
+				"from": 423520,
+				"to": 429520
+			},
+			"text": " the middle right there's probably some complexity to to the situation as there often is when there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,520",
+				"to": "00:07:14,520"
+			},
+			"offsets": {
+				"from": 429520,
+				"to": 434520
+			},
+			"text": " tension and relational issues and so I think what Paul is doing here is far more complex and contextual"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,520",
+				"to": "00:07:20,520"
+			},
+			"offsets": {
+				"from": 434520,
+				"to": 440520
+			},
+			"text": " and frankly I think it's far more beautiful than we've ever kind of allowed it to be because we come"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,520",
+				"to": "00:07:28,520"
+			},
+			"offsets": {
+				"from": 440520,
+				"to": 448520
+			},
+			"text": " at it with these two very limited perspectives it seems to me that Paul's point here is far more"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,520",
+				"to": "00:07:34,520"
+			},
+			"offsets": {
+				"from": 448520,
+				"to": 454520
+			},
+			"text": " focused on his overall his overall argument about our identity as new humans and our vocation as the"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,520",
+				"to": "00:07:40,520"
+			},
+			"offsets": {
+				"from": 454520,
+				"to": 460520
+			},
+			"text": " working model of new creation than it is about a specific once and for all instructions for how"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,520",
+				"to": "00:07:46,520"
+			},
+			"offsets": {
+				"from": 460520,
+				"to": 466520
+			},
+			"text": " Christians in the 21st century should structure their nuclear families so what I want to do with the"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,520",
+				"to": "00:07:51,520"
+			},
+			"offsets": {
+				"from": 466520,
+				"to": 471520
+			},
+			"text": " rest of our time and if you have bulletins there should be notes on the back I want to take some of"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,520",
+				"to": "00:07:56,520"
+			},
+			"offsets": {
+				"from": 471520,
+				"to": 476520
+			},
+			"text": " these limited perspectives off these lenses that we come to the text with and I want to look with three new"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,520",
+				"to": "00:08:03,520"
+			},
+			"offsets": {
+				"from": 476520,
+				"to": 483520
+			},
+			"text": " lenses and hopefully we'll see that I think what Paul is doing is far more contextual and beautiful than we"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,520",
+				"to": "00:08:10,520"
+			},
+			"offsets": {
+				"from": 483520,
+				"to": 490520
+			},
+			"text": " typically see okay sound good all right first lens that I want to put on this morning is the grammatical"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,520",
+				"to": "00:08:14,520"
+			},
+			"offsets": {
+				"from": 490520,
+				"to": 494520
+			},
+			"text": " lens and my mother who was my homeschool teacher when I learned to read can tell you that I have no"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,520",
+				"to": "00:08:21,520"
+			},
+			"offsets": {
+				"from": 494520,
+				"to": 501520
+			},
+			"text": " business being up here talking to you about grammar so I'm gonna lean on some some wisdom from some other"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,520",
+				"to": "00:08:27,520"
+			},
+			"offsets": {
+				"from": 501520,
+				"to": 507520
+			},
+			"text": " people here let's read here in verse let's start in verse 18 of chapter 5"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,520",
+				"to": "00:08:35,520"
+			},
+			"offsets": {
+				"from": 507520,
+				"to": 515520
+			},
+			"text": " Paul says and do not get drunk with wine for that is debauchery but be filled with the spirit"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,520",
+				"to": "00:08:41,520"
+			},
+			"offsets": {
+				"from": 515520,
+				"to": 521520
+			},
+			"text": " addressing one another in psalms hymns and spiritual songs singing and making a melody to the Lord with your"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,520",
+				"to": "00:08:47,520"
+			},
+			"offsets": {
+				"from": 521520,
+				"to": 527520
+			},
+			"text": " heart giving thanks always and for everything to God the Father in the name of the Lord Jesus Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,520",
+				"to": "00:08:53,520"
+			},
+			"offsets": {
+				"from": 527520,
+				"to": 533520
+			},
+			"text": " submitted to one another submitting to one another out of reverence for Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,520",
+				"to": "00:08:57,520"
+			},
+			"offsets": {
+				"from": 533520,
+				"to": 537520
+			},
+			"text": " wives submit to your own husbands as to the Lord for the husband is the head of the wife even as"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,520",
+				"to": "00:09:03,520"
+			},
+			"offsets": {
+				"from": 537520,
+				"to": 543520
+			},
+			"text": " Christ is the head of the church his body and is himself its savior now as the church submits"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,520",
+				"to": "00:09:08,520"
+			},
+			"offsets": {
+				"from": 543520,
+				"to": 548520
+			},
+			"text": " to Christ so also wives should submit in everything to their husbands we'll keep going"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,520",
+				"to": "00:09:14,520"
+			},
+			"offsets": {
+				"from": 548520,
+				"to": 554520
+			},
+			"text": " husbands love your wives as Christ loved the church and gave himself up for her that he might sanctify her"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,520",
+				"to": "00:09:18,520"
+			},
+			"offsets": {
+				"from": 554520,
+				"to": 558520
+			},
+			"text": " having cleansed her by the washing of water with the word so that he might present the church to"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,520",
+				"to": "00:09:24,520"
+			},
+			"offsets": {
+				"from": 558520,
+				"to": 564520
+			},
+			"text": " himself in splendor without spot or wrinkle or any such thing that she might be holy and without"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,520",
+				"to": "00:09:34,520"
+			},
+			"offsets": {
+				"from": 564520,
+				"to": 574520
+			},
+			"text": " blemish so the English translations that we have in our hands are a beautiful gift it is incredible that we have"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,520",
+				"to": "00:09:40,520"
+			},
+			"offsets": {
+				"from": 574520,
+				"to": 580520
+			},
+			"text": " such access to God's word in readable different translations that we can understand but it often creates for"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:40,520",
+				"to": "00:09:48,520"
+			},
+			"offsets": {
+				"from": 580520,
+				"to": 588520
+			},
+			"text": " me and for others some pastoral headaches chapters and verses again these have been added right these were not in"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,520",
+				"to": "00:09:54,520"
+			},
+			"offsets": {
+				"from": 588520,
+				"to": 594520
+			},
+			"text": " there Paul didn't put chapter 5 in the text but chapters and verses can be mostly helpful but what I find the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,520",
+				"to": "00:10:02,520"
+			},
+			"offsets": {
+				"from": 594520,
+				"to": 602520
+			},
+			"text": " least helpful oftentimes in our biblical translations are the paragraph headings right these are things that the the translation"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,520",
+				"to": "00:10:08,520"
+			},
+			"offsets": {
+				"from": 602520,
+				"to": 608520
+			},
+			"text": " committees have worked hard at they've done their best but this is complicated stuff and oftentimes paragraph"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,520",
+				"to": "00:10:14,520"
+			},
+			"offsets": {
+				"from": 608520,
+				"to": 614520
+			},
+			"text": " headings can cause some real issues and I think today's example is literally the probably the worst one because"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,520",
+				"to": "00:10:23,520"
+			},
+			"offsets": {
+				"from": 614520,
+				"to": 623520
+			},
+			"text": " what we have here is verse 22 is literally the part is part of a run-on sentence that starts in verse 18."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,520",
+				"to": "00:10:33,520"
+			},
+			"offsets": {
+				"from": 623520,
+				"to": 633520
+			},
+			"text": " Paul is a master at run-on sentences and I it's funny those of you that are in the Hebrews passages class I saw"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,520",
+				"to": "00:10:39,520"
+			},
+			"offsets": {
+				"from": 633520,
+				"to": 639520
+			},
+			"text": " that you guys tried your best to summarize the book of Hebrews in like a sentence and I think you now get"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,520",
+				"to": "00:10:44,520"
+			},
+			"offsets": {
+				"from": 639520,
+				"to": 644520
+			},
+			"text": " Paul's dilemma because your sentence had like lots of commas and every time you thought you said something"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,520",
+				"to": "00:10:49,520"
+			},
+			"offsets": {
+				"from": 644520,
+				"to": 649520
+			},
+			"text": " clear you had to add like another statement to clarify what you were saying this is what Paul often does in his"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,520",
+				"to": "00:10:53,520"
+			},
+			"offsets": {
+				"from": 649520,
+				"to": 653520
+			},
+			"text": " theological diatribes he's like he says something really beautiful and he's like that could be misunderstood let"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,520",
+				"to": "00:11:00,520"
+			},
+			"offsets": {
+				"from": 653520,
+				"to": 660520
+			},
+			"text": " me add something let me add something and then you have 15 verse sentences okay so verse 22 is literally a"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,520",
+				"to": "00:11:07,520"
+			},
+			"offsets": {
+				"from": 660520,
+				"to": 667520
+			},
+			"text": " part of a run-on sentence in in verse 18 that is all about what it looks like when we as followers of"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,520",
+				"to": "00:11:17,520"
+			},
+			"offsets": {
+				"from": 667520,
+				"to": 677520
+			},
+			"text": " Jesus are filled with the spirit those who are filled with the spirits are speaking singing giving thanks and"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,520",
+				"to": "00:11:24,520"
+			},
+			"offsets": {
+				"from": 677520,
+				"to": 684520
+			},
+			"text": " submitting to one another out of reverence for Christ this is all one thought about what it looks like to"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,520",
+				"to": "00:11:31,520"
+			},
+			"offsets": {
+				"from": 684520,
+				"to": 691520
+			},
+			"text": " be filled with the spirit and then what follows is a very intentional and cultural explanation example from"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,520",
+				"to": "00:11:36,520"
+			},
+			"offsets": {
+				"from": 691520,
+				"to": 696520
+			},
+			"text": " Paul of what submitting to one another looks like in their unique cultural moment we're going to get to that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,520",
+				"to": "00:11:40,520"
+			},
+			"offsets": {
+				"from": 696520,
+				"to": 700520
+			},
+			"text": " we're going to get to that when we put on our next lens but for now my guess is that your translation has an"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,520",
+				"to": "00:11:48,520"
+			},
+			"offsets": {
+				"from": 700520,
+				"to": 708520
+			},
+			"text": " imaginary period at the end of verse 21 and a paragraph heading before verse 22 essentially telling you that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,520",
+				"to": "00:11:55,520"
+			},
+			"offsets": {
+				"from": 708520,
+				"to": 715520
+			},
+			"text": " Paul is starting a new topic about what most of our translations look like some version of that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,520",
+				"to": "00:12:03,520"
+			},
+			"offsets": {
+				"from": 715520,
+				"to": 723520
+			},
+			"text": " literally the there's a paragraph heading in the middle of a sentence do we see how this could create some"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,520",
+				"to": "00:12:09,520"
+			},
+			"offsets": {
+				"from": 723520,
+				"to": 729520
+			},
+			"text": " misunderstandings for those of us that just pick up the English text and read it like God dropped it from the sky"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,520",
+				"to": "00:12:16,520"
+			},
+			"offsets": {
+				"from": 729520,
+				"to": 736520
+			},
+			"text": " with chapters verses and paragraph headings okay this is an issue literally verse 22 says wives submit to your"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,520",
+				"to": "00:12:29,520"
+			},
+			"offsets": {
+				"from": 736520,
+				"to": 749520
+			},
+			"text": " husbands the word submit it's not in there it's it should be there but it's connected to submit to one another it is it"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,520",
+				"to": "00:12:37,520"
+			},
+			"offsets": {
+				"from": 749520,
+				"to": 757520
+			},
+			"text": " literally in the Greek it says wives to your own husbands now Paul wants us to input the word submit there but the"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,520",
+				"to": "00:12:44,520"
+			},
+			"offsets": {
+				"from": 757520,
+				"to": 764520
+			},
+			"text": " translators put a period and then they add another command to submit as if the command for wives to submit their"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,520",
+				"to": "00:12:48,520"
+			},
+			"offsets": {
+				"from": 764520,
+				"to": 768520
+			},
+			"text": " husbands is different than the command for all of us to submit to one another does that make sense"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,520",
+				"to": "00:12:58,520"
+			},
+			"offsets": {
+				"from": 768520,
+				"to": 778520
+			},
+			"text": " you guys think I'm I know you're scared don't worry just give me some time I promise I'm not gonna all"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,520",
+				"to": "00:13:05,520"
+			},
+			"offsets": {
+				"from": 778520,
+				"to": 785520
+			},
+			"text": " right just give me some time and what I want us to realize here is this this often is a very challenging"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,520",
+				"to": "00:13:10,520"
+			},
+			"offsets": {
+				"from": 785520,
+				"to": 790520
+			},
+			"text": " passage for for us in our cultural context and it was a very challenging passage for them in their cultural"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,520",
+				"to": "00:13:15,520"
+			},
+			"offsets": {
+				"from": 790520,
+				"to": 795520
+			},
+			"text": " context but the thing that was challenging to them was actually what came before wives submit to your"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,520",
+				"to": "00:13:20,520"
+			},
+			"offsets": {
+				"from": 795520,
+				"to": 800520
+			},
+			"text": " husbands and I think if we will allow it it's actually the thing that should be challenging to"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,520",
+				"to": "00:13:28,520"
+			},
+			"offsets": {
+				"from": 800520,
+				"to": 808520
+			},
+			"text": " us more than the household code and that is the the command for us to submit to one another this is"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,520",
+				"to": "00:13:33,520"
+			},
+			"offsets": {
+				"from": 808520,
+				"to": 813520
+			},
+			"text": " actually the most controversial part of this entire passage in our culture and in theirs the word"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,520",
+				"to": "00:13:38,520"
+			},
+			"offsets": {
+				"from": 813520,
+				"to": 818520
+			},
+			"text": " submit literally means to come underneath and I cannot state strongly enough how radical this"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,520",
+				"to": "00:13:44,520"
+			},
+			"offsets": {
+				"from": 818520,
+				"to": 824520
+			},
+			"text": " statement would sound in a primarily patriarchal and honor shame culture where positions of authority were held in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:44,520",
+				"to": "00:13:51,520"
+			},
+			"offsets": {
+				"from": 824520,
+				"to": 831520
+			},
+			"text": " highest regard and where respect was demanded from anyone in a subordinate social position and Paul is subverting"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,520",
+				"to": "00:13:58,520"
+			},
+			"offsets": {
+				"from": 831520,
+				"to": 838520
+			},
+			"text": " the cultural system of the day he's flipping it upside down he's exposing the lies of our culture that are"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,520",
+				"to": "00:14:04,520"
+			},
+			"offsets": {
+				"from": 838520,
+				"to": 844520
+			},
+			"text": " influenced by the powers and principalities that want us to line ourselves up by number of importance and this"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,520",
+				"to": "00:14:09,520"
+			},
+			"offsets": {
+				"from": 844520,
+				"to": 849520
+			},
+			"text": " person is more important than this person and there's no Paul says in the body of Christ we are all brothers"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,520",
+				"to": "00:14:14,520"
+			},
+			"offsets": {
+				"from": 849520,
+				"to": 854520
+			},
+			"text": " and sisters and we are called to submit to one another if you come into the house of God with a position of"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,520",
+				"to": "00:14:20,520"
+			},
+			"offsets": {
+				"from": 854520,
+				"to": 860520
+			},
+			"text": " authority in the world you don't lord it over your friends in the church you are brothers and sisters and"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,520",
+				"to": "00:14:26,520"
+			},
+			"offsets": {
+				"from": 860520,
+				"to": 866520
+			},
+			"text": " you are called to submit to one another Paul is subverting the cultural value systems of the day he's"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,520",
+				"to": "00:14:32,520"
+			},
+			"offsets": {
+				"from": 866520,
+				"to": 872520
+			},
+			"text": " he's saying this is what it looks like to be new humans as a part of a new community living the values of"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,520",
+				"to": "00:14:38,520"
+			},
+			"offsets": {
+				"from": 872520,
+				"to": 878520
+			},
+			"text": " the kingdom of heaven until Christ returns he is adamant that a new creation we are all brothers and"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,520",
+				"to": "00:14:44,520"
+			},
+			"offsets": {
+				"from": 878520,
+				"to": 884520
+			},
+			"text": " sisters in Christ we have equal value status and worth and we are called to submit to one another as"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,520",
+				"to": "00:14:48,520"
+			},
+			"offsets": {
+				"from": 884520,
+				"to": 888520
+			},
+			"text": " a result of our submission to Christ we can't submit to one another if we haven't first submitted to"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,520",
+				"to": "00:15:02,520"
+			},
+			"offsets": {
+				"from": 888520,
+				"to": 902520
+			},
+			"text": " Christ it will not work or to put it another way to quote Jesus to quote his Bible where to love our"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,520",
+				"to": "00:15:08,520"
+			},
+			"offsets": {
+				"from": 902520,
+				"to": 908520
+			},
+			"text": " neighbors as ourselves this is an extremely challenging message for us in a culture obsessed with individual"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,520",
+				"to": "00:15:16,520"
+			},
+			"offsets": {
+				"from": 908520,
+				"to": 916520
+			},
+			"text": " rights and freedoms literally this is like the fabric of our DNA as Americans as we are consumed with what"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,520",
+				"to": "00:15:21,520"
+			},
+			"offsets": {
+				"from": 916520,
+				"to": 921520
+			},
+			"text": " our individual rights and freedoms are and Paul would say to us just like he would say to a honor shame"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,520",
+				"to": "00:15:27,520"
+			},
+			"offsets": {
+				"from": 921520,
+				"to": 927520
+			},
+			"text": " patriarchal culture we are called to submit to one another for the sake of Christ that's the challenging"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,520",
+				"to": "00:15:32,520"
+			},
+			"offsets": {
+				"from": 927520,
+				"to": 932520
+			},
+			"text": " part of this passage but we read right past it because we are so fixated on the cultural things that we"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,520",
+				"to": "00:15:36,520"
+			},
+			"offsets": {
+				"from": 932520,
+				"to": 936520
+			},
+			"text": " want to understand why is it written this way why didn't Paul just demolish slavery it's like hey"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,520",
+				"to": "00:15:42,520"
+			},
+			"offsets": {
+				"from": 936520,
+				"to": 942520
+			},
+			"text": " let's let's like let the hard part be the hard part let's challenge ourselves with the truth of submitting to"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,520",
+				"to": "00:15:46,520"
+			},
+			"offsets": {
+				"from": 942520,
+				"to": 946520
+			},
+			"text": " one another as we submit to Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,520",
+				"to": "00:15:54,520"
+			},
+			"offsets": {
+				"from": 946520,
+				"to": 954520
+			},
+			"text": " grammatical lens right there's context here it's not just a new topic altogether Paul is continuing his"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,520",
+				"to": "00:15:58,520"
+			},
+			"offsets": {
+				"from": 954520,
+				"to": 958520
+			},
+			"text": " explanation of what it looks like for us to put on our new identities as Christians"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,520",
+				"to": "00:16:05,520"
+			},
+			"offsets": {
+				"from": 958520,
+				"to": 965520
+			},
+			"text": " and to live into a new humanity as the church the second lens I want to look at is a contextual one"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,520",
+				"to": "00:16:14,520"
+			},
+			"offsets": {
+				"from": 965520,
+				"to": 974520
+			},
+			"text": " and oftentimes we miss this again because we just want to read the Bible as if it was dropped from"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,520",
+				"to": "00:16:21,520"
+			},
+			"offsets": {
+				"from": 974520,
+				"to": 981520
+			},
+			"text": " heaven for us today and not as if we're reading other people's mail which is what we're doing we're"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,520",
+				"to": "00:16:26,520"
+			},
+			"offsets": {
+				"from": 981520,
+				"to": 986520
+			},
+			"text": " reading other people's mail it is other people's mail that was preserved for us it is from God to us I"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,520",
+				"to": "00:16:32,520"
+			},
+			"offsets": {
+				"from": 986520,
+				"to": 992520
+			},
+			"text": " believe in the authority of Scripture but we have to be contextual when we look at it because we are looking at an"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,520",
+				"to": "00:16:38,520"
+			},
+			"offsets": {
+				"from": 992520,
+				"to": 998520
+			},
+			"text": " ancient text written to a specific group of people that has implications for us but we have to understand what"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,520",
+				"to": "00:16:45,520"
+			},
+			"offsets": {
+				"from": 998520,
+				"to": 1005520
+			},
+			"text": " implications it had for them before we understand what implications it has for us that make sense all right so"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,520",
+				"to": "00:16:49,520"
+			},
+			"offsets": {
+				"from": 1005520,
+				"to": 1009520
+			},
+			"text": " Paul falls up follows up his radical command to submit to one another by inputting a"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,520",
+				"to": "00:16:55,520"
+			},
+			"offsets": {
+				"from": 1009520,
+				"to": 1015520
+			},
+			"text": " well-known cultural example of the day and flipping it on its head it today's"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,520",
+				"to": "00:17:00,520"
+			},
+			"offsets": {
+				"from": 1015520,
+				"to": 1020520
+			},
+			"text": " today's passage is all about upside down values and I don't think it's any accident that we ended up reading"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,520",
+				"to": "00:17:06,520"
+			},
+			"offsets": {
+				"from": 1020520,
+				"to": 1026520
+			},
+			"text": " from Revelation this morning that was not planned because we like to think about Jesus as a roaring lion"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,520",
+				"to": "00:17:15,520"
+			},
+			"offsets": {
+				"from": 1026520,
+				"to": 1035520
+			},
+			"text": " and oftentimes what he wants us to think of him as is a slain lamb that the kingdom of God it flips the"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,520",
+				"to": "00:17:22,520"
+			},
+			"offsets": {
+				"from": 1035520,
+				"to": 1042520
+			},
+			"text": " value system of the world upside down the world wants us to oftentimes Christians influenced by the world we want to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,520",
+				"to": "00:17:28,520"
+			},
+			"offsets": {
+				"from": 1042520,
+				"to": 1048520
+			},
+			"text": " we want to have power we want to have authority we want to make a difference by by radically transforming the world"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,520",
+				"to": "00:17:34,520"
+			},
+			"offsets": {
+				"from": 1048520,
+				"to": 1054520
+			},
+			"text": " with power and authority like a lion and Jesus says no my people radically transform the world by laying down their life"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,520",
+				"to": "00:17:38,520"
+			},
+			"offsets": {
+				"from": 1054520,
+				"to": 1058520
+			},
+			"text": " and submitting to one another as Christ submitted to the Father"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,520",
+				"to": "00:18:10,520"
+			},
+			"offsets": {
+				"from": 1062520,
+				"to": 1090520
+			},
+			"text": " it's hard this is this is the hard stuff and so Paul inputs a cultural framework that that all of the patriarchs would have been familiar with that Paul himself would have been very familiar with it's a pattern called the cultural household codes these were written by secular philosophers addressing the heads of household and giving them a framework to structure their household in an orderly and stable fashion that would in turn lead to an orderly and stable empire"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,520",
+				"to": "00:18:16,520"
+			},
+			"offsets": {
+				"from": 1090520,
+				"to": 1096520
+			},
+			"text": " these were secular cultural philosophers saying hey this is how we need you to structure your household so that our empire will flourish"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,520",
+				"to": "00:18:40,520"
+			},
+			"offsets": {
+				"from": 1096520,
+				"to": 1120520
+			},
+			"text": " let me quote Aristotle for you uh Aristotle in his writing on politics he says of household management we have seen that there are three parts one is the rule of master over slaves which has been discussed already another of a father and the third of a husband and so this is a cultural framework that was well known in the day when when when the people of"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,520",
+				"to": "00:19:07,520"
+			},
+			"offsets": {
+				"from": 1120520,
+				"to": 1147520
+			},
+			"text": " the people of Ephesus would have received the letter they would have immediately known that Paul was using a framework that they were familiar with master father husband this is not a new idea this is not something that Paul just made up he actually uses it and flips it upside down and again I want to make sure that we realize that when we talk about households in the first century we are not talking about modern American nuclear families those did not exist"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,520",
+				"to": "00:19:13,520"
+			},
+			"offsets": {
+				"from": 1147520,
+				"to": 1153520
+			},
+			"text": " households households were made up of more than just a husband and a wife and some kids it was like a whole community of people and there was a very small percentage of people that were patriarchs that would have been masters fathers and husbands and when Aristotle breaks down this framework he essentially I'm going to summarize it because I don't want to read a long Aristotle quote when I could be reading scripture to you he essentially summarizes it hey husbands like treat your wives like you're a general in the military right like they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,520",
+				"to": "00:19:18,420"
+			},
+			"offsets": {
+				"from": 1153520,
+				"to": 1158420
+			},
+			"text": " people. And there was a very small percentage of people that were patriarchs that would have been"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,420",
+				"to": "00:19:25,540"
+			},
+			"offsets": {
+				"from": 1158420,
+				"to": 1165540
+			},
+			"text": " masters, fathers, and husbands. And when Aristotle breaks down this framework, he essentially,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,540",
+				"to": "00:19:29,540"
+			},
+			"offsets": {
+				"from": 1165540,
+				"to": 1169540
+			},
+			"text": " I'm going to summarize it because I don't want to read a long Aristotle quote when I could be"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,540",
+				"to": "00:19:34,700"
+			},
+			"offsets": {
+				"from": 1169540,
+				"to": 1174700
+			},
+			"text": " reading scripture to you. He essentially summarizes it. Hey, husbands, like treat your wives like"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,700",
+				"to": "00:19:39,860"
+			},
+			"offsets": {
+				"from": 1174700,
+				"to": 1179860
+			},
+			"text": " you're a general in the military, right? Like they're kind of with you. They're like a soldier."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,860",
+				"to": "00:19:44,480"
+			},
+			"offsets": {
+				"from": 1180860,
+				"to": 1184480
+			},
+			"text": " They're kind of peers, but really you're in charge because you're stronger than they are."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,480",
+				"to": "00:19:50,460"
+			},
+			"offsets": {
+				"from": 1184480,
+				"to": 1190460
+			},
+			"text": " And they actually need you to tell them what to do. He says to children, teach your children,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,460",
+				"to": "00:19:56,620"
+			},
+			"offsets": {
+				"from": 1190460,
+				"to": 1196620
+			},
+			"text": " treat your children like you are their king and they are your subjects, right? And like, just like"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:56,620",
+				"to": "00:20:02,380"
+			},
+			"offsets": {
+				"from": 1196620,
+				"to": 1202380
+			},
+			"text": " use them for your own benefit. Treat slaves like they are your property."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,380",
+				"to": "00:20:08,340"
+			},
+			"offsets": {
+				"from": 1202380,
+				"to": 1208340
+			},
+			"text": " So when Paul launches into this household code language, there's probably some, there might be"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,340",
+				"to": "00:20:14,140"
+			},
+			"offsets": {
+				"from": 1208340,
+				"to": 1214140
+			},
+			"text": " a patriarch or two in the room that like breathes a sigh of relief after being hit with submit to one"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,140",
+				"to": "00:20:19,780"
+			},
+			"offsets": {
+				"from": 1214140,
+				"to": 1219780
+			},
+			"text": " another as you submit to Christ. Radical command. There's probably a patriarch that Paul starts the"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,780",
+				"to": "00:20:25,000"
+			},
+			"offsets": {
+				"from": 1219780,
+				"to": 1225000
+			},
+			"text": " household code and he's like, whew, I thought we were going to have anarchy up in here, right? Paul's"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,000",
+				"to": "00:20:28,520"
+			},
+			"offsets": {
+				"from": 1225000,
+				"to": 1228520
+			},
+			"text": " telling us we all got to submit to another. Now we're getting to the structure. Now we're getting to"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,520",
+				"to": "00:20:36,100"
+			},
+			"offsets": {
+				"from": 1228520,
+				"to": 1236100
+			},
+			"text": " the part where we really lay out who's in charge. And Paul flips it upside down in some really radical"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,100",
+				"to": "00:20:40,420"
+			},
+			"offsets": {
+				"from": 1236100,
+				"to": 1240420
+			},
+			"text": " ways. The first thing that he does is he insists that the relationships are mutually"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,420",
+				"to": "00:20:47,200"
+			},
+			"offsets": {
+				"from": 1240420,
+				"to": 1247200
+			},
+			"text": " beneficial. Let's just, let's just read the whole chunk. We're gonna have to go fast people. I'm so"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,200",
+				"to": "00:20:52,300"
+			},
+			"offsets": {
+				"from": 1247200,
+				"to": 1252300
+			},
+			"text": " sorry. All right. Wives, submit to your own husbands as to the Lord for the husband is the head of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,300",
+				"to": "00:20:57,180"
+			},
+			"offsets": {
+				"from": 1252300,
+				"to": 1257180
+			},
+			"text": " wife, even as Christ is the head of the church, his body and is himself its savior. Now as the church"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,180",
+				"to": "00:21:02,160"
+			},
+			"offsets": {
+				"from": 1257180,
+				"to": 1262160
+			},
+			"text": " submits to Christ, so also wives should submit in everything to their husbands. Husbands, love your wives"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,160",
+				"to": "00:21:06,740"
+			},
+			"offsets": {
+				"from": 1262160,
+				"to": 1266740
+			},
+			"text": " as Christ loved the church and gave himself up for her that he might sanctify her, having cleansed her"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,740",
+				"to": "00:21:10,740"
+			},
+			"offsets": {
+				"from": 1266740,
+				"to": 1270740
+			},
+			"text": " by the washing of water with the word so that he might present to the church and to himself in"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,740",
+				"to": "00:21:16,580"
+			},
+			"offsets": {
+				"from": 1270740,
+				"to": 1276580
+			},
+			"text": " splendor without spot or wrinkle or any such thing that she might be holy and without blemish. In the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:16,580",
+				"to": "00:21:23,440"
+			},
+			"offsets": {
+				"from": 1276580,
+				"to": 1283440
+			},
+			"text": " same way, husbands should love their wives as their own bodies. He who loves him, his wife loves"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,440",
+				"to": "00:21:29,820"
+			},
+			"offsets": {
+				"from": 1283440,
+				"to": 1289820
+			},
+			"text": " himself for no one has ever hated his own flesh, but nourishes it and cherishes it just as Christ does the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,820",
+				"to": "00:21:34,000"
+			},
+			"offsets": {
+				"from": 1289820,
+				"to": 1294000
+			},
+			"text": " church because we are members of his body. Therefore, a man shall leave his father and"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:34,000",
+				"to": "00:21:39,160"
+			},
+			"offsets": {
+				"from": 1294000,
+				"to": 1299160
+			},
+			"text": " mother and hold fast to his wife. The two shall become one flesh. This mystery is profound. I am"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:39,160",
+				"to": "00:21:44,520"
+			},
+			"offsets": {
+				"from": 1299160,
+				"to": 1304520
+			},
+			"text": " saying that it refers to Christ and the church. However, let each one of you love his wife as"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,520",
+				"to": "00:21:49,360"
+			},
+			"offsets": {
+				"from": 1304520,
+				"to": 1309360
+			},
+			"text": " himself and let the wife see that she respects her husband. Children, obey your parents for this is"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,360",
+				"to": "00:21:53,620"
+			},
+			"offsets": {
+				"from": 1309360,
+				"to": 1313620
+			},
+			"text": " right. Honor your father and your mother, that it may go well with you and that you may live"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,620",
+				"to": "00:21:57,680"
+			},
+			"offsets": {
+				"from": 1313620,
+				"to": 1317680
+			},
+			"text": " along in the land. Fathers, do not provoke your children to anger, but bring them up in discipline"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,680",
+				"to": "00:22:02,440"
+			},
+			"offsets": {
+				"from": 1317680,
+				"to": 1322440
+			},
+			"text": " and instruction. Bond servants, obey your earthly masters with fear and trembling, with a sincere"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,440",
+				"to": "00:22:07,180"
+			},
+			"offsets": {
+				"from": 1322440,
+				"to": 1327180
+			},
+			"text": " heart as you would Christ, not by way of eye service as people pleasers, but as bond servants"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,180",
+				"to": "00:22:13,460"
+			},
+			"offsets": {
+				"from": 1327180,
+				"to": 1333460
+			},
+			"text": " of Christ doing the will of God, rendering service with goodwill as the Lord and not to man, knowing"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,460",
+				"to": "00:22:17,660"
+			},
+			"offsets": {
+				"from": 1333460,
+				"to": 1337660
+			},
+			"text": " that whatever good anyone does, he will receive back from the Lord, whether he is a bond servant"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,660",
+				"to": "00:22:23,200"
+			},
+			"offsets": {
+				"from": 1337660,
+				"to": 1343200
+			},
+			"text": " or free. Masters, do the same to them. Stop your threatening, knowing that he who is both their"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,200",
+				"to": "00:22:30,740"
+			},
+			"offsets": {
+				"from": 1343200,
+				"to": 1350740
+			},
+			"text": " master and yours in heaven, that there is no partiality with him. So Paul takes the normal"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,740",
+				"to": "00:22:34,700"
+			},
+			"offsets": {
+				"from": 1350740,
+				"to": 1354700
+			},
+			"text": " household codes and the first thing he does is he insists that these relationships are mutually"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,700",
+				"to": "00:22:42,140"
+			},
+			"offsets": {
+				"from": 1354700,
+				"to": 1362140
+			},
+			"text": " beneficial. The typical household code only existed for the benefit of the patriarch. It was all about"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:42,140",
+				"to": "00:22:48,820"
+			},
+			"offsets": {
+				"from": 1362140,
+				"to": 1368820
+			},
+			"text": " the subjects underneath the patriarch serving the patriarch. And Paul says, no, patriarch in the kingdom"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:48,820",
+				"to": "00:22:54,760"
+			},
+			"offsets": {
+				"from": 1368820,
+				"to": 1374760
+			},
+			"text": " of heaven, in the church, in the working model of new creation, this relationship goes both ways. You mutually"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,760",
+				"to": "00:23:01,940"
+			},
+			"offsets": {
+				"from": 1374760,
+				"to": 1381940
+			},
+			"text": " sacrifice for one another. We all have value, dignity, and worth. We are brothers and sisters in Christ. He"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,940",
+				"to": "00:23:07,280"
+			},
+			"offsets": {
+				"from": 1381940,
+				"to": 1387280
+			},
+			"text": " insists that the relationships are mutually beneficial. Secondly, he aggressively elevates the value of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,280",
+				"to": "00:23:14,580"
+			},
+			"offsets": {
+				"from": 1387280,
+				"to": 1394580
+			},
+			"text": " subordinate person in the code. The normal household codes never even address the subordinate person. It was just"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,580",
+				"to": "00:23:18,280"
+			},
+			"offsets": {
+				"from": 1394580,
+				"to": 1398280
+			},
+			"text": " assume that they were going to assume that they were going to do whatever the person in power and authority told"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,280",
+				"to": "00:23:24,820"
+			},
+			"offsets": {
+				"from": 1398280,
+				"to": 1404820
+			},
+			"text": " them to do. And so first, he literally, he takes the household code, he flips it upside down. Normal household"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,820",
+				"to": "00:23:30,080"
+			},
+			"offsets": {
+				"from": 1404820,
+				"to": 1410080
+			},
+			"text": " codes would say, husbands, this is how you treat your wives. Husbands, this is how you treat your children."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,080",
+				"to": "00:23:34,960"
+			},
+			"offsets": {
+				"from": 1410080,
+				"to": 1414960
+			},
+			"text": " Husbands, this is how you treat your masters. This is how you treat your slaves. And Paul flips it upside down and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,960",
+				"to": "00:23:41,520"
+			},
+			"offsets": {
+				"from": 1414960,
+				"to": 1421520
+			},
+			"text": " speaks first to the subordinate person in the cultural system of the day. He is totally subverting the value"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,520",
+				"to": "00:23:49,060"
+			},
+			"offsets": {
+				"from": 1421520,
+				"to": 1429060
+			},
+			"text": " system of the day. He's aggressively elevating the value of the subordinate. They are fully human and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,060",
+				"to": "00:23:53,460"
+			},
+			"offsets": {
+				"from": 1429060,
+				"to": 1433460
+			},
+			"text": " counter-culturally valuable in the church. Their voice is elevated and they have an active role to"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,460",
+				"to": "00:23:58,760"
+			},
+			"offsets": {
+				"from": 1433460,
+				"to": 1438760
+			},
+			"text": " play in the community. They are given commands to obey. God first, not man."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,760",
+				"to": "00:24:05,420"
+			},
+			"offsets": {
+				"from": 1438760,
+				"to": 1445420
+			},
+			"text": " Not only that, but just, there's some sneaky stuff he does in here."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:06,760",
+				"to": "00:24:18,220"
+			},
+			"offsets": {
+				"from": 1446760,
+				"to": 1458220
+			},
+			"text": " You guys realize that every, like, I have lenses that I read the text through. We all do. And the lens"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,220",
+				"to": "00:24:25,740"
+			},
+			"offsets": {
+				"from": 1458220,
+				"to": 1465740
+			},
+			"text": " that I read the text through is, I'm a white male. You guys know that? Okay. So there's certain things"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,740",
+				"to": "00:24:33,160"
+			},
+			"offsets": {
+				"from": 1465740,
+				"to": 1473160
+			},
+			"text": " that I read that I just don't see. But when we have women theologians who have been trained and study the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,160",
+				"to": "00:24:38,220"
+			},
+			"offsets": {
+				"from": 1473160,
+				"to": 1478220
+			},
+			"text": " text, they oftentimes pull out stuff for us that males, you'll read a commentary written by a male and he"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,220",
+				"to": "00:24:43,800"
+			},
+			"offsets": {
+				"from": 1478220,
+				"to": 1483800
+			},
+			"text": " won't say a word about this. You read a commentary written by a woman and like jumps off the page. We"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,800",
+				"to": "00:24:50,800"
+			},
+			"offsets": {
+				"from": 1483800,
+				"to": 1490800
+			},
+			"text": " need each other. We need each other. Everything that Paul describes Jesus doing for the church is"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:50,800",
+				"to": "00:25:00,000"
+			},
+			"offsets": {
+				"from": 1490800,
+				"to": 1500000
+			},
+			"text": " He might sanctify her, having cleansed her by the washing of water,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:00,000",
+				"to": "00:25:06,980"
+			},
+			"offsets": {
+				"from": 1500000,
+				"to": 1506980
+			},
+			"text": " presenting her without spot or wrinkle, so that she might be holy without blemish."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,980",
+				"to": "00:25:12,860"
+			},
+			"offsets": {
+				"from": 1506980,
+				"to": 1512860
+			},
+			"text": " You see how counter-cultural this is? Wives who are told that, like, what you do at the home is not"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,860",
+				"to": "00:25:17,580"
+			},
+			"offsets": {
+				"from": 1512860,
+				"to": 1517580
+			},
+			"text": " near as important as what happens outside the home. He's saying, no, what Jesus did for the church is"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,580",
+				"to": "00:25:23,800"
+			},
+			"offsets": {
+				"from": 1517580,
+				"to": 1523800
+			},
+			"text": " like what the wives do for their homes. This is incredibly counter-cultural, upside down. And when we put"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,800",
+				"to": "00:25:28,380"
+			},
+			"offsets": {
+				"from": 1523800,
+				"to": 1528380
+			},
+			"text": " all these clues together, we can see that what Paul is doing is far much more beautiful than we often"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,380",
+				"to": "00:25:36,580"
+			},
+			"offsets": {
+				"from": 1528380,
+				"to": 1536580
+			},
+			"text": " allow it to be. Kids who have no voice are given one. Masters are told that their slaves have this, that"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,580",
+				"to": "00:25:41,840"
+			},
+			"offsets": {
+				"from": 1536580,
+				"to": 1541840
+			},
+			"text": " they and their slaves have the same master and that God shows no favoritism between them and their slaves."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,760",
+				"to": "00:25:49,460"
+			},
+			"offsets": {
+				"from": 1543760,
+				"to": 1549460
+			},
+			"text": " That they aren't more special to God. He redefines how to use power in light of the example of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,460",
+				"to": "00:25:53,320"
+			},
+			"offsets": {
+				"from": 1549460,
+				"to": 1553320
+			},
+			"text": " Husbands are given twice the length of commands as wives."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,320",
+				"to": "00:26:01,520"
+			},
+			"offsets": {
+				"from": 1553320,
+				"to": 1561520
+			},
+			"text": " That's almost to say, husbands, you got to really lay down your life for your wives. This is upside down"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,520",
+				"to": "00:26:04,740"
+			},
+			"offsets": {
+				"from": 1561520,
+				"to": 1564740
+			},
+			"text": " to the world that Paul lives in."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,140",
+				"to": "00:26:13,020"
+			},
+			"offsets": {
+				"from": 1568140,
+				"to": 1573020
+			},
+			"text": " He asks those who have authority to submit their social power for the benefit of those beneath them."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,020",
+				"to": "00:26:18,800"
+			},
+			"offsets": {
+				"from": 1573020,
+				"to": 1578800
+			},
+			"text": " This is what Christ did for us. And this is, makes total sense that Paul would ask it of"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,800",
+				"to": "00:26:25,160"
+			},
+			"offsets": {
+				"from": 1578800,
+				"to": 1585160
+			},
+			"text": " people in power and authority. So I hope I've been clear enough for you to see that Paul's primary aim"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,160",
+				"to": "00:26:29,980"
+			},
+			"offsets": {
+				"from": 1585160,
+				"to": 1589980
+			},
+			"text": " isn't to give us timeless blueprints for a family structure. He's showing us what spirit-filled,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,980",
+				"to": "00:26:35,780"
+			},
+			"offsets": {
+				"from": 1589980,
+				"to": 1595780
+			},
+			"text": " Christ-like relationships look like within a cultural framework. He's correcting the dehumanizing lies of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,780",
+				"to": "00:26:39,940"
+			},
+			"offsets": {
+				"from": 1595780,
+				"to": 1599940
+			},
+			"text": " powers and principalities, and he's subverting them with the values of the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,940",
+				"to": "00:26:47,520"
+			},
+			"offsets": {
+				"from": 1599940,
+				"to": 1607520
+			},
+			"text": " It's incredibly beautiful. It's, it's brilliant. And yet some in our modern culture would push back"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,520",
+				"to": "00:26:53,480"
+			},
+			"offsets": {
+				"from": 1607520,
+				"to": 1613480
+			},
+			"text": " and say, that's all well and good, but Paul didn't do enough. Right? Like why, if Paul's all about the"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,480",
+				"to": "00:26:58,900"
+			},
+			"offsets": {
+				"from": 1613480,
+				"to": 1618900
+			},
+			"text": " kingdom of God, why would he have not abolished slavery within the church? He didn't go far enough."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,940",
+				"to": "00:27:04,440"
+			},
+			"offsets": {
+				"from": 1618940,
+				"to": 1624440
+			},
+			"text": " This isn't enough. And, and I put a quote in your bulletin that I think really helps from Tim Mackey."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,440",
+				"to": "00:27:11,920"
+			},
+			"offsets": {
+				"from": 1624440,
+				"to": 1631920
+			},
+			"text": " He says, Paul isn't a social revolutionary. He's an apocalyptic imaginary. And what he means by this is"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,920",
+				"to": "00:27:19,320"
+			},
+			"offsets": {
+				"from": 1631920,
+				"to": 1639320
+			},
+			"text": " that Paul's main task is not to totally subvert the culture in first century right now, immediately,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,320",
+				"to": "00:27:24,380"
+			},
+			"offsets": {
+				"from": 1639320,
+				"to": 1644380
+			},
+			"text": " but what he's trying to do is get a community of people to see what the kingdom of God looks like"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,380",
+				"to": "00:27:30,020"
+			},
+			"offsets": {
+				"from": 1644380,
+				"to": 1650020
+			},
+			"text": " on earth as it is in heaven. Apocalyptic means to, to see something spiritually that is present,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,020",
+				"to": "00:27:35,560"
+			},
+			"offsets": {
+				"from": 1650020,
+				"to": 1655560
+			},
+			"text": " a present reality that Christ has been raised and seated and that the one who has victory is actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,560",
+				"to": "00:27:40,620"
+			},
+			"offsets": {
+				"from": 1655560,
+				"to": 1660620
+			},
+			"text": " the one who's been slain. And so sometimes victory on earth looks like those with power and authority"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,620",
+				"to": "00:27:49,400"
+			},
+			"offsets": {
+				"from": 1660620,
+				"to": 1669400
+			},
+			"text": " laying down their life. Paul knows that we're going to have a foot in both worlds and we can't just"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,400",
+				"to": "00:27:53,640"
+			},
+			"offsets": {
+				"from": 1669400,
+				"to": 1673640
+			},
+			"text": " totally reject the cultural structures of the day. It would lead to unnecessary persecution."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,640",
+				"to": "00:27:59,020"
+			},
+			"offsets": {
+				"from": 1673640,
+				"to": 1679020
+			},
+			"text": " He's doing a delicate dance here. If he tries to abolish slavery, it's actually going to get the slaves"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,020",
+				"to": "00:28:06,020"
+			},
+			"offsets": {
+				"from": 1679020,
+				"to": 1686020
+			},
+			"text": " persecuted and maybe even killed. And so he's trying to, to weave this delicate dance of, of inviting the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,020",
+				"to": "00:28:12,920"
+			},
+			"offsets": {
+				"from": 1686020,
+				"to": 1692920
+			},
+			"text": " church to live the values of the kingdom of God with a foot in both worlds. The church isn't called to"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,920",
+				"to": "00:28:18,720"
+			},
+			"offsets": {
+				"from": 1692920,
+				"to": 1698720
+			},
+			"text": " socially reform the world around us with power, with rebellion, but with submission and with love."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,720",
+				"to": "00:28:24,720"
+			},
+			"offsets": {
+				"from": 1698720,
+				"to": 1704720
+			},
+			"text": " We subvert the values of our culture with upside, with the upside down values of the kingdom by forming"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,720",
+				"to": "00:28:30,440"
+			},
+			"offsets": {
+				"from": 1704720,
+				"to": 1710440
+			},
+			"text": " an alternative community that has a foot in both worlds. We don't try and force the values of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,440",
+				"to": "00:28:35,960"
+			},
+			"offsets": {
+				"from": 1710440,
+				"to": 1715960
+			},
+			"text": " kingdom on people that have yet to taste and see that the Lord is good. We live them out."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,840",
+				"to": "00:28:44,300"
+			},
+			"offsets": {
+				"from": 1716840,
+				"to": 1724300
+			},
+			"text": " Patiently and prayerfully. This is what it means to be salt and light, to be a city on a hill. We model"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:44,300",
+				"to": "00:28:54,420"
+			},
+			"offsets": {
+				"from": 1724300,
+				"to": 1734420
+			},
+			"text": " new creation until he comes, which leads to the final lens, the kingdom lens. And that is that when,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,420",
+				"to": "00:29:02,800"
+			},
+			"offsets": {
+				"from": 1734420,
+				"to": 1742800
+			},
+			"text": " when the, when the household codes were written to people of the empire, it's pretty clear that they"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,800",
+				"to": "00:29:10,520"
+			},
+			"offsets": {
+				"from": 1742800,
+				"to": 1750520
+			},
+			"text": " actually weren't about the households at all. They were for the sake of the empire. Let's read Aristotle"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:10,520",
+				"to": "00:29:17,240"
+			},
+			"offsets": {
+				"from": 1750520,
+				"to": 1757240
+			},
+			"text": " again. He says, seeing then that the state is made up of households before speaking of the state,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,240",
+				"to": "00:29:23,020"
+			},
+			"offsets": {
+				"from": 1757240,
+				"to": 1763020
+			},
+			"text": " we must speak of the management of the households. And so what Aristotle is doing is when he's addressing"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,020",
+				"to": "00:29:28,940"
+			},
+			"offsets": {
+				"from": 1763020,
+				"to": 1768940
+			},
+			"text": " households, his primary concern is actually for the empire. He's like, if we want a stable empire,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,940",
+				"to": "00:29:36,180"
+			},
+			"offsets": {
+				"from": 1768940,
+				"to": 1776180
+			},
+			"text": " if we want a stable politic in our nation, in our culture, we need households to live this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,180",
+				"to": "00:29:41,660"
+			},
+			"offsets": {
+				"from": 1776180,
+				"to": 1781660
+			},
+			"text": " We need households to submit to the culture of the politic, and then that will lead to a flourishing"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,660",
+				"to": "00:29:49,480"
+			},
+			"offsets": {
+				"from": 1781660,
+				"to": 1789480
+			},
+			"text": " empire. And here's what's really cool is that Paul actually does the same thing. Paul uses the same"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,480",
+				"to": "00:29:55,800"
+			},
+			"offsets": {
+				"from": 1789480,
+				"to": 1795800
+			},
+			"text": " form for the codes he's subverting, but his desire is for the church to thrive through sacrificial love"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,800",
+				"to": "00:29:57,620"
+			},
+			"offsets": {
+				"from": 1795800,
+				"to": 1797620
+			},
+			"text": " and mutual submission. Verse 31."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:57,620",
+				"to": "00:30:04,860"
+			},
+			"offsets": {
+				"from": 1797620,
+				"to": 1804860
+			},
+			"text": " Therefore, a man shall leave his father and mother and hold fast to his wife. The two shall become"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,860",
+				"to": "00:30:10,420"
+			},
+			"offsets": {
+				"from": 1804860,
+				"to": 1810420
+			},
+			"text": " one flesh. This mystery is profound, and I am saying that it refers to Christ and the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,420",
+				"to": "00:30:17,520"
+			},
+			"offsets": {
+				"from": 1810420,
+				"to": 1817520
+			},
+			"text": " This whole passage, it has implications for our nuclear families. It has implications for the way"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,520",
+				"to": "00:30:23,280"
+			},
+			"offsets": {
+				"from": 1817520,
+				"to": 1823280
+			},
+			"text": " that we live into community. But the whole thing is actually about how we function as a new humanity in"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,280",
+				"to": "00:30:29,260"
+			},
+			"offsets": {
+				"from": 1823280,
+				"to": 1829260
+			},
+			"text": " the church. What does our vocation look like to live out the values of the kingdom of God on earth until Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,260",
+				"to": "00:30:35,900"
+			},
+			"offsets": {
+				"from": 1829260,
+				"to": 1835900
+			},
+			"text": " returns? Yes, Paul is talking to husbands and wives, to children and fathers, to masters and slaves, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,900",
+				"to": "00:30:37,740"
+			},
+			"offsets": {
+				"from": 1835900,
+				"to": 1837740
+			},
+			"text": " ultimately, he's talking about the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,740",
+				"to": "00:30:52,260"
+			},
+			"offsets": {
+				"from": 1837740,
+				"to": 1852260
+			},
+			"text": " Paul's, I think, challenge here, and I think the primary implication we should draw out from it is that we will have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,260",
+				"to": "00:31:00,140"
+			},
+			"offsets": {
+				"from": 1852260,
+				"to": 1860140
+			},
+			"text": " foot in both worlds. We will step out of the church, and those of you that hopefully are equal in value and dignity"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,140",
+				"to": "00:31:04,280"
+			},
+			"offsets": {
+				"from": 1860140,
+				"to": 1864280
+			},
+			"text": " and worth in this place, you'll step out into that world, and some of you will have elevated positions"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,280",
+				"to": "00:31:09,860"
+			},
+			"offsets": {
+				"from": 1864280,
+				"to": 1869860
+			},
+			"text": " of power and authority, and some of you will have submissive positions of power and authority."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,440",
+				"to": "00:31:34,420"
+			},
+			"offsets": {
+				"from": 1873440,
+				"to": 1894420
+			},
+			"text": " And the goal is that in the church, this is the place where we can truly live the values of the kingdom of God, and we can show the world what it looks like to love the Lord your God with all of your heart, soul, mind, and strength, and to love your neighbor as yourself, with a foot in both worlds."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,260",
+				"to": "00:31:45,140"
+			},
+			"offsets": {
+				"from": 1897260,
+				"to": 1905140
+			},
+			"text": " The church is the church. The church is the working model of new creation, inaugurated and soon to be consummated by King Jesus. Our community should be governed by the"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,140",
+				"to": "00:31:52,880"
+			},
+			"offsets": {
+				"from": 1905140,
+				"to": 1912880
+			},
+			"text": " example of Christ. Paul talks about this in another passage in Philippians. So clear here."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,880",
+				"to": "00:32:01,320"
+			},
+			"offsets": {
+				"from": 1912880,
+				"to": 1921320
+			},
+			"text": " Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,320",
+				"to": "00:32:17,800"
+			},
+			"offsets": {
+				"from": 1921320,
+				"to": 1937800
+			},
+			"text": " Let each one of you look not only on his own interest, but also the interest of others. Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but he emptied himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,800",
+				"to": "00:32:28,780"
+			},
+			"offsets": {
+				"from": 1937800,
+				"to": 1948780
+			},
+			"text": " By taking the form of himself by taking the form of a servant, by being born in the likeness of men, by being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,780",
+				"to": "00:32:42,880"
+			},
+			"offsets": {
+				"from": 1948780,
+				"to": 1962880
+			},
+			"text": " Therefore, God has highly exalted him above every name, so that at the name of Jesus, every knee should bow in heaven and on earth, and every tongue confess Jesus Christ is Lord to the glory of the Father."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,720",
+				"to": "00:32:47,440"
+			},
+			"offsets": {
+				"from": 1963720,
+				"to": 1967440
+			},
+			"text": " This is our example. This is our Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,440",
+				"to": "00:32:53,800"
+			},
+			"offsets": {
+				"from": 1967440,
+				"to": 1973800
+			},
+			"text": " This is where we define the value system of our community, the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,800",
+				"to": "00:32:58,620"
+			},
+			"offsets": {
+				"from": 1973800,
+				"to": 1978620
+			},
+			"text": " That Christ did not count equality with God as something to be grasped, but he lowered himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,620",
+				"to": "00:33:10,180"
+			},
+			"offsets": {
+				"from": 1978620,
+				"to": 1990180
+			},
+			"text": " And as we come into the church, we should not assume that any of our privilege or authority or power should be used for our own benefit, but should be laid down to serve others."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,720",
+				"to": "00:33:15,240"
+			},
+			"offsets": {
+				"from": 1991720,
+				"to": 1995240
+			},
+			"text": " This is how the world is transformed through the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,240",
+				"to": "00:33:24,700"
+			},
+			"offsets": {
+				"from": 1995240,
+				"to": 2004700
+			},
+			"text": " Not with power and authority, not us getting partnerships with political empires and making ourselves more important."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,700",
+				"to": "00:33:27,520"
+			},
+			"offsets": {
+				"from": 2004700,
+				"to": 2007520
+			},
+			"text": " It's us laying down our lives for the vulnerable."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,400",
+				"to": "00:33:38,760"
+			},
+			"offsets": {
+				"from": 2010400,
+				"to": 2018760
+			},
+			"text": " My main point this morning is this, the church transforms the world through forming Christ-like, counter-cultural communities with a foot in both worlds."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,760",
+				"to": "00:33:41,780"
+			},
+			"offsets": {
+				"from": 2018760,
+				"to": 2021780
+			},
+			"text": " This is what Paul has in mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,780",
+				"to": "00:33:49,000"
+			},
+			"offsets": {
+				"from": 2021780,
+				"to": 2029000
+			},
+			"text": " Slow, mustard-seed-like kingdom influence all across the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:49,120",
+				"to": "00:33:55,960"
+			},
+			"offsets": {
+				"from": 2029120,
+				"to": 2035960
+			},
+			"text": " You and I are here today because faithful followers of Jesus did this for the last 2,000 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,960",
+				"to": "00:34:00,580"
+			},
+			"offsets": {
+				"from": 2035960,
+				"to": 2040580
+			},
+			"text": " And if it's going to be true of the church, it has to start with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,120",
+				"to": "00:34:08,460"
+			},
+			"offsets": {
+				"from": 2043120,
+				"to": 2048460
+			},
+			"text": " So believers in the room, do we understand the radical nature of what it means to submit to one another?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,460",
+				"to": "00:34:16,940"
+			},
+			"offsets": {
+				"from": 2048460,
+				"to": 2056940
+			},
+			"text": " Or are we so discipled by a culture obsessed with individual freedoms that we are missing out on our vocation as the working model of new creation?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,940",
+				"to": "00:34:20,700"
+			},
+			"offsets": {
+				"from": 2056940,
+				"to": 2060700
+			},
+			"text": " Will we keep living by the values of this world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:20,700",
+				"to": "00:34:24,840"
+			},
+			"offsets": {
+				"from": 2060700,
+				"to": 2064840
+			},
+			"text": " Or will we become the kind of people who make the kingdom visible?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,840",
+				"to": "00:34:34,420"
+			},
+			"offsets": {
+				"from": 2064840,
+				"to": 2074420
+			},
+			"text": " Jesus says in John 13, my command is this, love each other as I have loved you."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,420",
+				"to": "00:34:38,640"
+			},
+			"offsets": {
+				"from": 2074420,
+				"to": 2078640
+			},
+			"text": " Greater love has no one than this to lay down one's life for his friends."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,640",
+				"to": "00:34:43,260"
+			},
+			"offsets": {
+				"from": 2078640,
+				"to": 2083260
+			},
+			"text": " You are my friends if you do what I command."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,260",
+				"to": "00:34:44,360"
+			},
+			"offsets": {
+				"from": 2083260,
+				"to": 2084360
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,700",
+				"to": "00:34:56,200"
+			},
+			"offsets": {
+				"from": 2090700,
+				"to": 2096200
+			},
+			"text": " Holy Spirit, I said a lot of things faster than I intended to say them."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,200",
+				"to": "00:35:03,560"
+			},
+			"offsets": {
+				"from": 2096200,
+				"to": 2103560
+			},
+			"text": " And so I pray that you would do what you do when your word is proclaimed, that you would take it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,560",
+				"to": "00:35:08,400"
+			},
+			"offsets": {
+				"from": 2103560,
+				"to": 2108400
+			},
+			"text": " and that you would plant seeds in the hearts of each one of us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,400",
+				"to": "00:35:13,440"
+			},
+			"offsets": {
+				"from": 2108400,
+				"to": 2113440
+			},
+			"text": " that you would provoke curiosity for us to come together in smaller communities"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,440",
+				"to": "00:35:17,000"
+			},
+			"offsets": {
+				"from": 2113440,
+				"to": 2117000
+			},
+			"text": " and to discuss what it looks like to submit to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:20,700",
+				"to": "00:35:24,680"
+			},
+			"offsets": {
+				"from": 2120700,
+				"to": 2124680
+			},
+			"text": " That you would help those of us who are husbands and wives, fathers and mothers."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,680",
+				"to": "00:35:31,300"
+			},
+			"offsets": {
+				"from": 2124680,
+				"to": 2131300
+			},
+			"text": " That you would help us to know what it looks like to embody your kingdom"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,300",
+				"to": "00:35:34,220"
+			},
+			"offsets": {
+				"from": 2131300,
+				"to": 2134220
+			},
+			"text": " and our family structure with a foot in both worlds."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,220",
+				"to": "00:35:44,680"
+			},
+			"offsets": {
+				"from": 2134220,
+				"to": 2144680
+			},
+			"text": " And God, that this church, this local gathering of brothers and sisters,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,680",
+				"to": "00:35:50,540"
+			},
+			"offsets": {
+				"from": 2144680,
+				"to": 2150540
+			},
+			"text": " this small vocational space of the working model of new creation, God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,700",
+				"to": "00:35:57,220"
+			},
+			"offsets": {
+				"from": 2150700,
+				"to": 2157220
+			},
+			"text": " may we have clarity to know what it looks like to live the values of the kingdom"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,220",
+				"to": "00:36:00,040"
+			},
+			"offsets": {
+				"from": 2157220,
+				"to": 2160040
+			},
+			"text": " with one another as brothers and sisters,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,040",
+				"to": "00:36:06,420"
+			},
+			"offsets": {
+				"from": 2160040,
+				"to": 2166420
+			},
+			"text": " laying down our lives for your glory, for our good, and for the good of our neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,420",
+				"to": "00:36:08,280"
+			},
+			"offsets": {
+				"from": 2166420,
+				"to": 2168280
+			},
+			"text": " It's in Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,280",
+				"to": "00:36:09,200"
+			},
+			"offsets": {
+				"from": 2168280,
+				"to": 2169200
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,200",
+				"to": "00:36:14,520"
+			},
+			"offsets": {
+				"from": 2169200,
+				"to": 2174520
+			},
+			"text": " We're going to end by taking communion together."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,520",
+				"to": "00:36:17,180"
+			},
+			"offsets": {
+				"from": 2174520,
+				"to": 2177180
+			},
+			"text": " If you didn't get a cup, there's one in the back."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,180",
+				"to": "00:36:19,360"
+			},
+			"offsets": {
+				"from": 2177180,
+				"to": 2179360
+			},
+			"text": " We practice open communion here at Canvas."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,360",
+				"to": "00:36:23,520"
+			},
+			"offsets": {
+				"from": 2179360,
+				"to": 2183520
+			},
+			"text": " That means if you have surrendered your life to Jesus, you are free to take."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:23,520",
+				"to": "00:36:31,340"
+			},
+			"offsets": {
+				"from": 2183520,
+				"to": 2191340
+			},
+			"text": " Communion is an identity-shaping thing that is intended only for those who are surrendered to Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,340",
+				"to": "00:36:34,400"
+			},
+			"offsets": {
+				"from": 2191340,
+				"to": 2194400
+			},
+			"text": " and in right relationship with their brothers and sisters in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,400",
+				"to": "00:36:41,140"
+			},
+			"offsets": {
+				"from": 2194400,
+				"to": 2201140
+			},
+			"text": " Some pretty challenging commands about how we navigate coming to the communion table"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:41,140",
+				"to": "00:36:43,240"
+			},
+			"offsets": {
+				"from": 2201140,
+				"to": 2203240
+			},
+			"text": " when we have some broken relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,240",
+				"to": "00:36:48,520"
+			},
+			"offsets": {
+				"from": 2203240,
+				"to": 2208520
+			},
+			"text": " So I'll just ask you to consider those things before you decide if you're going to take communion or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,020",
+				"to": "00:36:56,020"
+			},
+			"offsets": {
+				"from": 2213020,
+				"to": 2216020
+			},
+			"text": " And as we take communion, I recently picked up this book."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,020",
+				"to": "00:36:59,500"
+			},
+			"offsets": {
+				"from": 2216020,
+				"to": 2219500
+			},
+			"text": " It's called Subversive Meals."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,500",
+				"to": "00:37:04,420"
+			},
+			"offsets": {
+				"from": 2219500,
+				"to": 2224420
+			},
+			"text": " And the thesis is similar to our thesis this morning,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,420",
+				"to": "00:37:10,280"
+			},
+			"offsets": {
+				"from": 2224420,
+				"to": 2230280
+			},
+			"text": " that Paul was taking kind of understood Roman household codes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,800",
+				"to": "00:37:15,040"
+			},
+			"offsets": {
+				"from": 2230800,
+				"to": 2235040
+			},
+			"text": " and he was flipping them upside down to show the countercultural values of the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,040",
+				"to": "00:37:18,260"
+			},
+			"offsets": {
+				"from": 2235040,
+				"to": 2238260
+			},
+			"text": " The argument in this book is the same,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,260",
+				"to": "00:37:25,160"
+			},
+			"offsets": {
+				"from": 2238260,
+				"to": 2245160
+			},
+			"text": " that the Roman Empire had tons of different reasons to get together for social banquets."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,160",
+				"to": "00:37:27,260"
+			},
+			"offsets": {
+				"from": 2245160,
+				"to": 2247260
+			},
+			"text": " They were all structured the same way."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,260",
+				"to": "00:37:34,200"
+			},
+			"offsets": {
+				"from": 2247260,
+				"to": 2254200
+			},
+			"text": " They would all have a sacrifice in the middle where they would pour out a wine offering to different gods and goddesses."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,700",
+				"to": "00:37:41,000"
+			},
+			"offsets": {
+				"from": 2254700,
+				"to": 2261000
+			},
+			"text": " And this author's argument is that just as Paul takes a household code and flips it upside down,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:41,000",
+				"to": "00:37:47,200"
+			},
+			"offsets": {
+				"from": 2261000,
+				"to": 2267200
+			},
+			"text": " that the early church took the structure of the Roman banquet and they flipped it upside down."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,200",
+				"to": "00:37:51,120"
+			},
+			"offsets": {
+				"from": 2267200,
+				"to": 2271120
+			},
+			"text": " They used the same structure that was culturally known,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:51,120",
+				"to": "00:37:55,040"
+			},
+			"offsets": {
+				"from": 2271120,
+				"to": 2275040
+			},
+			"text": " except instead of pouring out an offering to gods,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,040",
+				"to": "00:37:57,180"
+			},
+			"offsets": {
+				"from": 2275040,
+				"to": 2277180
+			},
+			"text": " they would say, our God is with us at the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,180",
+				"to": "00:38:00,240"
+			},
+			"offsets": {
+				"from": 2277180,
+				"to": 2280240
+			},
+			"text": " Let us eat his body and drink his blood."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,240",
+				"to": "00:38:02,000"
+			},
+			"offsets": {
+				"from": 2280240,
+				"to": 2282000
+			},
+			"text": " I love this quote."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,520",
+				"to": "00:38:07,000"
+			},
+			"offsets": {
+				"from": 2282520,
+				"to": 2287000
+			},
+			"text": " He said, followers of Jesus strove to practice classless fellowship"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,000",
+				"to": "00:38:10,960"
+			},
+			"offsets": {
+				"from": 2287000,
+				"to": 2290960
+			},
+			"text": " that included slaves reclining side by side with elites,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,960",
+				"to": "00:38:13,260"
+			},
+			"offsets": {
+				"from": 2290960,
+				"to": 2293260
+			},
+			"text": " women taking leadership roles,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,260",
+				"to": "00:38:17,240"
+			},
+			"offsets": {
+				"from": 2293260,
+				"to": 2297240
+			},
+			"text": " and everyone ministering to the Lord and each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,240",
+				"to": "00:38:22,760"
+			},
+			"offsets": {
+				"from": 2297240,
+				"to": 2302760
+			},
+			"text": " This is what the kingdom of God is all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,760",
+				"to": "00:38:25,920"
+			},
+			"offsets": {
+				"from": 2302760,
+				"to": 2305920
+			},
+			"text": " It's submitting ourselves to one another for the sake of Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,920",
+				"to": "00:38:31,120"
+			},
+			"offsets": {
+				"from": 2305920,
+				"to": 2311120
+			},
+			"text": " And we have a perfect example that we are to remind ourselves of often"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,120",
+				"to": "00:38:34,380"
+			},
+			"offsets": {
+				"from": 2311120,
+				"to": 2314380
+			},
+			"text": " by eating Christ's body and drinking his blood."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,380",
+				"to": "00:38:39,280"
+			},
+			"offsets": {
+				"from": 2314380,
+				"to": 2319280
+			},
+			"text": " So if you have surrendered your life to Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:39,280",
+				"to": "00:38:43,040"
+			},
+			"offsets": {
+				"from": 2319280,
+				"to": 2323040
+			},
+			"text": " I invite you to take Christ's body broken for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,040",
+				"to": "00:38:55,240"
+			},
+			"offsets": {
+				"from": 2333040,
+				"to": 2335240
+			},
+			"text": " Christ's blood shed for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:55,240",
+				"to": "00:39:01,800"
+			},
+			"offsets": {
+				"from": 2335240,
+				"to": 2341800
+			},
+			"text": " We did okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:01,800",
+				"to": "00:39:05,880"
+			},
+			"offsets": {
+				"from": 2341800,
+				"to": 2345880
+			},
+			"text": " Michelle will probably only be a little bit upset with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,880",
+				"to": "00:39:10,800"
+			},
+			"offsets": {
+				"from": 2345880,
+				"to": 2350800
+			},
+			"text": " Hey, as we head out, I wanted to take the time this morning,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:10,800",
+				"to": "00:39:12,840"
+			},
+			"offsets": {
+				"from": 2350800,
+				"to": 2352840
+			},
+			"text": " one, to remind you that we do have a prayer tent,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,840",
+				"to": "00:39:15,200"
+			},
+			"offsets": {
+				"from": 2352840,
+				"to": 2355200
+			},
+			"text": " a prayer booth up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,500",
+				"to": "00:39:20,240"
+			},
+			"offsets": {
+				"from": 2356500,
+				"to": 2360240
+			},
+			"text": " And there are volunteers that would love to pray with you if you are in need of prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,240",
+				"to": "00:39:23,440"
+			},
+			"offsets": {
+				"from": 2360240,
+				"to": 2363440
+			},
+			"text": " Prayer is not just something we tack on at the end of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,440",
+				"to": "00:39:25,400"
+			},
+			"offsets": {
+				"from": 2363440,
+				"to": 2365400
+			},
+			"text": " It is a lifestyle that we live with."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,400",
+				"to": "00:39:29,360"
+			},
+			"offsets": {
+				"from": 2365400,
+				"to": 2369360
+			},
+			"text": " We believe that God actually moves when we pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:30,600",
+				"to": "00:39:32,720"
+			},
+			"offsets": {
+				"from": 2370600,
+				"to": 2372720
+			},
+			"text": " And so just want to remind you of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,720",
+				"to": "00:39:34,760"
+			},
+			"offsets": {
+				"from": 2372720,
+				"to": 2374760
+			},
+			"text": " And as an example of that this morning,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:34,760",
+				"to": "00:39:37,300"
+			},
+			"offsets": {
+				"from": 2374760,
+				"to": 2377300
+			},
+			"text": " I've been trying to think of different groups of people to pray for."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,300",
+				"to": "00:39:41,900"
+			},
+			"offsets": {
+				"from": 2377300,
+				"to": 2381900
+			},
+			"text": " We got a big crew of college students up here that are visiting us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,900",
+				"to": "00:39:47,060"
+			},
+			"offsets": {
+				"from": 2381900,
+				"to": 2387060
+			},
+			"text": " And some of our normal college students are not here because of spring break."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:47,060",
+				"to": "00:39:49,160"
+			},
+			"offsets": {
+				"from": 2387060,
+				"to": 2389160
+			},
+			"text": " And so I just want to take a moment for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,240",
+				"to": "00:39:50,340"
+			},
+			"offsets": {
+				"from": 2389240,
+				"to": 2390340
+			},
+			"text": " I'd love for you to join me."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,340",
+				"to": "00:39:51,660"
+			},
+			"offsets": {
+				"from": 2390340,
+				"to": 2391660
+			},
+			"text": " I just want to pray over you all."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,660",
+				"to": "00:39:54,760"
+			},
+			"offsets": {
+				"from": 2391660,
+				"to": 2394760
+			},
+			"text": " You are at a unique stage in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,760",
+				"to": "00:39:59,320"
+			},
+			"offsets": {
+				"from": 2394760,
+				"to": 2399320
+			},
+			"text": " And there is a ton of potential for God to move and work."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:59,320",
+				"to": "00:40:02,820"
+			},
+			"offsets": {
+				"from": 2399320,
+				"to": 2402820
+			},
+			"text": " And you also have challenging decisions to make."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,820",
+				"to": "00:40:05,640"
+			},
+			"offsets": {
+				"from": 2402820,
+				"to": 2405640
+			},
+			"text": " So I just want to pray for you and ask that the Holy Spirit would guide you."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:05,640",
+				"to": "00:40:10,100"
+			},
+			"offsets": {
+				"from": 2405640,
+				"to": 2410100
+			},
+			"text": " Father in heaven, we thank you for these students that are present."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:10,100",
+				"to": "00:40:14,540"
+			},
+			"offsets": {
+				"from": 2410100,
+				"to": 2414540
+			},
+			"text": " We thank you for the ones that are typically present and are at home"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,540",
+				"to": "00:40:16,440"
+			},
+			"offsets": {
+				"from": 2414540,
+				"to": 2416440
+			},
+			"text": " visiting their local churches."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:17,420",
+				"to": "00:40:21,360"
+			},
+			"offsets": {
+				"from": 2417420,
+				"to": 2421360
+			},
+			"text": " God, we thank you that your kingdom is a multi-generational one."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,360",
+				"to": "00:40:26,180"
+			},
+			"offsets": {
+				"from": 2421360,
+				"to": 2426180
+			},
+			"text": " And that the younger generation is not the future of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,180",
+				"to": "00:40:27,720"
+			},
+			"offsets": {
+				"from": 2426180,
+				"to": 2427720
+			},
+			"text": " It is the present of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:27,720",
+				"to": "00:40:30,360"
+			},
+			"offsets": {
+				"from": 2427720,
+				"to": 2430360
+			},
+			"text": " God, we need these students."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:30,360",
+				"to": "00:40:31,540"
+			},
+			"offsets": {
+				"from": 2430360,
+				"to": 2431540
+			},
+			"text": " We need their input."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,540",
+				"to": "00:40:34,460"
+			},
+			"offsets": {
+				"from": 2431540,
+				"to": 2434460
+			},
+			"text": " We need their leadership in our churches."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:34,460",
+				"to": "00:40:35,440"
+			},
+			"offsets": {
+				"from": 2434460,
+				"to": 2435440
+			},
+			"text": " And so I just pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,440",
+				"to": "00:40:41,340"
+			},
+			"offsets": {
+				"from": 2435440,
+				"to": 2441340
+			},
+			"text": " Pray for these students that they would view themselves as a valuable part of the kingdom of God now."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,340",
+				"to": "00:40:45,680"
+			},
+			"offsets": {
+				"from": 2441340,
+				"to": 2445680
+			},
+			"text": " That they're not preparing to be a valuable part of the kingdom later."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,680",
+				"to": "00:40:47,760"
+			},
+			"offsets": {
+				"from": 2445680,
+				"to": 2447760
+			},
+			"text": " That they are a valuable part of the kingdom now."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,760",
+				"to": "00:40:52,340"
+			},
+			"offsets": {
+				"from": 2447760,
+				"to": 2452340
+			},
+			"text": " God, that you would give them wisdom and direction and joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,340",
+				"to": "00:40:54,880"
+			},
+			"offsets": {
+				"from": 2452340,
+				"to": 2454880
+			},
+			"text": " That they would enjoy this season of their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:54,880",
+				"to": "00:41:01,200"
+			},
+			"offsets": {
+				"from": 2454880,
+				"to": 2461200
+			},
+			"text": " Surrender it to you for your glory, for their good, and for the good of the people that are around them."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:01,200",
+				"to": "00:41:03,080"
+			},
+			"offsets": {
+				"from": 2461200,
+				"to": 2463080
+			},
+			"text": " In Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,080",
+				"to": "00:41:03,980"
+			},
+			"offsets": {
+				"from": 2463080,
+				"to": 2463980
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,380",
+				"to": "00:41:06,860"
+			},
+			"offsets": {
+				"from": 2464380,
+				"to": 2466860
+			},
+			"text": " Go in peace, church."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:06,860",
+				"to": "00:41:11,640"
+			},
+			"offsets": {
+				"from": 2466860,
+				"to": 2471640
+			},
+			"text": " Unless you're like 58 and a half or older, then stick around for a legacy lunch."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:11,640",
+				"to": "00:41:11,780"
+			},
+			"offsets": {
+				"from": 2471640,
+				"to": 2471780
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,640",
+				"to": "00:41:48,360"
+			},
+			"offsets": {
+				"from": 2501640,
+				"to": 2508360
+			},
+			"text": " Thank you."
+		}
+	]
+}

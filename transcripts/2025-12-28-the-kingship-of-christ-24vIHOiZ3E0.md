@@ -1,0 +1,62 @@
+---
+title: "The Kingship of Christ"
+video_id: 24vIHOiZ3E0
+url: https://www.youtube.com/watch?v=24vIHOiZ3E0
+date: 2025-12-28
+duration: 00:12:34
+series: "Names of God"
+transcript_source: whisper-large-v3-turbo
+word_count: 1694
+themes: ["kingship of christ", "allegiance", "kingdom of god", "surrender", "sacrifice", "spiritual formation"]
+scriptures: ["Psalm 93:1-2", "John 18:33-40", "Revelation"]
+---
+
+# The Kingship of Christ
+
+*2025-12-28 — [watch on YouTube](https://www.youtube.com/watch?v=24vIHOiZ3E0) — 00:12:34*
+
+> **Christ's kingdom is not of this world but demands our complete allegiance, calling us to surrender competing loyalties and embrace his cross-shaped, sacrificial rule over every area of our lives.**
+
+## Summary
+
+This guided prayer meditation reflects on Christ's kingship through his dialogue with Pilate before the crucifixion, challenging listeners to examine their competing allegiances and surrender more fully to Jesus' cross-shaped, sacrificial kingdom. The message uses a Lectio Divina format to invite believers to consider where they have given ultimate allegiance to things other than Christ in the past year.
+
+**Key points**
+
+- Christ's kingship challenges nationalism, secularism, and all competing allegiances
+- Jesus' kingdom is 'not of this world' but is cross-shaped and sacrificial
+- Both Pilate and the religious leaders missed or rejected the nature of Christ's kingdom
+- Invitation to examine where we have surrendered to Christ and where we have not
+- Call to pray for others who have rejected God's kingdom for lesser allegiances
+
+**Scripture:** Psalm 93:1-2, John 18:33-40, Revelation
+
+## Transcript
+
+**[00:00:01](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=1s)** Well, hello, Canvas Community Church, and welcome to the last Sunday of the year here. It has been our tradition to not have any in-person gatherings on the last Sunday of the year, and historically we have elected to pre-record a service to give our staff and all of our incredible volunteers an intentional rest at the end of a long and busy year. We're going to be talking about Sabbath here in a few weeks at the church, and just a reminder that God invites us to rest in His presence and that a relationship with God is not rooted in what we do for Him, but what we do with Him. And typically we record a pretty standard service with a few worship songs and a short devotional message. However, this year I have really been impacted by some guided prayer meditations
+
+**[00:00:55](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=55s)** from an app called Lectio 365, put together by an organization called 24-7 Prayer. Love for you to check that out and find if it is beneficial to you in your spiritual journey at all. They have three kind of prayer meditations a day, a morning, a midday, and an evening. And so I decided that I would attempt to write out a guided prayer meditation for us using this Lectio format. I think it is a helpful reminder to us that spiritual formation is not just an isolated activity in the brain, but it includes our whole person. And we actually did a foundational sermon series on this a while back called Spiritual Stations, just about how we as different people worship and connect with God in different ways. And Lectio and prayer meditation was one of those ways.
+
+**[00:01:49](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=109s)** And so if you missed that series or you want to refresh, I will post a link to that in the comments just so you can check that out. But just hopefully today becomes an opportunity for us to just sit in the presence of God, our whole selves, bring our whole selves into prayer, and ask the Holy Spirit to work through the prayers and the reading of Scripture and the meditation to just draw us closer into His presence and conform us more into His image. We decided not to record some worship songs. And instead, I am going to put a slide on the screen with some songs that would pair well with our meditation this morning. If you want to pause this video and go find your favorite recording of whatever your favorite song is that's listed on the screen,
+
+**[00:02:41](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=161s)** or just a song that you feel will help prepare your heart or your family or your small group's heart for this time of prayer and meditation. So feel free to do that. If not, I'm going to go ahead and pray and we can get started. Father in heaven, we thank you for another year, another opportunity to, God, just experience you in new ways, experience you in old ways, be challenged and convicted and encouraged. And God, we just thank you for the gift of life, the gift of breath in our lungs. And we just pray for this upcoming year, God, that we as a people of God would be led by the Spirit, be conformed into the image of Jesus, embody the kingdom of God on earth as it is in heaven, for your glory, for our good, for the good of our neighbor.
+
+**[00:03:34](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=214s)** Amen. Well, in 1925, Pope Pius XI added a service to the church calendar called Christ is King. It was a response to rising nationalism, secularism, and the marginalization of Christ's authority and public discourse. It is now celebrated by many streams of the church, and it is typically celebrated on the last Sunday of the church calendar or the last Sunday before Advent begins. However, since we don't strictly follow any liturgical calendar, I thought the last Sunday of the calendar year would be a good opportunity for us to reflect on the kingship of Christ, his cross-shaped kingdom of sacrificial and self-giving love, his resurrection and ascension to the throne, demonstrating his kingdom and his dominion over all creation, and his eventual return, making visible his authority over all creation. It's aimed at challenging our competing allegiances, whether they be political, national, ideological, or personal.
+
+**[00:04:48](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=288s)** So as we pray together today, I invite each of us to consider our allegiances over the past year. In what areas of our lives did we allow Christ to function as King? In what area of our lives have we given our ultimate allegiance to someone else or something else? And how might the Holy Spirit be inviting us to bend the knee of surrender to the teachings and examples of Jesus in this coming year? We will be using the pattern from Lectio Divina where they pause, reflect, ask, and yield. P-R-A-Y. And so, as we enter prayer now, we pause to be still. Breathe slowly. We recenter our scattered senses upon the indwelling presence of God. Almighty and everlasting God, whose will it is to restore all things in your well-beloved Son, the King of kings and Lord of lords,
+
+**[00:06:01](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=361s)** mercifully grant that peoples of the earth, divided and enslaved by sin, may be freed and brought together under his most gracious rule, who lives and reigns with you and the Holy Spirit, one God, now and forever. Amen. We choose to rejoice today with this opening line from the Royal Psalm, Psalm 93. The Lord reigns. He is robed in majesty. The Lord is robed in majesty and armed with strength. Indeed, the world is established firm and secure. Your throne was established long ago. You are from all eternity. In today's Scripture reading, we turn to a famous dialogue between Jesus and Pontius Pilate prior to his crucifixion. Scripture reads, Pilate then went back inside the palace, summoned Jesus and asked him, Are you the King of the Jews? Is that your own idea? Jesus asked. Or did others talk to you about me?
+
+**[00:07:17](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=437s)** Am I a Jew? Pilate replied. Your own people and chief priests handed you over to me. What is it that you have done? Jesus said, My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jewish leaders. But now my kingdom is from another place. You are a king then, said Pilate. Jesus answered, You say that I am a king. In fact, the reason I was born and came into this world is to testify to the truth. Everyone on the side of truth listens to me. What is truth? Retorted Pilate. With this, he went out again to the Jews, gathered there and said, I find no basis for charge against him, but it is your custom for me to release to you one prisoner at the time of the Passover.
+
+**[00:08:07](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=487s)** Do you want me to release this King of the Jews? They shouted back, No, not him. Give us Barabbas. The secular politician missed the nature of Christ's kingdom, and the religious Jews rejected the cross-shaped sacrificial nature of his kingdom. In what ways might we miss the nature of God's kingdom or the cross-shaped sacrificial nature of his kingdom.
+
+**[00:08:50](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=530s)** Sovereign Lord and King of the universe, we acknowledge our propensity to misunderstand the nature of your kingdom and to give our allegiance to other things. Please awaken our heart to see this rebellion and rejection when it happens. Give us the strength to believe that your ways are better than our ways, that your thoughts are better than our thoughts, and help us this year to surrender wholeheartedly to your kingdom with a glad and sincere heart.
+
+**[00:09:23](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=563s)** I invite you to think now of someone in your life who has rejected God's kingdom for a lesser allegiance. Spend time now asking God to awaken their hearts to his kingdom in this coming year. Pray that God might use you as an ambassador to this person or persons in a way that leads to their salvation. Father in heaven, may your kingdom come and your will be done on earth as it is in heaven.
+
+**[00:10:09](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=609s)** As we return to the passage in John, we listen for the Holy Spirit to speak a specific word of challenge or encouragement to us. What word or phrase might God be inviting us to meditate on from this passage in the coming hours or days? Pilate then went back inside the palace, summoned Jesus and asked him, Are you king of the Jews? Is that your own idea, Jesus asked, or did others talk to you about me? Am I a Jew? Pilate replied. Your own people and chief priests handed you over to me. What is it you have done? Jesus said, My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jewish leaders. But now my kingdom is from another place. You are a king then, said Pilate.
+
+**[00:11:00](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=660s)** Jesus answered, You say that I am king. In fact, the reason I was born and came into this world is to testify to the truth. Everyone on the side of truth listens to me. What is truth? Retorted Pilate. With this, he went out again to the Jews, gathered there and said, I find no basis for a charge against him. But it is your custom for me to release to you one prisoner at the time of Passover. Do you want me to release the king of the Jews? They shouted back, No, not him. Give us Barabbas. And now, as we prepare to take this time of prayer into our coming day, the Lord who loves us, assures us of this current spiritual reality in the book of Revelation. Father, help me to live this day to the full, being true to you in every way.
+
+**[00:12:12](https://www.youtube.com/watch?v=24vIHOiZ3E0&t=732s)** Jesus, help me to give myself away to others, being kind to everyone I need. Spirit, help me to love the lost, proclaiming Christ the King in all I do and say. Amen.

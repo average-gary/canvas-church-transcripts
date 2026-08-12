@@ -1,0 +1,8436 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:29,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 29980
+			},
+			"text": " It's no secret that our society has a digital device problem. Ninety-two percent of Americans own a smartphone. Research has found that we are more connected than ever before, and yet feel more isolated, more lonely, more depressed than ever before. How's that possible?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 50000
+			},
+			"text": " Social scientists call this a collective action problem. We all agree that these devices are having a detrimental impact on our mental health, and yet it feels virtually impossible to withdraw from these devices because they are so interconnected in our lives. So what can we do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:59,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 59000
+			},
+			"text": " Well, good morning. That was a really cool bumper, but this is the first time I've actually seen it. My name is Michelle Meeks. I'm the children's pastor here."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:12,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 72000
+			},
+			"text": " So I'm really excited to be here this morning because I get the best of both worlds. All my favorite kids are in here, but I also get to share some things with you that God has been really teaching me through this message."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,000",
+				"to": "00:01:28,000"
+			},
+			"offsets": {
+				"from": 72000,
+				"to": 88000
+			},
+			"text": " And so if you've been here or you've read the newsletter, if you've seen the announcements, then you know that we are starting a new series that is going to focus on that little rectangular device that has become almost"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,000",
+				"to": "00:01:43,000"
+			},
+			"offsets": {
+				"from": 88000,
+				"to": 103000
+			},
+			"text": " an extension of our body. It is with us everywhere we go. It is the smartphone, whether you like Andrew or iPhone or whatever it is, we almost all have one. The video said 92% of people own one."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,000",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 103000,
+				"to": 117000
+			},
+			"text": " Kids, it might be your iPad, it might be a TV screen, but whatever it is, is a digital technology that we spend a lot of time with. If we're honest,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
+				"to": "00:02:03,000"
+			},
+			"offsets": {
+				"from": 117000,
+				"to": 123000
+			},
+			"text": " it's become like that best friend that no one wants to admit is our best friend, right? Like, it's always there when we need it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,000",
+				"to": "00:02:14,000"
+			},
+			"offsets": {
+				"from": 123000,
+				"to": 134000
+			},
+			"text": " It never lets us down. It answers our questions decently well, and we keep it close to our heart so that we never have to be away from it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,000",
+				"to": "00:02:26,000"
+			},
+			"offsets": {
+				"from": 134000,
+				"to": 146000
+			},
+			"text": " But if you're honest, deep, deep, deep, deep down in your soul, especially for the kids, I'm a little worried about a revolt about the topic today, but even kids, if you're honest,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,000",
+				"to": "00:02:36,000"
+			},
+			"offsets": {
+				"from": 146000,
+				"to": 156000
+			},
+			"text": " there's a part of you that knows we spend too much time on it, and it is not good for us. It reminds me of, you know, around Christmas time"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,000",
+				"to": "00:02:44,000"
+			},
+			"offsets": {
+				"from": 156000,
+				"to": 164000
+			},
+			"text": " when we see the really sad Humane Society videos of the puppies with, like, the big puppy eyes, and we all feel like we need to adopt a dog"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,000",
+				"to": "00:02:55,000"
+			},
+			"offsets": {
+				"from": 164000,
+				"to": 175000
+			},
+			"text": " or, like, refinance our house to help the Humane Society? It reminds me of that. We see these images, usually, ironically, we see them on a screen, of, like, the mom"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,000",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 175000,
+				"to": 183000
+			},
+			"text": " that's on her phone and not paying attention to her kid. We see these images of us spending too much time on our phones"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:10,000"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 190000
+			},
+			"text": " and it hits us in the heart and we feel guilty, but we rarely do anything about it. So, this, these images that you're seeing"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,000",
+				"to": "00:03:24,000"
+			},
+			"offsets": {
+				"from": 190000,
+				"to": 204000
+			},
+			"text": " are from a portfolio by a name, by a man named Eric Pickersgill. He named these, this portfolio that he made, \"Remove.\" So, when you look at these"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,000",
+				"to": "00:03:30,000"
+			},
+			"offsets": {
+				"from": 204000,
+				"to": 210000
+			},
+			"text": " pictures, he wants to highlight the disconnection that we have, that we can be in the same room with people that"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,000",
+				"to": "00:03:36,000"
+			},
+			"offsets": {
+				"from": 210000,
+				"to": 216000
+			},
+			"text": " we love, but have no connection with them, right? We're all doing our same, we're doing our own thing on our phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,000",
+				"to": "00:03:43,000"
+			},
+			"offsets": {
+				"from": 216000,
+				"to": 223000
+			},
+			"text": " Is there anything you guys noticed about these pictures though? Yeah, there's no phone in their hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,000",
+				"to": "00:03:50,000"
+			},
+			"offsets": {
+				"from": 223000,
+				"to": 230000
+			},
+			"text": " Sometimes you don't even realize it, but it gives us a chance to look at what we would look like if we didn't have our"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,000",
+				"to": "00:03:56,000"
+			},
+			"offsets": {
+				"from": 230000,
+				"to": 236000
+			},
+			"text": " phone. What is it that we're staring at that makes us not talk to each other? And this last image is"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,000",
+				"to": "00:04:07,000"
+			},
+			"offsets": {
+				"from": 236000,
+				"to": 247000
+			},
+			"text": " my favorite. You notice what's coming right at her? These devices are controlling us so much that I would"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,000",
+				"to": "00:04:15,000"
+			},
+			"offsets": {
+				"from": 247000,
+				"to": 255000
+			},
+			"text": " imagine quite a few of you in this room have been looking at their phones in a situation where you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,000",
+				"to": "00:04:20,000"
+			},
+			"offsets": {
+				"from": 255000,
+				"to": 260000
+			},
+			"text": " driving or you're at a red light and you have that little bit of time and you look and you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,000",
+				"to": "00:04:28,000"
+			},
+			"offsets": {
+				"from": 260000,
+				"to": 268000
+			},
+			"text": " putting your life in danger because you want to look at this phone so much. These are powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,000",
+				"to": "00:04:38,000"
+			},
+			"offsets": {
+				"from": 268000,
+				"to": 278000
+			},
+			"text": " A 2024 survey from Pew Research Center said that teens, 38% of you, say you know you spend too"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,000",
+				"to": "00:04:45,000"
+			},
+			"offsets": {
+				"from": 278000,
+				"to": 285000
+			},
+			"text": " much time on your phone, and that 57% of you had actually tried to cut back on social"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,000",
+				"to": "00:04:51,000"
+			},
+			"offsets": {
+				"from": 285000,
+				"to": 291000
+			},
+			"text": " media without being asked. That's pretty big. And the parents, the ones here that feel guilty,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,000",
+				"to": "00:04:56,000"
+			},
+			"offsets": {
+				"from": 291000,
+				"to": 296000
+			},
+			"text": " like we have these devices and we gave them to our kids, this is me again, and we"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,000",
+				"to": "00:05:01,000"
+			},
+			"offsets": {
+				"from": 296000,
+				"to": 301000
+			},
+			"text": " know that they're on it too much, but in our defense when we were first handed these, when"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,000",
+				"to": "00:05:06,000"
+			},
+			"offsets": {
+				"from": 301000,
+				"to": 306000
+			},
+			"text": " they first came out, we didn't realize the damage that they were doing. The problem"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,000",
+				"to": "00:05:12,000"
+			},
+			"offsets": {
+				"from": 306000,
+				"to": 312000
+			},
+			"text": " is now we know and we feel so far down this road that we don't know how to turn"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,000",
+				"to": "00:05:17,000"
+			},
+			"offsets": {
+				"from": 312000,
+				"to": 317000
+			},
+			"text": " around and make a change. And the question is, is why is it so hard to"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,000",
+				"to": "00:05:23,000"
+			},
+			"offsets": {
+				"from": 317000,
+				"to": 323000
+			},
+			"text": " disconnect from our smartphones? A recent survey showed that four out of ten"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,000",
+				"to": "00:05:30,000"
+			},
+			"offsets": {
+				"from": 323000,
+				"to": 330000
+			},
+			"text": " adults said that they are online almost constantly, and they spend at least 2.5"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:35,000"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 335000
+			},
+			"text": " hours what is called doom scrolling. Everybody here probably knows what that is, where you"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,000",
+				"to": "00:05:41,000"
+			},
+			"offsets": {
+				"from": 335000,
+				"to": 341000
+			},
+			"text": " get on a video or Instagram or Facebook or TikTok, and you just scroll. There's no"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,000",
+				"to": "00:05:46,000"
+			},
+			"offsets": {
+				"from": 341000,
+				"to": 346000
+			},
+			"text": " purpose. You're just looking at things, and it sucks you in. Before you know it, you've"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,000",
+				"to": "00:05:56,000"
+			},
+			"offsets": {
+				"from": 346000,
+				"to": 356000
+			},
+			"text": " spent 2 to 3 hours wasting time. The same study showed that 46% of teens say that"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,000",
+				"to": "00:06:01,000"
+			},
+			"offsets": {
+				"from": 356000,
+				"to": 361000
+			},
+			"text": " their parents are distracted when they're trying to have a conversation with them"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,000",
+				"to": "00:06:06,000"
+			},
+			"offsets": {
+				"from": 361000,
+				"to": 366000
+			},
+			"text": " because their parents are looking at their phones, and the reality is, is we"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,000",
+				"to": "00:06:13,000"
+			},
+			"offsets": {
+				"from": 366000,
+				"to": 373000
+			},
+			"text": " know. We know we spend too much time on our phones, and the question is why? If you"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,000",
+				"to": "00:06:17,000"
+			},
+			"offsets": {
+				"from": 373000,
+				"to": 377000
+			},
+			"text": " are here this morning and this is not something that you struggle with, and I"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,000",
+				"to": "00:06:21,000"
+			},
+			"offsets": {
+				"from": 377000,
+				"to": 381000
+			},
+			"text": " know there are those of you out there that you don't struggle with looking at a"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,000",
+				"to": "00:06:26,000"
+			},
+			"offsets": {
+				"from": 381000,
+				"to": 386000
+			},
+			"text": " smartphone, I would ask you to think about maybe there's another screen that you do"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 386000,
+				"to": 392000
+			},
+			"text": " struggle with. Maybe you end up watching news channels far too much, and that sucks"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:38,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 398000
+			},
+			"text": " you in, and before you know it, hours have gone by. Or if you don't struggle with any"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,000",
+				"to": "00:06:46,000"
+			},
+			"offsets": {
+				"from": 398000,
+				"to": 406000
+			},
+			"text": " devices, then I would ask you to pray for us, because this is not just a"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,000",
+				"to": "00:06:51,000"
+			},
+			"offsets": {
+				"from": 406000,
+				"to": 411000
+			},
+			"text": " small percentage of people. We're struggling, and we need all the prayer that"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,000",
+				"to": "00:06:57,000"
+			},
+			"offsets": {
+				"from": 411000,
+				"to": 417000
+			},
+			"text": " we can get if we're going to break this addiction that we have. So while"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,000",
+				"to": "00:07:03,000"
+			},
+			"offsets": {
+				"from": 417000,
+				"to": 423000
+			},
+			"text": " you're here, you be praying. Because the reality is, is what you spend your time on"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,000",
+				"to": "00:07:10,000"
+			},
+			"offsets": {
+				"from": 423000,
+				"to": 430000
+			},
+			"text": " is shaping you from the inside out. So before we start looking at why we might"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,000",
+				"to": "00:07:13,000"
+			},
+			"offsets": {
+				"from": 430000,
+				"to": 433000
+			},
+			"text": " spend too much time on this, I want to talk to you about what these next four"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,000",
+				"to": "00:07:18,000"
+			},
+			"offsets": {
+				"from": 433000,
+				"to": 438000
+			},
+			"text": " weeks are going to look like. So we are doing a 28-day digital detox. So first, what"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,000",
+				"to": "00:07:23,000"
+			},
+			"offsets": {
+				"from": 438000,
+				"to": 443000
+			},
+			"text": " this is not. This is not a hatred of technology. We are not saying that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,000",
+				"to": "00:07:27,000"
+			},
+			"offsets": {
+				"from": 443000,
+				"to": 447000
+			},
+			"text": " technology is bad and evil, and that we should all throw our phones off a bridge"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,000",
+				"to": "00:07:31,000"
+			},
+			"offsets": {
+				"from": 447000,
+				"to": 451000
+			},
+			"text": " when we leave church, or have like a smashing your phone party. We're not"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,000",
+				"to": "00:07:39,000"
+			},
+			"offsets": {
+				"from": 451000,
+				"to": 459000
+			},
+			"text": " saying that. What we are saying is that maybe, just maybe, we need to give our"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,000",
+				"to": "00:07:46,000"
+			},
+			"offsets": {
+				"from": 459000,
+				"to": 466000
+			},
+			"text": " brains a break from the amount of times that we look at the screens. So the"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,000",
+				"to": "00:07:51,000"
+			},
+			"offsets": {
+				"from": 466000,
+				"to": 471000
+			},
+			"text": " goal is, for, there's different levels. If you look at your bulletin, it gives you an"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,000",
+				"to": "00:07:56,000"
+			},
+			"offsets": {
+				"from": 471000,
+				"to": 476000
+			},
+			"text": " explanation of exactly some options for the next 28 days. Nothing is required. No"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,000",
+				"to": "00:07:59,000"
+			},
+			"offsets": {
+				"from": 476000,
+				"to": 479000
+			},
+			"text": " one's getting, well, teens, I can't tell you nothing is required. Your parents are"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,000",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 479000,
+				"to": 484000
+			},
+			"text": " in charge of that. For most of us in this room, this is a choice that you have to"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:09,000"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 489000
+			},
+			"text": " make. But the goal is, you take your phone, and you turn it back into a phone. You"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,000",
+				"to": "00:08:17,000"
+			},
+			"offsets": {
+				"from": 489000,
+				"to": 497000
+			},
+			"text": " get rid of the apps that are distracting you. So, social media, news apps, maybe"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,000",
+				"to": "00:08:21,000"
+			},
+			"offsets": {
+				"from": 497000,
+				"to": 501000
+			},
+			"text": " email. You get rid of the apps that are distracting you for a short period of time, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,000",
+				"to": "00:08:26,000"
+			},
+			"offsets": {
+				"from": 501000,
+				"to": 506000
+			},
+			"text": " you keep the apps that you need. So, directions, phone calls, FaceTime, text"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,000",
+				"to": "00:08:34,000"
+			},
+			"offsets": {
+				"from": 506000,
+				"to": 514000
+			},
+			"text": " messages, things that are utility devices rather than distractions, for 28 days. The"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,000",
+				"to": "00:08:41,000"
+			},
+			"offsets": {
+				"from": 514000,
+				"to": 521000
+			},
+			"text": " goal is to take back the control that the screens in our lives have on us. This is"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,000",
+				"to": "00:08:47,000"
+			},
+			"offsets": {
+				"from": 521000,
+				"to": 527000
+			},
+			"text": " temporary. After 28 days, you can add all of those back on, but the hope is that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,000",
+				"to": "00:08:52,000"
+			},
+			"offsets": {
+				"from": 527000,
+				"to": 532000
+			},
+			"text": " will have a more realistic view of the relationship you have with your phone and"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,000",
+				"to": "00:08:59,000"
+			},
+			"offsets": {
+				"from": 532000,
+				"to": 539000
+			},
+			"text": " the ability to remain in control of it rather than having it control you. If this"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,000",
+				"to": "00:09:08,000"
+			},
+			"offsets": {
+				"from": 539000,
+				"to": 548000
+			},
+			"text": " is making you feel anxious, you are not alone. I had many of the same conversations. I'm the one"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,000",
+				"to": "00:09:13,000"
+			},
+			"offsets": {
+				"from": 548000,
+				"to": 553000
+			},
+			"text": " giving the message, and I was making all kinds of excuses as to why we didn't need to do this, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,000",
+				"to": "00:09:17,000"
+			},
+			"offsets": {
+				"from": 553000,
+				"to": 557000
+			},
+			"text": " it was going to be really hard. Parents, if you're like me, you're like, \"I can get rid of"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,000",
+				"to": "00:09:22,000"
+			},
+			"offsets": {
+				"from": 557000,
+				"to": 562000
+			},
+			"text": " all the apps. I don't care about that,\" but my kids, entertaining them when they have none of it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,000",
+				"to": "00:09:28,000"
+			},
+			"offsets": {
+				"from": 562000,
+				"to": 568000
+			},
+			"text": " you're not alone. This is a big problem, and so we can be anxious together, but what research"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,000",
+				"to": "00:09:33,000"
+			},
+			"offsets": {
+				"from": 568000,
+				"to": 573000
+			},
+			"text": " has shown is when you do it in a group like this, it can help, because we're all in this"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,000",
+				"to": "00:09:38,000"
+			},
+			"offsets": {
+				"from": 573000,
+				"to": 578000
+			},
+			"text": " together, and we can lift each other up, and other churches have done this. We're not the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,000",
+				"to": "00:09:43,000"
+			},
+			"offsets": {
+				"from": 578000,
+				"to": 583000
+			},
+			"text": " first church to do this 28-day detox, and those other churches have surveyed people"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,000",
+				"to": "00:09:48,000"
+			},
+			"offsets": {
+				"from": 583000,
+				"to": 588000
+			},
+			"text": " after, and 100% of people who took part in it said that they were glad that they"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,000",
+				"to": "00:09:52,000"
+			},
+			"offsets": {
+				"from": 588000,
+				"to": 592000
+			},
+			"text": " did and that they would do it again, probably not right after the 28 days. They"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,000",
+				"to": "00:09:57,000"
+			},
+			"offsets": {
+				"from": 592000,
+				"to": 597000
+			},
+			"text": " probably needed like a little bit of a break, but overall, they had seen positive"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:57,000",
+				"to": "00:10:02,000"
+			},
+			"offsets": {
+				"from": 597000,
+				"to": 602000
+			},
+			"text": " results. Okay, so now that we have the goals in mind, and what the next 28 days"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,000",
+				"to": "00:10:07,000"
+			},
+			"offsets": {
+				"from": 602000,
+				"to": 607000
+			},
+			"text": " are going to look like, I want to take a deeper look into how we got here. I'm"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,000",
+				"to": "00:10:12,000"
+			},
+			"offsets": {
+				"from": 607000,
+				"to": 612000
+			},
+			"text": " the type of person that if you tell me to do something, then I won't do it, but if"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,000",
+				"to": "00:10:18,000"
+			},
+			"offsets": {
+				"from": 612000,
+				"to": 618000
+			},
+			"text": " I understand why something works the way that it is, or I can see like behind the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,000",
+				"to": "00:10:24,000"
+			},
+			"offsets": {
+				"from": 618000,
+				"to": 624000
+			},
+			"text": " curtain, I'm way more inept to do what it says. So I want to give us a glimpse"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,000",
+				"to": "00:10:29,000"
+			},
+			"offsets": {
+				"from": 624000,
+				"to": 629000
+			},
+			"text": " behind the curtain of what is going on that is making us so addicted."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,000",
+				"to": "00:10:35,000"
+			},
+			"offsets": {
+				"from": 629000,
+				"to": 635000
+			},
+			"text": " Romans 12:2 says, \"Do not conform to the patterns of this world, but be transformed"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,000",
+				"to": "00:10:39,000"
+			},
+			"offsets": {
+				"from": 635000,
+				"to": 639000
+			},
+			"text": " by the renewing of your mind. Then you will be able to test and approve what"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,000",
+				"to": "00:10:45,000"
+			},
+			"offsets": {
+				"from": 639000,
+				"to": 645000
+			},
+			"text": " God's will is. His good, pleasing, and perfect will.\" We are called not to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,000",
+				"to": "00:10:50,000"
+			},
+			"offsets": {
+				"from": 645000,
+				"to": 650000
+			},
+			"text": " changed by worldly patterns, right? God wants to give us a life better"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,000",
+				"to": "00:10:54,000"
+			},
+			"offsets": {
+				"from": 650000,
+				"to": 654000
+			},
+			"text": " than what the world offers. And when we're consumed by worldly patterns,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,000",
+				"to": "00:10:59,000"
+			},
+			"offsets": {
+				"from": 654000,
+				"to": 659000
+			},
+			"text": " it's really hard to hear His voice, because His voice is not in those worldly patterns."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,000",
+				"to": "00:11:04,000"
+			},
+			"offsets": {
+				"from": 659000,
+				"to": 664000
+			},
+			"text": " It's better than that. And I think we would all agree on this next"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,000",
+				"to": "00:11:10,000"
+			},
+			"offsets": {
+				"from": 664000,
+				"to": 670000
+			},
+			"text": " statement, that there has never been another piece of technology in all of"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,000",
+				"to": "00:11:15,000"
+			},
+			"offsets": {
+				"from": 670000,
+				"to": 675000
+			},
+			"text": " history that is more effective at conforming people to the patterns of"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,000",
+				"to": "00:11:19,000"
+			},
+			"offsets": {
+				"from": 675000,
+				"to": 679000
+			},
+			"text": " this world than the smartphone. The average"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,000",
+				"to": "00:11:23,000"
+			},
+			"offsets": {
+				"from": 679000,
+				"to": 683000
+			},
+			"text": " adult screen time is five to six hours a day. The average teen"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,000",
+				"to": "00:11:27,000"
+			},
+			"offsets": {
+				"from": 683000,
+				"to": 687000
+			},
+			"text": " screen time is seven to nine hours a day. We're talking"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,000",
+				"to": "00:11:31,000"
+			},
+			"offsets": {
+				"from": 687000,
+				"to": 691000
+			},
+			"text": " full-time jobs spent on this device"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,000",
+				"to": "00:11:35,000"
+			},
+			"offsets": {
+				"from": 691000,
+				"to": 695000
+			},
+			"text": " that is never away from us. We will turn back and"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,000",
+				"to": "00:11:39,000"
+			},
+			"offsets": {
+				"from": 695000,
+				"to": 699000
+			},
+			"text": " drive all the way back home if we're on our way to work and forget our phones."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,000",
+				"to": "00:11:43,000"
+			},
+			"offsets": {
+				"from": 699000,
+				"to": 703000
+			},
+			"text": " Or our kids will be in a full-blown panic, teenagers, if they"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,000",
+				"to": "00:11:47,000"
+			},
+			"offsets": {
+				"from": 703000,
+				"to": 707000
+			},
+			"text": " get to school and forget their phones. We are spending our lives"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,000",
+				"to": "00:11:51,000"
+			},
+			"offsets": {
+				"from": 707000,
+				"to": 711000
+			},
+			"text": " on these devices. So you might have an argument and say, \"Yes, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,000",
+				"to": "00:11:55,000"
+			},
+			"offsets": {
+				"from": 711000,
+				"to": 715000
+			},
+			"text": " what I'm doing, I'm listening to sermons on my phone, I'm listening to"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,000",
+				"to": "00:11:59,000"
+			},
+			"offsets": {
+				"from": 715000,
+				"to": 719000
+			},
+			"text": " shorts about God, and it's really lifting me up.\" And you might say that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,000",
+				"to": "00:12:03,000"
+			},
+			"offsets": {
+				"from": 719000,
+				"to": 723000
+			},
+			"text": " I need that, but the reality is, is it's still not healthy for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,000",
+				"to": "00:12:07,000"
+			},
+			"offsets": {
+				"from": 723000,
+				"to": 727000
+			},
+			"text": " I have a friend who's a pediatric psychiatrist, and she"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,000",
+				"to": "00:12:11,000"
+			},
+			"offsets": {
+				"from": 727000,
+				"to": 731000
+			},
+			"text": " said, \"Literally, anything that you do apart from"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,000",
+				"to": "00:12:15,000"
+			},
+			"offsets": {
+				"from": 731000,
+				"to": 735000
+			},
+			"text": " looking at your phone is better than something that you do looking at your phone.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,000",
+				"to": "00:12:19,000"
+			},
+			"offsets": {
+				"from": 735000,
+				"to": 739000
+			},
+			"text": " Staring at a wall, better for your brain than looking at your phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,000",
+				"to": "00:12:23,000"
+			},
+			"offsets": {
+				"from": 739000,
+				"to": 743000
+			},
+			"text": " So even if you're spending seven hours watching sermons, it's still"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,000",
+				"to": "00:12:27,000"
+			},
+			"offsets": {
+				"from": 743000,
+				"to": 747000
+			},
+			"text": " better for you to go outside in nature and listen to God's"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,000",
+				"to": "00:12:31,000"
+			},
+			"offsets": {
+				"from": 747000,
+				"to": 751000
+			},
+			"text": " voice apart from this. So"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,000",
+				"to": "00:12:35,000"
+			},
+			"offsets": {
+				"from": 751000,
+				"to": 755000
+			},
+			"text": " what is God's original design for us? Okay, so"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,000",
+				"to": "00:12:39,000"
+			},
+			"offsets": {
+				"from": 755000,
+				"to": 759000
+			},
+			"text": " we know we were created in God's image, right? So God's image"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,000",
+				"to": "00:12:43,000"
+			},
+			"offsets": {
+				"from": 759000,
+				"to": 763000
+			},
+			"text": " is what we are designed after,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,000",
+				"to": "00:12:45,000"
+			},
+			"offsets": {
+				"from": 763000,
+				"to": 765000
+			},
+			"text": " and the Bible makes it clear that God"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,000",
+				"to": "00:12:47,000"
+			},
+			"offsets": {
+				"from": 765000,
+				"to": 767000
+			},
+			"text": " desires relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,000",
+				"to": "00:12:49,000"
+			},
+			"offsets": {
+				"from": 767000,
+				"to": 769000
+			},
+			"text": " Look at Genesis 2:18. The"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,000",
+				"to": "00:12:51,000"
+			},
+			"offsets": {
+				"from": 769000,
+				"to": 771000
+			},
+			"text": " Lord says, \"It is not good for man to"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,000",
+				"to": "00:12:53,000"
+			},
+			"offsets": {
+				"from": 771000,
+				"to": 773000
+			},
+			"text": " be alone.\" Adam was in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,000",
+				"to": "00:12:55,000"
+			},
+			"offsets": {
+				"from": 773000,
+				"to": 775000
+			},
+			"text": " garden alone, and so God created"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,000",
+				"to": "00:12:57,000"
+			},
+			"offsets": {
+				"from": 775000,
+				"to": 777000
+			},
+			"text": " Eve to be his wife,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,000",
+				"to": "00:12:59,000"
+			},
+			"offsets": {
+				"from": 777000,
+				"to": 779000
+			},
+			"text": " so that he had someone to be connected"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,000",
+				"to": "00:13:01,000"
+			},
+			"offsets": {
+				"from": 779000,
+				"to": 781000
+			},
+			"text": " to. And then if we look further at"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,000",
+				"to": "00:13:03,000"
+			},
+			"offsets": {
+				"from": 781000,
+				"to": 783000
+			},
+			"text": " Genesis 3:8, it says, \"Then man"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,000",
+				"to": "00:13:05,000"
+			},
+			"offsets": {
+				"from": 783000,
+				"to": 785000
+			},
+			"text": " and his wife heard"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,000",
+				"to": "00:13:07,000"
+			},
+			"offsets": {
+				"from": 785000,
+				"to": 787000
+			},
+			"text": " the sound of the Lord God as he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,000",
+				"to": "00:13:09,000"
+			},
+			"offsets": {
+				"from": 787000,
+				"to": 789000
+			},
+			"text": " walking in the garden in the cool of the day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,000",
+				"to": "00:13:11,000"
+			},
+			"offsets": {
+				"from": 789000,
+				"to": 791000
+			},
+			"text": " and they hid from the Lord God among"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,000",
+				"to": "00:13:13,000"
+			},
+			"offsets": {
+				"from": 791000,
+				"to": 793000
+			},
+			"text": " the trees of the garden.\" So this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,000",
+				"to": "00:13:15,000"
+			},
+			"offsets": {
+				"from": 793000,
+				"to": 795000
+			},
+			"text": " they're not hiding because they're shocked that God"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,000",
+				"to": "00:13:17,000"
+			},
+			"offsets": {
+				"from": 795000,
+				"to": 797000
+			},
+			"text": " is in the garden with them. They're hiding because"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,000",
+				"to": "00:13:19,000"
+			},
+			"offsets": {
+				"from": 797000,
+				"to": 799000
+			},
+			"text": " they've just sinned, and now they feel"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,000",
+				"to": "00:13:21,000"
+			},
+			"offsets": {
+				"from": 799000,
+				"to": 801000
+			},
+			"text": " ashamed. But it seems"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,000",
+				"to": "00:13:23,000"
+			},
+			"offsets": {
+				"from": 801000,
+				"to": 803000
+			},
+			"text": " that God had a close"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,000",
+				"to": "00:13:25,000"
+			},
+			"offsets": {
+				"from": 803000,
+				"to": 805000
+			},
+			"text": " intimate relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,000",
+				"to": "00:13:27,000"
+			},
+			"offsets": {
+				"from": 805000,
+				"to": 807000
+			},
+			"text": " with them in the garden. That he would go"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,000",
+				"to": "00:13:29,000"
+			},
+			"offsets": {
+				"from": 807000,
+				"to": 809000
+			},
+			"text": " for walks with them, and that"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,000",
+				"to": "00:13:31,000"
+			},
+			"offsets": {
+				"from": 809000,
+				"to": 811000
+			},
+			"text": " they would have communication with each other. So what"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,000",
+				"to": "00:13:33,000"
+			},
+			"offsets": {
+				"from": 811000,
+				"to": 813000
+			},
+			"text": " this shows us is, you"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,000",
+				"to": "00:13:35,000"
+			},
+			"offsets": {
+				"from": 813000,
+				"to": 815000
+			},
+			"text": " and I were designed to be in connection"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:35,000",
+				"to": "00:13:37,000"
+			},
+			"offsets": {
+				"from": 815000,
+				"to": 817000
+			},
+			"text": " with each other. That"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,000",
+				"to": "00:13:39,000"
+			},
+			"offsets": {
+				"from": 817000,
+				"to": 819000
+			},
+			"text": " is our ultimate design"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:39,000",
+				"to": "00:13:41,000"
+			},
+			"offsets": {
+				"from": 819000,
+				"to": 821000
+			},
+			"text": " from God. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,000",
+				"to": "00:13:43,000"
+			},
+			"offsets": {
+				"from": 821000,
+				"to": 823000
+			},
+			"text": " up until recently, that was"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,000",
+				"to": "00:13:45,000"
+			},
+			"offsets": {
+				"from": 823000,
+				"to": 825000
+			},
+			"text": " the case. Like, we hung out with each other, and we did"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,000",
+				"to": "00:13:47,000"
+			},
+			"offsets": {
+				"from": 825000,
+				"to": 827000
+			},
+			"text": " things. We still do. But"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,000",
+				"to": "00:13:49,000"
+			},
+			"offsets": {
+				"from": 827000,
+				"to": 829000
+			},
+			"text": " the relationships that you had were"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,000",
+				"to": "00:13:51,000"
+			},
+			"offsets": {
+				"from": 829000,
+				"to": 831000
+			},
+			"text": " primarily face-to-face."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,000",
+				"to": "00:13:53,000"
+			},
+			"offsets": {
+				"from": 831000,
+				"to": 833000
+			},
+			"text": " Fast forward to today."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,000",
+				"to": "00:13:55,000"
+			},
+			"offsets": {
+				"from": 833000,
+				"to": 835000
+			},
+			"text": " In 2007,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,000",
+				"to": "00:13:57,000"
+			},
+			"offsets": {
+				"from": 835000,
+				"to": 837000
+			},
+			"text": " July 29,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,000",
+				"to": "00:13:59,000"
+			},
+			"offsets": {
+				"from": 837000,
+				"to": 839000
+			},
+			"text": " 2007, the iPhone was released."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,000",
+				"to": "00:14:01,000"
+			},
+			"offsets": {
+				"from": 839000,
+				"to": 841000
+			},
+			"text": " It promised"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,000",
+				"to": "00:14:03,000"
+			},
+			"offsets": {
+				"from": 841000,
+				"to": 843000
+			},
+			"text": " closer relationships, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,000",
+				"to": "00:14:05,000"
+			},
+			"offsets": {
+				"from": 843000,
+				"to": 845000
+			},
+			"text": " You have FaceTime. My sister lived"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,000",
+				"to": "00:14:07,000"
+			},
+			"offsets": {
+				"from": 845000,
+				"to": 847000
+			},
+			"text": " in Malaysia for two years, and I could literally"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,000",
+				"to": "00:14:09,000"
+			},
+			"offsets": {
+				"from": 847000,
+				"to": 849000
+			},
+			"text": " talk to her face-to-face from the other"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,000",
+				"to": "00:14:11,000"
+			},
+			"offsets": {
+				"from": 849000,
+				"to": 851000
+			},
+			"text": " side of the world. You can call someone."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,000",
+				"to": "00:14:13,000"
+			},
+			"offsets": {
+				"from": 851000,
+				"to": 853000
+			},
+			"text": " You can text someone."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,000",
+				"to": "00:14:15,000"
+			},
+			"offsets": {
+				"from": 853000,
+				"to": 855000
+			},
+			"text": " You don't have somebody's number? That's okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,000",
+				"to": "00:14:17,000"
+			},
+			"offsets": {
+				"from": 855000,
+				"to": 857000
+			},
+			"text": " Look them up on social media"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,000",
+				"to": "00:14:19,000"
+			},
+			"offsets": {
+				"from": 857000,
+				"to": 859000
+			},
+			"text": " and you can communicate with them. The"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,000",
+				"to": "00:14:21,000"
+			},
+			"offsets": {
+				"from": 859000,
+				"to": 861000
+			},
+			"text": " smartphone promised"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,000",
+				"to": "00:14:23,000"
+			},
+			"offsets": {
+				"from": 861000,
+				"to": 863000
+			},
+			"text": " more of what God designed us for."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,000",
+				"to": "00:14:25,000"
+			},
+			"offsets": {
+				"from": 863000,
+				"to": 865000
+			},
+			"text": " More connection, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,000",
+				"to": "00:14:27,000"
+			},
+			"offsets": {
+				"from": 865000,
+				"to": 867000
+			},
+			"text": " So why do we"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,000",
+				"to": "00:14:29,000"
+			},
+			"offsets": {
+				"from": 867000,
+				"to": 869000
+			},
+			"text": " feel less"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,000",
+				"to": "00:14:31,000"
+			},
+			"offsets": {
+				"from": 869000,
+				"to": 871000
+			},
+			"text": " connected than ever before?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,000",
+				"to": "00:14:33,000"
+			},
+			"offsets": {
+				"from": 871000,
+				"to": 873000
+			},
+			"text": " Not only that, but it also"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,000",
+				"to": "00:14:35,000"
+			},
+			"offsets": {
+				"from": 873000,
+				"to": 875000
+			},
+			"text": " gives us so many advancements."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,000",
+				"to": "00:14:37,000"
+			},
+			"offsets": {
+				"from": 875000,
+				"to": 877000
+			},
+			"text": " I can turn on my"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,000",
+				"to": "00:14:39,000"
+			},
+			"offsets": {
+				"from": 877000,
+				"to": 879000
+			},
+			"text": " appliances. I can't. I don't have"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,000",
+				"to": "00:14:41,000"
+			},
+			"offsets": {
+				"from": 879000,
+				"to": 881000
+			},
+			"text": " that nice of an appliance. But some people can turn on"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,000",
+				"to": "00:14:43,000"
+			},
+			"offsets": {
+				"from": 881000,
+				"to": 883000
+			},
+			"text": " their appliances at home"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,000",
+				"to": "00:14:45,000"
+			},
+			"offsets": {
+				"from": 883000,
+				"to": 885000
+			},
+			"text": " from their phone at work. You can"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:45,000",
+				"to": "00:14:47,000"
+			},
+			"offsets": {
+				"from": 885000,
+				"to": 887000
+			},
+			"text": " order pizza. You can book a flight."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,000",
+				"to": "00:14:49,000"
+			},
+			"offsets": {
+				"from": 887000,
+				"to": 889000
+			},
+			"text": " You can do all these things just like"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,000",
+				"to": "00:14:51,000"
+			},
+			"offsets": {
+				"from": 889000,
+				"to": 891000
+			},
+			"text": " that. But yet"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,000",
+				"to": "00:14:53,000"
+			},
+			"offsets": {
+				"from": 891000,
+				"to": 893000
+			},
+			"text": " somehow we feel like we have less time."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,000",
+				"to": "00:14:55,000"
+			},
+			"offsets": {
+				"from": 893000,
+				"to": 895000
+			},
+			"text": " We feel more rushed now"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,000",
+				"to": "00:14:57,000"
+			},
+			"offsets": {
+				"from": 895000,
+				"to": 897000
+			},
+			"text": " even with all the wonderful things"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,000",
+				"to": "00:14:59,000"
+			},
+			"offsets": {
+				"from": 897000,
+				"to": 899000
+			},
+			"text": " that these can do."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,000",
+				"to": "00:15:01,000"
+			},
+			"offsets": {
+				"from": 899000,
+				"to": 901000
+			},
+			"text": " What is really going"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,000",
+				"to": "00:15:03,000"
+			},
+			"offsets": {
+				"from": 901000,
+				"to": 903000
+			},
+			"text": " on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,000",
+				"to": "00:15:05,000"
+			},
+			"offsets": {
+				"from": 903000,
+				"to": 905000
+			},
+			"text": " Okay, so many of you have heard of the meta"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:05,000",
+				"to": "00:15:07,000"
+			},
+			"offsets": {
+				"from": 905000,
+				"to": 907000
+			},
+			"text": " platforms. So these are"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,000",
+				"to": "00:15:09,000"
+			},
+			"offsets": {
+				"from": 907000,
+				"to": 909000
+			},
+			"text": " the platforms"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:09,000",
+				"to": "00:15:11,000"
+			},
+			"offsets": {
+				"from": 909000,
+				"to": 911000
+			},
+			"text": " that design Facebook, Instagram,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,000",
+				"to": "00:15:13,000"
+			},
+			"offsets": {
+				"from": 911000,
+				"to": 913000
+			},
+			"text": " and many other apps"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:13,000",
+				"to": "00:15:15,000"
+			},
+			"offsets": {
+				"from": 913000,
+				"to": 915000
+			},
+			"text": " on our phone. And recently"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,000",
+				"to": "00:15:17,000"
+			},
+			"offsets": {
+				"from": 915000,
+				"to": 917000
+			},
+			"text": " they just lost"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,000",
+				"to": "00:15:19,000"
+			},
+			"offsets": {
+				"from": 917000,
+				"to": 919000
+			},
+			"text": " two really big court cases."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:19,000",
+				"to": "00:15:21,000"
+			},
+			"offsets": {
+				"from": 919000,
+				"to": 921000
+			},
+			"text": " One in California"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,000",
+				"to": "00:15:23,000"
+			},
+			"offsets": {
+				"from": 921000,
+				"to": 923000
+			},
+			"text": " and one in New Mexico."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,000",
+				"to": "00:15:25,000"
+			},
+			"offsets": {
+				"from": 923000,
+				"to": 925000
+			},
+			"text": " The courts argued that the"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,000",
+				"to": "00:15:27,000"
+			},
+			"offsets": {
+				"from": 925000,
+				"to": 927000
+			},
+			"text": " companies were knowingly designing"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,000",
+				"to": "00:15:29,000"
+			},
+			"offsets": {
+				"from": 927000,
+				"to": 929000
+			},
+			"text": " addictive systems to build"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,000",
+				"to": "00:15:31,000"
+			},
+			"offsets": {
+				"from": 929000,
+				"to": 931000
+			},
+			"text": " your attention, to keep your attention"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,000",
+				"to": "00:15:33,000"
+			},
+			"offsets": {
+				"from": 931000,
+				"to": 933000
+			},
+			"text": " for as long as possible, while knowing"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,000",
+				"to": "00:15:35,000"
+			},
+			"offsets": {
+				"from": 933000,
+				"to": 935000
+			},
+			"text": " that this was bad for your mental health."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,000",
+				"to": "00:15:37,000"
+			},
+			"offsets": {
+				"from": 935000,
+				"to": 937000
+			},
+			"text": " So these meta systems that"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,000",
+				"to": "00:15:39,000"
+			},
+			"offsets": {
+				"from": 937000,
+				"to": 939000
+			},
+			"text": " designed all of these things"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,000",
+				"to": "00:15:41,000"
+			},
+			"offsets": {
+				"from": 939000,
+				"to": 941000
+			},
+			"text": " lost court cases"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,000",
+				"to": "00:15:43,000"
+			},
+			"offsets": {
+				"from": 941000,
+				"to": 943000
+			},
+			"text": " because they were creating"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,000",
+				"to": "00:15:45,000"
+			},
+			"offsets": {
+				"from": 943000,
+				"to": 945000
+			},
+			"text": " systems to keep us addicted."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,000",
+				"to": "00:15:47,000"
+			},
+			"offsets": {
+				"from": 945000,
+				"to": 947000
+			},
+			"text": " So here's what's going on. This is"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,000",
+				"to": "00:15:49,000"
+			},
+			"offsets": {
+				"from": 947000,
+				"to": 949000
+			},
+			"text": " the behind the curtain thing where you can see"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:49,000",
+				"to": "00:15:51,000"
+			},
+			"offsets": {
+				"from": 949000,
+				"to": 951000
+			},
+			"text": " what is happening to you on"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,000",
+				"to": "00:15:53,000"
+			},
+			"offsets": {
+				"from": 951000,
+				"to": 953000
+			},
+			"text": " your devices that is keeping you so connected."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,000",
+				"to": "00:15:55,000"
+			},
+			"offsets": {
+				"from": 953000,
+				"to": 955000
+			},
+			"text": " So the first thing that they"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,000",
+				"to": "00:15:57,000"
+			},
+			"offsets": {
+				"from": 955000,
+				"to": 957000
+			},
+			"text": " do is they create"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:57,000",
+				"to": "00:15:59,000"
+			},
+			"offsets": {
+				"from": 957000,
+				"to": 959000
+			},
+			"text": " a thing called a reward"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,000",
+				"to": "00:16:01,000"
+			},
+			"offsets": {
+				"from": 959000,
+				"to": 961000
+			},
+			"text": " loop, or a dopamine cycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,000",
+				"to": "00:16:03,000"
+			},
+			"offsets": {
+				"from": 961000,
+				"to": 963000
+			},
+			"text": " Here's how it works. You guys"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,000",
+				"to": "00:16:05,000"
+			},
+			"offsets": {
+				"from": 963000,
+				"to": 965000
+			},
+			"text": " will all know this because we feel it."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,000",
+				"to": "00:16:07,000"
+			},
+			"offsets": {
+				"from": 965000,
+				"to": 967000
+			},
+			"text": " Every time you get a like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,000",
+				"to": "00:16:09,000"
+			},
+			"offsets": {
+				"from": 967000,
+				"to": 969000
+			},
+			"text": " or you receive a comment, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,000",
+				"to": "00:16:11,000"
+			},
+			"offsets": {
+				"from": 969000,
+				"to": 971000
+			},
+			"text": " somebody adds you or comments"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,000",
+				"to": "00:16:13,000"
+			},
+			"offsets": {
+				"from": 971000,
+				"to": 973000
+			},
+			"text": " about you on Facebook, you get"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:13,000",
+				"to": "00:16:15,000"
+			},
+			"offsets": {
+				"from": 973000,
+				"to": 975000
+			},
+			"text": " a small release"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,000",
+				"to": "00:16:17,000"
+			},
+			"offsets": {
+				"from": 975000,
+				"to": 977000
+			},
+			"text": " of dopamine. That is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,000",
+				"to": "00:16:19,000"
+			},
+			"offsets": {
+				"from": 977000,
+				"to": 979000
+			},
+			"text": " reward chemical that makes you feel"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:19,000",
+				"to": "00:16:21,000"
+			},
+			"offsets": {
+				"from": 979000,
+				"to": 981000
+			},
+			"text": " happy or joy. And so"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,000",
+				"to": "00:16:23,000"
+			},
+			"offsets": {
+				"from": 981000,
+				"to": 983000
+			},
+			"text": " once that happens, obviously"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:23,000",
+				"to": "00:16:25,000"
+			},
+			"offsets": {
+				"from": 983000,
+				"to": 985000
+			},
+			"text": " you want more of"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,000",
+				"to": "00:16:27,000"
+			},
+			"offsets": {
+				"from": 985000,
+				"to": 987000
+			},
+			"text": " that dopamine release, right? So you"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,000",
+				"to": "00:16:29,000"
+			},
+			"offsets": {
+				"from": 987000,
+				"to": 989000
+			},
+			"text": " repeat the same behavior. You go back"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,000",
+				"to": "00:16:31,000"
+			},
+			"offsets": {
+				"from": 989000,
+				"to": 991000
+			},
+			"text": " on your phone, you look for likes, you look for"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,000",
+				"to": "00:16:33,000"
+			},
+			"offsets": {
+				"from": 991000,
+				"to": 993000
+			},
+			"text": " comments, you look for that video that"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,000",
+				"to": "00:16:35,000"
+			},
+			"offsets": {
+				"from": 993000,
+				"to": 995000
+			},
+			"text": " made you really happy, or validated"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,000",
+				"to": "00:16:37,000"
+			},
+			"offsets": {
+				"from": 995000,
+				"to": 997000
+			},
+			"text": " whatever your thing is"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,000",
+				"to": "00:16:39,000"
+			},
+			"offsets": {
+				"from": 997000,
+				"to": 999000
+			},
+			"text": " that you're hung up on."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:39,000",
+				"to": "00:16:41,000"
+			},
+			"offsets": {
+				"from": 999000,
+				"to": 1001000
+			},
+			"text": " And the key is"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,000",
+				"to": "00:16:43,000"
+			},
+			"offsets": {
+				"from": 1001000,
+				"to": 1003000
+			},
+			"text": " unpredictability. So"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:43,000",
+				"to": "00:16:45,000"
+			},
+			"offsets": {
+				"from": 1003000,
+				"to": 1005000
+			},
+			"text": " sometimes you go on your phone, and you"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,000",
+				"to": "00:16:47,000"
+			},
+			"offsets": {
+				"from": 1005000,
+				"to": 1007000
+			},
+			"text": " see incredibly boring videos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,000",
+				"to": "00:16:49,000"
+			},
+			"offsets": {
+				"from": 1007000,
+				"to": 1009000
+			},
+			"text": " and you don't really have a desire to go back"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,000",
+				"to": "00:16:51,000"
+			},
+			"offsets": {
+				"from": 1009000,
+				"to": 1011000
+			},
+			"text": " on it. But just when you're about to get off,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,000",
+				"to": "00:16:53,000"
+			},
+			"offsets": {
+				"from": 1011000,
+				"to": 1013000
+			},
+			"text": " you see the funniest cat video you've ever"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,000",
+				"to": "00:16:55,000"
+			},
+			"offsets": {
+				"from": 1013000,
+				"to": 1015000
+			},
+			"text": " seen, and it keeps you"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,000",
+				"to": "00:16:57,000"
+			},
+			"offsets": {
+				"from": 1015000,
+				"to": 1017000
+			},
+			"text": " on. You get that little dopamine hit, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,000",
+				"to": "00:16:59,000"
+			},
+			"offsets": {
+				"from": 1017000,
+				"to": 1019000
+			},
+			"text": " someone comments about you, or someone likes your video,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,000",
+				"to": "00:17:01,000"
+			},
+			"offsets": {
+				"from": 1019000,
+				"to": 1021000
+			},
+			"text": " or you have so many views, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,000",
+				"to": "00:17:03,000"
+			},
+			"offsets": {
+				"from": 1021000,
+				"to": 1023000
+			},
+			"text": " it keeps you on. You don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,000",
+				"to": "00:17:05,000"
+			},
+			"offsets": {
+				"from": 1023000,
+				"to": 1025000
+			},
+			"text": " know if the next time you"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:05,000",
+				"to": "00:17:07,000"
+			},
+			"offsets": {
+				"from": 1025000,
+				"to": 1027000
+			},
+			"text": " get on, you might get that reward."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,000",
+				"to": "00:17:09,000"
+			},
+			"offsets": {
+				"from": 1027000,
+				"to": 1029000
+			},
+			"text": " So you just"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,000",
+				"to": "00:17:11,000"
+			},
+			"offsets": {
+				"from": 1029000,
+				"to": 1031000
+			},
+			"text": " keep looking. You"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,000",
+				"to": "00:17:13,000"
+			},
+			"offsets": {
+				"from": 1031000,
+				"to": 1033000
+			},
+			"text": " check again, because maybe next time"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,000",
+				"to": "00:17:15,000"
+			},
+			"offsets": {
+				"from": 1033000,
+				"to": 1035000
+			},
+			"text": " it will feel good. So that's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,000",
+				"to": "00:17:17,000"
+			},
+			"offsets": {
+				"from": 1035000,
+				"to": 1037000
+			},
+			"text": " first thing, the reward loop. The second thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,000",
+				"to": "00:17:19,000"
+			},
+			"offsets": {
+				"from": 1037000,
+				"to": 1039000
+			},
+			"text": " is the infinite scroll."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:19,000",
+				"to": "00:17:21,000"
+			},
+			"offsets": {
+				"from": 1039000,
+				"to": 1041000
+			},
+			"text": " There is no stopping point."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,000",
+				"to": "00:17:23,000"
+			},
+			"offsets": {
+				"from": 1041000,
+				"to": 1043000
+			},
+			"text": " When we used to go to the movies,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,000",
+				"to": "00:17:25,000"
+			},
+			"offsets": {
+				"from": 1043000,
+				"to": 1045000
+			},
+			"text": " when you go to the movies, or you're reading a book,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,000",
+				"to": "00:17:27,000"
+			},
+			"offsets": {
+				"from": 1045000,
+				"to": 1047000
+			},
+			"text": " there's an end, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,000",
+				"to": "00:17:29,000"
+			},
+			"offsets": {
+				"from": 1047000,
+				"to": 1049000
+			},
+			"text": " Sometimes it's like you"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,000",
+				"to": "00:17:31,000"
+			},
+			"offsets": {
+				"from": 1049000,
+				"to": 1051000
+			},
+			"text": " feel sad that there's an end. I've read really good"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,000",
+				"to": "00:17:33,000"
+			},
+			"offsets": {
+				"from": 1051000,
+				"to": 1053000
+			},
+			"text": " books, and you're like depressed that the book's"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,000",
+				"to": "00:17:35,000"
+			},
+			"offsets": {
+				"from": 1053000,
+				"to": 1055000
+			},
+			"text": " over, and you can't hang"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,000",
+				"to": "00:17:37,000"
+			},
+			"offsets": {
+				"from": 1055000,
+				"to": 1057000
+			},
+			"text": " out with the characters anymore, but there is"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,000",
+				"to": "00:17:39,000"
+			},
+			"offsets": {
+				"from": 1057000,
+				"to": 1059000
+			},
+			"text": " an ending point. You get up from the dark"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,000",
+				"to": "00:17:41,000"
+			},
+			"offsets": {
+				"from": 1059000,
+				"to": 1061000
+			},
+			"text": " movie theater, you walk outside,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,000",
+				"to": "00:17:43,000"
+			},
+			"offsets": {
+				"from": 1061000,
+				"to": 1063000
+			},
+			"text": " it's brighter than you've ever seen before,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,000",
+				"to": "00:17:45,000"
+			},
+			"offsets": {
+				"from": 1063000,
+				"to": 1065000
+			},
+			"text": " and you have to let that movie go"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:45,000",
+				"to": "00:17:47,000"
+			},
+			"offsets": {
+				"from": 1065000,
+				"to": 1067000
+			},
+			"text": " and go back into reality. But for"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,000",
+				"to": "00:17:49,000"
+			},
+			"offsets": {
+				"from": 1067000,
+				"to": 1069000
+			},
+			"text": " your bones, there is"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,000",
+				"to": "00:17:51,000"
+			},
+			"offsets": {
+				"from": 1069000,
+				"to": 1071000
+			},
+			"text": " no real stopping"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,000",
+				"to": "00:17:53,000"
+			},
+			"offsets": {
+				"from": 1071000,
+				"to": 1073000
+			},
+			"text": " point. You"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,000",
+				"to": "00:17:55,000"
+			},
+			"offsets": {
+				"from": 1073000,
+				"to": 1075000
+			},
+			"text": " just keep scrolling."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,000",
+				"to": "00:17:57,000"
+			},
+			"offsets": {
+				"from": 1075000,
+				"to": 1077000
+			},
+			"text": " Has anybody seen Finding Dory?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,000",
+				"to": "00:17:59,000"
+			},
+			"offsets": {
+				"from": 1077000,
+				"to": 1079000
+			},
+			"text": " Finding Nemo? Just keep scrolling,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,000",
+				"to": "00:18:01,000"
+			},
+			"offsets": {
+				"from": 1079000,
+				"to": 1081000
+			},
+			"text": " scrolling, scrolling, just keep..."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,000",
+				"to": "00:18:03,000"
+			},
+			"offsets": {
+				"from": 1081000,
+				"to": 1083000
+			},
+			"text": " You just keep scrolling,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,000",
+				"to": "00:18:05,000"
+			},
+			"offsets": {
+				"from": 1083000,
+				"to": 1085000
+			},
+			"text": " because you never know if that next thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,000",
+				"to": "00:18:07,000"
+			},
+			"offsets": {
+				"from": 1085000,
+				"to": 1087000
+			},
+			"text": " is going to be the thing that gives you that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,000",
+				"to": "00:18:09,000"
+			},
+			"offsets": {
+				"from": 1087000,
+				"to": 1089000
+			},
+			"text": " dopamine hit, and you don't have that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,000",
+				"to": "00:18:11,000"
+			},
+			"offsets": {
+				"from": 1089000,
+				"to": 1091000
+			},
+			"text": " done feeling."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,000",
+				"to": "00:18:13,000"
+			},
+			"offsets": {
+				"from": 1091000,
+				"to": 1093000
+			},
+			"text": " So you just keep"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,000",
+				"to": "00:18:15,000"
+			},
+			"offsets": {
+				"from": 1093000,
+				"to": 1095000
+			},
+			"text": " scrolling. Alright, so that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,000",
+				"to": "00:18:17,000"
+			},
+			"offsets": {
+				"from": 1095000,
+				"to": 1097000
+			},
+			"text": " one, reward loop. Two, infinite scroll."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,000",
+				"to": "00:18:19,000"
+			},
+			"offsets": {
+				"from": 1097000,
+				"to": 1099000
+			},
+			"text": " Second thing, personalized algorithms."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,000",
+				"to": "00:18:21,000"
+			},
+			"offsets": {
+				"from": 1099000,
+				"to": 1101000
+			},
+			"text": " These platforms, we"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,000",
+				"to": "00:18:23,000"
+			},
+			"offsets": {
+				"from": 1101000,
+				"to": 1103000
+			},
+			"text": " all know this, track"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,000",
+				"to": "00:18:25,000"
+			},
+			"offsets": {
+				"from": 1103000,
+				"to": 1105000
+			},
+			"text": " everything we do"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,000",
+				"to": "00:18:27,000"
+			},
+			"offsets": {
+				"from": 1105000,
+				"to": 1107000
+			},
+			"text": " all the time. They track"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,000",
+				"to": "00:18:29,000"
+			},
+			"offsets": {
+				"from": 1107000,
+				"to": 1109000
+			},
+			"text": " what you watch, what you"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,000",
+				"to": "00:18:31,000"
+			},
+			"offsets": {
+				"from": 1109000,
+				"to": 1111000
+			},
+			"text": " pause at, what you"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,000",
+				"to": "00:18:33,000"
+			},
+			"offsets": {
+				"from": 1111000,
+				"to": 1113000
+			},
+			"text": " skip. They're tracking so"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,000",
+				"to": "00:18:35,000"
+			},
+			"offsets": {
+				"from": 1113000,
+				"to": 1115000
+			},
+			"text": " that they can know you"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,000",
+				"to": "00:18:37,000"
+			},
+			"offsets": {
+				"from": 1115000,
+				"to": 1117000
+			},
+			"text": " sometimes better than we know ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,000",
+				"to": "00:18:39,000"
+			},
+			"offsets": {
+				"from": 1117000,
+				"to": 1119000
+			},
+			"text": " They play on our fears and anxieties"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,000",
+				"to": "00:18:41,000"
+			},
+			"offsets": {
+				"from": 1119000,
+				"to": 1121000
+			},
+			"text": " so that we stay on something"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,000",
+				"to": "00:18:43,000"
+			},
+			"offsets": {
+				"from": 1121000,
+				"to": 1123000
+			},
+			"text": " so we don't have to miss something that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,000",
+				"to": "00:18:45,000"
+			},
+			"offsets": {
+				"from": 1123000,
+				"to": 1125000
+			},
+			"text": " might be the most important thing ever, and if we"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,000",
+				"to": "00:18:47,000"
+			},
+			"offsets": {
+				"from": 1125000,
+				"to": 1127000
+			},
+			"text": " just don't look that day"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,000",
+				"to": "00:18:49,000"
+			},
+			"offsets": {
+				"from": 1127000,
+				"to": 1129000
+			},
+			"text": " then we're going to be missing"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,000",
+				"to": "00:18:51,000"
+			},
+			"offsets": {
+				"from": 1129000,
+				"to": 1131000
+			},
+			"text": " out and our lives will be in danger."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:51,000",
+				"to": "00:18:53,000"
+			},
+			"offsets": {
+				"from": 1131000,
+				"to": 1133000
+			},
+			"text": " It's not random."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:53,000",
+				"to": "00:18:55,000"
+			},
+			"offsets": {
+				"from": 1133000,
+				"to": 1135000
+			},
+			"text": " The things you see are not random."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,000",
+				"to": "00:18:57,000"
+			},
+			"offsets": {
+				"from": 1135000,
+				"to": 1137000
+			},
+			"text": " They are tailored to you"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,000",
+				"to": "00:18:59,000"
+			},
+			"offsets": {
+				"from": 1137000,
+				"to": 1139000
+			},
+			"text": " in order to control"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,000",
+				"to": "00:19:01,000"
+			},
+			"offsets": {
+				"from": 1139000,
+				"to": 1141000
+			},
+			"text": " you. They're not there"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:01,000",
+				"to": "00:19:03,000"
+			},
+			"offsets": {
+				"from": 1141000,
+				"to": 1143000
+			},
+			"text": " so that you get the best. They're there"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,000",
+				"to": "00:19:05,000"
+			},
+			"offsets": {
+				"from": 1143000,
+				"to": 1145000
+			},
+			"text": " so that they can keep you exactly"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:05,000",
+				"to": "00:19:07,000"
+			},
+			"offsets": {
+				"from": 1145000,
+				"to": 1147000
+			},
+			"text": " where they have us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,000",
+				"to": "00:19:09,000"
+			},
+			"offsets": {
+				"from": 1147000,
+				"to": 1149000
+			},
+			"text": " and they've done a very good job of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,000",
+				"to": "00:19:11,000"
+			},
+			"offsets": {
+				"from": 1149000,
+				"to": 1151000
+			},
+			"text": " The fourth thing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,000",
+				"to": "00:19:13,000"
+			},
+			"offsets": {
+				"from": 1151000,
+				"to": 1153000
+			},
+			"text": " social validation and identity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,000",
+				"to": "00:19:15,000"
+			},
+			"offsets": {
+				"from": 1153000,
+				"to": 1155000
+			},
+			"text": " they know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:15,000",
+				"to": "00:19:17,000"
+			},
+			"offsets": {
+				"from": 1155000,
+				"to": 1157000
+			},
+			"text": " they might not know that we were created by"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,000",
+				"to": "00:19:19,000"
+			},
+			"offsets": {
+				"from": 1157000,
+				"to": 1159000
+			},
+			"text": " our Creator for this, but they know that"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,000",
+				"to": "00:19:21,000"
+			},
+			"offsets": {
+				"from": 1159000,
+				"to": 1161000
+			},
+			"text": " social connection and social identity"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,000",
+				"to": "00:19:23,000"
+			},
+			"offsets": {
+				"from": 1161000,
+				"to": 1163000
+			},
+			"text": " is important to us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,000",
+				"to": "00:19:25,000"
+			},
+			"offsets": {
+				"from": 1163000,
+				"to": 1165000
+			},
+			"text": " and so they play on that."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,000",
+				"to": "00:19:27,000"
+			},
+			"offsets": {
+				"from": 1165000,
+				"to": 1167000
+			},
+			"text": " We now have a measurable"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,000",
+				"to": "00:19:29,000"
+			},
+			"offsets": {
+				"from": 1167000,
+				"to": 1169000
+			},
+			"text": " score, if you think about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,000",
+				"to": "00:19:31,000"
+			},
+			"offsets": {
+				"from": 1169000,
+				"to": 1171000
+			},
+			"text": " How many people view your videos?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,000",
+				"to": "00:19:33,000"
+			},
+			"offsets": {
+				"from": 1171000,
+				"to": 1173000
+			},
+			"text": " How many likes do you get?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,000",
+				"to": "00:19:35,000"
+			},
+			"offsets": {
+				"from": 1173000,
+				"to": 1175000
+			},
+			"text": " How many comments do you get?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,000",
+				"to": "00:19:37,000"
+			},
+			"offsets": {
+				"from": 1175000,
+				"to": 1177000
+			},
+			"text": " We can base our"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,000",
+				"to": "00:19:39,000"
+			},
+			"offsets": {
+				"from": 1177000,
+				"to": 1179000
+			},
+			"text": " value based on what the phone tells us"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:39,000",
+				"to": "00:19:41,000"
+			},
+			"offsets": {
+				"from": 1179000,
+				"to": 1181000
+			},
+			"text": " we are. Do we have the products"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:41,000",
+				"to": "00:19:43,000"
+			},
+			"offsets": {
+				"from": 1181000,
+				"to": 1183000
+			},
+			"text": " that we shop for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,000",
+				"to": "00:19:45,000"
+			},
+			"offsets": {
+				"from": 1183000,
+				"to": 1185000
+			},
+			"text": " Do we look like this person?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,000",
+				"to": "00:19:47,000"
+			},
+			"offsets": {
+				"from": 1185000,
+				"to": 1187000
+			},
+			"text": " Do we wear this right outfit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,000",
+				"to": "00:19:49,000"
+			},
+			"offsets": {
+				"from": 1187000,
+				"to": 1189000
+			},
+			"text": " And so again,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,000",
+				"to": "00:19:51,000"
+			},
+			"offsets": {
+				"from": 1189000,
+				"to": 1191000
+			},
+			"text": " they're keeping us connected"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,000",
+				"to": "00:19:53,000"
+			},
+			"offsets": {
+				"from": 1191000,
+				"to": 1193000
+			},
+			"text": " with our social validation on this."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,000",
+				"to": "00:19:55,000"
+			},
+			"offsets": {
+				"from": 1193000,
+				"to": 1195000
+			},
+			"text": " And then finally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,000",
+				"to": "00:19:57,000"
+			},
+			"offsets": {
+				"from": 1195000,
+				"to": 1197000
+			},
+			"text": " when you get that break,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,000",
+				"to": "00:19:59,000"
+			},
+			"offsets": {
+				"from": 1197000,
+				"to": 1199000
+			},
+			"text": " when you finally are sick of looking"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,000",
+				"to": "00:20:01,000"
+			},
+			"offsets": {
+				"from": 1199000,
+				"to": 1201000
+			},
+			"text": " at your phone, and you finally get off, and you"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,000",
+				"to": "00:20:03,000"
+			},
+			"offsets": {
+				"from": 1201000,
+				"to": 1203000
+			},
+			"text": " put it away, you get that"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,000",
+				"to": "00:20:05,000"
+			},
+			"offsets": {
+				"from": 1203000,
+				"to": 1205000
+			},
+			"text": " wonderful notification sound."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,000",
+				"to": "00:20:07,000"
+			},
+			"offsets": {
+				"from": 1205000,
+				"to": 1207000
+			},
+			"text": " And that"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,000",
+				"to": "00:20:09,000"
+			},
+			"offsets": {
+				"from": 1207000,
+				"to": 1209000
+			},
+			"text": " is number five. It pulls"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,000",
+				"to": "00:20:11,000"
+			},
+			"offsets": {
+				"from": 1209000,
+				"to": 1211000
+			},
+			"text": " you right back in."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:11,000",
+				"to": "00:20:13,000"
+			},
+			"offsets": {
+				"from": 1211000,
+				"to": 1213000
+			},
+			"text": " Just when you get sick of it, you hear bloop."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,000",
+				"to": "00:20:15,000"
+			},
+			"offsets": {
+				"from": 1213000,
+				"to": 1215000
+			},
+			"text": " Get your phone out, and you're right back"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,000",
+				"to": "00:20:17,000"
+			},
+			"offsets": {
+				"from": 1215000,
+				"to": 1217000
+			},
+			"text": " where you started. Well, what if you get a dopamine"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:17,000",
+				"to": "00:20:19,000"
+			},
+			"offsets": {
+				"from": 1217000,
+				"to": 1219000
+			},
+			"text": " hit? What if somebody comments?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,000",
+				"to": "00:20:21,000"
+			},
+			"offsets": {
+				"from": 1219000,
+				"to": 1221000
+			},
+			"text": " What if someone likes it? And you start scrolling."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,000",
+				"to": "00:20:23,000"
+			},
+			"offsets": {
+				"from": 1221000,
+				"to": 1223000
+			},
+			"text": " Again, it is no wonder that we're"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,000",
+				"to": "00:20:25,000"
+			},
+			"offsets": {
+				"from": 1223000,
+				"to": 1225000
+			},
+			"text": " spending five to six hours"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,000",
+				"to": "00:20:27,000"
+			},
+			"offsets": {
+				"from": 1225000,
+				"to": 1227000
+			},
+			"text": " on our phone with this"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:27,000",
+				"to": "00:20:29,000"
+			},
+			"offsets": {
+				"from": 1227000,
+				"to": 1229000
+			},
+			"text": " pulling us in."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,000",
+				"to": "00:20:31,000"
+			},
+			"offsets": {
+				"from": 1229000,
+				"to": 1231000
+			},
+			"text": " And then finally, it's a habit."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:31,000",
+				"to": "00:20:33,000"
+			},
+			"offsets": {
+				"from": 1231000,
+				"to": 1233000
+			},
+			"text": " It becomes habit-forming. You get"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,000",
+				"to": "00:20:35,000"
+			},
+			"offsets": {
+				"from": 1233000,
+				"to": 1235000
+			},
+			"text": " to the point that you're not even thinking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,000",
+				"to": "00:20:37,000"
+			},
+			"offsets": {
+				"from": 1235000,
+				"to": 1237000
+			},
+			"text": " and without thinking, you pull"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,000",
+				"to": "00:20:39,000"
+			},
+			"offsets": {
+				"from": 1237000,
+				"to": 1239000
+			},
+			"text": " your phone out and go on Instagram. You don't think"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,000",
+				"to": "00:20:41,000"
+			},
+			"offsets": {
+				"from": 1239000,
+				"to": 1241000
+			},
+			"text": " I'm going to do this. You just"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,000",
+				"to": "00:20:43,000"
+			},
+			"offsets": {
+				"from": 1241000,
+				"to": 1243000
+			},
+			"text": " do it. It's a habit loop."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,000",
+				"to": "00:20:45,000"
+			},
+			"offsets": {
+				"from": 1243000,
+				"to": 1245000
+			},
+			"text": " So what happens is, you get a trigger."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,000",
+				"to": "00:20:47,000"
+			},
+			"offsets": {
+				"from": 1245000,
+				"to": 1247000
+			},
+			"text": " You start like internally twitching"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,000",
+				"to": "00:20:49,000"
+			},
+			"offsets": {
+				"from": 1247000,
+				"to": 1249000
+			},
+			"text": " like I need to look at my phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,000",
+				"to": "00:20:51,000"
+			},
+			"offsets": {
+				"from": 1249000,
+				"to": 1251000
+			},
+			"text": " And then, action. Grab your phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,000",
+				"to": "00:20:53,000"
+			},
+			"offsets": {
+				"from": 1251000,
+				"to": 1253000
+			},
+			"text": " Reward. Your phone's"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,000",
+				"to": "00:20:55,000"
+			},
+			"offsets": {
+				"from": 1253000,
+				"to": 1255000
+			},
+			"text": " algorithm knows exactly what you want"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,000",
+				"to": "00:20:57,000"
+			},
+			"offsets": {
+				"from": 1255000,
+				"to": 1257000
+			},
+			"text": " to see, and it keeps you on."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,000",
+				"to": "00:20:59,000"
+			},
+			"offsets": {
+				"from": 1257000,
+				"to": 1259000
+			},
+			"text": " So this is the window behind"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,000",
+				"to": "00:21:01,000"
+			},
+			"offsets": {
+				"from": 1259000,
+				"to": 1261000
+			},
+			"text": " why we are so addicted"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,000",
+				"to": "00:21:03,000"
+			},
+			"offsets": {
+				"from": 1261000,
+				"to": 1263000
+			},
+			"text": " and what is really going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,000",
+				"to": "00:21:05,000"
+			},
+			"offsets": {
+				"from": 1263000,
+				"to": 1265000
+			},
+			"text": " If you don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,000",
+				"to": "00:21:07,000"
+			},
+			"offsets": {
+				"from": 1265000,
+				"to": 1267000
+			},
+			"text": " believe me, you don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,000",
+				"to": "00:21:09,000"
+			},
+			"offsets": {
+				"from": 1267000,
+				"to": 1269000
+			},
+			"text": " think that this is you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,000",
+				"to": "00:21:11,000"
+			},
+			"offsets": {
+				"from": 1269000,
+				"to": 1271000
+			},
+			"text": " have you ever been at a"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,000",
+				"to": "00:21:13,000"
+			},
+			"offsets": {
+				"from": 1271000,
+				"to": 1273000
+			},
+			"text": " stoplight, and you have 30 seconds"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,000",
+				"to": "00:21:15,000"
+			},
+			"offsets": {
+				"from": 1273000,
+				"to": 1275000
+			},
+			"text": " of downtime, and that"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,000",
+				"to": "00:21:17,000"
+			},
+			"offsets": {
+				"from": 1275000,
+				"to": 1277000
+			},
+			"text": " trigger is getting to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,000",
+				"to": "00:21:19,000"
+			},
+			"offsets": {
+				"from": 1277000,
+				"to": 1279000
+			},
+			"text": " and you're like, \"I'll look at my"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,000",
+				"to": "00:21:21,000"
+			},
+			"offsets": {
+				"from": 1279000,
+				"to": 1281000
+			},
+			"text": " phone real quick.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,000",
+				"to": "00:21:23,000"
+			},
+			"offsets": {
+				"from": 1281000,
+				"to": 1283000
+			},
+			"text": " That's an addiction. Have you ever been"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,000",
+				"to": "00:21:25,000"
+			},
+			"offsets": {
+				"from": 1283000,
+				"to": 1285000
+			},
+			"text": " on vacation, or outside"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,000",
+				"to": "00:21:27,000"
+			},
+			"offsets": {
+				"from": 1285000,
+				"to": 1287000
+			},
+			"text": " with your kids, and you're thinking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,000",
+				"to": "00:21:29,000"
+			},
+			"offsets": {
+				"from": 1287000,
+				"to": 1289000
+			},
+			"text": " I'm going to take this picture, and if I take this"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,000",
+				"to": "00:21:31,000"
+			},
+			"offsets": {
+				"from": 1289000,
+				"to": 1291000
+			},
+			"text": " picture, and I make this really cool comment,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,000",
+				"to": "00:21:33,000"
+			},
+			"offsets": {
+				"from": 1291000,
+				"to": 1293000
+			},
+			"text": " and then I post it, then people"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,000",
+				"to": "00:21:35,000"
+			},
+			"offsets": {
+				"from": 1293000,
+				"to": 1295000
+			},
+			"text": " are going to think A, B, and C."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:35,000",
+				"to": "00:21:37,000"
+			},
+			"offsets": {
+				"from": 1295000,
+				"to": 1297000
+			},
+			"text": " So, rather than being fully"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,000",
+				"to": "00:21:39,000"
+			},
+			"offsets": {
+				"from": 1297000,
+				"to": 1299000
+			},
+			"text": " focused on that event, you're thinking"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:39,000",
+				"to": "00:21:41,000"
+			},
+			"offsets": {
+				"from": 1299000,
+				"to": 1301000
+			},
+			"text": " about how you can post that event"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,000",
+				"to": "00:21:43,000"
+			},
+			"offsets": {
+				"from": 1301000,
+				"to": 1303000
+			},
+			"text": " on your phone. That's an addiction."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,000",
+				"to": "00:21:45,000"
+			},
+			"offsets": {
+				"from": 1303000,
+				"to": 1305000
+			},
+			"text": " That's control that they have over"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:45,000",
+				"to": "00:21:47,000"
+			},
+			"offsets": {
+				"from": 1305000,
+				"to": 1307000
+			},
+			"text": " our lives, and I am right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,000",
+				"to": "00:21:49,000"
+			},
+			"offsets": {
+				"from": 1307000,
+				"to": 1309000
+			},
+			"text": " that's been all of my"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,000",
+				"to": "00:21:51,000"
+			},
+			"offsets": {
+				"from": 1309000,
+				"to": 1311000
+			},
+			"text": " thoughts. I've been there"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,000",
+				"to": "00:21:53,000"
+			},
+			"offsets": {
+				"from": 1311000,
+				"to": 1313000
+			},
+			"text": " every single time."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,000",
+				"to": "00:21:55,000"
+			},
+			"offsets": {
+				"from": 1313000,
+				"to": 1315000
+			},
+			"text": " It is controlling us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,000",
+				"to": "00:21:57,000"
+			},
+			"offsets": {
+				"from": 1315000,
+				"to": 1317000
+			},
+			"text": " and we are playing"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,000",
+				"to": "00:21:59,000"
+			},
+			"offsets": {
+				"from": 1317000,
+				"to": 1319000
+			},
+			"text": " their game. The other thing that happened"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,000",
+				"to": "00:22:01,000"
+			},
+			"offsets": {
+				"from": 1319000,
+				"to": 1321000
+			},
+			"text": " is that dopamine release that you get,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,000",
+				"to": "00:22:03,000"
+			},
+			"offsets": {
+				"from": 1321000,
+				"to": 1323000
+			},
+			"text": " you're not designed to get it that"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,000",
+				"to": "00:22:05,000"
+			},
+			"offsets": {
+				"from": 1323000,
+				"to": 1325000
+			},
+			"text": " frequently. It's supposed to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,000",
+				"to": "00:22:07,000"
+			},
+			"offsets": {
+				"from": 1325000,
+				"to": 1327000
+			},
+			"text": " something that you work hard for, so you practice"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,000",
+				"to": "00:22:09,000"
+			},
+			"offsets": {
+				"from": 1327000,
+				"to": 1329000
+			},
+			"text": " for a sport, and you work really hard"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,000",
+				"to": "00:22:11,000"
+			},
+			"offsets": {
+				"from": 1329000,
+				"to": 1331000
+			},
+			"text": " for kids, and then you win the game."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,000",
+				"to": "00:22:13,000"
+			},
+			"offsets": {
+				"from": 1331000,
+				"to": 1333000
+			},
+			"text": " That's what is supposed to"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,000",
+				"to": "00:22:15,000"
+			},
+			"offsets": {
+				"from": 1333000,
+				"to": 1335000
+			},
+			"text": " give you that little dopamine"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,000",
+				"to": "00:22:17,000"
+			},
+			"offsets": {
+				"from": 1335000,
+				"to": 1337000
+			},
+			"text": " release, but now, because"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,000",
+				"to": "00:22:19,000"
+			},
+			"offsets": {
+				"from": 1337000,
+				"to": 1339000
+			},
+			"text": " it happens so frequently, we"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,000",
+				"to": "00:22:21,000"
+			},
+			"offsets": {
+				"from": 1339000,
+				"to": 1341000
+			},
+			"text": " find ourselves craving constant"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,000",
+				"to": "00:22:23,000"
+			},
+			"offsets": {
+				"from": 1341000,
+				"to": 1343000
+			},
+			"text": " stimulation. You need"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,000",
+				"to": "00:22:25,000"
+			},
+			"offsets": {
+				"from": 1343000,
+				"to": 1345000
+			},
+			"text": " these false rewards"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,000",
+				"to": "00:22:27,000"
+			},
+			"offsets": {
+				"from": 1345000,
+				"to": 1347000
+			},
+			"text": " constantly, and this means"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,000",
+				"to": "00:22:29,000"
+			},
+			"offsets": {
+				"from": 1347000,
+				"to": 1349000
+			},
+			"text": " allowing yourself peaceful,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,000",
+				"to": "00:22:31,000"
+			},
+			"offsets": {
+				"from": 1349000,
+				"to": 1351000
+			},
+			"text": " unstimulated downtime"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,000",
+				"to": "00:22:33,000"
+			},
+			"offsets": {
+				"from": 1351000,
+				"to": 1353000
+			},
+			"text": " becomes almost impossible."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,000",
+				"to": "00:22:35,000"
+			},
+			"offsets": {
+				"from": 1353000,
+				"to": 1355000
+			},
+			"text": " We have to fill it with something. We must"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,000",
+				"to": "00:22:37,000"
+			},
+			"offsets": {
+				"from": 1355000,
+				"to": 1357000
+			},
+			"text": " be entertained."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,000",
+				"to": "00:22:39,000"
+			},
+			"offsets": {
+				"from": 1357000,
+				"to": 1359000
+			},
+			"text": " But what does the Bible say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,000",
+				"to": "00:22:41,000"
+			},
+			"offsets": {
+				"from": 1359000,
+				"to": 1361000
+			},
+			"text": " Jesus says in Matthew"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,000",
+				"to": "00:22:43,000"
+			},
+			"offsets": {
+				"from": 1361000,
+				"to": 1363000
+			},
+			"text": " 11:28-30, \"Come to me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,000",
+				"to": "00:22:45,000"
+			},
+			"offsets": {
+				"from": 1363000,
+				"to": 1365000
+			},
+			"text": " all you who are weary and"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,000",
+				"to": "00:22:47,000"
+			},
+			"offsets": {
+				"from": 1365000,
+				"to": 1367000
+			},
+			"text": " burdened, and I will give"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,000",
+				"to": "00:22:49,000"
+			},
+			"offsets": {
+				"from": 1367000,
+				"to": 1369000
+			},
+			"text": " you rest.\" He"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,000",
+				"to": "00:22:51,000"
+			},
+			"offsets": {
+				"from": 1369000,
+				"to": 1371000
+			},
+			"text": " doesn't say, \"Come to your phone"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,000",
+				"to": "00:22:53,000"
+			},
+			"offsets": {
+				"from": 1371000,
+				"to": 1373000
+			},
+			"text": " and look at the next cat video.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,000",
+				"to": "00:22:55,000"
+			},
+			"offsets": {
+				"from": 1373000,
+				"to": 1375000
+			},
+			"text": " He says, \"Come to me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,000",
+				"to": "00:22:57,000"
+			},
+			"offsets": {
+				"from": 1375000,
+				"to": 1377000
+			},
+			"text": " and I will give you rest.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,000",
+				"to": "00:22:59,000"
+			},
+			"offsets": {
+				"from": 1377000,
+				"to": 1379000
+			},
+			"text": " Psalms 26:10 says, \"Be still"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,000",
+				"to": "00:23:01,000"
+			},
+			"offsets": {
+				"from": 1379000,
+				"to": 1381000
+			},
+			"text": " and know that I"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,000",
+				"to": "00:23:03,000"
+			},
+			"offsets": {
+				"from": 1381000,
+				"to": 1383000
+			},
+			"text": " am God.\" It is so hard"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:03,000",
+				"to": "00:23:05,000"
+			},
+			"offsets": {
+				"from": 1383000,
+				"to": 1385000
+			},
+			"text": " to be still these days."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,000",
+				"to": "00:23:07,000"
+			},
+			"offsets": {
+				"from": 1385000,
+				"to": 1387000
+			},
+			"text": " We are constantly"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,000",
+				"to": "00:23:09,000"
+			},
+			"offsets": {
+				"from": 1387000,
+				"to": 1389000
+			},
+			"text": " focusing on"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,000",
+				"to": "00:23:11,000"
+			},
+			"offsets": {
+				"from": 1389000,
+				"to": 1391000
+			},
+			"text": " something, and it's hard"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,000",
+				"to": "00:23:13,000"
+			},
+			"offsets": {
+				"from": 1391000,
+				"to": 1393000
+			},
+			"text": " for God to give us the rest"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,000",
+				"to": "00:23:15,000"
+			},
+			"offsets": {
+				"from": 1393000,
+				"to": 1395000
+			},
+			"text": " that we really need. In"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,000",
+				"to": "00:23:17,000"
+			},
+			"offsets": {
+				"from": 1395000,
+				"to": 1397000
+			},
+			"text": " Mark 6:31, Jesus is talking"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,000",
+				"to": "00:23:19,000"
+			},
+			"offsets": {
+				"from": 1397000,
+				"to": 1399000
+			},
+			"text": " to his disciples who are exhausted, and they"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,000",
+				"to": "00:23:21,000"
+			},
+			"offsets": {
+				"from": 1399000,
+				"to": 1401000
+			},
+			"text": " haven't eaten, and they've been working, and he says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,000",
+				"to": "00:23:23,000"
+			},
+			"offsets": {
+				"from": 1401000,
+				"to": 1403000
+			},
+			"text": " \"Come with me by yourselves"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,000",
+				"to": "00:23:25,000"
+			},
+			"offsets": {
+				"from": 1403000,
+				"to": 1405000
+			},
+			"text": " to a quiet place and get"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,000",
+				"to": "00:23:27,000"
+			},
+			"offsets": {
+				"from": 1405000,
+				"to": 1407000
+			},
+			"text": " some rest.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,000",
+				"to": "00:23:29,000"
+			},
+			"offsets": {
+				"from": 1407000,
+				"to": 1409000
+			},
+			"text": " Have you tried to go to a quiet"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,000",
+				"to": "00:23:31,000"
+			},
+			"offsets": {
+				"from": 1409000,
+				"to": 1411000
+			},
+			"text": " place recently and just let"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:31,000",
+				"to": "00:23:33,000"
+			},
+			"offsets": {
+				"from": 1411000,
+				"to": 1413000
+			},
+			"text": " your mind rest?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,000",
+				"to": "00:23:35,000"
+			},
+			"offsets": {
+				"from": 1413000,
+				"to": 1415000
+			},
+			"text": " It's hard. You feel that"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,000",
+				"to": "00:23:37,000"
+			},
+			"offsets": {
+				"from": 1415000,
+				"to": 1417000
+			},
+			"text": " desire to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,000",
+				"to": "00:23:39,000"
+			},
+			"offsets": {
+				"from": 1417000,
+				"to": 1419000
+			},
+			"text": " something, to fill it with something, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,000",
+				"to": "00:23:41,000"
+			},
+			"offsets": {
+				"from": 1419000,
+				"to": 1421000
+			},
+			"text": " Jesus is saying it's in those quiet"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,000",
+				"to": "00:23:43,000"
+			},
+			"offsets": {
+				"from": 1421000,
+				"to": 1423000
+			},
+			"text": " places that I can give you the rest"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,000",
+				"to": "00:23:45,000"
+			},
+			"offsets": {
+				"from": 1423000,
+				"to": 1425000
+			},
+			"text": " that you're searching for."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,000",
+				"to": "00:23:47,000"
+			},
+			"offsets": {
+				"from": 1425000,
+				"to": 1427000
+			},
+			"text": " Hundreds of scriptures remind"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,000",
+				"to": "00:23:49,000"
+			},
+			"offsets": {
+				"from": 1427000,
+				"to": 1429000
+			},
+			"text": " us where our true rest comes"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,000",
+				"to": "00:23:51,000"
+			},
+			"offsets": {
+				"from": 1429000,
+				"to": 1431000
+			},
+			"text": " from, but the pull at our fingertips"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,000",
+				"to": "00:23:53,000"
+			},
+			"offsets": {
+				"from": 1431000,
+				"to": 1433000
+			},
+			"text": " is so strong that even the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,000",
+				"to": "00:23:55,000"
+			},
+			"offsets": {
+				"from": 1433000,
+				"to": 1435000
+			},
+			"text": " strongest Christians are"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,000",
+				"to": "00:23:57,000"
+			},
+			"offsets": {
+				"from": 1435000,
+				"to": 1437000
+			},
+			"text": " having a hard time"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,000",
+				"to": "00:23:59,000"
+			},
+			"offsets": {
+				"from": 1437000,
+				"to": 1439000
+			},
+			"text": " finding the source"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,000",
+				"to": "00:24:01,000"
+			},
+			"offsets": {
+				"from": 1439000,
+				"to": 1441000
+			},
+			"text": " of true rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,000",
+				"to": "00:24:03,000"
+			},
+			"offsets": {
+				"from": 1441000,
+				"to": 1443000
+			},
+			"text": " This entertainment"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,000",
+				"to": "00:24:05,000"
+			},
+			"offsets": {
+				"from": 1443000,
+				"to": 1445000
+			},
+			"text": " that we are offered is a gift from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,000",
+				"to": "00:24:07,000"
+			},
+			"offsets": {
+				"from": 1445000,
+				"to": 1447000
+			},
+			"text": " He wants us to have downtime and"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,000",
+				"to": "00:24:09,000"
+			},
+			"offsets": {
+				"from": 1447000,
+				"to": 1449000
+			},
+			"text": " step away from our work and enjoy"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,000",
+				"to": "00:24:11,000"
+			},
+			"offsets": {
+				"from": 1449000,
+				"to": 1451000
+			},
+			"text": " a break, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,000",
+				"to": "00:24:13,000"
+			},
+			"offsets": {
+				"from": 1451000,
+				"to": 1453000
+			},
+			"text": " the amount of fake gratification"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,000",
+				"to": "00:24:15,000"
+			},
+			"offsets": {
+				"from": 1453000,
+				"to": 1455000
+			},
+			"text": " and the addiction"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,000",
+				"to": "00:24:17,000"
+			},
+			"offsets": {
+				"from": 1455000,
+				"to": 1457000
+			},
+			"text": " of wanting more is stealing"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,000",
+				"to": "00:24:19,000"
+			},
+			"offsets": {
+				"from": 1457000,
+				"to": 1459000
+			},
+			"text": " our lives right out from under us."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,000",
+				"to": "00:24:21,000"
+			},
+			"offsets": {
+				"from": 1459000,
+				"to": 1461000
+			},
+			"text": " Colossians 3:2 says, \"Set your mind"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,000",
+				"to": "00:24:23,000"
+			},
+			"offsets": {
+				"from": 1461000,
+				"to": 1463000
+			},
+			"text": " on things above, not"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:23,000",
+				"to": "00:24:25,000"
+			},
+			"offsets": {
+				"from": 1463000,
+				"to": 1465000
+			},
+			"text": " on earthly things.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,000",
+				"to": "00:24:27,000"
+			},
+			"offsets": {
+				"from": 1465000,
+				"to": 1467000
+			},
+			"text": " So the question is, why do these companies"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,000",
+				"to": "00:24:29,000"
+			},
+			"offsets": {
+				"from": 1467000,
+				"to": 1469000
+			},
+			"text": " care so much, right? Like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,000",
+				"to": "00:24:31,000"
+			},
+			"offsets": {
+				"from": 1469000,
+				"to": 1471000
+			},
+			"text": " why is this meta company doing"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:31,000",
+				"to": "00:24:33,000"
+			},
+			"offsets": {
+				"from": 1471000,
+				"to": 1473000
+			},
+			"text": " so much to keep us"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,000",
+				"to": "00:24:35,000"
+			},
+			"offsets": {
+				"from": 1473000,
+				"to": 1475000
+			},
+			"text": " addicted? And the answer is"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,000",
+				"to": "00:24:37,000"
+			},
+			"offsets": {
+				"from": 1475000,
+				"to": 1477000
+			},
+			"text": " time and control."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,000",
+				"to": "00:24:39,000"
+			},
+			"offsets": {
+				"from": 1477000,
+				"to": 1479000
+			},
+			"text": " If they can have your time"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,000",
+				"to": "00:24:41,000"
+			},
+			"offsets": {
+				"from": 1479000,
+				"to": 1481000
+			},
+			"text": " and they can control what you see,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,000",
+				"to": "00:24:43,000"
+			},
+			"offsets": {
+				"from": 1481000,
+				"to": 1483000
+			},
+			"text": " then they"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,000",
+				"to": "00:24:45,000"
+			},
+			"offsets": {
+				"from": 1483000,
+				"to": 1485000
+			},
+			"text": " have ultimate control, and especially"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,000",
+				"to": "00:24:47,000"
+			},
+			"offsets": {
+				"from": 1485000,
+				"to": 1487000
+			},
+			"text": " they can control where you spend your money."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:47,000",
+				"to": "00:24:49,000"
+			},
+			"offsets": {
+				"from": 1487000,
+				"to": 1489000
+			},
+			"text": " What is important to them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,000",
+				"to": "00:24:51,000"
+			},
+			"offsets": {
+				"from": 1489000,
+				"to": 1491000
+			},
+			"text": " Your money. How often do"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,000",
+				"to": "00:24:53,000"
+			},
+			"offsets": {
+				"from": 1491000,
+				"to": 1493000
+			},
+			"text": " you end up spending money on something"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,000",
+				"to": "00:24:55,000"
+			},
+			"offsets": {
+				"from": 1493000,
+				"to": 1495000
+			},
+			"text": " that your phone tells you you need to spend money on"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:55,000",
+				"to": "00:24:57,000"
+			},
+			"offsets": {
+				"from": 1495000,
+				"to": 1497000
+			},
+			"text": " and it ends up being something that"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,000",
+				"to": "00:24:59,000"
+			},
+			"offsets": {
+				"from": 1497000,
+				"to": 1499000
+			},
+			"text": " you didn't give you what you wanted? But that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:59,000",
+				"to": "00:25:01,000"
+			},
+			"offsets": {
+				"from": 1499000,
+				"to": 1501000
+			},
+			"text": " okay. There's 17,000 other videos"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,000",
+				"to": "00:25:03,000"
+			},
+			"offsets": {
+				"from": 1501000,
+				"to": 1503000
+			},
+			"text": " that will tell you this is actually what"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:03,000",
+				"to": "00:25:05,000"
+			},
+			"offsets": {
+				"from": 1503000,
+				"to": 1505000
+			},
+			"text": " you needed that will make you happy."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,000",
+				"to": "00:25:07,000"
+			},
+			"offsets": {
+				"from": 1505000,
+				"to": 1507000
+			},
+			"text": " And when that doesn't,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,000",
+				"to": "00:25:09,000"
+			},
+			"offsets": {
+				"from": 1507000,
+				"to": 1509000
+			},
+			"text": " it's fine. Here's something else that will"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,000",
+				"to": "00:25:11,000"
+			},
+			"offsets": {
+				"from": 1509000,
+				"to": 1511000
+			},
+			"text": " make you happy. They have us"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:11,000",
+				"to": "00:25:13,000"
+			},
+			"offsets": {
+				"from": 1511000,
+				"to": 1513000
+			},
+			"text": " living our lives exactly the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,000",
+				"to": "00:25:15,000"
+			},
+			"offsets": {
+				"from": 1513000,
+				"to": 1515000
+			},
+			"text": " way that they want us"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,000",
+				"to": "00:25:17,000"
+			},
+			"offsets": {
+				"from": 1515000,
+				"to": 1517000
+			},
+			"text": " because then they"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,000",
+				"to": "00:25:19,000"
+			},
+			"offsets": {
+				"from": 1517000,
+				"to": 1519000
+			},
+			"text": " get control of our money."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,000",
+				"to": "00:25:21,000"
+			},
+			"offsets": {
+				"from": 1519000,
+				"to": 1521000
+			},
+			"text": " Okay, so..."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,000",
+				"to": "00:25:23,000"
+			},
+			"offsets": {
+				"from": 1521000,
+				"to": 1523000
+			},
+			"text": " So what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,000",
+				"to": "00:25:25,000"
+			},
+			"offsets": {
+				"from": 1523000,
+				"to": 1525000
+			},
+			"text": " So we spend our money on some things on Facebook"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,000",
+				"to": "00:25:27,000"
+			},
+			"offsets": {
+				"from": 1525000,
+				"to": 1527000
+			},
+			"text": " or on a game, right? Who cares?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,000",
+				"to": "00:25:29,000"
+			},
+			"offsets": {
+				"from": 1527000,
+				"to": 1529000
+			},
+			"text": " Is that really that big of a deal? Well, there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,000",
+				"to": "00:25:31,000"
+			},
+			"offsets": {
+				"from": 1529000,
+				"to": 1531000
+			},
+			"text": " a whole lot more going on. I want you to"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,000",
+				"to": "00:25:33,000"
+			},
+			"offsets": {
+				"from": 1531000,
+				"to": 1533000
+			},
+			"text": " look at a graph"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,000",
+				"to": "00:25:35,000"
+			},
+			"offsets": {
+				"from": 1533000,
+				"to": 1535000
+			},
+			"text": " from a"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,000",
+				"to": "00:25:37,000"
+			},
+			"offsets": {
+				"from": 1535000,
+				"to": 1537000
+			},
+			"text": " recent study"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,000",
+				"to": "00:25:39,000"
+			},
+			"offsets": {
+				"from": 1537000,
+				"to": 1539000
+			},
+			"text": " from 2011 to 2021."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,000",
+				"to": "00:25:41,000"
+			},
+			"offsets": {
+				"from": 1539000,
+				"to": 1541000
+			},
+			"text": " This is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,000",
+				"to": "00:25:43,000"
+			},
+			"offsets": {
+				"from": 1541000,
+				"to": 1543000
+			},
+			"text": " rise in..."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,000",
+				"to": "00:25:45,000"
+			},
+			"offsets": {
+				"from": 1543000,
+				"to": 1545000
+			},
+			"text": " So, ignore the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,000",
+				"to": "00:25:47,000"
+			},
+			"offsets": {
+				"from": 1545000,
+				"to": 1547000
+			},
+			"text": " unemployment. That's just part of their graph."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,000",
+				"to": "00:25:49,000"
+			},
+			"offsets": {
+				"from": 1547000,
+				"to": 1549000
+			},
+			"text": " But, you can see, right"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,000",
+				"to": "00:25:51,000"
+			},
+			"offsets": {
+				"from": 1549000,
+				"to": 1551000
+			},
+			"text": " around 2009, 2010,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,000",
+				"to": "00:25:53,000"
+			},
+			"offsets": {
+				"from": 1551000,
+				"to": 1553000
+			},
+			"text": " remember the first iPhone came out in 2007,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:53,000",
+				"to": "00:25:55,000"
+			},
+			"offsets": {
+				"from": 1553000,
+				"to": 1555000
+			},
+			"text": " you see a"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,000",
+				"to": "00:25:57,000"
+			},
+			"offsets": {
+				"from": 1555000,
+				"to": 1557000
+			},
+			"text": " dramatic rise"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,000",
+				"to": "00:25:59,000"
+			},
+			"offsets": {
+				"from": 1557000,
+				"to": 1559000
+			},
+			"text": " in these things. Internet"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,000",
+				"to": "00:26:01,000"
+			},
+			"offsets": {
+				"from": 1559000,
+				"to": 1561000
+			},
+			"text": " use, depression,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,000",
+				"to": "00:26:03,000"
+			},
+			"offsets": {
+				"from": 1561000,
+				"to": 1563000
+			},
+			"text": " social media, smartphone ownership"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,000",
+				"to": "00:26:05,000"
+			},
+			"offsets": {
+				"from": 1563000,
+				"to": 1565000
+			},
+			"text": " correlates"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,000",
+				"to": "00:26:07,000"
+			},
+			"offsets": {
+				"from": 1565000,
+				"to": 1567000
+			},
+			"text": " dramatically. And this is just"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,000",
+				"to": "00:26:09,000"
+			},
+			"offsets": {
+				"from": 1567000,
+				"to": 1569000
+			},
+			"text": " a 2019. It has gotten"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,000",
+				"to": "00:26:11,000"
+			},
+			"offsets": {
+				"from": 1569000,
+				"to": 1571000
+			},
+			"text": " even worse. As a matter of fact,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,000",
+				"to": "00:26:13,000"
+			},
+			"offsets": {
+				"from": 1571000,
+				"to": 1573000
+			},
+			"text": " research now shows that one out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,000",
+				"to": "00:26:15,000"
+			},
+			"offsets": {
+				"from": 1573000,
+				"to": 1575000
+			},
+			"text": " three teen girls has"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,000",
+				"to": "00:26:19,000"
+			},
+			"offsets": {
+				"from": 1575000,
+				"to": 1579000
+			},
+			"text": " seriously considered suicide."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,000",
+				"to": "00:26:21,000"
+			},
+			"offsets": {
+				"from": 1579000,
+				"to": 1581000
+			},
+			"text": " Correlating with the amount of"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,000",
+				"to": "00:26:23,000"
+			},
+			"offsets": {
+				"from": 1581000,
+				"to": 1583000
+			},
+			"text": " cell phones that we have. And then we look,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,000",
+				"to": "00:26:25,000"
+			},
+			"offsets": {
+				"from": 1583000,
+				"to": 1585000
+			},
+			"text": " and it's not just in America. If you look at"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,000",
+				"to": "00:26:27,000"
+			},
+			"offsets": {
+				"from": 1585000,
+				"to": 1587000
+			},
+			"text": " this next graph, the same exact"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,000",
+				"to": "00:26:29,000"
+			},
+			"offsets": {
+				"from": 1587000,
+				"to": 1589000
+			},
+			"text": " research was done in"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,000",
+				"to": "00:26:31,000"
+			},
+			"offsets": {
+				"from": 1589000,
+				"to": 1591000
+			},
+			"text": " other countries, Russia, Thailand,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,000",
+				"to": "00:26:33,000"
+			},
+			"offsets": {
+				"from": 1591000,
+				"to": 1593000
+			},
+			"text": " Hong Kong, UK, Chile,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,000",
+				"to": "00:26:35,000"
+			},
+			"offsets": {
+				"from": 1593000,
+				"to": 1595000
+			},
+			"text": " Sweden, and it's the same result."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,000",
+				"to": "00:26:37,000"
+			},
+			"offsets": {
+				"from": 1595000,
+				"to": 1597000
+			},
+			"text": " As people are getting cell phones,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,000",
+				"to": "00:26:39,000"
+			},
+			"offsets": {
+				"from": 1597000,
+				"to": 1599000
+			},
+			"text": " their depression, anxiety,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,000",
+				"to": "00:26:41,000"
+			},
+			"offsets": {
+				"from": 1599000,
+				"to": 1601000
+			},
+			"text": " suicide rate are"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,000",
+				"to": "00:26:43,000"
+			},
+			"offsets": {
+				"from": 1601000,
+				"to": 1603000
+			},
+			"text": " all going up."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,000",
+				"to": "00:26:45,000"
+			},
+			"offsets": {
+				"from": 1603000,
+				"to": 1605000
+			},
+			"text": " This is a trend"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,000",
+				"to": "00:26:47,000"
+			},
+			"offsets": {
+				"from": 1605000,
+				"to": 1607000
+			},
+			"text": " that is global, and while these studies"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,000",
+				"to": "00:26:49,000"
+			},
+			"offsets": {
+				"from": 1607000,
+				"to": 1609000
+			},
+			"text": " focus on teens, adults'"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,000",
+				"to": "00:26:51,000"
+			},
+			"offsets": {
+				"from": 1609000,
+				"to": 1611000
+			},
+			"text": " mental health is very similar."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:51,000",
+				"to": "00:26:53,000"
+			},
+			"offsets": {
+				"from": 1611000,
+				"to": 1613000
+			},
+			"text": " These"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,000",
+				"to": "00:26:55,000"
+			},
+			"offsets": {
+				"from": 1613000,
+				"to": 1615000
+			},
+			"text": " false dopamine releases"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,000",
+				"to": "00:26:57,000"
+			},
+			"offsets": {
+				"from": 1615000,
+				"to": 1617000
+			},
+			"text": " that we're getting, we"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:57,000",
+				"to": "00:26:59,000"
+			},
+			"offsets": {
+				"from": 1617000,
+				"to": 1619000
+			},
+			"text": " start to realize that if this is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,000",
+				"to": "00:27:01,000"
+			},
+			"offsets": {
+				"from": 1619000,
+				"to": 1621000
+			},
+			"text": " best thing out there,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,000",
+				"to": "00:27:03,000"
+			},
+			"offsets": {
+				"from": 1621000,
+				"to": 1623000
+			},
+			"text": " then what's the point of living? If this"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,000",
+				"to": "00:27:05,000"
+			},
+			"offsets": {
+				"from": 1623000,
+				"to": 1625000
+			},
+			"text": " thing that shifts frequently"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,000",
+				"to": "00:27:07,000"
+			},
+			"offsets": {
+				"from": 1625000,
+				"to": 1627000
+			},
+			"text": " and dislike and dislike and"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,000",
+				"to": "00:27:09,000"
+			},
+			"offsets": {
+				"from": 1627000,
+				"to": 1629000
+			},
+			"text": " comment, if it's the best thing that this world"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,000",
+				"to": "00:27:11,000"
+			},
+			"offsets": {
+				"from": 1629000,
+				"to": 1631000
+			},
+			"text": " has to offer, because it's all we"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,000",
+				"to": "00:27:13,000"
+			},
+			"offsets": {
+				"from": 1631000,
+				"to": 1633000
+			},
+			"text": " can see, because it's always with us and in our"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,000",
+				"to": "00:27:15,000"
+			},
+			"offsets": {
+				"from": 1633000,
+				"to": 1635000
+			},
+			"text": " hand, what's the point of living?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,000",
+				"to": "00:27:17,000"
+			},
+			"offsets": {
+				"from": 1635000,
+				"to": 1637000
+			},
+			"text": " And teens are becoming more and more"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,000",
+				"to": "00:27:19,000"
+			},
+			"offsets": {
+				"from": 1637000,
+				"to": 1639000
+			},
+			"text": " depressed, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,000",
+				"to": "00:27:21,000"
+			},
+			"offsets": {
+				"from": 1639000,
+				"to": 1641000
+			},
+			"text": " unfortunately, suicidal."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,000",
+				"to": "00:27:23,000"
+			},
+			"offsets": {
+				"from": 1641000,
+				"to": 1643000
+			},
+			"text": " Let's take this a bit further. You don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,000",
+				"to": "00:27:25,000"
+			},
+			"offsets": {
+				"from": 1643000,
+				"to": 1645000
+			},
+			"text": " just have to believe what people are"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,000",
+				"to": "00:27:27,000"
+			},
+			"offsets": {
+				"from": 1645000,
+				"to": 1647000
+			},
+			"text": " saying. You can now see"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,000",
+				"to": "00:27:29,000"
+			},
+			"offsets": {
+				"from": 1647000,
+				"to": 1649000
+			},
+			"text": " what smartphone use is doing"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:29,000",
+				"to": "00:27:31,000"
+			},
+			"offsets": {
+				"from": 1649000,
+				"to": 1651000
+			},
+			"text": " through brain scans."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,000",
+				"to": "00:27:33,000"
+			},
+			"offsets": {
+				"from": 1651000,
+				"to": 1653000
+			},
+			"text": " Alright, here's four brains."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,000",
+				"to": "00:27:35,000"
+			},
+			"offsets": {
+				"from": 1653000,
+				"to": 1655000
+			},
+			"text": " These are all brains of"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,000",
+				"to": "00:27:37,000"
+			},
+			"offsets": {
+				"from": 1655000,
+				"to": 1657000
+			},
+			"text": " people that are addicted to their"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,000",
+				"to": "00:27:39,000"
+			},
+			"offsets": {
+				"from": 1657000,
+				"to": 1659000
+			},
+			"text": " cell phone. There's actually a word for it"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,000",
+				"to": "00:27:41,000"
+			},
+			"offsets": {
+				"from": 1659000,
+				"to": 1661000
+			},
+			"text": " now. It is called"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,000",
+				"to": "00:27:43,000"
+			},
+			"offsets": {
+				"from": 1661000,
+				"to": 1663000
+			},
+			"text": " problematic smartphone use, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,000",
+				"to": "00:27:45,000"
+			},
+			"offsets": {
+				"from": 1663000,
+				"to": 1665000
+			},
+			"text": " PSU. So this has"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,000",
+				"to": "00:27:47,000"
+			},
+			"offsets": {
+				"from": 1665000,
+				"to": 1667000
+			},
+			"text": " become a thing. So what you're looking"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,000",
+				"to": "00:27:49,000"
+			},
+			"offsets": {
+				"from": 1667000,
+				"to": 1669000
+			},
+			"text": " at, this part of the brain is the, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,000",
+				"to": "00:27:51,000"
+			},
+			"offsets": {
+				"from": 1669000,
+				"to": 1671000
+			},
+			"text": " Doc, I apologize for all the things"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,000",
+				"to": "00:27:53,000"
+			},
+			"offsets": {
+				"from": 1671000,
+				"to": 1673000
+			},
+			"text": " I get wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,000",
+				"to": "00:27:55,000"
+			},
+			"offsets": {
+				"from": 1673000,
+				"to": 1675000
+			},
+			"text": " This is the prefrontal cortex."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,000",
+				"to": "00:27:57,000"
+			},
+			"offsets": {
+				"from": 1675000,
+				"to": 1677000
+			},
+			"text": " So this part of your brain"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:57,000",
+				"to": "00:27:59,000"
+			},
+			"offsets": {
+				"from": 1677000,
+				"to": 1679000
+			},
+			"text": " is known as like the thinking part"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,000",
+				"to": "00:28:01,000"
+			},
+			"offsets": {
+				"from": 1679000,
+				"to": 1681000
+			},
+			"text": " of your brain. It controls your focus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,000",
+				"to": "00:28:03,000"
+			},
+			"offsets": {
+				"from": 1681000,
+				"to": 1683000
+			},
+			"text": " your decision making, your self"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:03,000",
+				"to": "00:28:05,000"
+			},
+			"offsets": {
+				"from": 1683000,
+				"to": 1685000
+			},
+			"text": " control your attention. It's like the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,000",
+				"to": "00:28:07,000"
+			},
+			"offsets": {
+				"from": 1685000,
+				"to": 1687000
+			},
+			"text": " mom of the brain."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,000",
+				"to": "00:28:09,000"
+			},
+			"offsets": {
+				"from": 1687000,
+				"to": 1689000
+			},
+			"text": " It's the, or dad, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,000",
+				"to": "00:28:11,000"
+			},
+			"offsets": {
+				"from": 1689000,
+				"to": 1691000
+			},
+			"text": " dad. It's the thinking part of"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,000",
+				"to": "00:28:13,000"
+			},
+			"offsets": {
+				"from": 1691000,
+				"to": 1693000
+			},
+			"text": " the brain, alright?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,000",
+				"to": "00:28:15,000"
+			},
+			"offsets": {
+				"from": 1693000,
+				"to": 1695000
+			},
+			"text": " It's in constant communication"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,000",
+				"to": "00:28:17,000"
+			},
+			"offsets": {
+				"from": 1695000,
+				"to": 1697000
+			},
+			"text": " with another part of your brain"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,000",
+				"to": "00:28:19,000"
+			},
+			"offsets": {
+				"from": 1697000,
+				"to": 1699000
+			},
+			"text": " that is called the limbic"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,000",
+				"to": "00:28:21,000"
+			},
+			"offsets": {
+				"from": 1699000,
+				"to": 1701000
+			},
+			"text": " region. The limbic"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,000",
+				"to": "00:28:23,000"
+			},
+			"offsets": {
+				"from": 1701000,
+				"to": 1703000
+			},
+			"text": " region is like the toddler of your"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,000",
+				"to": "00:28:25,000"
+			},
+			"offsets": {
+				"from": 1703000,
+				"to": 1705000
+			},
+			"text": " brain, okay? It can, it has,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,000",
+				"to": "00:28:27,000"
+			},
+			"offsets": {
+				"from": 1705000,
+				"to": 1707000
+			},
+			"text": " it controls impulse control,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,000",
+				"to": "00:28:29,000"
+			},
+			"offsets": {
+				"from": 1707000,
+				"to": 1709000
+			},
+			"text": " cravings, emotional regulation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:29,000",
+				"to": "00:28:31,000"
+			},
+			"offsets": {
+				"from": 1709000,
+				"to": 1711000
+			},
+			"text": " addictive behaviors. It's the toddler"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:31,000",
+				"to": "00:28:33,000"
+			},
+			"offsets": {
+				"from": 1711000,
+				"to": 1713000
+			},
+			"text": " that's on the floor in Target"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,000",
+				"to": "00:28:35,000"
+			},
+			"offsets": {
+				"from": 1713000,
+				"to": 1715000
+			},
+			"text": " having a temper tantrum because you couldn't get"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,000",
+				"to": "00:28:37,000"
+			},
+			"offsets": {
+				"from": 1715000,
+				"to": 1717000
+			},
+			"text": " that popsicle. That's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,000",
+				"to": "00:28:39,000"
+			},
+			"offsets": {
+				"from": 1717000,
+				"to": 1719000
+			},
+			"text": " limbic part of your brain. So the frontal,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:39,000",
+				"to": "00:28:41,000"
+			},
+			"offsets": {
+				"from": 1719000,
+				"to": 1721000
+			},
+			"text": " prefrontal cortex is constantly"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,000",
+				"to": "00:28:43,000"
+			},
+			"offsets": {
+				"from": 1721000,
+				"to": 1723000
+			},
+			"text": " talking to the limbic"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:43,000",
+				"to": "00:28:45,000"
+			},
+			"offsets": {
+				"from": 1723000,
+				"to": 1725000
+			},
+			"text": " brain. You want to have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,000",
+				"to": "00:28:47,000"
+			},
+			"offsets": {
+				"from": 1725000,
+				"to": 1727000
+			},
+			"text": " temper tantrum in the floor because they sold out"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,000",
+				"to": "00:28:49,000"
+			},
+			"offsets": {
+				"from": 1727000,
+				"to": 1729000
+			},
+			"text": " of your favorite thing at Target, or maybe that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,000",
+				"to": "00:28:51,000"
+			},
+			"offsets": {
+				"from": 1729000,
+				"to": 1731000
+			},
+			"text": " just me. And I have my prefrontal"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,000",
+				"to": "00:28:53,000"
+			},
+			"offsets": {
+				"from": 1731000,
+				"to": 1733000
+			},
+			"text": " cortex telling me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,000",
+				"to": "00:28:55,000"
+			},
+			"offsets": {
+				"from": 1733000,
+				"to": 1735000
+			},
+			"text": " \"Calm down. They'll"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,000",
+				"to": "00:28:57,000"
+			},
+			"offsets": {
+				"from": 1735000,
+				"to": 1737000
+			},
+			"text": " restock it. It's okay.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,000",
+				"to": "00:28:59,000"
+			},
+			"offsets": {
+				"from": 1737000,
+				"to": 1739000
+			},
+			"text": " And instead of having a temper tantrum,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:59,000",
+				"to": "00:29:01,000"
+			},
+			"offsets": {
+				"from": 1739000,
+				"to": 1741000
+			},
+			"text": " I calm down, right? This is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,000",
+				"to": "00:29:03,000"
+			},
+			"offsets": {
+				"from": 1741000,
+				"to": 1743000
+			},
+			"text": " communication that's going back and forth"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,000",
+				"to": "00:29:05,000"
+			},
+			"offsets": {
+				"from": 1743000,
+				"to": 1745000
+			},
+			"text": " between these two constantly."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:05,000",
+				"to": "00:29:07,000"
+			},
+			"offsets": {
+				"from": 1745000,
+				"to": 1747000
+			},
+			"text": " What you're seeing in this picture"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,000",
+				"to": "00:29:09,000"
+			},
+			"offsets": {
+				"from": 1747000,
+				"to": 1749000
+			},
+			"text": " is an image"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,000",
+				"to": "00:29:11,000"
+			},
+			"offsets": {
+				"from": 1749000,
+				"to": 1751000
+			},
+			"text": " of the connectivity between"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,000",
+				"to": "00:29:13,000"
+			},
+			"offsets": {
+				"from": 1751000,
+				"to": 1753000
+			},
+			"text": " these two parts. So the thinking"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,000",
+				"to": "00:29:15,000"
+			},
+			"offsets": {
+				"from": 1753000,
+				"to": 1755000
+			},
+			"text": " and the emotional part. The colors"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,000",
+				"to": "00:29:17,000"
+			},
+			"offsets": {
+				"from": 1755000,
+				"to": 1757000
+			},
+			"text": " represent how connected"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,000",
+				"to": "00:29:19,000"
+			},
+			"offsets": {
+				"from": 1757000,
+				"to": 1759000
+			},
+			"text": " these two are."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,000",
+				"to": "00:29:21,000"
+			},
+			"offsets": {
+				"from": 1759000,
+				"to": 1761000
+			},
+			"text": " Okay, so if you see yellow"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,000",
+				"to": "00:29:23,000"
+			},
+			"offsets": {
+				"from": 1761000,
+				"to": 1763000
+			},
+			"text": " or red,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,000",
+				"to": "00:29:25,000"
+			},
+			"offsets": {
+				"from": 1763000,
+				"to": 1765000
+			},
+			"text": " see a teeny bit of yellow in one of them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,000",
+				"to": "00:29:27,000"
+			},
+			"offsets": {
+				"from": 1765000,
+				"to": 1767000
+			},
+			"text": " that means that they're strongly"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,000",
+				"to": "00:29:29,000"
+			},
+			"offsets": {
+				"from": 1767000,
+				"to": 1769000
+			},
+			"text": " connected. So the prefrontal cortex"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:29,000",
+				"to": "00:29:31,000"
+			},
+			"offsets": {
+				"from": 1769000,
+				"to": 1771000
+			},
+			"text": " is telling the limbic, \"Calm down."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,000",
+				"to": "00:29:33,000"
+			},
+			"offsets": {
+				"from": 1771000,
+				"to": 1773000
+			},
+			"text": " Don't have a temper tantrum in Target."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,000",
+				"to": "00:29:35,000"
+			},
+			"offsets": {
+				"from": 1773000,
+				"to": 1775000
+			},
+			"text": " It's going to be okay.\" And I calm down,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,000",
+				"to": "00:29:37,000"
+			},
+			"offsets": {
+				"from": 1775000,
+				"to": 1777000
+			},
+			"text": " right? That's yellow and red."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,000",
+				"to": "00:29:39,000"
+			},
+			"offsets": {
+				"from": 1777000,
+				"to": 1779000
+			},
+			"text": " Not a lot of that in these brains."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,000",
+				"to": "00:29:41,000"
+			},
+			"offsets": {
+				"from": 1779000,
+				"to": 1781000
+			},
+			"text": " Then you have green and light"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,000",
+				"to": "00:29:43,000"
+			},
+			"offsets": {
+				"from": 1781000,
+				"to": 1783000
+			},
+			"text": " blue. That means"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,000",
+				"to": "00:29:45,000"
+			},
+			"offsets": {
+				"from": 1783000,
+				"to": 1785000
+			},
+			"text": " medium connectivity. So we have"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:45,000",
+				"to": "00:29:47,000"
+			},
+			"offsets": {
+				"from": 1785000,
+				"to": 1787000
+			},
+			"text": " some light blue in these, and so"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,000",
+				"to": "00:29:49,000"
+			},
+			"offsets": {
+				"from": 1787000,
+				"to": 1789000
+			},
+			"text": " it's not communicating the way that it should,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,000",
+				"to": "00:29:51,000"
+			},
+			"offsets": {
+				"from": 1789000,
+				"to": 1791000
+			},
+			"text": " but it's medium."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,000",
+				"to": "00:29:53,000"
+			},
+			"offsets": {
+				"from": 1791000,
+				"to": 1793000
+			},
+			"text": " It's still, you know, you don't quite"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,000",
+				"to": "00:29:55,000"
+			},
+			"offsets": {
+				"from": 1793000,
+				"to": 1795000
+			},
+			"text": " have a temper tantrum. Finally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,000",
+				"to": "00:29:57,000"
+			},
+			"offsets": {
+				"from": 1795000,
+				"to": 1797000
+			},
+			"text": " dark blue means"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:57,000",
+				"to": "00:29:59,000"
+			},
+			"offsets": {
+				"from": 1797000,
+				"to": 1799000
+			},
+			"text": " weaker activity or reduced"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,000",
+				"to": "00:30:01,000"
+			},
+			"offsets": {
+				"from": 1799000,
+				"to": 1801000
+			},
+			"text": " communication. Have"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,000",
+				"to": "00:30:03,000"
+			},
+			"offsets": {
+				"from": 1801000,
+				"to": 1803000
+			},
+			"text": " you ever noticed yourself"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,000",
+				"to": "00:30:05,000"
+			},
+			"offsets": {
+				"from": 1803000,
+				"to": 1805000
+			},
+			"text": " losing it over"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:05,000",
+				"to": "00:30:07,000"
+			},
+			"offsets": {
+				"from": 1805000,
+				"to": 1807000
+			},
+			"text": " stupid things? And you're like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,000",
+				"to": "00:30:09,000"
+			},
+			"offsets": {
+				"from": 1807000,
+				"to": 1809000
+			},
+			"text": " \"Why can't I control?\" Or"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,000",
+				"to": "00:30:11,000"
+			},
+			"offsets": {
+				"from": 1809000,
+				"to": 1811000
+			},
+			"text": " kids, have you ever felt yourself"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:11,000",
+				"to": "00:30:13,000"
+			},
+			"offsets": {
+				"from": 1811000,
+				"to": 1813000
+			},
+			"text": " having temper tantrums, or"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,000",
+				"to": "00:30:15,000"
+			},
+			"offsets": {
+				"from": 1813000,
+				"to": 1815000
+			},
+			"text": " losing your mind over"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,000",
+				"to": "00:30:17,000"
+			},
+			"offsets": {
+				"from": 1815000,
+				"to": 1817000
+			},
+			"text": " something, and you're like, \"What is my problem?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,000",
+				"to": "00:30:19,000"
+			},
+			"offsets": {
+				"from": 1817000,
+				"to": 1819000
+			},
+			"text": " Like, it's because"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:19,000",
+				"to": "00:30:21,000"
+			},
+			"offsets": {
+				"from": 1819000,
+				"to": 1821000
+			},
+			"text": " you're so addicted that that communication"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,000",
+				"to": "00:30:23,000"
+			},
+			"offsets": {
+				"from": 1821000,
+				"to": 1823000
+			},
+			"text": " between your limbic"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,000",
+				"to": "00:30:25,000"
+			},
+			"offsets": {
+				"from": 1823000,
+				"to": 1825000
+			},
+			"text": " and your prefrontal cortex is limited,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,000",
+				"to": "00:30:27,000"
+			},
+			"offsets": {
+				"from": 1825000,
+				"to": 1827000
+			},
+			"text": " and that's not, it's not"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,000",
+				"to": "00:30:29,000"
+			},
+			"offsets": {
+				"from": 1827000,
+				"to": 1829000
+			},
+			"text": " allowing you to calm down. The"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,000",
+				"to": "00:30:31,000"
+			},
+			"offsets": {
+				"from": 1829000,
+				"to": 1831000
+			},
+			"text": " best way to illustrate this is obviously"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,000",
+				"to": "00:30:33,000"
+			},
+			"offsets": {
+				"from": 1831000,
+				"to": 1833000
+			},
+			"text": " with a clip from inside out."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,000",
+				"to": "00:30:35,000"
+			},
+			"offsets": {
+				"from": 1833000,
+				"to": 1835000
+			},
+			"text": " Seen that movie?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,000",
+				"to": "00:30:37,000"
+			},
+			"offsets": {
+				"from": 1835000,
+				"to": 1837000
+			},
+			"text": " Remember the part when Joy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,000",
+				"to": "00:30:39,000"
+			},
+			"offsets": {
+				"from": 1837000,
+				"to": 1839000
+			},
+			"text": " Joy, we're going to call Joy the prefrontal"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,000",
+				"to": "00:30:41,000"
+			},
+			"offsets": {
+				"from": 1839000,
+				"to": 1841000
+			},
+			"text": " cortex, because Joy's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,000",
+				"to": "00:30:43,000"
+			},
+			"offsets": {
+				"from": 1841000,
+				"to": 1843000
+			},
+			"text": " calm one, right? She calms everybody down."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,000",
+				"to": "00:30:45,000"
+			},
+			"offsets": {
+				"from": 1843000,
+				"to": 1845000
+			},
+			"text": " She gets them to rationalize. She's like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,000",
+				"to": "00:30:47,000"
+			},
+			"offsets": {
+				"from": 1845000,
+				"to": 1847000
+			},
+			"text": " \"It's okay.\" She gets"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,000",
+				"to": "00:30:49,000"
+			},
+			"offsets": {
+				"from": 1847000,
+				"to": 1849000
+			},
+			"text": " like, shipped out of the main"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,000",
+				"to": "00:30:51,000"
+			},
+			"offsets": {
+				"from": 1849000,
+				"to": 1851000
+			},
+			"text": " headquarters, and everything goes nuts."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,000",
+				"to": "00:30:53,000"
+			},
+			"offsets": {
+				"from": 1851000,
+				"to": 1853000
+			},
+			"text": " That's the limbic system"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,000",
+				"to": "00:30:55,000"
+			},
+			"offsets": {
+				"from": 1853000,
+				"to": 1855000
+			},
+			"text": " losing its mind,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,000",
+				"to": "00:30:57,000"
+			},
+			"offsets": {
+				"from": 1855000,
+				"to": 1857000
+			},
+			"text": " because it doesn't have Joy"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,000",
+				"to": "00:30:59,000"
+			},
+			"offsets": {
+				"from": 1857000,
+				"to": 1859000
+			},
+			"text": " to calm them down. So let's look at this clip"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,000",
+				"to": "00:31:01,000"
+			},
+			"offsets": {
+				"from": 1859000,
+				"to": 1861000
+			},
+			"text": " from"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:01,000",
+				"to": "00:31:03,000"
+			},
+			"offsets": {
+				"from": 1861000,
+				"to": 1863000
+			},
+			"text": " inside out of what happens"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:03,000",
+				"to": "00:31:05,000"
+			},
+			"offsets": {
+				"from": 1863000,
+				"to": 1865000
+			},
+			"text": " when our connection is"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,000",
+				"to": "00:31:07,000"
+			},
+			"offsets": {
+				"from": 1865000,
+				"to": 1867000
+			},
+			"text": " not going well."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,000",
+				"to": "00:31:11,000"
+			},
+			"offsets": {
+				"from": 1867000,
+				"to": 1871000
+			},
+			"text": " Why is it so weird?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,000",
+				"to": "00:31:13,000"
+			},
+			"offsets": {
+				"from": 1871000,
+				"to": 1873000
+			},
+			"text": " All the islands are down."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,000",
+				"to": "00:31:15,000"
+			},
+			"offsets": {
+				"from": 1873000,
+				"to": 1875000
+			},
+			"text": " No, I would know what to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,000",
+				"to": "00:31:17,000"
+			},
+			"offsets": {
+				"from": 1875000,
+				"to": 1877000
+			},
+			"text": " That's it."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,000",
+				"to": "00:31:19,000"
+			},
+			"offsets": {
+				"from": 1877000,
+				"to": 1879000
+			},
+			"text": " Until she gets back."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,000",
+				"to": "00:31:25,000"
+			},
+			"offsets": {
+				"from": 1881000,
+				"to": 1885000
+			},
+			"text": " I found a junior hockey..."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,000",
+				"to": "00:31:31,000"
+			},
+			"offsets": {
+				"from": 1885000,
+				"to": 1891000
+			},
+			"text": " ...after school."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,000",
+				"to": "00:31:33,000"
+			},
+			"offsets": {
+				"from": 1891000,
+				"to": 1893000
+			},
+			"text": " Look!"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,000",
+				"to": "00:31:45,000"
+			},
+			"offsets": {
+				"from": 1893000,
+				"to": 1905000
+			},
+			"text": " What was that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,000",
+				"to": "00:31:47,000"
+			},
+			"offsets": {
+				"from": 1905000,
+				"to": 1907000
+			},
+			"text": " Uh, because I'm not Joy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,000",
+				"to": "00:31:49,000"
+			},
+			"offsets": {
+				"from": 1907000,
+				"to": 1909000
+			},
+			"text": " Yeah, no kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,000",
+				"to": "00:31:53,000"
+			},
+			"offsets": {
+				"from": 1909000,
+				"to": 1913000
+			},
+			"text": " Something's wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,000",
+				"to": "00:31:55,000"
+			},
+			"offsets": {
+				"from": 1913000,
+				"to": 1915000
+			},
+			"text": " Should we ask her?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,000",
+				"to": "00:31:57,000"
+			},
+			"offsets": {
+				"from": 1915000,
+				"to": 1917000
+			},
+			"text": " Let's prove."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,000",
+				"to": "00:31:59,000"
+			},
+			"offsets": {
+				"from": 1917000,
+				"to": 1919000
+			},
+			"text": " So, how was the first day of school?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,000",
+				"to": "00:32:01,000"
+			},
+			"offsets": {
+				"from": 1919000,
+				"to": 1921000
+			},
+			"text": " She's probing us."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,000",
+				"to": "00:32:03,000"
+			},
+			"offsets": {
+				"from": 1921000,
+				"to": 1923000
+			},
+			"text": " I'm done. You pretend to be Joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,000",
+				"to": "00:32:05,000"
+			},
+			"offsets": {
+				"from": 1923000,
+				"to": 1925000
+			},
+			"text": " Um..."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,000",
+				"to": "00:32:07,000"
+			},
+			"offsets": {
+				"from": 1925000,
+				"to": 1927000
+			},
+			"text": " It was fine, I guess."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:07,000",
+				"to": "00:32:09,000"
+			},
+			"offsets": {
+				"from": 1927000,
+				"to": 1929000
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,000",
+				"to": "00:32:11,000"
+			},
+			"offsets": {
+				"from": 1929000,
+				"to": 1931000
+			},
+			"text": " Oh, very smooth. That was just like Joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:11,000",
+				"to": "00:32:13,000"
+			},
+			"offsets": {
+				"from": 1931000,
+				"to": 1933000
+			},
+			"text": " Something is definitely going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,000",
+				"to": "00:32:15,000"
+			},
+			"offsets": {
+				"from": 1933000,
+				"to": 1935000
+			},
+			"text": " She's never acted like this before."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,000",
+				"to": "00:32:17,000"
+			},
+			"offsets": {
+				"from": 1935000,
+				"to": 1937000
+			},
+			"text": " What should we do? We're gonna find out what's happening."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,000",
+				"to": "00:32:21,000"
+			},
+			"offsets": {
+				"from": 1937000,
+				"to": 1941000
+			},
+			"text": " But we'll need support. Signal the husband."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,000",
+				"to": "00:32:23,000"
+			},
+			"offsets": {
+				"from": 1941000,
+				"to": 1943000
+			},
+			"text": " Ahem."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,000",
+				"to": "00:32:29,000"
+			},
+			"offsets": {
+				"from": 1943000,
+				"to": 1949000
+			},
+			"text": " Ahem."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:29,000",
+				"to": "00:32:31,000"
+			},
+			"offsets": {
+				"from": 1949000,
+				"to": 1951000
+			},
+			"text": " Uh-oh."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:31,000",
+				"to": "00:32:33,000"
+			},
+			"offsets": {
+				"from": 1951000,
+				"to": 1953000
+			},
+			"text": " What did she say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,000",
+				"to": "00:32:35,000"
+			},
+			"offsets": {
+				"from": 1953000,
+				"to": 1955000
+			},
+			"text": " Well, oh, oh, sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,000",
+				"to": "00:32:37,000"
+			},
+			"offsets": {
+				"from": 1955000,
+				"to": 1957000
+			},
+			"text": " We left the toilet seat out."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,000",
+				"to": "00:32:39,000"
+			},
+			"offsets": {
+				"from": 1957000,
+				"to": 1959000
+			},
+			"text": " What?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,000",
+				"to": "00:32:41,000"
+			},
+			"offsets": {
+				"from": 1959000,
+				"to": 1961000
+			},
+			"text": " What is it, woman? What?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,000",
+				"to": "00:32:43,000"
+			},
+			"offsets": {
+				"from": 1961000,
+				"to": 1963000
+			},
+			"text": " I'm leaving my significant face in the office."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,000",
+				"to": "00:32:45,000"
+			},
+			"offsets": {
+				"from": 1963000,
+				"to": 1965000
+			},
+			"text": " Where are you going to work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,000",
+				"to": "00:33:14,980"
+			},
+			"offsets": {
+				"from": 1965000,
+				"to": 1994980
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,000",
+				"to": "00:33:18,000"
+			},
+			"offsets": {
+				"from": 1995000,
+				"to": 1998000
+			},
+			"text": " Oh, awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,000",
+				"to": "00:33:23,000"
+			},
+			"offsets": {
+				"from": 1998000,
+				"to": 2003000
+			},
+			"text": " There's no problem. Just leave me alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,000",
+				"to": "00:33:26,000"
+			},
+			"offsets": {
+				"from": 2003000,
+				"to": 2006000
+			},
+			"text": " There is a TEPCOM 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,000",
+				"to": "00:33:28,000"
+			},
+			"offsets": {
+				"from": 2006000,
+				"to": 2008000
+			},
+			"text": " TEPCOM 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:28,000",
+				"to": "00:33:40,000"
+			},
+			"offsets": {
+				"from": 2008000,
+				"to": 2020000
+			},
+			"text": " Here he comes. Prepare the foot."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:40,000",
+				"to": "00:33:43,000"
+			},
+			"offsets": {
+				"from": 2020000,
+				"to": 2023000
+			},
+			"text": " He's in the second position."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,000",
+				"to": "00:33:47,000"
+			},
+			"offsets": {
+				"from": 2023000,
+				"to": 2027000
+			},
+			"text": " We're in your command, sir."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,000",
+				"to": "00:33:50,000"
+			},
+			"offsets": {
+				"from": 2027000,
+				"to": 2030000
+			},
+			"text": " It's set up."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,000",
+				"to": "00:33:52,000"
+			},
+			"offsets": {
+				"from": 2030000,
+				"to": 2032000
+			},
+			"text": " Fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,000",
+				"to": "00:33:55,000"
+			},
+			"offsets": {
+				"from": 2032000,
+				"to": 2035000
+			},
+			"text": " That's it. Go to your room."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,000",
+				"to": "00:33:59,000"
+			},
+			"offsets": {
+				"from": 2035000,
+				"to": 2039000
+			},
+			"text": " Now."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,000",
+				"to": "00:34:03,000"
+			},
+			"offsets": {
+				"from": 2039000,
+				"to": 2043000
+			},
+			"text": " Foot down. The foot is down."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,000",
+				"to": "00:34:08,000"
+			},
+			"offsets": {
+				"from": 2043000,
+				"to": 2048000
+			},
+			"text": " Good job, gentlemen. That's been a disaster."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,000",
+				"to": "00:34:25,000"
+			},
+			"offsets": {
+				"from": 2048000,
+				"to": 2065000
+			},
+			"text": " That was supposed to be a much shorter clip. I sent him the wrong one, so you got to watch a lot of Inside Out."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,000",
+				"to": "00:34:32,000"
+			},
+			"offsets": {
+				"from": 2065000,
+				"to": 2072000
+			},
+			"text": " Now you have a very clear understanding of what happens when these two parts of the brain are disconnected."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:32,000",
+				"to": "00:34:44,000"
+			},
+			"offsets": {
+				"from": 2072000,
+				"to": 2084000
+			},
+			"text": " And of course, what is the one part of your brain that develops longest into up to your 21 years? The prefrontal cortex."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,000",
+				"to": "00:34:52,000"
+			},
+			"offsets": {
+				"from": 2084000,
+				"to": 2092000
+			},
+			"text": " So our children's brains, this part that calms them down, are developing right now, and it's being disconnected."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,000",
+				"to": "00:35:02,000"
+			},
+			"offsets": {
+				"from": 2092000,
+				"to": 2102000
+			},
+			"text": " But because God is incredible and amazing, research shows that just 72 hours away from your phone and these brain scans look different."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,000",
+				"to": "00:35:13,000"
+			},
+			"offsets": {
+				"from": 2102000,
+				"to": 2113000
+			},
+			"text": " So it's that dramatic what is happening to us. The reality is we need to let our nervous system detox."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,000",
+				"to": "00:35:17,000"
+			},
+			"offsets": {
+				"from": 2113000,
+				"to": 2117000
+			},
+			"text": " We were not designed by our Creator to be addicted to our phones."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,000",
+				"to": "00:35:22,000"
+			},
+			"offsets": {
+				"from": 2117000,
+				"to": 2122000
+			},
+			"text": " Remember what Romans 12:2 says, \"Do not be conformed any longer to the patterns of this world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,000",
+				"to": "00:35:30,000"
+			},
+			"offsets": {
+				"from": 2122000,
+				"to": 2130000
+			},
+			"text": " but be transformed by the renewing of your mind.\" If the world is discipling your mind more than God's voice is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,000",
+				"to": "00:35:35,000"
+			},
+			"offsets": {
+				"from": 2130000,
+				"to": 2135000
+			},
+			"text": " transformation will go in the other direction. What are the patterns of this world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,000",
+				"to": "00:35:41,000"
+			},
+			"offsets": {
+				"from": 2135000,
+				"to": 2141000
+			},
+			"text": " Comparison. You find yourself comparing yourself to others and constantly trying to figure out why you're better than them"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,000",
+				"to": "00:35:47,000"
+			},
+			"offsets": {
+				"from": 2141000,
+				"to": 2147000
+			},
+			"text": " or why they're better than you. Fear of missing out or FOMO. You constantly worry if I don't look at my phone,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,000",
+				"to": "00:35:55,000"
+			},
+			"offsets": {
+				"from": 2147000,
+				"to": 2155000
+			},
+			"text": " what am I missing out on? Identity, confusion, who you are, what your worth is, anxiety, depression, fear of the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,000",
+				"to": "00:36:00,000"
+			},
+			"offsets": {
+				"from": 2155000,
+				"to": 2160000
+			},
+			"text": " This is the patterns of the world that are constantly being thrown at us."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,000",
+				"to": "00:36:06,000"
+			},
+			"offsets": {
+				"from": 2160000,
+				"to": 2166000
+			},
+			"text": " Psalms 119:37 is like the theme of this four-week series."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,000",
+				"to": "00:36:13,000"
+			},
+			"offsets": {
+				"from": 2166000,
+				"to": 2173000
+			},
+			"text": " Turn my eyes away from worthless things. Preserve my life according to your word."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,000",
+				"to": "00:36:19,000"
+			},
+			"offsets": {
+				"from": 2173000,
+				"to": 2179000
+			},
+			"text": " God's design for us is face-to-face interaction, stillness, meditating on his word,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,000",
+				"to": "00:36:26,000"
+			},
+			"offsets": {
+				"from": 2179000,
+				"to": 2186000
+			},
+			"text": " allowing yourself to hear God's voice. How can we make this change?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,000",
+				"to": "00:36:33,000"
+			},
+			"offsets": {
+				"from": 2186000,
+				"to": 2193000
+			},
+			"text": " What if, instead of focusing on the fear of missing out, we desire the joy of missing out?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,000",
+				"to": "00:36:40,000"
+			},
+			"offsets": {
+				"from": 2193000,
+				"to": 2200000
+			},
+			"text": " What if we didn't always know what was going on? What if we didn't know what the coolest thing to wear was?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,000",
+				"to": "00:36:45,000"
+			},
+			"offsets": {
+				"from": 2200000,
+				"to": 2205000
+			},
+			"text": " What if we allowed ourselves a chance to turn off the noise and breathe?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,000",
+				"to": "00:36:56,000"
+			},
+			"offsets": {
+				"from": 2205000,
+				"to": 2216000
+			},
+			"text": " But what if you didn't have to carry the weight of the world on your shoulders and you went for a walk outside instead of looking at your phone?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,000",
+				"to": "00:37:01,000"
+			},
+			"offsets": {
+				"from": 2216000,
+				"to": 2221000
+			},
+			"text": " What if you read your Bible rather than looking at that news article? What if you gave your mind a soul and a moment to rest in God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,000",
+				"to": "00:37:07,000"
+			},
+			"offsets": {
+				"from": 2221000,
+				"to": 2227000
+			},
+			"text": " What if you prayed and asked God this anger that I feel in my soul? You show me what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,000",
+				"to": "00:37:13,000"
+			},
+			"offsets": {
+				"from": 2227000,
+				"to": 2233000
+			},
+			"text": " Maybe there's someone that you've been mad at for years, and rather than looking at a phone that's going to validate all that anger"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,000",
+				"to": "00:37:18,000"
+			},
+			"offsets": {
+				"from": 2233000,
+				"to": 2238000
+			},
+			"text": " and give you a lot of reasons to be angry. What if you said, \"You speak to me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,000",
+				"to": "00:37:23,000"
+			},
+			"offsets": {
+				"from": 2238000,
+				"to": 2243000
+			},
+			"text": " Maybe He'll give you the ability to look at that person differently than you ever have before."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:23,000",
+				"to": "00:37:28,000"
+			},
+			"offsets": {
+				"from": 2243000,
+				"to": 2248000
+			},
+			"text": " But if we have no time in our lives to hear God's voice, He can't open this up."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,000",
+				"to": "00:37:38,000"
+			},
+			"offsets": {
+				"from": 2248000,
+				"to": 2258000
+			},
+			"text": " And so we are stuck in this anxious, angry phase, just like the systems designed it to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,000",
+				"to": "00:37:49,000"
+			},
+			"offsets": {
+				"from": 2258000,
+				"to": 2269000
+			},
+			"text": " Psalms 46:10 says, \"Be still and know that I am God.\" What if we are still? Stillness is where we hear God, but stillness is disappearing."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:49,000",
+				"to": "00:37:57,000"
+			},
+			"offsets": {
+				"from": 2269000,
+				"to": 2277000
+			},
+			"text": " If every quiet moment is filled with checking your phone, watching something, or listening to something, we lose the ability to sit with God and hear His voice."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,000",
+				"to": "00:38:05,000"
+			},
+			"offsets": {
+				"from": 2277000,
+				"to": 2285000
+			},
+			"text": " Because anxiety loves noise, but peace grows in stillness."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,000",
+				"to": "00:38:17,000"
+			},
+			"offsets": {
+				"from": 2285000,
+				"to": 2297000
+			},
+			"text": " If this space feels uncomfortable now, as you're trying to make this transition, if you give this a shot and you go into it, it's going to feel uncomfortable."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,000",
+				"to": "00:38:23,000"
+			},
+			"offsets": {
+				"from": 2297000,
+				"to": 2303000
+			},
+			"text": " I was reading a research article, and it says that your brain has these super highways, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,000",
+				"to": "00:38:31,000"
+			},
+			"offsets": {
+				"from": 2303000,
+				"to": 2311000
+			},
+			"text": " It's the thing that we've always done. It's the path that it takes. And right now, for a lot of us, our super highway is, I'm bored, I'm going to look at my phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,000",
+				"to": "00:38:40,000"
+			},
+			"offsets": {
+				"from": 2311000,
+				"to": 2320000
+			},
+			"text": " But slowly, if you start to make a change, if you make that one step, you'll start to create a path in your brain that's really hard to go down."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:40,000",
+				"to": "00:38:51,000"
+			},
+			"offsets": {
+				"from": 2320000,
+				"to": 2331000
+			},
+			"text": " But every time you make the choice to not look at your phone, you take a brick from the super highway, and you put it on the path, and you start building this path"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,000",
+				"to": "00:39:00,000"
+			},
+			"offsets": {
+				"from": 2331000,
+				"to": 2340000
+			},
+			"text": " so that your brain's automatic resource is not to go down this cell phone path. You start to make a new path in your brain, and it takes time."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,000",
+				"to": "00:39:11,000"
+			},
+			"offsets": {
+				"from": 2340000,
+				"to": 2351000
+			},
+			"text": " And it's going to be harder than you think it is. Trust me. But every time you look away, you take a brick from your super highway, and you put it on the new path."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:11,000",
+				"to": "00:39:22,000"
+			},
+			"offsets": {
+				"from": 2351000,
+				"to": 2362000
+			},
+			"text": " Jesus is offering something different in our lives. John 14:27 says, \"Peace I leave you. My peace I give you. I do not give you what the world gives you.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,000",
+				"to": "00:39:29,000"
+			},
+			"offsets": {
+				"from": 2362000,
+				"to": 2369000
+			},
+			"text": " The world gives us noise. Jesus gives us peace. But peace requires space."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,000",
+				"to": "00:39:46,000"
+			},
+			"offsets": {
+				"from": 2369000,
+				"to": 2386000
+			},
+			"text": " So as a challenge, this week, ask yourself, \"What is forming me more? My screen and my savior.\" And take that one step. Take a brick out of your super highway and put it on a new path so that we can start to gain our lives back."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,000",
+				"to": "00:39:58,000"
+			},
+			"offsets": {
+				"from": 2386000,
+				"to": 2398000
+			},
+			"text": " These hours that our phones are taking are not what we were designed for. But God wants to take our lives back and give us peace. And like I said, the goal is not to get rid of technology forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,000",
+				"to": "00:40:13,560"
+			},
+			"offsets": {
+				"from": 2398000,
+				"to": 2413560
+			},
+			"text": " The goal is to get a realistic view of what it is doing to you and then gain your control back so you can enjoy it without it controlling your life. Let's pray. Dear Heavenly Father, I thank you so much for the things"
+		}
+	]
+}

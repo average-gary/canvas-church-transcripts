@@ -1,0 +1,5807 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 59980
+			},
+			"text": " Well, good morning. You guys having a good morning? My son was not in my house last night, so I slept like a baby. Feeling pretty energetic this morning, excited to be here. If we haven't had the privilege of meeting yet, my name is Ryan and I have the privilege of being one of the pastors here at"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,980",
+				"to": "00:01:29,960"
+			},
+			"offsets": {
+				"from": 59980,
+				"to": 89960
+			},
+			"text": " Canvas Community Church, where we believe inviting real people with real lives into a Christ-centered community. And today we are wrapping up a two-part series that we've done over the last eight weeks on the practice, the spiritual practice of building Christian community and then the spiritual practice of taking the community we've built and leveraging that for service into our community. And so it's been a fun eight weeks. Hopefully you've benefited from that. Hopefully you've worked hard to cultivate more relationships in smaller"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,960",
+				"to": "00:01:46,960"
+			},
+			"offsets": {
+				"from": 89960,
+				"to": 106960
+			},
+			"text": " groups. We talk a lot about getting out of rows and into circles that the church that we read about on the pages of Scripture did not look a whole lot like gathering in an auditorium, all of you facing one person, but it looked a whole lot more like sitting around a table, which we'll talk about more this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,960",
+				"to": "00:02:01,760"
+			},
+			"offsets": {
+				"from": 106960,
+				"to": 121760
+			},
+			"text": " So I do want to shout out a group of people that aren't here this morning. I do want to shout out a group of people that aren't here this morning. There are probably 30 to 40 of our most committed women who are at the ladies' retreat this morning. So hopefully we've been praying for them and excited to hear testimonies about what God has been doing in their lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,840",
+				"to": "00:02:16,860"
+			},
+			"offsets": {
+				"from": 121840,
+				"to": 136860
+			},
+			"text": " And also, I get home from church on Sundays, sit down on the couch, and eventually when I get to opening my phone, I always have notifications on Facebook from a few individuals that watch loyally and faithfully online."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,860",
+				"to": "00:02:24,020"
+			},
+			"offsets": {
+				"from": 136860,
+				"to": 144020
+			},
+			"text": " And so I just wanted to say good morning to you all online. Specifically, Pastor Matt's mom, Joan, is always online."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,200",
+				"to": "00:02:33,420"
+			},
+			"offsets": {
+				"from": 144200,
+				"to": 153420
+			},
+			"text": " She's always encouraging our community. And so I just, for whatever reason this morning, I felt like the Lord wanted me to say that we're glad you're part of our community, even though you can't make it in person."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,420",
+				"to": "00:02:41,760"
+			},
+			"offsets": {
+				"from": 153420,
+				"to": 161760
+			},
+			"text": " So, before I pray, I do want to briefly recap this last portion of the series we've been in with the idea of service."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,760",
+				"to": "00:02:50,540"
+			},
+			"offsets": {
+				"from": 161760,
+				"to": 170540
+			},
+			"text": " But I want to set it in its proper context, because I don't know that I've done the best job of communicating this over the past eight weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,760",
+				"to": "00:02:56,700"
+			},
+			"offsets": {
+				"from": 171760,
+				"to": 176700
+			},
+			"text": " But this series isn't just a, it's not just a theology about Christian service."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,700",
+				"to": "00:03:01,700"
+			},
+			"offsets": {
+				"from": 176700,
+				"to": 181700
+			},
+			"text": " It's not an overview of all the things the Bible has to say about Christian service."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,700",
+				"to": "00:03:04,500"
+			},
+			"offsets": {
+				"from": 181700,
+				"to": 184500
+			},
+			"text": " It's built on this series, Practicing the Way."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,500",
+				"to": "00:03:11,940"
+			},
+			"offsets": {
+				"from": 184500,
+				"to": 191940
+			},
+			"text": " And so what we're talking about, the last four weeks when we've been talking about service, we're talking about how to build the practice of service into your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,940",
+				"to": "00:03:17,700"
+			},
+			"offsets": {
+				"from": 191940,
+				"to": 197700
+			},
+			"text": " And so if I was going to give you an overview of everything the Bible had to say about service, I probably, we probably would have structured it differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,700",
+				"to": "00:03:22,600"
+			},
+			"offsets": {
+				"from": 197700,
+				"to": 202600
+			},
+			"text": " But we're structuring it around the idea that we want to be a people who don't just hear the word, but do the word."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,600",
+				"to": "00:03:28,700"
+			},
+			"offsets": {
+				"from": 202600,
+				"to": 208700
+			},
+			"text": " And so I don't want to just give you an intellectual overview of all the Bible has to say about service."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,700",
+				"to": "00:03:36,260"
+			},
+			"offsets": {
+				"from": 208700,
+				"to": 216260
+			},
+			"text": " I want to give you building blocks that you can begin to put in your life that will form you into a person that does Christ-like service."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,260",
+				"to": "00:03:37,240"
+			},
+			"offsets": {
+				"from": 216260,
+				"to": 217240
+			},
+			"text": " Does that make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,640",
+				"to": "00:03:50,920"
+			},
+			"offsets": {
+				"from": 217640,
+				"to": 230920
+			},
+			"text": " All right, so this is kind of the building blocks, the steps that we've said that you can begin to put into your life that I believe will, by the power of the Holy Spirit, transform you into a person of service."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,920",
+				"to": "00:03:57,220"
+			},
+			"offsets": {
+				"from": 230920,
+				"to": 237220
+			},
+			"text": " Again, because doing service apart from being a person who does service is not the point."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,220",
+				"to": "00:04:00,620"
+			},
+			"offsets": {
+				"from": 237220,
+				"to": 240620
+			},
+			"text": " We can go out and do religious activity and miss the point."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,620",
+				"to": "00:04:07,620"
+			},
+			"offsets": {
+				"from": 240620,
+				"to": 247620
+			},
+			"text": " So the first week we said that the practice of service starts first and foremost with cultivating a heart of service."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,620",
+				"to": "00:04:11,660"
+			},
+			"offsets": {
+				"from": 247620,
+				"to": 251660
+			},
+			"text": " That it has to be a fruit that comes out of us, not just an action that we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,660",
+				"to": "00:04:18,120"
+			},
+			"offsets": {
+				"from": 251660,
+				"to": 258120
+			},
+			"text": " We have to spend time alone by ourselves with the Lord, reminding ourselves of how the Lord has served us."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,120",
+				"to": "00:04:23,140"
+			},
+			"offsets": {
+				"from": 258120,
+				"to": 263140
+			},
+			"text": " If we are ever going to be a people that serve out of the overflow of what Jesus has done for us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,140",
+				"to": "00:04:31,360"
+			},
+			"offsets": {
+				"from": 263140,
+				"to": 271360
+			},
+			"text": " we first and foremost have to start by cultivating that fruit by the power of the Holy Spirit, spending time with the one who has served us."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,360",
+				"to": "00:04:41,820"
+			},
+			"offsets": {
+				"from": 271360,
+				"to": 281820
+			},
+			"text": " And then we move to serving those close to us in private because we said that service is one of those things where it's really easy to do the right thing for the wrong reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,820",
+				"to": "00:04:50,120"
+			},
+			"offsets": {
+				"from": 281820,
+				"to": 290120
+			},
+			"text": " And if you don't have this mature heart, if you don't have this place where you're not serving for accolades and for recognition,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,120",
+				"to": "00:04:57,180"
+			},
+			"offsets": {
+				"from": 290120,
+				"to": 297180
+			},
+			"text": " you can easily find yourself out over your skis serving in public and turning all of the glory that's supposed to be God's back on yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,180",
+				"to": "00:05:05,540"
+			},
+			"offsets": {
+				"from": 297180,
+				"to": 305540
+			},
+			"text": " And so we serve those close to us in private first so that we cultivate this heart of doing the right things for the right reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,540",
+				"to": "00:05:08,160"
+			},
+			"offsets": {
+				"from": 305540,
+				"to": 308160
+			},
+			"text": " And then we move out towards the public."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,160",
+				"to": "00:05:11,060"
+			},
+			"offsets": {
+				"from": 308160,
+				"to": 311060
+			},
+			"text": " We move out towards serving those that are far from us."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,060",
+				"to": "00:05:19,340"
+			},
+			"offsets": {
+				"from": 311060,
+				"to": 319340
+			},
+			"text": " And we do so, we can do so out of a heart for just these people, a burden for these people, not trying to get credit for anything,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,340",
+				"to": "00:05:22,800"
+			},
+			"offsets": {
+				"from": 319340,
+				"to": 322800
+			},
+			"text": " but just doing the thing that Jesus told us to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,800",
+				"to": "00:05:30,000"
+			},
+			"offsets": {
+				"from": 322800,
+				"to": 330000
+			},
+			"text": " And today we're really just going to recap kind of the last eight weeks, putting community and service as a practice together."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,000",
+				"to": "00:05:35,960"
+			},
+			"offsets": {
+				"from": 330000,
+				"to": 335960
+			},
+			"text": " And we're going to have a message on how the goal of serving others really is about cultivating the family of God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,020",
+				"to": "00:05:37,940"
+			},
+			"offsets": {
+				"from": 336020,
+				"to": 337940
+			},
+			"text": " both inside and outside the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,940",
+				"to": "00:05:40,700"
+			},
+			"offsets": {
+				"from": 337940,
+				"to": 340700
+			},
+			"text": " So that's where community and service come together."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,700",
+				"to": "00:05:43,760"
+			},
+			"offsets": {
+				"from": 340700,
+				"to": 343760
+			},
+			"text": " Community is about cultivating the family of God inside the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,760",
+				"to": "00:05:48,760"
+			},
+			"offsets": {
+				"from": 343760,
+				"to": 348760
+			},
+			"text": " And service is about going out to the margins, going out to people who don't have a family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,760",
+				"to": "00:05:52,920"
+			},
+			"offsets": {
+				"from": 348760,
+				"to": 352920
+			},
+			"text": " who are separated from God and bringing them into the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,920",
+				"to": "00:05:57,860"
+			},
+			"offsets": {
+				"from": 352920,
+				"to": 357860
+			},
+			"text": " It really starts in this private moment where you're cultivating a heart with God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,020",
+				"to": "00:06:03,540"
+			},
+			"offsets": {
+				"from": 358020,
+				"to": 363540
+			},
+			"text": " and then you're going outward and outward and outward until you're going out and you're grabbing people who are far from God"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,540",
+				"to": "00:06:08,380"
+			},
+			"offsets": {
+				"from": 363540,
+				"to": 368380
+			},
+			"text": " and you are loving them and serving them and you're inviting them to come back to the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,380",
+				"to": "00:06:09,220"
+			},
+			"offsets": {
+				"from": 368380,
+				"to": 369220
+			},
+			"text": " Does that make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,220",
+				"to": "00:06:11,880"
+			},
+			"offsets": {
+				"from": 369220,
+				"to": 371880
+			},
+			"text": " All right, so that's where we're headed this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,880",
+				"to": "00:06:16,100"
+			},
+			"offsets": {
+				"from": 371880,
+				"to": 376100
+			},
+			"text": " Let's pray and we will, I don't like to say get started because we already started."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,100",
+				"to": "00:06:17,440"
+			},
+			"offsets": {
+				"from": 376100,
+				"to": 377440
+			},
+			"text": " We will continue."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,440",
+				"to": "00:06:23,740"
+			},
+			"offsets": {
+				"from": 377440,
+				"to": 383740
+			},
+			"text": " Father in heaven, God, you are Abba."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,180",
+				"to": "00:06:24,940"
+			},
+			"offsets": {
+				"from": 384180,
+				"to": 384940
+			},
+			"text": " Father in heaven, God, you are our daddy."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,940",
+				"to": "00:06:32,260"
+			},
+			"offsets": {
+				"from": 384940,
+				"to": 392260
+			},
+			"text": " And we, oftentimes I lose sight of this family imagery."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,260",
+				"to": "00:06:35,360"
+			},
+			"offsets": {
+				"from": 392260,
+				"to": 395360
+			},
+			"text": " God, that you've invited me into your family."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,360",
+				"to": "00:06:42,500"
+			},
+			"offsets": {
+				"from": 395360,
+				"to": 402500
+			},
+			"text": " And as your son, I am deeply loved."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,500",
+				"to": "00:06:48,300"
+			},
+			"offsets": {
+				"from": 402500,
+				"to": 408300
+			},
+			"text": " And everyone in this room who has come under the lordship of Jesus has been adopted into the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,300",
+				"to": "00:06:52,340"
+			},
+			"offsets": {
+				"from": 408300,
+				"to": 412340
+			},
+			"text": " They are sons and daughters and they are deeply, deeply loved."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,340",
+				"to": "00:06:55,020"
+			},
+			"offsets": {
+				"from": 412340,
+				"to": 415020
+			},
+			"text": " And there is nothing they can do to have that taken away from them."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,020",
+				"to": "00:07:01,220"
+			},
+			"offsets": {
+				"from": 415020,
+				"to": 421220
+			},
+			"text": " And those of us who have received that desperately want those of us, those who haven't yet received it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,220",
+				"to": "00:07:06,100"
+			},
+			"offsets": {
+				"from": 421220,
+				"to": 426100
+			},
+			"text": " to taste and see that the Lord is good and that they have a papa, they have an Abba in heaven"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,100",
+				"to": "00:07:10,460"
+			},
+			"offsets": {
+				"from": 426100,
+				"to": 430460
+			},
+			"text": " who loves them and who wants them to sit at the table of the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,460",
+				"to": "00:07:16,980"
+			},
+			"offsets": {
+				"from": 430460,
+				"to": 436980
+			},
+			"text": " And so God, for those of us who have tasted and seen, for those of us who have a seat at the table in God's family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,980",
+				"to": "00:07:22,720"
+			},
+			"offsets": {
+				"from": 436980,
+				"to": 442720
+			},
+			"text": " may we be a people who cultivate living like we are family members of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,720",
+				"to": "00:07:31,800"
+			},
+			"offsets": {
+				"from": 442720,
+				"to": 451800
+			},
+			"text": " And as we cultivate that, may we go out and love others who are not yet at the table and welcome them to the table for your glory,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,800",
+				"to": "00:07:33,920"
+			},
+			"offsets": {
+				"from": 451800,
+				"to": 453920
+			},
+			"text": " for our good, and for the good of our neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,920",
+				"to": "00:07:35,500"
+			},
+			"offsets": {
+				"from": 453920,
+				"to": 455500
+			},
+			"text": " In Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,500",
+				"to": "00:07:36,340"
+			},
+			"offsets": {
+				"from": 455500,
+				"to": 456340
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,800",
+				"to": "00:07:43,660"
+			},
+			"offsets": {
+				"from": 457800,
+				"to": 463660
+			},
+			"text": " If you want to follow along with me, we're pretty much going to be covering one verse this morning in Romans chapter 12, verse 13."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,660",
+				"to": "00:07:48,160"
+			},
+			"offsets": {
+				"from": 463660,
+				"to": 468160
+			},
+			"text": " It'll be on the screen if you don't have a Bible, but if you want to look around at the context while I'm talking"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,160",
+				"to": "00:07:51,820"
+			},
+			"offsets": {
+				"from": 468160,
+				"to": 471820
+			},
+			"text": " and play around with the text yourself, you can do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,820",
+				"to": "00:07:56,680"
+			},
+			"offsets": {
+				"from": 471820,
+				"to": 476680
+			},
+			"text": " A few years ago, actually, it's probably more than a few years ago now."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,680",
+				"to": "00:08:01,500"
+			},
+			"offsets": {
+				"from": 476680,
+				"to": 481500
+			},
+			"text": " It feels like a few years ago, but Marissa and I saved up some money and leveraged some credit card points."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,500",
+				"to": "00:08:03,900"
+			},
+			"offsets": {
+				"from": 481500,
+				"to": 483900
+			},
+			"text": " Don't hit me, Dave Ramsey people, don't do it, all right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,900",
+				"to": "00:08:10,480"
+			},
+			"offsets": {
+				"from": 483900,
+				"to": 490480
+			},
+			"text": " I don't carry a balance, but, you know, we leveraged some credit card points, and I went on my first ever cruise."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,480",
+				"to": "00:08:11,820"
+			},
+			"offsets": {
+				"from": 490480,
+				"to": 491820
+			},
+			"text": " How many cruise people are in the room?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,820",
+				"to": "00:08:14,960"
+			},
+			"offsets": {
+				"from": 491820,
+				"to": 494960
+			},
+			"text": " All right, cruise people are pretty passionate about cruises."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,960",
+				"to": "00:08:15,900"
+			},
+			"offsets": {
+				"from": 494960,
+				"to": 495900
+			},
+			"text": " I've only been on one."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,900",
+				"to": "00:08:19,560"
+			},
+			"offsets": {
+				"from": 495900,
+				"to": 499560
+			},
+			"text": " I really enjoyed it, but it was a lovely experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,560",
+				"to": "00:08:24,660"
+			},
+			"offsets": {
+				"from": 499560,
+				"to": 504660
+			},
+			"text": " Lots of sitting by pools, singing karaoke, winning the shipwide bocce ball tournament."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,660",
+				"to": "00:08:26,300"
+			},
+			"offsets": {
+				"from": 504660,
+				"to": 506300
+			},
+			"text": " I know, thank you, thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,300",
+				"to": "00:08:30,160"
+			},
+			"offsets": {
+				"from": 506300,
+				"to": 510160
+			},
+			"text": " There was like seven people that showed up to it, but I won."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,260",
+				"to": "00:08:33,780"
+			},
+			"offsets": {
+				"from": 510260,
+				"to": 513780
+			},
+			"text": " It was awesome, and I ate lots and lots of cheeseburgers."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,780",
+				"to": "00:08:37,560"
+			},
+			"offsets": {
+				"from": 513780,
+				"to": 517560
+			},
+			"text": " It was a week of relaxation where I didn't have to think about anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,560",
+				"to": "00:08:38,700"
+			},
+			"offsets": {
+				"from": 517560,
+				"to": 518700
+			},
+			"text": " That's the thing I love about cruises."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,700",
+				"to": "00:08:39,660"
+			},
+			"offsets": {
+				"from": 518700,
+				"to": 519660
+			},
+			"text": " You don't have to think about anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,660",
+				"to": "00:08:41,240"
+			},
+			"offsets": {
+				"from": 519660,
+				"to": 521240
+			},
+			"text": " It's all done for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,240",
+				"to": "00:08:44,820"
+			},
+			"offsets": {
+				"from": 521240,
+				"to": 524820
+			},
+			"text": " Like, literally, you just sit and the place moves."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,820",
+				"to": "00:08:46,360"
+			},
+			"offsets": {
+				"from": 524820,
+				"to": 526360
+			},
+			"text": " You're sitting on a moving thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,360",
+				"to": "00:08:48,700"
+			},
+			"offsets": {
+				"from": 526360,
+				"to": 528700
+			},
+			"text": " It's moving to the place that you need to go to."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,700",
+				"to": "00:08:49,620"
+			},
+			"offsets": {
+				"from": 528700,
+				"to": 529620
+			},
+			"text": " You don't have to do anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,620",
+				"to": "00:08:55,140"
+			},
+			"offsets": {
+				"from": 529620,
+				"to": 535140
+			},
+			"text": " And so I just really didn't have to think about anything at all,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,140",
+				"to": "00:08:58,820"
+			},
+			"offsets": {
+				"from": 535140,
+				"to": 538820
+			},
+			"text": " and there was one particular thing that I guarantee you I was not thinking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,880",
+				"to": "00:09:00,000"
+			},
+			"offsets": {
+				"from": 538880,
+				"to": 540000
+			},
+			"text": " I think we have a picture of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,000",
+				"to": "00:09:02,660"
+			},
+			"offsets": {
+				"from": 540000,
+				"to": 542660
+			},
+			"text": " This is the rudder of the ship."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,660",
+				"to": "00:09:07,960"
+			},
+			"offsets": {
+				"from": 542660,
+				"to": 547960
+			},
+			"text": " I can tell you with certainty that the entire week I was on the cruise ship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,960",
+				"to": "00:09:11,520"
+			},
+			"offsets": {
+				"from": 547960,
+				"to": 551520
+			},
+			"text": " I did not think about the rudder of the ship one single time."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,520",
+				"to": "00:09:17,180"
+			},
+			"offsets": {
+				"from": 551520,
+				"to": 557180
+			},
+			"text": " Seemingly small and insignificant component of the ship is one of the primary tools that"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:17,180",
+				"to": "00:09:19,540"
+			},
+			"offsets": {
+				"from": 557180,
+				"to": 559540
+			},
+			"text": " actually allowed me to have the experience that I had."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,540",
+				"to": "00:09:24,480"
+			},
+			"offsets": {
+				"from": 559540,
+				"to": 564480
+			},
+			"text": " I didn't think about it at all because, like, I was just doing my thing, living my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,480",
+				"to": "00:09:31,460"
+			},
+			"offsets": {
+				"from": 564480,
+				"to": 571460
+			},
+			"text": " But if that thing was not functioning, if it was not there, I would not have been able to have the experience I had."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,460",
+				"to": "00:09:33,140"
+			},
+			"offsets": {
+				"from": 571460,
+				"to": 573140
+			},
+			"text": " The pools and the food were great."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,140",
+				"to": "00:09:38,880"
+			},
+			"offsets": {
+				"from": 573140,
+				"to": 578880
+			},
+			"text": " But if I found out that this was not there, they quickly would have lost their appeal"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,880",
+				"to": "00:09:41,100"
+			},
+			"offsets": {
+				"from": 578880,
+				"to": 581100
+			},
+			"text": " because we would have been adrift at sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,760",
+				"to": "00:09:49,140"
+			},
+			"offsets": {
+				"from": 581760,
+				"to": 589140
+			},
+			"text": " And I feel like many of us have heard illustrations similar to this where something small and seemingly insignificant can have a tremendous impact."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,060",
+				"to": "00:09:54,760"
+			},
+			"offsets": {
+				"from": 590060,
+				"to": 594760
+			},
+			"text": " And as I prepared for today's sermon, I was struck by the fact that in many ways,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,760",
+				"to": "00:09:58,500"
+			},
+			"offsets": {
+				"from": 594760,
+				"to": 598500
+			},
+			"text": " I think this is how the early Christian table functioned."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,500",
+				"to": "00:10:05,980"
+			},
+			"offsets": {
+				"from": 598500,
+				"to": 605980
+			},
+			"text": " It was the table of the early Christians where they cultivated community and where they sent themselves out on service."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,120",
+				"to": "00:10:14,040"
+			},
+			"offsets": {
+				"from": 606120,
+				"to": 614040
+			},
+			"text": " That literally turned the world upside down, a table, a meeting place for a meal is something small and simple and feels common."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,040",
+				"to": "00:10:20,700"
+			},
+			"offsets": {
+				"from": 614040,
+				"to": 620700
+			},
+			"text": " And yet it played a massive role in how the early church lived out the mission of God to the world around them."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,700",
+				"to": "00:10:22,100"
+			},
+			"offsets": {
+				"from": 620700,
+				"to": 622100
+			},
+			"text": " I heard one scholar say it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,100",
+				"to": "00:10:27,100"
+			},
+			"offsets": {
+				"from": 622100,
+				"to": 627100
+			},
+			"text": " The early church conquered the Roman world, not with swords, but with a table."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,380",
+				"to": "00:10:40,660"
+			},
+			"offsets": {
+				"from": 629380,
+				"to": 640660
+			},
+			"text": " And I think that there's something that we can recapture in this idea that we as a community of believers are called together around a place of fellowship, a place of communion."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,660",
+				"to": "00:10:44,940"
+			},
+			"offsets": {
+				"from": 640660,
+				"to": 644940
+			},
+			"text": " And as we cultivate the values of the kingdom of God in small settings,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,940",
+				"to": "00:10:50,960"
+			},
+			"offsets": {
+				"from": 644940,
+				"to": 650960
+			},
+			"text": " we take those values out to the places that God has sent us on service and on mission to Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,960",
+				"to": "00:10:56,360"
+			},
+			"offsets": {
+				"from": 650960,
+				"to": 656360
+			},
+			"text": " And so what I want to do this morning with the rest of our time is I want to look at three specific tables"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,360",
+				"to": "00:11:02,740"
+			},
+			"offsets": {
+				"from": 656360,
+				"to": 662740
+			},
+			"text": " that I believe helped the early church move people from strangers to neighbors and from neighbors to family."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,740",
+				"to": "00:11:06,380"
+			},
+			"offsets": {
+				"from": 662740,
+				"to": 666380
+			},
+			"text": " I'll say that again for those of you that like to take notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,380",
+				"to": "00:11:11,220"
+			},
+			"offsets": {
+				"from": 666380,
+				"to": 671220
+			},
+			"text": " That was a real, that was a good point in my outline where you guys were like, man, that was good."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,220",
+				"to": "00:11:13,940"
+			},
+			"offsets": {
+				"from": 671220,
+				"to": 673940
+			},
+			"text": " And I didn't hear any mm's or any amens."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,940",
+				"to": "00:11:14,820"
+			},
+			"offsets": {
+				"from": 673940,
+				"to": 674820
+			},
+			"text": " I didn't hear anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,820",
+				"to": "00:11:15,940"
+			},
+			"offsets": {
+				"from": 674820,
+				"to": 675940
+			},
+			"text": " I was like, come on, people."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,940",
+				"to": "00:11:19,620"
+			},
+			"offsets": {
+				"from": 675940,
+				"to": 679620
+			},
+			"text": " Tables have the power to change the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,620",
+				"to": "00:11:24,420"
+			},
+			"offsets": {
+				"from": 679620,
+				"to": 684420
+			},
+			"text": " And I think we're going to look this morning at three tables that helped the early church move from strangers to neighbors"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,420",
+				"to": "00:11:26,460"
+			},
+			"offsets": {
+				"from": 684420,
+				"to": 686460
+			},
+			"text": " and from neighbors to family."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,460",
+				"to": "00:11:27,360"
+			},
+			"offsets": {
+				"from": 686460,
+				"to": 687360
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,360",
+				"to": "00:11:28,380"
+			},
+			"offsets": {
+				"from": 687360,
+				"to": 688380
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,380",
+				"to": "00:11:35,120"
+			},
+			"offsets": {
+				"from": 688380,
+				"to": 695120
+			},
+			"text": " The table was a primary place where Christians were formed and expressed their values."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,120",
+				"to": "00:11:38,520"
+			},
+			"offsets": {
+				"from": 695120,
+				"to": 698520
+			},
+			"text": " Another scholar named Alan Street says it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,520",
+				"to": "00:11:45,040"
+			},
+			"offsets": {
+				"from": 698520,
+				"to": 705040
+			},
+			"text": " Early Christian meals provided the venue for reading scripture and apostolic correspondence."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,040",
+				"to": "00:11:47,940"
+			},
+			"offsets": {
+				"from": 705040,
+				"to": 707940
+			},
+			"text": " These gatherings were more than devotional exercises."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,940",
+				"to": "00:11:51,860"
+			},
+			"offsets": {
+				"from": 707940,
+				"to": 711860
+			},
+			"text": " They were covenantal meals of instruction and identity formation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,600",
+				"to": "00:11:57,660"
+			},
+			"offsets": {
+				"from": 712600,
+				"to": 717660
+			},
+			"text": " So my argument here is that these tables, these places where Christians gather together in smaller settings,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,660",
+				"to": "00:12:02,560"
+			},
+			"offsets": {
+				"from": 717660,
+				"to": 722560
+			},
+			"text": " it is the place where we learn to actually live out our identity as citizens of the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,560",
+				"to": "00:12:08,660"
+			},
+			"offsets": {
+				"from": 722560,
+				"to": 728660
+			},
+			"text": " Like there's only so much we can do in this room to form us into the image of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,660",
+				"to": "00:12:14,280"
+			},
+			"offsets": {
+				"from": 728660,
+				"to": 734280
+			},
+			"text": " There's only so much we can do in this room where I can point out the areas in which we are being deformed from the image of Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,280",
+				"to": "00:12:17,480"
+			},
+			"offsets": {
+				"from": 734280,
+				"to": 737480
+			},
+			"text": " and formed into the patterns of the culture of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,700",
+				"to": "00:12:22,140"
+			},
+			"offsets": {
+				"from": 737700,
+				"to": 742140
+			},
+			"text": " But it's around a table and especially in the Roman world, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,140",
+				"to": "00:12:27,960"
+			},
+			"offsets": {
+				"from": 742140,
+				"to": 747960
+			},
+			"text": " Like these Roman, these Christians in the Roman world, they were working constantly, long days"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,960",
+				"to": "00:12:31,680"
+			},
+			"offsets": {
+				"from": 747960,
+				"to": 751680
+			},
+			"text": " and everything about their life was ruled by the Roman Empire."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,680",
+				"to": "00:12:35,140"
+			},
+			"offsets": {
+				"from": 751680,
+				"to": 755140
+			},
+			"text": " It was these meals around the table where they were able to sit back"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,140",
+				"to": "00:12:38,740"
+			},
+			"offsets": {
+				"from": 755140,
+				"to": 758740
+			},
+			"text": " and they were able to have control over what it was that they valued."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,740",
+				"to": "00:12:41,940"
+			},
+			"offsets": {
+				"from": 758740,
+				"to": 761940
+			},
+			"text": " That their values were upside down to the values of the Roman world."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,940",
+				"to": "00:12:47,140"
+			},
+			"offsets": {
+				"from": 761940,
+				"to": 767140
+			},
+			"text": " And they were going to live as citizens of the kingdom of God around this table because they were in charge of this table."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,140",
+				"to": "00:12:51,640"
+			},
+			"offsets": {
+				"from": 767140,
+				"to": 771640
+			},
+			"text": " Rome was in charge of everything else, but they were in charge of the Christian table."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,640",
+				"to": "00:12:56,620"
+			},
+			"offsets": {
+				"from": 771640,
+				"to": 776620
+			},
+			"text": " And they were going to live as if the kingdom of value was coming to earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,800",
+				"to": "00:12:58,940"
+			},
+			"offsets": {
+				"from": 776800,
+				"to": 778940
+			},
+			"text": " So, Romans chapter 12, verse 13."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,940",
+				"to": "00:13:02,600"
+			},
+			"offsets": {
+				"from": 778940,
+				"to": 782600
+			},
+			"text": " Let me find it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,600",
+				"to": "00:13:03,380"
+			},
+			"offsets": {
+				"from": 782600,
+				"to": 783380
+			},
+			"text": " There it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,380",
+				"to": "00:13:10,940"
+			},
+			"offsets": {
+				"from": 783380,
+				"to": 790940
+			},
+			"text": " Paul says, share with the Lord's people who are in need and practice hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,940",
+				"to": "00:13:16,740"
+			},
+			"offsets": {
+				"from": 790940,
+				"to": 796740
+			},
+			"text": " Share with the Lord's people who are in need and practice hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,740",
+				"to": "00:13:25,700"
+			},
+			"offsets": {
+				"from": 796740,
+				"to": 805700
+			},
+			"text": " And it's in this verse where I think we find the first two tables that we are intended to leverage for the kingdom of God on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,700",
+				"to": "00:13:28,820"
+			},
+			"offsets": {
+				"from": 805700,
+				"to": 808820
+			},
+			"text": " And I would say the first table is this, the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,820",
+				"to": "00:13:33,800"
+			},
+			"offsets": {
+				"from": 808820,
+				"to": 813800
+			},
+			"text": " And you might be thinking to yourself, Ryan, I don't see the word fellowship in this verse anywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,800",
+				"to": "00:13:36,260"
+			},
+			"offsets": {
+				"from": 813800,
+				"to": 816260
+			},
+			"text": " And if you are thinking that, that's good."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,260",
+				"to": "00:13:41,000"
+			},
+			"offsets": {
+				"from": 816260,
+				"to": 821000
+			},
+			"text": " You should be thinking critically about what I'm telling you and make sure that what I'm telling you is actually biblical, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,000",
+				"to": "00:13:42,900"
+			},
+			"offsets": {
+				"from": 821000,
+				"to": 822900
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,900",
+				"to": "00:13:44,260"
+			},
+			"offsets": {
+				"from": 822900,
+				"to": 824260
+			},
+			"text": " All right, good, good, good, good."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,740",
+				"to": "00:13:49,500"
+			},
+			"offsets": {
+				"from": 825740,
+				"to": 829500
+			},
+			"text": " So, you're right that you would not see the word fellowship anywhere in here."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,500",
+				"to": "00:13:53,180"
+			},
+			"offsets": {
+				"from": 829500,
+				"to": 833180
+			},
+			"text": " But this word in verse 13, share with the Lord's people who are in need."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,180",
+				"to": "00:13:55,760"
+			},
+			"offsets": {
+				"from": 833180,
+				"to": 835760
+			},
+			"text": " The Greek word finds its root in the word koinonia."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,760",
+				"to": "00:14:01,680"
+			},
+			"offsets": {
+				"from": 835760,
+				"to": 841680
+			},
+			"text": " And those of you that grow up in church know that koinonia means fellowship."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,680",
+				"to": "00:14:02,740"
+			},
+			"offsets": {
+				"from": 841680,
+				"to": 842740
+			},
+			"text": " There we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,740",
+				"to": "00:14:05,080"
+			},
+			"offsets": {
+				"from": 842740,
+				"to": 845080
+			},
+			"text": " And so, it's this idea."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,080",
+				"to": "00:14:10,820"
+			},
+			"offsets": {
+				"from": 845080,
+				"to": 850820
+			},
+			"text": " And fellowship is a thing that we do in church really well, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,820",
+				"to": "00:14:15,540"
+			},
+			"offsets": {
+				"from": 850820,
+				"to": 855540
+			},
+			"text": " We have fellowship halls where we all gather together."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,740",
+				"to": "00:14:17,300"
+			},
+			"offsets": {
+				"from": 855740,
+				"to": 857300
+			},
+			"text": " And we get really deep."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,300",
+				"to": "00:14:19,140"
+			},
+			"offsets": {
+				"from": 857300,
+				"to": 859140
+			},
+			"text": " And we talk about our sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,140",
+				"to": "00:14:21,720"
+			},
+			"offsets": {
+				"from": 859140,
+				"to": 861720
+			},
+			"text": " And we talk about what the Lord's doing in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,720",
+				"to": "00:14:23,320"
+			},
+			"offsets": {
+				"from": 861720,
+				"to": 863320
+			},
+			"text": " And we hold each other accountable."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,320",
+				"to": "00:14:31,120"
+			},
+			"offsets": {
+				"from": 863320,
+				"to": 871120
+			},
+			"text": " Or do we just talk about sports and the weather and, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,120",
+				"to": "00:14:33,540"
+			},
+			"offsets": {
+				"from": 871120,
+				"to": 873540
+			},
+			"text": " Chick-fil-A being closed on Sunday."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,540",
+				"to": "00:14:34,880"
+			},
+			"offsets": {
+				"from": 873540,
+				"to": 874880
+			},
+			"text": " I really want some today."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,880",
+				"to": "00:14:35,620"
+			},
+			"offsets": {
+				"from": 874880,
+				"to": 875620
+			},
+			"text": " And I can't."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,500",
+				"to": "00:14:41,860"
+			},
+			"offsets": {
+				"from": 876500,
+				"to": 881860
+			},
+			"text": " And so, there's this idea, this deep connection idea with the word fellowship."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:41,860",
+				"to": "00:14:47,340"
+			},
+			"offsets": {
+				"from": 881860,
+				"to": 887340
+			},
+			"text": " And Kent McKay has done at least two sermons on the idea of fellowship that you can find online."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,340",
+				"to": "00:14:49,420"
+			},
+			"offsets": {
+				"from": 887340,
+				"to": 889420
+			},
+			"text": " I would encourage you to do so."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,000",
+				"to": "00:14:56,480"
+			},
+			"offsets": {
+				"from": 890000,
+				"to": 896480
+			},
+			"text": " But what I want to get at here is that this verse that Paul is saying, share with the Lord's people who are in need."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,480",
+				"to": "00:15:04,480"
+			},
+			"offsets": {
+				"from": 896480,
+				"to": 904480
+			},
+			"text": " I don't know about you, but when I read that at first glance, it's like, okay, like, if I have a brother who doesn't have enough money for food, I'm going to feed him."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:04,520",
+				"to": "00:15:06,340"
+			},
+			"offsets": {
+				"from": 904520,
+				"to": 906340
+			},
+			"text": " And I'm going to take care of those needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,340",
+				"to": "00:15:22,380"
+			},
+			"offsets": {
+				"from": 906340,
+				"to": 922380
+			},
+			"text": " But when we look at the idea of koinonia, this word, this deep-rooted word for fellowship, for a sharing participation in, we realize that what Paul is saying here is way more than just giving somebody a handout when they're in need."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,480",
+				"to": "00:15:25,980"
+			},
+			"offsets": {
+				"from": 922480,
+				"to": 925980
+			},
+			"text": " Upon further pondering, the point that Paul is trying to get across here is much deeper."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,980",
+				"to": "00:15:33,660"
+			},
+			"offsets": {
+				"from": 925980,
+				"to": 933660
+			},
+			"text": " As followers of Jesus, we literally are being invited to have an active participation in the needs of our brothers and sisters."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,660",
+				"to": "00:15:35,860"
+			},
+			"offsets": {
+				"from": 933660,
+				"to": 935860
+			},
+			"text": " This is what true fellowship is."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,860",
+				"to": "00:15:50,180"
+			},
+			"offsets": {
+				"from": 935860,
+				"to": 950180
+			},
+			"text": " This is how we cultivate fellowship around the table, is that you gather together with a group of people, and you as a follower of Jesus, with other followers of Jesus, are committed to actively sharing and participating in the needs of other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,820",
+				"to": "00:15:59,540"
+			},
+			"offsets": {
+				"from": 951820,
+				"to": 959540
+			},
+			"text": " And again, I don't know about you, but this has not been my experience with things that we call fellowship in the Christian world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,540",
+				"to": "00:16:09,880"
+			},
+			"offsets": {
+				"from": 959540,
+				"to": 969880
+			},
+			"text": " Like, we're literally called to see our brothers and sisters as family, and when your family is in need, you drop everything you have going on to meet those needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,880",
+				"to": "00:16:16,840"
+			},
+			"offsets": {
+				"from": 969880,
+				"to": 976840
+			},
+			"text": " And that is the type of fellowship that Paul is inviting his brothers and sisters in Christ to cultivate around their tables."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,840",
+				"to": "00:16:21,520"
+			},
+			"offsets": {
+				"from": 976840,
+				"to": 981520
+			},
+			"text": " As they gather together in smaller settings around tables, which was church for many of these people."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,820",
+				"to": "00:16:26,560"
+			},
+			"offsets": {
+				"from": 981820,
+				"to": 986560
+			},
+			"text": " Like I said, church for the first century world wasn't sitting in rows and looking at one person."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,560",
+				"to": "00:16:36,460"
+			},
+			"offsets": {
+				"from": 986560,
+				"to": 996460
+			},
+			"text": " It was gathering together around a table to break the body of the bread, which represents Christ's body, and to drink the wine, which represents his blood."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:37,760",
+				"to": "00:16:46,840"
+			},
+			"offsets": {
+				"from": 997760,
+				"to": 1006840
+			},
+			"text": " So, as Christians, when we pursue fellowship, are we pursuing an active participation in the joys and sorrows of our brothers and sisters?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,480",
+				"to": "00:16:50,240"
+			},
+			"offsets": {
+				"from": 1007480,
+				"to": 1010240
+			},
+			"text": " In the needs and provisions of our brothers and sisters?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:50,240",
+				"to": "00:16:55,540"
+			},
+			"offsets": {
+				"from": 1010240,
+				"to": 1015540
+			},
+			"text": " Or are we just looking for a fun social hang with people who share the same values as us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,540",
+				"to": "00:17:07,120"
+			},
+			"offsets": {
+				"from": 1015540,
+				"to": 1027120
+			},
+			"text": " Because I can tell you one thing, and that is fun social hangouts with people who share the same values as you is not what turned the Roman world upside down,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,120",
+				"to": "00:17:09,340"
+			},
+			"offsets": {
+				"from": 1027120,
+				"to": 1029340
+			},
+			"text": " and it will not turn our culture upside down."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:10,060",
+				"to": "00:17:16,500"
+			},
+			"offsets": {
+				"from": 1030060,
+				"to": 1036500
+			},
+			"text": " We have plenty of places where you can meet together and have fun social get-togethers with people who have shared values as you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,500",
+				"to": "00:17:20,660"
+			},
+			"offsets": {
+				"from": 1036500,
+				"to": 1040660
+			},
+			"text": " That is not the thing that Paul is talking about here."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,660",
+				"to": "00:17:21,700"
+			},
+			"offsets": {
+				"from": 1040660,
+				"to": 1041700
+			},
+			"text": " And the Romans had it, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,700",
+				"to": "00:17:26,020"
+			},
+			"offsets": {
+				"from": 1041700,
+				"to": 1046020
+			},
+			"text": " The Romans had these guild meetings where they would gather together with people in their same trade,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,020",
+				"to": "00:17:29,980"
+			},
+			"offsets": {
+				"from": 1046020,
+				"to": 1049980
+			},
+			"text": " with people who looked like them, talked like them, people in their same socioeconomic status."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,980",
+				"to": "00:17:31,500"
+			},
+			"offsets": {
+				"from": 1049980,
+				"to": 1051500
+			},
+			"text": " They had meals around a table."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,500",
+				"to": "00:17:32,880"
+			},
+			"offsets": {
+				"from": 1051500,
+				"to": 1052880
+			},
+			"text": " They would sacrifice to gods."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,880",
+				"to": "00:17:35,680"
+			},
+			"offsets": {
+				"from": 1052880,
+				"to": 1055680
+			},
+			"text": " They would do everything the early church was doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,680",
+				"to": "00:17:44,540"
+			},
+			"offsets": {
+				"from": 1055680,
+				"to": 1064540
+			},
+			"text": " But the thing that made the early church unique is that they brought an extremely diverse group of people together in one family unit around a table."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,540",
+				"to": "00:17:49,700"
+			},
+			"offsets": {
+				"from": 1064540,
+				"to": 1069700
+			},
+			"text": " And that family unit intentionally worked to meet the needs of those around them."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,700",
+				"to": "00:17:52,640"
+			},
+			"offsets": {
+				"from": 1069700,
+				"to": 1072640
+			},
+			"text": " It was part of who they were as a family."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,640",
+				"to": "00:17:59,140"
+			},
+			"offsets": {
+				"from": 1072640,
+				"to": 1079140
+			},
+			"text": " They brought together the poor, the widow, and the orphan with the wealthy, important person in the culture,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,140",
+				"to": "00:18:02,060"
+			},
+			"offsets": {
+				"from": 1079140,
+				"to": 1082060
+			},
+			"text": " and they all sat together at the same table."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,060",
+				"to": "00:18:06,740"
+			},
+			"offsets": {
+				"from": 1082060,
+				"to": 1086740
+			},
+			"text": " Nowhere else in the Roman world would people have seen what was being done around the Christian table."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,740",
+				"to": "00:18:14,200"
+			},
+			"offsets": {
+				"from": 1086740,
+				"to": 1094200
+			},
+			"text": " Individuals from wildly different ethnicities, genders, and economic statuses were sitting together as equal partners at a meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,200",
+				"to": "00:18:16,080"
+			},
+			"offsets": {
+				"from": 1094200,
+				"to": 1096080
+			},
+			"text": " This was unheard of."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,840",
+				"to": "00:18:25,160"
+			},
+			"offsets": {
+				"from": 1097840,
+				"to": 1105160
+			},
+			"text": " And on top of just that image of Jew and Gentile, slave and free, male and female, all gathering together, rich and poor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,160",
+				"to": "00:18:28,420"
+			},
+			"offsets": {
+				"from": 1105160,
+				"to": 1108420
+			},
+			"text": " all gathering together around one table to share a meal."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,420",
+				"to": "00:18:34,820"
+			},
+			"offsets": {
+				"from": 1108420,
+				"to": 1114820
+			},
+			"text": " On top of that, the leaders of these groups, like Paul, had the audacity to command the wealthy participants"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,820",
+				"to": "00:18:40,880"
+			},
+			"offsets": {
+				"from": 1114820,
+				"to": 1120880
+			},
+			"text": " to go out of their way to sacrificially serve and actively participate in the needs of those with lower statuses."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,540",
+				"to": "00:18:43,740"
+			},
+			"offsets": {
+				"from": 1122540,
+				"to": 1123740
+			},
+			"text": " This is fellowship."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,740",
+				"to": "00:18:47,460"
+			},
+			"offsets": {
+				"from": 1123740,
+				"to": 1127460
+			},
+			"text": " This is the fellowship table that Paul is inviting Christians to cultivate."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,460",
+				"to": "00:18:57,900"
+			},
+			"offsets": {
+				"from": 1127460,
+				"to": 1137900
+			},
+			"text": " Around the Christian fellowship table, the wealthy Jewish Roman citizen would have had more in common with a Greek slave"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:57,900",
+				"to": "00:19:03,300"
+			},
+			"offsets": {
+				"from": 1137900,
+				"to": 1143300
+			},
+			"text": " who claimed the name of Jesus than a Roman neighbor of the same socioeconomic status."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,920",
+				"to": "00:19:08,480"
+			},
+			"offsets": {
+				"from": 1144920,
+				"to": 1148480
+			},
+			"text": " And my question for us is, is this how we view the kingdom of God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,480",
+				"to": "00:19:14,300"
+			},
+			"offsets": {
+				"from": 1148480,
+				"to": 1154300
+			},
+			"text": " Do we view our brothers and sisters in Christ as family?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,300",
+				"to": "00:19:19,320"
+			},
+			"offsets": {
+				"from": 1154300,
+				"to": 1159320
+			},
+			"text": " That we are going to actively participate in their needs and their joys and their suffering?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,320",
+				"to": "00:19:20,640"
+			},
+			"offsets": {
+				"from": 1159320,
+				"to": 1160640
+			},
+			"text": " That when they weep, we weep."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,640",
+				"to": "00:19:22,120"
+			},
+			"offsets": {
+				"from": 1160640,
+				"to": 1162120
+			},
+			"text": " That when they rejoice, we rejoice."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,120",
+				"to": "00:19:24,580"
+			},
+			"offsets": {
+				"from": 1162120,
+				"to": 1164580
+			},
+			"text": " Are we cultivating this fellowship table?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,580",
+				"to": "00:19:26,680"
+			},
+			"offsets": {
+				"from": 1164580,
+				"to": 1166680
+			},
+			"text": " And we can't do it with everyone in this room."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,680",
+				"to": "00:19:28,020"
+			},
+			"offsets": {
+				"from": 1166680,
+				"to": 1168020
+			},
+			"text": " This is why we talk about small groups."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:28,020",
+				"to": "00:19:29,220"
+			},
+			"offsets": {
+				"from": 1168020,
+				"to": 1169220
+			},
+			"text": " This is why we talk about house churches."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,220",
+				"to": "00:19:33,600"
+			},
+			"offsets": {
+				"from": 1169220,
+				"to": 1173600
+			},
+			"text": " This is why we talk about being in life-on-life fellowship with brothers and sisters."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,600",
+				"to": "00:19:41,240"
+			},
+			"offsets": {
+				"from": 1173600,
+				"to": 1181240
+			},
+			"text": " But are you cultivating this type of table where you are gathered around a diverse group of people"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:41,240",
+				"to": "00:19:46,660"
+			},
+			"offsets": {
+				"from": 1181240,
+				"to": 1186660
+			},
+			"text": " with different ideologies and thoughts and feelings about the election"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,660",
+				"to": "00:19:49,720"
+			},
+			"offsets": {
+				"from": 1186660,
+				"to": 1189720
+			},
+			"text": " and different thoughts and feelings about what's going on in this world"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,720",
+				"to": "00:19:53,160"
+			},
+			"offsets": {
+				"from": 1189720,
+				"to": 1193160
+			},
+			"text": " from different economic statuses and genders and ethnicities?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,160",
+				"to": "00:19:55,660"
+			},
+			"offsets": {
+				"from": 1193160,
+				"to": 1195660
+			},
+			"text": " Are we working towards this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,660",
+				"to": "00:19:57,620"
+			},
+			"offsets": {
+				"from": 1195660,
+				"to": 1197620
+			},
+			"text": " It won't happen overnight."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,620",
+				"to": "00:19:58,620"
+			},
+			"offsets": {
+				"from": 1197620,
+				"to": 1198620
+			},
+			"text": " It won't be easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,460",
+				"to": "00:20:04,380"
+			},
+			"offsets": {
+				"from": 1201460,
+				"to": 1204380
+			},
+			"text": " But this is fellowship."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,380",
+				"to": "00:20:08,300"
+			},
+			"offsets": {
+				"from": 1204380,
+				"to": 1208300
+			},
+			"text": " This is the family of God around a table."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,300",
+				"to": "00:20:14,480"
+			},
+			"offsets": {
+				"from": 1208300,
+				"to": 1214480
+			},
+			"text": " And I just can't help but wonder, I heard, Corey and I were talking the other day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,480",
+				"to": "00:20:16,120"
+			},
+			"offsets": {
+				"from": 1214480,
+				"to": 1216120
+			},
+			"text": " and I think it was him that used this term."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,120",
+				"to": "00:20:17,660"
+			},
+			"offsets": {
+				"from": 1216120,
+				"to": 1217660
+			},
+			"text": " I don't know if he was quoting somebody else."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:17,660",
+				"to": "00:20:22,200"
+			},
+			"offsets": {
+				"from": 1217660,
+				"to": 1222200
+			},
+			"text": " But in the same way, in the same way that a wealthy Jewish Roman citizen"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,200",
+				"to": "00:20:26,280"
+			},
+			"offsets": {
+				"from": 1222200,
+				"to": 1226280
+			},
+			"text": " has more in common with a Greek slave who claims the name of Jesus than their Roman neighbor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:26,280",
+				"to": "00:20:30,820"
+			},
+			"offsets": {
+				"from": 1226280,
+				"to": 1230820
+			},
+			"text": " I think we as Christians, we have to acknowledge the fact that we have more in common"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,820",
+				"to": "00:20:35,800"
+			},
+			"offsets": {
+				"from": 1230820,
+				"to": 1235800
+			},
+			"text": " with our minority brothers and sisters in Christ who are in places in the world"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,800",
+				"to": "00:20:39,800"
+			},
+			"offsets": {
+				"from": 1235800,
+				"to": 1239800
+			},
+			"text": " that are being persecuted for their faith, who don't look like us, don't talk like us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,800",
+				"to": "00:20:40,600"
+			},
+			"offsets": {
+				"from": 1239800,
+				"to": 1240600
+			},
+			"text": " don't act like us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,600",
+				"to": "00:20:42,400"
+			},
+			"offsets": {
+				"from": 1240600,
+				"to": 1242400
+			},
+			"text": " They are our brothers and sisters in Christ,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,400",
+				"to": "00:20:45,620"
+			},
+			"offsets": {
+				"from": 1242400,
+				"to": 1245620
+			},
+			"text": " and we should have more in common with them than we do with the person,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,620",
+				"to": "00:20:47,960"
+			},
+			"offsets": {
+				"from": 1245620,
+				"to": 1247960
+			},
+			"text": " the atheist that lives right down the street,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,960",
+				"to": "00:20:51,520"
+			},
+			"offsets": {
+				"from": 1247960,
+				"to": 1251520
+			},
+			"text": " that has the same ideology as us, that grew up in the same culture as we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,520",
+				"to": "00:20:58,520"
+			},
+			"offsets": {
+				"from": 1251520,
+				"to": 1258520
+			},
+			"text": " Like this is fellowship and active participation in the lives of the brothers and sisters in Christ around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,520",
+				"to": "00:21:04,480"
+			},
+			"offsets": {
+				"from": 1258520,
+				"to": 1264480
+			},
+			"text": " And imagine for me just one second how attractive this table would have looked"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,480",
+				"to": "00:21:09,280"
+			},
+			"offsets": {
+				"from": 1264480,
+				"to": 1269280
+			},
+			"text": " to those outside the church who did not have cultural privilege or power."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,280",
+				"to": "00:21:15,320"
+			},
+			"offsets": {
+				"from": 1269280,
+				"to": 1275320
+			},
+			"text": " Imagine if you were a Greek slave who your entire life,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,320",
+				"to": "00:21:18,140"
+			},
+			"offsets": {
+				"from": 1275320,
+				"to": 1278140
+			},
+			"text": " the Jews have looked down on you, the Romans have looked down on you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,140",
+				"to": "00:21:22,600"
+			},
+			"offsets": {
+				"from": 1278140,
+				"to": 1282600
+			},
+			"text": " all day long, every day you were being mistreated, taken advantage of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,600",
+				"to": "00:21:27,260"
+			},
+			"offsets": {
+				"from": 1282600,
+				"to": 1287260
+			},
+			"text": " viewed as second-class citizen, and you're on your way home after a long day's work,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,260",
+				"to": "00:21:29,120"
+			},
+			"offsets": {
+				"from": 1287260,
+				"to": 1289120
+			},
+			"text": " and you look over and you see a table,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,120",
+				"to": "00:21:34,500"
+			},
+			"offsets": {
+				"from": 1289120,
+				"to": 1294500
+			},
+			"text": " and you just keep walking by because you know nobody at that table is gonna look at you"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:34,500",
+				"to": "00:21:36,800"
+			},
+			"offsets": {
+				"from": 1294500,
+				"to": 1296800
+			},
+			"text": " as if that you are an equal partner around the table,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,800",
+				"to": "00:21:39,960"
+			},
+			"offsets": {
+				"from": 1296800,
+				"to": 1299960
+			},
+			"text": " and then you take a second glance and you see a Greek slave"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:39,960",
+				"to": "00:21:44,500"
+			},
+			"offsets": {
+				"from": 1299960,
+				"to": 1304500
+			},
+			"text": " and someone with wealthy status, a male and a female,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,500",
+				"to": "00:21:46,520"
+			},
+			"offsets": {
+				"from": 1304500,
+				"to": 1306520
+			},
+			"text": " and they're all sitting together around a table."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,520",
+				"to": "00:21:51,140"
+			},
+			"offsets": {
+				"from": 1306520,
+				"to": 1311140
+			},
+			"text": " Could you imagine what that might have done in the imagination of this person"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,140",
+				"to": "00:21:53,460"
+			},
+			"offsets": {
+				"from": 1311140,
+				"to": 1313460
+			},
+			"text": " who has been told their whole lives that they are worth nothing"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,460",
+				"to": "00:21:58,400"
+			},
+			"offsets": {
+				"from": 1313460,
+				"to": 1318400
+			},
+			"text": " and they are not welcome in any of the places that others are?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,400",
+				"to": "00:22:02,240"
+			},
+			"offsets": {
+				"from": 1318400,
+				"to": 1322240
+			},
+			"text": " I don't know about you, but it sounds to me like the early church understood"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,240",
+				"to": "00:22:05,480"
+			},
+			"offsets": {
+				"from": 1322240,
+				"to": 1325480
+			},
+			"text": " the commission of the Sermon on the Mount a bit better than I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,480",
+				"to": "00:22:12,980"
+			},
+			"offsets": {
+				"from": 1325480,
+				"to": 1332980
+			},
+			"text": " Because their community, their fellowship actually looked like the application of the Sermon on the Mount."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,380",
+				"to": "00:22:18,400"
+			},
+			"offsets": {
+				"from": 1333380,
+				"to": 1338400
+			},
+			"text": " Blessed are those who are poor, blessed are those who are needy, blessed are those who are taken advantage of."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,400",
+				"to": "00:22:24,880"
+			},
+			"offsets": {
+				"from": 1338400,
+				"to": 1344880
+			},
+			"text": " This is how they began to live out the values of the kingdom of God that are expressed in the Sermon on the Mount."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,880",
+				"to": "00:22:31,000"
+			},
+			"offsets": {
+				"from": 1344880,
+				"to": 1351000
+			},
+			"text": " And I don't know about you, but I look at my fellowship tables, and they don't always look like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,000",
+				"to": "00:22:40,960"
+			},
+			"offsets": {
+				"from": 1352000,
+				"to": 1360960
+			},
+			"text": " And this is Paul's invitation to us to spend our lives cultivating this type of fellowship"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,960",
+				"to": "00:22:45,440"
+			},
+			"offsets": {
+				"from": 1360960,
+				"to": 1365440
+			},
+			"text": " that shares with the Lord's people who are in need."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,440",
+				"to": "00:22:50,920"
+			},
+			"offsets": {
+				"from": 1365440,
+				"to": 1370920
+			},
+			"text": " Maybe this passage doesn't mean a whole lot to us because a lot of the people that we are doing life with"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:50,920",
+				"to": "00:22:51,940"
+			},
+			"offsets": {
+				"from": 1370920,
+				"to": 1371940
+			},
+			"text": " don't have many needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,940",
+				"to": "00:22:59,540"
+			},
+			"offsets": {
+				"from": 1371940,
+				"to": 1379540
+			},
+			"text": " And maybe the problem with that is we are not viewing the people that God says"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,540",
+				"to": "00:23:02,960"
+			},
+			"offsets": {
+				"from": 1379540,
+				"to": 1382960
+			},
+			"text": " are valuable in the kingdom of God as valuable in the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:03,580",
+				"to": "00:23:12,940"
+			},
+			"offsets": {
+				"from": 1383580,
+				"to": 1392940
+			},
+			"text": " And this is where community and service come together."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,940",
+				"to": "00:23:25,680"
+			},
+			"offsets": {
+				"from": 1392940,
+				"to": 1405680
+			},
+			"text": " Are we building familial relationships with a diverse group of people across ethnicities and socioeconomic statuses?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,680",
+				"to": "00:23:28,160"
+			},
+			"offsets": {
+				"from": 1405680,
+				"to": 1408160
+			},
+			"text": " Is that something that we are actively pursuing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:28,160",
+				"to": "00:23:33,620"
+			},
+			"offsets": {
+				"from": 1408160,
+				"to": 1413620
+			},
+			"text": " Are we looking for ways to actively participate in the needs of our brothers and sisters in Christ,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,620",
+				"to": "00:23:35,240"
+			},
+			"offsets": {
+				"from": 1413620,
+				"to": 1415240
+			},
+			"text": " physical, emotional, and spiritual?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,240",
+				"to": "00:23:39,400"
+			},
+			"offsets": {
+				"from": 1415240,
+				"to": 1419400
+			},
+			"text": " And here's another big one for us as Americans."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,400",
+				"to": "00:23:45,700"
+			},
+			"offsets": {
+				"from": 1419400,
+				"to": 1425700
+			},
+			"text": " Are we willing to humble ourselves and allow our brothers and sisters to meet our needs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,700",
+				"to": "00:23:49,820"
+			},
+			"offsets": {
+				"from": 1425700,
+				"to": 1429820
+			},
+			"text": " Are we allowing our brothers and sisters to wash our feet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,820",
+				"to": "00:23:53,860"
+			},
+			"offsets": {
+				"from": 1429820,
+				"to": 1433860
+			},
+			"text": " And for me, that's one of the most impactful things about the threefold service."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,080",
+				"to": "00:23:59,880"
+			},
+			"offsets": {
+				"from": 1435080,
+				"to": 1439880
+			},
+			"text": " It's not, it's hard, but it's not that hard to get down on my knees and to wash somebody else's feet."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,880",
+				"to": "00:24:05,560"
+			},
+			"offsets": {
+				"from": 1439880,
+				"to": 1445560
+			},
+			"text": " The thing that is hard for me is when somebody taps me on the shoulder and says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,560",
+				"to": "00:24:07,360"
+			},
+			"offsets": {
+				"from": 1445560,
+				"to": 1447360
+			},
+			"text": " take your shoes off, I'm washing your feet."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,360",
+				"to": "00:24:12,200"
+			},
+			"offsets": {
+				"from": 1447360,
+				"to": 1452200
+			},
+			"text": " And I'm like, no, no thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,200",
+				"to": "00:24:15,900"
+			},
+			"offsets": {
+				"from": 1452200,
+				"to": 1455900
+			},
+			"text": " But here's the thing, the math doesn't work there."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,900",
+				"to": "00:24:19,340"
+			},
+			"offsets": {
+				"from": 1455900,
+				"to": 1459340
+			},
+			"text": " You wanna come to the threefold service?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,340",
+				"to": "00:24:20,500"
+			},
+			"offsets": {
+				"from": 1459340,
+				"to": 1460500
+			},
+			"text": " You wanna wash people's feet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,500",
+				"to": "00:24:21,900"
+			},
+			"offsets": {
+				"from": 1460500,
+				"to": 1461900
+			},
+			"text": " You don't wanna get your feet washed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,900",
+				"to": "00:24:24,480"
+			},
+			"offsets": {
+				"from": 1461900,
+				"to": 1464480
+			},
+			"text": " If that was all of us, it'd be a pretty lame service"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,480",
+				"to": "00:24:27,440"
+			},
+			"offsets": {
+				"from": 1464480,
+				"to": 1467440
+			},
+			"text": " Twofold."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,440",
+				"to": "00:24:28,660"
+			},
+			"offsets": {
+				"from": 1467440,
+				"to": 1468660
+			},
+			"text": " That's right, mom."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,660",
+				"to": "00:24:30,360"
+			},
+			"offsets": {
+				"from": 1468660,
+				"to": 1470360
+			},
+			"text": " It's a twofold service at that point."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,360",
+				"to": "00:24:32,120"
+			},
+			"offsets": {
+				"from": 1470360,
+				"to": 1472120
+			},
+			"text": " She taught me math."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,120",
+				"to": "00:24:33,080"
+			},
+			"offsets": {
+				"from": 1472120,
+				"to": 1473080
+			},
+			"text": " I should have got that before."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,080",
+				"to": "00:24:39,680"
+			},
+			"offsets": {
+				"from": 1473080,
+				"to": 1479680
+			},
+			"text": " And this is the Christian table that has the power to turn the world upside down,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,680",
+				"to": "00:24:42,220"
+			},
+			"offsets": {
+				"from": 1479680,
+				"to": 1482220
+			},
+			"text": " where we view each other as family."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,220",
+				"to": "00:24:47,120"
+			},
+			"offsets": {
+				"from": 1482220,
+				"to": 1487120
+			},
+			"text": " And because of that, we do whatever it takes to actively participate in the needs of our brothers and sisters."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,060",
+				"to": "00:24:55,040"
+			},
+			"offsets": {
+				"from": 1489060,
+				"to": 1495040
+			},
+			"text": " And again, this is where the community and the service, they join together."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:55,040",
+				"to": "00:25:01,640"
+			},
+			"offsets": {
+				"from": 1495040,
+				"to": 1501640
+			},
+			"text": " Because like I said, if our tables are filled with only people who look like us, talk like us, act like us, who don't have that many needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:03,980",
+				"to": "00:25:08,980"
+			},
+			"offsets": {
+				"from": 1503980,
+				"to": 1508980
+			},
+			"text": " Then maybe, just maybe, we're called to do what the second part of this verse says."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,980",
+				"to": "00:25:16,420"
+			},
+			"offsets": {
+				"from": 1508980,
+				"to": 1516420
+			},
+			"text": " And we're called to go out from our communities to people who don't have a family, who are marginalized, who are powerless."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,420",
+				"to": "00:25:19,660"
+			},
+			"offsets": {
+				"from": 1516420,
+				"to": 1519660
+			},
+			"text": " And maybe it's our call to invite them to come into our family."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:20,320",
+				"to": "00:25:22,280"
+			},
+			"offsets": {
+				"from": 1520320,
+				"to": 1522280
+			},
+			"text": " So that there are needs to be met."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,280",
+				"to": "00:25:29,020"
+			},
+			"offsets": {
+				"from": 1522280,
+				"to": 1529020
+			},
+			"text": " So that we can take the blessings that the Lord has given us and we can serve others in that way."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,020",
+				"to": "00:25:32,500"
+			},
+			"offsets": {
+				"from": 1529020,
+				"to": 1532500
+			},
+			"text": " So verse 13, share with the Lord's people who are in need fellowship table, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:32,500",
+				"to": "00:25:36,500"
+			},
+			"offsets": {
+				"from": 1532500,
+				"to": 1536500
+			},
+			"text": " Like actively participate in the needs of your brothers and sisters in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,500",
+				"to": "00:25:39,560"
+			},
+			"offsets": {
+				"from": 1536500,
+				"to": 1539560
+			},
+			"text": " This is very clearly a command for Christians and Christians."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,560",
+				"to": "00:25:43,500"
+			},
+			"offsets": {
+				"from": 1539560,
+				"to": 1543500
+			},
+			"text": " It's how brothers and sisters are called to treat one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,840",
+				"to": "00:25:50,100"
+			},
+			"offsets": {
+				"from": 1543840,
+				"to": 1550100
+			},
+			"text": " And the second part of the verse, he says, practice hospitality, which gets us to our second table, the host table."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,100",
+				"to": "00:25:59,140"
+			},
+			"offsets": {
+				"from": 1550100,
+				"to": 1559140
+			},
+			"text": " And again, one of those hospitality is one of those words like fellowship, where we've taken it and made it mean something that it doesn't actually mean in the Bible."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,140",
+				"to": "00:26:03,840"
+			},
+			"offsets": {
+				"from": 1559140,
+				"to": 1563840
+			},
+			"text": " When we talk about fellowship, we think about Joanna Gaines, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,840",
+				"to": "00:26:05,340"
+			},
+			"offsets": {
+				"from": 1563840,
+				"to": 1565340
+			},
+			"text": " Anybody else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,340",
+				"to": "00:26:06,360"
+			},
+			"offsets": {
+				"from": 1565340,
+				"to": 1566360
+			},
+			"text": " Or sorry, hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,360",
+				"to": "00:26:07,900"
+			},
+			"offsets": {
+				"from": 1566360,
+				"to": 1567900
+			},
+			"text": " Talk about hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,900",
+				"to": "00:26:09,280"
+			},
+			"offsets": {
+				"from": 1567900,
+				"to": 1569280
+			},
+			"text": " Anybody else think about Joanna Gaines?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,280",
+				"to": "00:26:13,600"
+			},
+			"offsets": {
+				"from": 1569280,
+				"to": 1573600
+			},
+			"text": " Anybody else thinking about the Hearth and Heather section in Target?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,600",
+				"to": "00:26:14,360"
+			},
+			"offsets": {
+				"from": 1573600,
+				"to": 1574360
+			},
+			"text": " Am I the only one?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,360",
+				"to": "00:26:16,800"
+			},
+			"offsets": {
+				"from": 1574360,
+				"to": 1576800
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,800",
+				"to": "00:26:21,660"
+			},
+			"offsets": {
+				"from": 1576800,
+				"to": 1581660
+			},
+			"text": " Oftentimes in Christian circles, we talk about hospitality and it's how Christians treat other Christians."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:21,660",
+				"to": "00:26:23,420"
+			},
+			"offsets": {
+				"from": 1581660,
+				"to": 1583420
+			},
+			"text": " It's welcoming them into their home."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,420",
+				"to": "00:26:24,880"
+			},
+			"offsets": {
+				"from": 1583420,
+				"to": 1584880
+			},
+			"text": " It's like, hey, the house is clean."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,880",
+				"to": "00:26:26,160"
+			},
+			"offsets": {
+				"from": 1584880,
+				"to": 1586160
+			},
+			"text": " I lit some candles."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,160",
+				"to": "00:26:27,900"
+			},
+			"offsets": {
+				"from": 1586160,
+				"to": 1587900
+			},
+			"text": " I got a charcuterie board."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,900",
+				"to": "00:26:28,760"
+			},
+			"offsets": {
+				"from": 1587900,
+				"to": 1588760
+			},
+			"text": " It's going to be great."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,760",
+				"to": "00:26:29,440"
+			},
+			"offsets": {
+				"from": 1588760,
+				"to": 1589440
+			},
+			"text": " We're going to sit around."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,440",
+				"to": "00:26:30,380"
+			},
+			"offsets": {
+				"from": 1589440,
+				"to": 1590380
+			},
+			"text": " We're going to talk about Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,380",
+				"to": "00:26:32,440"
+			},
+			"offsets": {
+				"from": 1590380,
+				"to": 1592440
+			},
+			"text": " I got the gift of hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,440",
+				"to": "00:26:37,200"
+			},
+			"offsets": {
+				"from": 1592440,
+				"to": 1597200
+			},
+			"text": " That's not what the Bible means when it says hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,200",
+				"to": "00:26:41,540"
+			},
+			"offsets": {
+				"from": 1597200,
+				"to": 1601540
+			},
+			"text": " The Greek word for hospitality is actually phyloxenia."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,540",
+				"to": "00:26:43,240"
+			},
+			"offsets": {
+				"from": 1601540,
+				"to": 1603240
+			},
+			"text": " Literally translated."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,360",
+				"to": "00:26:45,440"
+			},
+			"offsets": {
+				"from": 1603360,
+				"to": 1605440
+			},
+			"text": " It means love of stranger."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,440",
+				"to": "00:26:54,060"
+			},
+			"offsets": {
+				"from": 1605440,
+				"to": 1614060
+			},
+			"text": " So Paul is very clearly moving from a command for Christians to treat other Christians by actively participating in their needs of others."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,720",
+				"to": "00:26:59,660"
+			},
+			"offsets": {
+				"from": 1614720,
+				"to": 1619660
+			},
+			"text": " And he moves from Christians treating Christians to how Christians are called to treat strangers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,660",
+				"to": "00:27:03,400"
+			},
+			"offsets": {
+				"from": 1619660,
+				"to": 1623400
+			},
+			"text": " This is people outside of the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,400",
+				"to": "00:27:06,900"
+			},
+			"offsets": {
+				"from": 1623400,
+				"to": 1626900
+			},
+			"text": " Paul says we have a priority to take care of one another within the household of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,900",
+				"to": "00:27:08,100"
+			},
+			"offsets": {
+				"from": 1626900,
+				"to": 1628100
+			},
+			"text": " Starts with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,100",
+				"to": "00:27:10,540"
+			},
+			"offsets": {
+				"from": 1628100,
+				"to": 1630540
+			},
+			"text": " There should never be needs among us in the household of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,680",
+				"to": "00:27:13,360"
+			},
+			"offsets": {
+				"from": 1630680,
+				"to": 1633360
+			},
+			"text": " But as we are meeting the needs of others in the household of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,360",
+				"to": "00:27:24,760"
+			},
+			"offsets": {
+				"from": 1633360,
+				"to": 1644760
+			},
+			"text": " On top of that, we need to be going out from this table, from the fellowship table, out and creating a table of hospitality that welcomes people who are outside of the family of God to the family of God with no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,200",
+				"to": "00:27:30,140"
+			},
+			"offsets": {
+				"from": 1646200,
+				"to": 1650140
+			},
+			"text": " This also isn't just about a handout that meets a temporary physical need."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,140",
+				"to": "00:27:35,280"
+			},
+			"offsets": {
+				"from": 1650140,
+				"to": 1655280
+			},
+			"text": " It's literally familial love of stranger."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,020",
+				"to": "00:27:43,000"
+			},
+			"offsets": {
+				"from": 1656020,
+				"to": 1663000
+			},
+			"text": " If you're loving a stranger like family, it doesn't mean you're going to go out and give them a cup of soup and walk away and not even ask their name."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:44,760",
+				"to": "00:27:50,780"
+			},
+			"offsets": {
+				"from": 1664760,
+				"to": 1670780
+			},
+			"text": " Love of stranger, family love of stranger means cultivating a heart where you treat strangers like family."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,780",
+				"to": "00:27:53,920"
+			},
+			"offsets": {
+				"from": 1670780,
+				"to": 1673920
+			},
+			"text": " This is the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,920",
+				"to": "00:27:56,420"
+			},
+			"offsets": {
+				"from": 1673920,
+				"to": 1676420
+			},
+			"text": " This is the invitation of the Christian."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,420",
+				"to": "00:28:01,440"
+			},
+			"offsets": {
+				"from": 1676420,
+				"to": 1681440
+			},
+			"text": " It's not about meeting the physical need only."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,440",
+				"to": "00:28:06,800"
+			},
+			"offsets": {
+				"from": 1681440,
+				"to": 1686800
+			},
+			"text": " It's about cultivating a loving relationship that treats these image bearers of God with dignity and worth."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,800",
+				"to": "00:28:10,020"
+			},
+			"offsets": {
+				"from": 1686800,
+				"to": 1690020
+			},
+			"text": " It means we meet practical and relational needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:10,020",
+				"to": "00:28:13,720"
+			},
+			"offsets": {
+				"from": 1690020,
+				"to": 1693720
+			},
+			"text": " Christian hospitality looks less like Joanna Gaines and more like Mother Teresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,760",
+				"to": "00:28:19,880"
+			},
+			"offsets": {
+				"from": 1694760,
+				"to": 1699880
+			},
+			"text": " This is what we are called to cultivate as Christians in service."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,880",
+				"to": "00:28:23,360"
+			},
+			"offsets": {
+				"from": 1699880,
+				"to": 1703360
+			},
+			"text": " So we don't just go to the soup kitchen once a month."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,360",
+				"to": "00:28:30,660"
+			},
+			"offsets": {
+				"from": 1703360,
+				"to": 1710660
+			},
+			"text": " We go to the soup kitchen and we sit down across the table from those we just served and we ask them their name."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,660",
+				"to": "00:28:33,040"
+			},
+			"offsets": {
+				"from": 1710660,
+				"to": 1713040
+			},
+			"text": " And we ask them their story."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,040",
+				"to": "00:28:34,600"
+			},
+			"offsets": {
+				"from": 1713040,
+				"to": 1714600
+			},
+			"text": " And we just listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,600",
+				"to": "00:28:43,400"
+			},
+			"offsets": {
+				"from": 1714600,
+				"to": 1723400
+			},
+			"text": " We have this thing, I don't know, I feel like church culture, we have this way of thinking about people inside the church and people outside the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:44,760",
+				"to": "00:28:52,500"
+			},
+			"offsets": {
+				"from": 1724760,
+				"to": 1732500
+			},
+			"text": " And hospitality is, we're called to view those outside the church as people that God wants to sit down at the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,500",
+				"to": "00:28:58,540"
+			},
+			"offsets": {
+				"from": 1732500,
+				"to": 1738540
+			},
+			"text": " Like the goal of the hospitality table is to move people from the hospitality table to the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,540",
+				"to": "00:29:04,240"
+			},
+			"offsets": {
+				"from": 1738540,
+				"to": 1744240
+			},
+			"text": " It's to treat them like family with no strings attached, inviting them to sit down at the family table."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:04,320",
+				"to": "00:29:08,240"
+			},
+			"offsets": {
+				"from": 1744320,
+				"to": 1748240
+			},
+			"text": " They are welcome here through the body and blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,240",
+				"to": "00:29:15,780"
+			},
+			"offsets": {
+				"from": 1748240,
+				"to": 1755780
+			},
+			"text": " And much of Christian service that I have seen in the past is primarily transactional, it's not relational."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,780",
+				"to": "00:29:21,060"
+			},
+			"offsets": {
+				"from": 1755780,
+				"to": 1761060
+			},
+			"text": " Especially Christian service to those outside of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,060",
+				"to": "00:29:23,580"
+			},
+			"offsets": {
+				"from": 1761060,
+				"to": 1763580
+			},
+			"text": " We go and we meet a need and we walk away."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,700",
+				"to": "00:29:32,960"
+			},
+			"offsets": {
+				"from": 1764700,
+				"to": 1772960
+			},
+			"text": " And what Paul here is inviting us to around the table of hospitality is not just relational, or it's not just transactional, it's relational."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,960",
+				"to": "00:29:39,040"
+			},
+			"offsets": {
+				"from": 1772960,
+				"to": 1779040
+			},
+			"text": " It's not service provider, service recipient relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,040",
+				"to": "00:29:44,780"
+			},
+			"offsets": {
+				"from": 1779040,
+				"to": 1784780
+			},
+			"text": " And I think a lot of times that's how we treat service to those outside the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,780",
+				"to": "00:29:49,000"
+			},
+			"offsets": {
+				"from": 1784780,
+				"to": 1789000
+			},
+			"text": " I'm coming to serve you, you're gonna receive service for me, I'm gonna meet a need for you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,000",
+				"to": "00:29:53,820"
+			},
+			"offsets": {
+				"from": 1789000,
+				"to": 1793820
+			},
+			"text": " and then I'm gonna move on and forget about you until I sign up for my next Christian service project."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,820",
+				"to": "00:29:58,880"
+			},
+			"offsets": {
+				"from": 1793820,
+				"to": 1798880
+			},
+			"text": " And what we're invited to is much more than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,880",
+				"to": "00:30:03,460"
+			},
+			"offsets": {
+				"from": 1798880,
+				"to": 1803460
+			},
+			"text": " It's not transactional, it's relational."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,460",
+				"to": "00:30:07,940"
+			},
+			"offsets": {
+				"from": 1803460,
+				"to": 1807940
+			},
+			"text": " It's not out of a heart of duty, but it's out of a heart of love."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,940",
+				"to": "00:30:13,200"
+			},
+			"offsets": {
+				"from": 1807940,
+				"to": 1813200
+			},
+			"text": " The goal is not just meeting a physical need, the goal is relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,660",
+				"to": "00:30:20,440"
+			},
+			"offsets": {
+				"from": 1813660,
+				"to": 1820440
+			},
+			"text": " And I don't know how this is sitting with all of you, but this is not how I have viewed my Christian service for most of my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,440",
+				"to": "00:30:22,700"
+			},
+			"offsets": {
+				"from": 1820440,
+				"to": 1822700
+			},
+			"text": " And I'm not crushing it right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,700",
+				"to": "00:30:29,900"
+			},
+			"offsets": {
+				"from": 1822700,
+				"to": 1829900
+			},
+			"text": " And so if this is heavy on you, it is heavy on me, but I'm just telling you that this is the invitation that changes the world, that turns the world upside down."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,900",
+				"to": "00:30:36,500"
+			},
+			"offsets": {
+				"from": 1829900,
+				"to": 1836500
+			},
+			"text": " When we actively participate in the needs of our brothers and sisters in Christ, when we view them as family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,140",
+				"to": "00:30:43,520"
+			},
+			"offsets": {
+				"from": 1838140,
+				"to": 1843520
+			},
+			"text": " when the world around us looks at us and says, you guys are weird, why do you do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,520",
+				"to": "00:30:44,360"
+			},
+			"offsets": {
+				"from": 1843520,
+				"to": 1844360
+			},
+			"text": " Why do you live that way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,360",
+				"to": "00:30:45,100"
+			},
+			"offsets": {
+				"from": 1844360,
+				"to": 1845100
+			},
+			"text": " It's because we're family."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,100",
+				"to": "00:30:55,940"
+			},
+			"offsets": {
+				"from": 1845100,
+				"to": 1855940
+			},
+			"text": " And then we cultivate this prayerful, intentional, interruptible life where we move from the fellowship table out to those outside the family of God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,940",
+				"to": "00:31:00,740"
+			},
+			"offsets": {
+				"from": 1855940,
+				"to": 1860740
+			},
+			"text": " and we just keep inviting them into the family of God, making space for them, meeting their needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,740",
+				"to": "00:31:02,740"
+			},
+			"offsets": {
+				"from": 1860740,
+				"to": 1862740
+			},
+			"text": " Again, no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,740",
+				"to": "00:31:07,180"
+			},
+			"offsets": {
+				"from": 1862740,
+				"to": 1867180
+			},
+			"text": " And I will say, we've got Watts, our Watts week coming up in a few weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,180",
+				"to": "00:31:14,100"
+			},
+			"offsets": {
+				"from": 1867180,
+				"to": 1874100
+			},
+			"text": " And I, a lot of you, I've served with you at Watts, and many of you are really, really good at this."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:14,100",
+				"to": "00:31:22,220"
+			},
+			"offsets": {
+				"from": 1874100,
+				"to": 1882220
+			},
+			"text": " Like when I come to see, when I come to eat dinner with Watts, it's like most of our people are sitting around the table playing card games"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,220",
+				"to": "00:31:26,700"
+			},
+			"offsets": {
+				"from": 1882220,
+				"to": 1886700
+			},
+			"text": " and getting to know these people's stories and investing in relationships with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:27,780",
+				"to": "00:31:30,280"
+			},
+			"offsets": {
+				"from": 1887780,
+				"to": 1890280
+			},
+			"text": " That is what hospitality looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,280",
+				"to": "00:31:33,480"
+			},
+			"offsets": {
+				"from": 1890280,
+				"to": 1893480
+			},
+			"text": " It's not just, here's some food, I'll see you later, have a good night, stay warm."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,480",
+				"to": "00:31:38,200"
+			},
+			"offsets": {
+				"from": 1893480,
+				"to": 1898200
+			},
+			"text": " It's, here's some food, tell me your name, tell me your story."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,200",
+				"to": "00:31:40,120"
+			},
+			"offsets": {
+				"from": 1898200,
+				"to": 1900120
+			},
+			"text": " How can I support you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,120",
+				"to": "00:31:41,060"
+			},
+			"offsets": {
+				"from": 1900120,
+				"to": 1901060
+			},
+			"text": " How can I encourage you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,060",
+				"to": "00:31:41,840"
+			},
+			"offsets": {
+				"from": 1901060,
+				"to": 1901840
+			},
+			"text": " How can I help you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,840",
+				"to": "00:31:45,900"
+			},
+			"offsets": {
+				"from": 1901840,
+				"to": 1905900
+			},
+			"text": " And obviously, we can't help every single person with every single need like family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,900",
+				"to": "00:31:51,240"
+			},
+			"offsets": {
+				"from": 1905900,
+				"to": 1911240
+			},
+			"text": " but we've got to be led by the Holy Spirit to see people with dignity and respect to treat them like image bearers."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,240",
+				"to": "00:31:57,240"
+			},
+			"offsets": {
+				"from": 1915240,
+				"to": 1917240
+			},
+			"text": " Holmes, I don't think she's here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,240",
+				"to": "00:32:00,980"
+			},
+			"offsets": {
+				"from": 1917240,
+				"to": 1920980
+			},
+			"text": " At Watts, she sets up, she does manicures."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,980",
+				"to": "00:32:09,080"
+			},
+			"offsets": {
+				"from": 1920980,
+				"to": 1929080
+			},
+			"text": " And it's so awesome to just watch her love on these people and literally just like treat them like family."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,080",
+				"to": "00:32:19,360"
+			},
+			"offsets": {
+				"from": 1929080,
+				"to": 1939360
+			},
+			"text": " This is biblical hospitality, treating people outside the family of God with physical, emotional, spiritual needs as family, no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:20,840",
+				"to": "00:32:23,820"
+			},
+			"offsets": {
+				"from": 1940840,
+				"to": 1943820
+			},
+			"text": " And I think we just make it way more complicated than it needs to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,820",
+				"to": "00:32:27,640"
+			},
+			"offsets": {
+				"from": 1943820,
+				"to": 1947640
+			},
+			"text": " I know for me, I make it way more complicated than it needs to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,640",
+				"to": "00:32:30,020"
+			},
+			"offsets": {
+				"from": 1947640,
+				"to": 1950020
+			},
+			"text": " What does Christian hospitality look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,020",
+				"to": "00:32:34,240"
+			},
+			"offsets": {
+				"from": 1950020,
+				"to": 1954240
+			},
+			"text": " It looks like start, just start loving your non-Christian neighbor with no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,240",
+				"to": "00:32:43,240"
+			},
+			"offsets": {
+				"from": 1954240,
+				"to": 1963240
+			},
+			"text": " Don't feel like your relationship with them is to just be leveraged to try and change their mind or convince them to receive the gospel of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,240",
+				"to": "00:32:45,560"
+			},
+			"offsets": {
+				"from": 1963240,
+				"to": 1965560
+			},
+			"text": " Like just love them with no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,560",
+				"to": "00:32:49,520"
+			},
+			"offsets": {
+				"from": 1965560,
+				"to": 1969520
+			},
+			"text": " Ask the dad on the fence beside you at your kids' sporting games how their week was."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,520",
+				"to": "00:32:56,760"
+			},
+			"offsets": {
+				"from": 1969520,
+				"to": 1976760
+			},
+			"text": " And just see, just create space for them to be like, hey, people don't, nobody's asked me how my week was."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,760",
+				"to": "00:33:03,840"
+			},
+			"offsets": {
+				"from": 1976760,
+				"to": 1983840
+			},
+			"text": " The next time you stop to give someone on the street a few dollars or a warm meal, ask them what their name is."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,840",
+				"to": "00:33:06,280"
+			},
+			"offsets": {
+				"from": 1983840,
+				"to": 1986280
+			},
+			"text": " Look them in the eye and ask them how their day is going."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:06,280",
+				"to": "00:33:09,440"
+			},
+			"offsets": {
+				"from": 1986280,
+				"to": 1989440
+			},
+			"text": " Ask them if there's anything you can pray for them about."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,080",
+				"to": "00:33:17,740"
+			},
+			"offsets": {
+				"from": 1990080,
+				"to": 1997740
+			},
+			"text": " Just meet a physical need, see a person, open up the opportunity to meet a spiritual need."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,740",
+				"to": "00:33:24,360"
+			},
+			"offsets": {
+				"from": 1997740,
+				"to": 2004360
+			},
+			"text": " You will be surprised at the seed of relationship that will be planted by just a little unexpected kindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,360",
+				"to": "00:33:38,040"
+			},
+			"offsets": {
+				"from": 2004360,
+				"to": 2018040
+			},
+			"text": " Now, it is important, I think, at this point of the message that I do say that as Christians, our ultimate goal isn't just to meet physical needs and build relationships."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,040",
+				"to": "00:33:40,400"
+			},
+			"offsets": {
+				"from": 2018040,
+				"to": 2020400
+			},
+			"text": " Our goal is to bring them back to the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:40,400",
+				"to": "00:33:42,740"
+			},
+			"offsets": {
+				"from": 2020400,
+				"to": 2022740
+			},
+			"text": " Our goal is to proclaim the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,740",
+				"to": "00:33:50,640"
+			},
+			"offsets": {
+				"from": 2022740,
+				"to": 2030640
+			},
+			"text": " We could swing the pendulum too far where all we ever do is build relationships and meet needs and never tell them about their desperate need for King Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:50,640",
+				"to": "00:33:55,460"
+			},
+			"offsets": {
+				"from": 2030640,
+				"to": 2035460
+			},
+			"text": " Never tell them how much better the fellowship table is than the hospitality table."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,460",
+				"to": "00:34:01,040"
+			},
+			"offsets": {
+				"from": 2035460,
+				"to": 2041040
+			},
+			"text": " Never tell them that we've blessed them in this way, but they're missing out on something much deeper."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,040",
+				"to": "00:34:06,740"
+			},
+			"offsets": {
+				"from": 2041040,
+				"to": 2046740
+			},
+			"text": " Never tell them that the hospitality table only lasts as long as Jesus waits to come back."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:07,380",
+				"to": "00:34:11,300"
+			},
+			"offsets": {
+				"from": 2047380,
+				"to": 2051300
+			},
+			"text": " But when Jesus returns, the only thing that will remain is the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,300",
+				"to": "00:34:19,040"
+			},
+			"offsets": {
+				"from": 2051300,
+				"to": 2059040
+			},
+			"text": " So we want people to stand up from the hospitality table and come to saving knowledge of faith in Jesus and join the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,040",
+				"to": "00:34:20,180"
+			},
+			"offsets": {
+				"from": 2059040,
+				"to": 2060180
+			},
+			"text": " That is our goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:20,180",
+				"to": "00:34:25,600"
+			},
+			"offsets": {
+				"from": 2060180,
+				"to": 2065600
+			},
+			"text": " I heard somebody say this week, hospitality is the bridge by which we earn the right to proclaim the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,600",
+				"to": "00:34:28,360"
+			},
+			"offsets": {
+				"from": 2066600,
+				"to": 2068360
+			},
+			"text": " That this is our goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:28,360",
+				"to": "00:34:41,380"
+			},
+			"offsets": {
+				"from": 2068360,
+				"to": 2081380
+			},
+			"text": " We first, we love, no strings attached, we meet needs, we build relationships, but we also, because of the relationships we build, we leverage those relationships to say, let me tell you about the hope that I have in Jesus because the grave is empty."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,180",
+				"to": "00:34:45,760"
+			},
+			"offsets": {
+				"from": 2082180,
+				"to": 2085760
+			},
+			"text": " And there is no power of death that can hold us down."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,760",
+				"to": "00:34:53,700"
+			},
+			"offsets": {
+				"from": 2085760,
+				"to": 2093700
+			},
+			"text": " And I know that you probably are worried about death because anybody who doesn't have the hope of an empty grave thinks about death at some point in their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,700",
+				"to": "00:35:08,020"
+			},
+			"offsets": {
+				"from": 2093700,
+				"to": 2108020
+			},
+			"text": " And if you want to overcome that fear, let me tell you about a God who came and dwelt in human form and died on the place, on our place for our sins and rose again from the dead, leaving the grave empty so that we don't have to fear death anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,160",
+				"to": "00:35:11,140"
+			},
+			"offsets": {
+				"from": 2109160,
+				"to": 2111140
+			},
+			"text": " You are welcome into this family."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,140",
+				"to": "00:35:17,480"
+			},
+			"offsets": {
+				"from": 2111140,
+				"to": 2117480
+			},
+			"text": " Jesus is our brother, God is our father, and you are welcome to move from the host table to the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,480",
+				"to": "00:35:23,800"
+			},
+			"offsets": {
+				"from": 2117480,
+				"to": 2123800
+			},
+			"text": " This doesn't mean we only get to serve people until we get the chance to tell them about Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:23,800",
+				"to": "00:35:28,840"
+			},
+			"offsets": {
+				"from": 2123800,
+				"to": 2128840
+			},
+			"text": " We're not bait and switching people like, hey, I love you, I love you, I love you."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,840",
+				"to": "00:35:29,680"
+			},
+			"offsets": {
+				"from": 2128840,
+				"to": 2129680
+			},
+			"text": " Let me tell you about Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,680",
+				"to": "00:35:30,500"
+			},
+			"offsets": {
+				"from": 2129680,
+				"to": 2130500
+			},
+			"text": " Oh, you don't want Jesus?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,500",
+				"to": "00:35:31,260"
+			},
+			"offsets": {
+				"from": 2130500,
+				"to": 2131260
+			},
+			"text": " All right, never mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,260",
+				"to": "00:35:31,780"
+			},
+			"offsets": {
+				"from": 2131260,
+				"to": 2131780
+			},
+			"text": " See you later."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,780",
+				"to": "00:35:32,740"
+			},
+			"offsets": {
+				"from": 2131780,
+				"to": 2132740
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,740",
+				"to": "00:35:36,440"
+			},
+			"offsets": {
+				"from": 2132740,
+				"to": 2136440
+			},
+			"text": " Like this is a persistent, intentional relationship building."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,160",
+				"to": "00:35:47,220"
+			},
+			"offsets": {
+				"from": 2139160,
+				"to": 2147220
+			},
+			"text": " We just never stop inviting them to move from the host table to the fellowship table, to be adopted into the family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,220",
+				"to": "00:35:52,420"
+			},
+			"offsets": {
+				"from": 2147220,
+				"to": 2152420
+			},
+			"text": " One of my favorite stories of this at work is that of Rosaria Butterfield."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:52,420",
+				"to": "00:35:56,380"
+			},
+			"offsets": {
+				"from": 2152420,
+				"to": 2156380
+			},
+			"text": " She is the author of the book, The Gospel Comes with a House Key."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,380",
+				"to": "00:36:04,940"
+			},
+			"offsets": {
+				"from": 2156380,
+				"to": 2164940
+			},
+			"text": " If you've never read this book and you're interested in this idea of loving strangers as neighbors and turning neighbors to friends, you have to read this book."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,940",
+				"to": "00:36:05,980"
+			},
+			"offsets": {
+				"from": 2164940,
+				"to": 2165980
+			},
+			"text": " It is an incredible book."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,880",
+				"to": "00:36:09,240"
+			},
+			"offsets": {
+				"from": 2166880,
+				"to": 2169240
+			},
+			"text": " Rosaria was a tenured professor at a liberal college."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,240",
+				"to": "00:36:14,520"
+			},
+			"offsets": {
+				"from": 2169240,
+				"to": 2174520
+			},
+			"text": " She was an outspoken feminist and lesbian who wrote an article critiquing Christians."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,520",
+				"to": "00:36:21,560"
+			},
+			"offsets": {
+				"from": 2174520,
+				"to": 2181560
+			},
+			"text": " And the local pastor in her town read the article and wrote an opposition article."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:21,560",
+				"to": "00:36:24,280"
+			},
+			"offsets": {
+				"from": 2181560,
+				"to": 2184280
+			},
+			"text": " No, that's not what he did."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:24,280",
+				"to": "00:36:25,700"
+			},
+			"offsets": {
+				"from": 2184280,
+				"to": 2185700
+			},
+			"text": " Just kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,700",
+				"to": "00:36:26,080"
+			},
+			"offsets": {
+				"from": 2185700,
+				"to": 2186080
+			},
+			"text": " Gotcha."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,080",
+				"to": "00:36:31,380"
+			},
+			"offsets": {
+				"from": 2186080,
+				"to": 2191380
+			},
+			"text": " He wrote Rosaria a letter inviting her to his house for dinner."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,880",
+				"to": "00:36:40,600"
+			},
+			"offsets": {
+				"from": 2193880,
+				"to": 2200600
+			},
+			"text": " And she accepted as part of what she says, her social research on the radical right."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,600",
+				"to": "00:36:44,840"
+			},
+			"offsets": {
+				"from": 2200600,
+				"to": 2204840
+			},
+			"text": " She was like, all right, I'll go to dinner with you guys, but I'm taking my journal."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,840",
+				"to": "00:36:48,780"
+			},
+			"offsets": {
+				"from": 2204840,
+				"to": 2208780
+			},
+			"text": " I'm going to take notes for my next article about how weird and evil and wicked you guys are."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,500",
+				"to": "00:36:59,060"
+			},
+			"offsets": {
+				"from": 2210500,
+				"to": 2219060
+			},
+			"text": " And she shares her story about how slowly over time this family's kindness and their continued welcoming her into her home, or into their home."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,060",
+				"to": "00:37:11,240"
+			},
+			"offsets": {
+				"from": 2219060,
+				"to": 2231240
+			},
+			"text": " Their continued hospitality, love of stranger, with no strings attached, became the thing that God used to bring her to saving faith in Jesus and move her from the host table to the fellowship table."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:12,240",
+				"to": "00:37:16,960"
+			},
+			"offsets": {
+				"from": 2232240,
+				"to": 2236960
+			},
+			"text": " And since then, her life has literally been built around this practice of hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:16,960",
+				"to": "00:37:22,660"
+			},
+			"offsets": {
+				"from": 2236960,
+				"to": 2242660
+			},
+			"text": " She's going to invite people into her house the same way that she was invited into the house of this pastor."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,660",
+				"to": "00:37:28,960"
+			},
+			"offsets": {
+				"from": 2242660,
+				"to": 2248960
+			},
+			"text": " Reminds me of the verse in Romans that it's God's kindness that leads to repentance."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:31,040",
+				"to": "00:37:39,600"
+			},
+			"offsets": {
+				"from": 2251040,
+				"to": 2259600
+			},
+			"text": " And I think oftentimes the way that God communicates the gospel to us in a way that can be received is through kindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,600",
+				"to": "00:37:46,180"
+			},
+			"offsets": {
+				"from": 2259600,
+				"to": 2266180
+			},
+			"text": " That it's our kindness that introduces others to God's kindness that leads to repentance."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,600",
+				"to": "00:37:55,980"
+			},
+			"offsets": {
+				"from": 2267600,
+				"to": 2275980
+			},
+			"text": " And I think we've got to learn to proclaim the gospel in such a way that with our lives and our words, it could be described as kindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,980",
+				"to": "00:38:03,620"
+			},
+			"offsets": {
+				"from": 2275980,
+				"to": 2283620
+			},
+			"text": " And I know a lot of this is heavy, and it could all seem overwhelming."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,620",
+				"to": "00:38:06,160"
+			},
+			"offsets": {
+				"from": 2283620,
+				"to": 2286160
+			},
+			"text": " Again, like my Waffle House menu last week, if you were here."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:06,160",
+				"to": "00:38:09,580"
+			},
+			"offsets": {
+				"from": 2286160,
+				"to": 2289580
+			},
+			"text": " You're not called to do everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,580",
+				"to": "00:38:12,420"
+			},
+			"offsets": {
+				"from": 2289580,
+				"to": 2292420
+			},
+			"text": " You're not called to welcome every stranger into your home."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,920",
+				"to": "00:38:18,860"
+			},
+			"offsets": {
+				"from": 2293920,
+				"to": 2298860
+			},
+			"text": " But don't let the overwhelming nature of all the needs of the world keep you from doing something."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:18,860",
+				"to": "00:38:23,060"
+			},
+			"offsets": {
+				"from": 2298860,
+				"to": 2303060
+			},
+			"text": " This week, Holy Spirit, who do you want me to show hospitality to?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,060",
+				"to": "00:38:28,160"
+			},
+			"offsets": {
+				"from": 2303060,
+				"to": 2308160
+			},
+			"text": " This week, Holy Spirit, who are you inviting me to cultivate fellowship with?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,160",
+				"to": "00:38:33,920"
+			},
+			"offsets": {
+				"from": 2308160,
+				"to": 2313920
+			},
+			"text": " Those that I already have fellowship with, Lord, what needs might they have that I can meet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:33,920",
+				"to": "00:38:40,280"
+			},
+			"offsets": {
+				"from": 2313920,
+				"to": 2320280
+			},
+			"text": " And if none of us have any needs, how can we find others in our community that have needs and meet those needs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:41,140",
+				"to": "00:38:46,020"
+			},
+			"offsets": {
+				"from": 2321140,
+				"to": 2326020
+			},
+			"text": " Holy Spirit, what might you be inviting me to do in this area of fellowship and hospitality?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,020",
+				"to": "00:38:50,380"
+			},
+			"offsets": {
+				"from": 2326020,
+				"to": 2330380
+			},
+			"text": " I kind of summarize my message with this main point."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,380",
+				"to": "00:38:56,620"
+			},
+			"offsets": {
+				"from": 2330380,
+				"to": 2336620
+			},
+			"text": " Christian service builds up the family of God through fellowship and welcomes the stranger through hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,620",
+				"to": "00:38:58,520"
+			},
+			"offsets": {
+				"from": 2336620,
+				"to": 2338520
+			},
+			"text": " This is what Paul is saying in Romans."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,520",
+				"to": "00:39:00,880"
+			},
+			"offsets": {
+				"from": 2338520,
+				"to": 2340880
+			},
+			"text": " Take care of the needs of those in your family."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,880",
+				"to": "00:39:05,160"
+			},
+			"offsets": {
+				"from": 2340880,
+				"to": 2345160
+			},
+			"text": " Actively participate in the needs of those that are brothers and sisters in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,160",
+				"to": "00:39:12,080"
+			},
+			"offsets": {
+				"from": 2345160,
+				"to": 2352080
+			},
+			"text": " And welcome the stranger into the family of God through the hospitality table, which leads us to our third and final table."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,080",
+				"to": "00:39:14,080"
+			},
+			"offsets": {
+				"from": 2352080,
+				"to": 2354080
+			},
+			"text": " You might have guessed it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,080",
+				"to": "00:39:16,300"
+			},
+			"offsets": {
+				"from": 2354080,
+				"to": 2356300
+			},
+			"text": " The communion table."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,300",
+				"to": "00:39:23,360"
+			},
+			"offsets": {
+				"from": 2356300,
+				"to": 2363360
+			},
+			"text": " The communion table is the table that makes the fellowship table and the host table possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:24,080",
+				"to": "00:39:29,920"
+			},
+			"offsets": {
+				"from": 2364080,
+				"to": 2369920
+			},
+			"text": " If it was not for Christ serving us in this way, we would not be able to serve others in this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,920",
+				"to": "00:39:36,200"
+			},
+			"offsets": {
+				"from": 2369920,
+				"to": 2376200
+			},
+			"text": " If it was not for Christ, all service done by us would be out of religious duty."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,200",
+				"to": "00:39:42,080"
+			},
+			"offsets": {
+				"from": 2376200,
+				"to": 2382080
+			},
+			"text": " It would be pulling up our bootstraps and mortifying our flesh and serving others."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:42,080",
+				"to": "00:39:50,840"
+			},
+			"offsets": {
+				"from": 2382080,
+				"to": 2390840
+			},
+			"text": " But because of Jesus, it is out of the overflow of a full heart that has received the hospitality of Jesus and been welcomed to the fellowship table of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,840",
+				"to": "00:39:59,320"
+			},
+			"offsets": {
+				"from": 2390840,
+				"to": 2399320
+			},
+			"text": " It is because of what Jesus has done that we are able to, by the power of the Holy Spirit, go and do this radical command that Paul gave in Romans chapter 12."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:03,660",
+				"to": "00:40:08,840"
+			},
+			"offsets": {
+				"from": 2403660,
+				"to": 2408840
+			},
+			"text": " Christ's body, broken, his shed blood, brings strangers together into family."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,840",
+				"to": "00:40:13,380"
+			},
+			"offsets": {
+				"from": 2408840,
+				"to": 2413380
+			},
+			"text": " And it motivates that family to actively participate in the suffering of others."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:13,380",
+				"to": "00:40:19,580"
+			},
+			"offsets": {
+				"from": 2413380,
+				"to": 2419580
+			},
+			"text": " Encourages us to go out and sacrificially love the stranger with the hopes that they will become family as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,580",
+				"to": "00:40:24,680"
+			},
+			"offsets": {
+				"from": 2419580,
+				"to": 2424680
+			},
+			"text": " When we participate in the Lord's Supper, we look back to what Christ has done in the past."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,120",
+				"to": "00:40:31,520"
+			},
+			"offsets": {
+				"from": 2426120,
+				"to": 2431520
+			},
+			"text": " We allow it to form us into a people that look like him in the present."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,520",
+				"to": "00:40:37,060"
+			},
+			"offsets": {
+				"from": 2431520,
+				"to": 2437060
+			},
+			"text": " As we await the day when he will fulfill all of his promises in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,060",
+				"to": "00:40:43,100"
+			},
+			"offsets": {
+				"from": 2437060,
+				"to": 2443100
+			},
+			"text": " I pulled this quote from a blog."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,100",
+				"to": "00:40:47,380"
+			},
+			"offsets": {
+				"from": 2443100,
+				"to": 2447380
+			},
+			"text": " I think it's a good summary of everything I've just shared."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,380",
+				"to": "00:40:54,100"
+			},
+			"offsets": {
+				"from": 2447380,
+				"to": 2454100
+			},
+			"text": " It says, our Savior chose to leave his home in heaven to become a stranger without a place to call his own."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:55,180",
+				"to": "00:41:02,460"
+			},
+			"offsets": {
+				"from": 2455180,
+				"to": 2462460
+			},
+			"text": " He was not recognized or accepted by his own and was cast outside the city walls to be forsaken and suffer for sinners."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:02,460",
+				"to": "00:41:12,000"
+			},
+			"offsets": {
+				"from": 2462460,
+				"to": 2472000
+			},
+			"text": " Through his sinless life and sacrifice on the cross, he made it possible for us, who were once enemies of God, to be made holy and accepted by him."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,000",
+				"to": "00:41:20,940"
+			},
+			"offsets": {
+				"from": 2472000,
+				"to": 2480940
+			},
+			"text": " And with the promise that he is preparing a place for us, he will come back to take us to our final home to be with him forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:22,580",
+				"to": "00:41:27,540"
+			},
+			"offsets": {
+				"from": 2482580,
+				"to": 2487540
+			},
+			"text": " The ultimate example of hospitality that leads to fellowship is Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,540",
+				"to": "00:41:31,080"
+			},
+			"offsets": {
+				"from": 2487540,
+				"to": 2491080
+			},
+			"text": " Does our service look like his?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,080",
+				"to": "00:41:38,120"
+			},
+			"offsets": {
+				"from": 2491080,
+				"to": 2498120
+			},
+			"text": " Are we serving people in a way that makes strangers friends and friends family?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,300",
+				"to": "00:41:45,340"
+			},
+			"offsets": {
+				"from": 2500300,
+				"to": 2505340
+			},
+			"text": " If not, may the communion table this morning be a corrective encouragement."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,340",
+				"to": "00:41:57,520"
+			},
+			"offsets": {
+				"from": 2505340,
+				"to": 2517520
+			},
+			"text": " May his body broken for us and his blood shed for us remind us of what it truly means to be citizens of the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,520",
+				"to": "00:42:02,260"
+			},
+			"offsets": {
+				"from": 2517520,
+				"to": 2522260
+			},
+			"text": " To be brought from strangers to friends and from friends to family."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,260",
+				"to": "00:42:06,800"
+			},
+			"offsets": {
+				"from": 2524260,
+				"to": 2526800
+			},
+			"text": " May we treat each other as family inside the house."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,800",
+				"to": "00:42:14,460"
+			},
+			"offsets": {
+				"from": 2526800,
+				"to": 2534460
+			},
+			"text": " And may we, like Jesus, go outside of the house to meet the needs of others."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:14,460",
+				"to": "00:42:16,200"
+			},
+			"offsets": {
+				"from": 2534460,
+				"to": 2536200
+			},
+			"text": " To see them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,200",
+				"to": "00:42:17,340"
+			},
+			"offsets": {
+				"from": 2536200,
+				"to": 2537340
+			},
+			"text": " To love them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,340",
+				"to": "00:42:20,260"
+			},
+			"offsets": {
+				"from": 2537340,
+				"to": 2540260
+			},
+			"text": " Love them like family, no strings attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,260",
+				"to": "00:42:25,840"
+			},
+			"offsets": {
+				"from": 2540260,
+				"to": 2545840
+			},
+			"text": " Inviting them, begging them to come back and sit at the table with Jesus at the head."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,900",
+				"to": "00:42:26,220"
+			},
+			"offsets": {
+				"from": 2545900,
+				"to": 2546220
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,220",
+				"to": "00:42:38,360"
+			},
+			"offsets": {
+				"from": 2546220,
+				"to": 2558360
+			},
+			"text": " Father in heaven, thank you so much for yet another opportunity to just spend time reflecting on who you are to us and what you've done for us and what you've invited us to do for others."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:43,040",
+				"to": "00:42:46,680"
+			},
+			"offsets": {
+				"from": 2563040,
+				"to": 2566680
+			},
+			"text": " God, our lives are busy, stressed, we're overwhelmed."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,680",
+				"to": "00:42:56,760"
+			},
+			"offsets": {
+				"from": 2566680,
+				"to": 2576760
+			},
+			"text": " We might be tempted to think, that's not for me, that's for somebody else."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,760",
+				"to": "00:43:05,260"
+			},
+			"offsets": {
+				"from": 2576760,
+				"to": 2585260
+			},
+			"text": " Or maybe when life settles down, but God, may today be the day that many of us are thrust into this application."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,500",
+				"to": "00:43:11,960"
+			},
+			"offsets": {
+				"from": 2585500,
+				"to": 2591960
+			},
+			"text": " That we actively cultivate family around the table with brothers and sisters in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:11,960",
+				"to": "00:43:14,980"
+			},
+			"offsets": {
+				"from": 2591960,
+				"to": 2594980
+			},
+			"text": " That we actively participate in their needs and their suffering."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:14,980",
+				"to": "00:43:23,800"
+			},
+			"offsets": {
+				"from": 2594980,
+				"to": 2603800
+			},
+			"text": " May we be a people who look for opportunities to treat strangers like friends and invite friends to become family."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,800",
+				"to": "00:43:27,460"
+			},
+			"offsets": {
+				"from": 2603800,
+				"to": 2607460
+			},
+			"text": " Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:27,460",
+				"to": "00:43:28,580"
+			},
+			"offsets": {
+				"from": 2607460,
+				"to": 2608580
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:28,580",
+				"to": "00:43:31,360"
+			},
+			"offsets": {
+				"from": 2608580,
+				"to": 2611360
+			},
+			"text": " We're gonna..."
+		}
+	]
+}

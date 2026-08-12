@@ -1,0 +1,3420 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:27,040"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 27040
+			},
+			"text": " Good morning everyone, I feel like I actually don't even need to be up here after the morning"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,040",
+				"to": "00:00:31,380"
+			},
+			"offsets": {
+				"from": 27040,
+				"to": 31380
+			},
+			"text": " that we just had, because that was incredible, and I feel like we've already heard so much"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,380",
+				"to": "00:00:35,980"
+			},
+			"offsets": {
+				"from": 31380,
+				"to": 35980
+			},
+			"text": " from the Lord, but I worked really hard on this, so you're stuck with me for a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,980",
+				"to": "00:00:45,440"
+			},
+			"offsets": {
+				"from": 35980,
+				"to": 45440
+			},
+			"text": " bit, yeah, I did, so I am super humbled and excited to get to talk to you in this series"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,440",
+				"to": "00:00:51,280"
+			},
+			"offsets": {
+				"from": 45440,
+				"to": 51280
+			},
+			"text": " where we're looking at the life of Paul, he is one of my favorite apostles to study, just"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,280",
+				"to": "00:00:59,320"
+			},
+			"offsets": {
+				"from": 51280,
+				"to": 59320
+			},
+			"text": " because he was so real, and he messed up, my watch was talking to me, he messed up in"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,320",
+				"to": "00:01:04,060"
+			},
+			"offsets": {
+				"from": 59320,
+				"to": 64060
+			},
+			"text": " a really, really big way, and God shows up for him in a really big way, so before we get"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,060",
+				"to": "00:01:06,100"
+			},
+			"offsets": {
+				"from": 64060,
+				"to": 66100
+			},
+			"text": " started, let's pray together one more time."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,100",
+				"to": "00:01:13,780"
+			},
+			"offsets": {
+				"from": 66100,
+				"to": 73780
+			},
+			"text": " Dear Heavenly Father, make my words your words, make my thoughts your thoughts, God, we've"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,780",
+				"to": "00:01:18,080"
+			},
+			"offsets": {
+				"from": 73780,
+				"to": 78080
+			},
+			"text": " already seen you so much this morning, you have shown up in a big way, God, and I want"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,080",
+				"to": "00:01:23,860"
+			},
+			"offsets": {
+				"from": 78080,
+				"to": 83860
+			},
+			"text": " to be able to continue that, God, that we can be filled with your peace and your freedom"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,860",
+				"to": "00:01:29,200"
+			},
+			"offsets": {
+				"from": 83860,
+				"to": 89200
+			},
+			"text": " and your love that only you can give, that nothing in this world can give, God, so I pray that"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,200",
+				"to": "00:01:35,860"
+			},
+			"offsets": {
+				"from": 89200,
+				"to": 95860
+			},
+			"text": " those are my words this morning, and that we can all find our peace and freedom in you, amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,860",
+				"to": "00:01:42,280"
+			},
+			"offsets": {
+				"from": 95860,
+				"to": 102280
+			},
+			"text": " So just to give you a little recap, we're talking about Paul, we missed one message because Ryan"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,280",
+				"to": "00:01:47,940"
+			},
+			"offsets": {
+				"from": 102280,
+				"to": 107940
+			},
+			"text": " had to go and throw up, and so I'm just going to fill you in a little bit, but basically Paul"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,940",
+				"to": "00:01:55,540"
+			},
+			"offsets": {
+				"from": 107940,
+				"to": 115540
+			},
+			"text": " was born to a devout Jewish family, so he was born believing that the way that you get close"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,540",
+				"to": "00:02:01,440"
+			},
+			"offsets": {
+				"from": 115540,
+				"to": 121440
+			},
+			"text": " to God is through rules and regulations and lighting incense and doing all these specific steps,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,440",
+				"to": "00:02:10,320"
+			},
+			"offsets": {
+				"from": 121440,
+				"to": 130320
+			},
+			"text": " and he believed that that was the way to God. He says in Acts 23, \"I am a Pharisee, son of a Pharisee.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,320",
+				"to": "00:02:15,520"
+			},
+			"offsets": {
+				"from": 130320,
+				"to": 135520
+			},
+			"text": " Scholars don't know if he actually was the son of a Pharisee or if this was just a saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,520",
+				"to": "00:02:23,120"
+			},
+			"offsets": {
+				"from": 135520,
+				"to": 143120
+			},
+			"text": " but regardless, his view of God is very different than the view of God that we see with Jesus when"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,120",
+				"to": "00:02:28,880"
+			},
+			"offsets": {
+				"from": 143120,
+				"to": 148880
+			},
+			"text": " he comes, and so Paul does not believe that Jesus is who he said he was. Paul was probably two or"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,880",
+				"to": "00:02:34,800"
+			},
+			"offsets": {
+				"from": 148880,
+				"to": 154800
+			},
+			"text": " three years younger than Jesus, so he was around for the whole ministry of Jesus, but he doesn't believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,800",
+				"to": "00:02:41,760"
+			},
+			"offsets": {
+				"from": 154800,
+				"to": 161760
+			},
+			"text": " that Jesus was being honest when he calls himself the Messiah, to the point that Paul goes on a mission"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,760",
+				"to": "00:02:49,680"
+			},
+			"offsets": {
+				"from": 161760,
+				"to": 169680
+			},
+			"text": " to try to end what followers of the way were preaching that Jesus was the Messiah, and he is actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,680",
+				"to": "00:02:58,560"
+			},
+			"offsets": {
+				"from": 169680,
+				"to": 178560
+			},
+			"text": " responsible for the very first martyr of Christianity, Stephen. And so he thinks he's doing the right"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,560",
+				"to": "00:03:05,440"
+			},
+			"offsets": {
+				"from": 178560,
+				"to": 185440
+			},
+			"text": " thing. He thinks he is fulfilling what God would have him do because this Jesus is a liar and he's not who"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,440",
+				"to": "00:03:12,560"
+			},
+			"offsets": {
+				"from": 185440,
+				"to": 192560
+			},
+			"text": " he says he was. So fast forward, we find him on the road to Damascus. He is on his way to the town of"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,560",
+				"to": "00:03:19,440"
+			},
+			"offsets": {
+				"from": 192560,
+				"to": 199440
+			},
+			"text": " Damascus to persecute more Christians, probably put more to death, definitely throw them in prison,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,440",
+				"to": "00:03:24,000"
+			},
+			"offsets": {
+				"from": 199440,
+				"to": 204000
+			},
+			"text": " and he has an encounter with Jesus that will change his life. He hears the voice of God"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,000",
+				"to": "00:03:33,760"
+			},
+			"offsets": {
+				"from": 204000,
+				"to": 213760
+			},
+			"text": " loud from the sky all around him, and Jesus says, Paul or Saul at that time, interchangeable names,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,760",
+				"to": "00:03:39,600"
+			},
+			"offsets": {
+				"from": 213760,
+				"to": 219600
+			},
+			"text": " we've been through that. Why are you persecuting me? He had to have been like, first of all, he said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,600",
+				"to": "00:03:46,080"
+			},
+			"offsets": {
+				"from": 219600,
+				"to": 226080
+			},
+			"text": " who are you? And then I'm persecuting you? Like he thought he was defending the Old Testament,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,080",
+				"to": "00:03:51,680"
+			},
+			"offsets": {
+				"from": 226080,
+				"to": 231680
+			},
+			"text": " and here he's being told by God, you're persecuting me. And he says, I'm Jesus. I'm the one that you've"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,680",
+				"to": "00:03:57,840"
+			},
+			"offsets": {
+				"from": 231680,
+				"to": 237840
+			},
+			"text": " been persecuting. And in that moment, his whole life changes. He realizes that he was wrong. He actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,840",
+				"to": "00:04:06,000"
+			},
+			"offsets": {
+				"from": 237840,
+				"to": 246000
+			},
+			"text": " goes to Damascus, goes to the temple, does a few days of telling people what just happened to him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,000",
+				"to": "00:04:13,120"
+			},
+			"offsets": {
+				"from": 246000,
+				"to": 253120
+			},
+			"text": " and then he goes away for three years to Arabia, and he tries to figure out, well, he does figure out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,120",
+				"to": "00:04:19,200"
+			},
+			"offsets": {
+				"from": 253120,
+				"to": 259200
+			},
+			"text": " what did I get wrong? How was this Jesus, the fulfillment of the Messianic prophecy? And he"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,200",
+				"to": "00:04:25,600"
+			},
+			"offsets": {
+				"from": 259200,
+				"to": 265600
+			},
+			"text": " dives into scripture, and he, more importantly, develops a relationship with Jesus that he never had"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,600",
+				"to": "00:04:31,280"
+			},
+			"offsets": {
+				"from": 265600,
+				"to": 271280
+			},
+			"text": " before. He thought it was about rules and regulations. He finds out in this time that he was wrong, that it"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,280",
+				"to": "00:04:36,640"
+			},
+			"offsets": {
+				"from": 271280,
+				"to": 276640
+			},
+			"text": " is about a relationship, that it is about the love of Christ, and he gets closer and closer to Jesus at"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,640",
+				"to": "00:04:41,520"
+			},
+			"offsets": {
+				"from": 276640,
+				"to": 281520
+			},
+			"text": " this time. These three years are huge for him, because this is when he falls in love with Jesus, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,520",
+				"to": "00:04:53,680"
+			},
+			"offsets": {
+				"from": 281520,
+				"to": 293680
+			},
+			"text": " to be accepted into this family, even though he screwed up big time. So then we fast forward to Acts 16,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,680",
+				"to": "00:05:00,480"
+			},
+			"offsets": {
+				"from": 293680,
+				"to": 300480
+			},
+			"text": " which is what I get to talk to you about today. This is AD 49. So Paul has been preaching the gospel"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,480",
+				"to": "00:05:07,360"
+			},
+			"offsets": {
+				"from": 300480,
+				"to": 307360
+			},
+			"text": " for 15 years now. So this is 15 years after the Red Damascus, and he has lived through exile. He was"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,360",
+				"to": "00:05:15,200"
+			},
+			"offsets": {
+				"from": 307360,
+				"to": 315200
+			},
+			"text": " stoned to the point that they left him outside of a city to die. He has seen miracles. His walk with"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,200",
+				"to": "00:05:24,320"
+			},
+			"offsets": {
+				"from": 315200,
+				"to": 324320
+			},
+			"text": " Jesus has gotten so much stronger than he was before. But what makes him so good at what he does, and what"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,320",
+				"to": "00:05:32,560"
+			},
+			"offsets": {
+				"from": 324320,
+				"to": 332560
+			},
+			"text": " allows people to listen to him, is his humility. Paul says in 1 Timothy 1:15, \"Here is a trustworthy"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,560",
+				"to": "00:05:40,960"
+			},
+			"offsets": {
+				"from": 332560,
+				"to": 340960
+			},
+			"text": " saying that deserves full acceptance: Jesus Christ came into this world to save sinners, of whom I am the worst.\" This"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,960",
+				"to": "00:05:45,760"
+			},
+			"offsets": {
+				"from": 340960,
+				"to": 345760
+			},
+			"text": " is why I love studying him. He does not think he deserves the relationship with Christ that he has. He"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,760",
+				"to": "00:05:51,680"
+			},
+			"offsets": {
+				"from": 345760,
+				"to": 351680
+			},
+			"text": " doesn't think he deserves to be able to go and spend his life witnessing, but he does because of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,680",
+				"to": "00:05:58,080"
+			},
+			"offsets": {
+				"from": 351680,
+				"to": 358080
+			},
+			"text": " grace and mercy of Jesus. So he comes across to everybody that he preaches to with humility and"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,080",
+				"to": "00:06:05,120"
+			},
+			"offsets": {
+				"from": 358080,
+				"to": 365120
+			},
+			"text": " saying, \"I'm no better than you. Actually, I'm worse. I'm the worst. But Jesus loves me anyway.\" So let's"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,120",
+				"to": "00:06:14,080"
+			},
+			"offsets": {
+				"from": 365120,
+				"to": 374080
+			},
+			"text": " learn about this Jesus together. So let's get into Acts 16. What's going on is Paul's gone for 15 years,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,080",
+				"to": "00:06:20,160"
+			},
+			"offsets": {
+				"from": 374080,
+				"to": 380160
+			},
+			"text": " and he's preached to as many people as he can. Well, now he wants to go back and check on those that"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,160",
+				"to": "00:06:26,960"
+			},
+			"offsets": {
+				"from": 380160,
+				"to": 386960
+			},
+			"text": " he has witnessed to. So he's going back to these towns that beat him, that stoned him, that exiled him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,960",
+				"to": "00:06:35,520"
+			},
+			"offsets": {
+				"from": 386960,
+				"to": 395520
+			},
+			"text": " because his goal is to encourage those who have found Jesus and to go back and to check on them. He"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,520",
+				"to": "00:06:43,200"
+			},
+			"offsets": {
+				"from": 395520,
+				"to": 403200
+			},
+			"text": " has a new partner with him. He was with Barnabas, but they have parted ways, and he is now asked Silas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,200",
+				"to": "00:06:49,760"
+			},
+			"offsets": {
+				"from": 403200,
+				"to": 409760
+			},
+			"text": " to join him. So you'll see Silas on his journeys. His original plan was to go west to the Asian"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,760",
+				"to": "00:07:00,560"
+			},
+			"offsets": {
+				"from": 409760,
+				"to": 420560
+			},
+			"text": " province. But Acts 16:7 tells us, \"When they came to the border of Messiah, they tried to enter Bethena,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,560",
+				"to": "00:07:08,080"
+			},
+			"offsets": {
+				"from": 420560,
+				"to": 428080
+			},
+			"text": " but the Spirit of Jesus would not let them go.\" So clearly, Paul is staying close to Jesus, because"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,080",
+				"to": "00:07:13,840"
+			},
+			"offsets": {
+				"from": 428080,
+				"to": 433840
+			},
+			"text": " he can feel the Spirit of Jesus saying, \"That's not the direction I have for you to go.\" His relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,840",
+				"to": "00:07:19,200"
+			},
+			"offsets": {
+				"from": 433840,
+				"to": 439200
+			},
+			"text": " with him has only grown, and he knows, \"If God doesn't want me to go there, I don't want to go there"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,200",
+				"to": "00:07:24,560"
+			},
+			"offsets": {
+				"from": 439200,
+				"to": 444560
+			},
+			"text": " either.\" So he immediately shifts paths. So where does God want him to go? Well, Paul has a vision that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,560",
+				"to": "00:07:31,120"
+			},
+			"offsets": {
+				"from": 444560,
+				"to": 451120
+			},
+			"text": " there is a Macedonian man, and he's standing and he's saying, \"Come help us. Please come help us.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,120",
+				"to": "00:07:36,880"
+			},
+			"offsets": {
+				"from": 451120,
+				"to": 456880
+			},
+			"text": " He believes that that's a vision from God, and so he says, \"All right guys, we're going to Macedonia.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,880",
+				"to": "00:07:44,560"
+			},
+			"offsets": {
+				"from": 456880,
+				"to": 464560
+			},
+			"text": " Acts 16:10 says, \"Paul had seen the vision. We got ready at once to leave for Macedonia, concluding that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,560",
+				"to": "00:07:51,520"
+			},
+			"offsets": {
+				"from": 464560,
+				"to": 471520
+			},
+			"text": " God had called us to preach the gospel to them.\" If you noticed, it switched from \"they\" to \"us.\" This is"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,520",
+				"to": "00:07:59,280"
+			},
+			"offsets": {
+				"from": 471520,
+				"to": 479280
+			},
+			"text": " Luke, the author of Acts, and so he is with them on this journey, and now they are going to Macedonia."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,280",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 479280,
+				"to": 484000
+			},
+			"text": " Another thing that's important is the people that are with Paul see that he has this tight"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:09,840"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 489840
+			},
+			"text": " relationship with Jesus so that they feel trustworthy to follow him. So Paul says, \"I saw a vision. We're"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,840",
+				"to": "00:08:14,800"
+			},
+			"offsets": {
+				"from": 489840,
+				"to": 494800
+			},
+			"text": " supposed to go to Macedonia.\" They're like, \"Then we're going to Macedonia.\" To have people in your life"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,800",
+				"to": "00:08:22,160"
+			},
+			"offsets": {
+				"from": 494800,
+				"to": 502160
+			},
+			"text": " that you trust to that extent is so amazing. That if they say, \"I feel like God is telling"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,160",
+				"to": "00:08:26,880"
+			},
+			"offsets": {
+				"from": 502160,
+				"to": 506880
+			},
+			"text": " me this. I feel like God is calling us here.\" And you can be like, \"I know. I've seen your walk with"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,880",
+				"to": "00:08:31,840"
+			},
+			"offsets": {
+				"from": 506880,
+				"to": 511840
+			},
+			"text": " God, and I feel comfortable following you.\" That's an incredible thing to have in your life, and that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,840",
+				"to": "00:08:39,520"
+			},
+			"offsets": {
+				"from": 511840,
+				"to": 519520
+			},
+			"text": " what they have with Paul. The others have developed this trust in Paul, not because of Paul, but the"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,520",
+				"to": "00:08:46,000"
+			},
+			"offsets": {
+				"from": 519520,
+				"to": 526000
+			},
+			"text": " power he has in his walk with Jesus. So they go to Macedonia, and they have what I would call a very"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,000",
+				"to": "00:08:54,320"
+			},
+			"offsets": {
+				"from": 526000,
+				"to": 534320
+			},
+			"text": " interesting meeting with a demonic spirit. Acts 16 says, \"When they are going to the place of prayer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,320",
+				"to": "00:09:01,360"
+			},
+			"offsets": {
+				"from": 534320,
+				"to": 541360
+			},
+			"text": " we were met by a female slave who had a spirit by which she predicted the future. She earned a great"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:01,360",
+				"to": "00:09:07,680"
+			},
+			"offsets": {
+				"from": 541360,
+				"to": 547680
+			},
+			"text": " deal of money for her owners by fortune-telling. She followed Paul and the rest of us, shouting,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,680",
+				"to": "00:09:16,160"
+			},
+			"offsets": {
+				"from": 547680,
+				"to": 556160
+			},
+			"text": " 'These men are servants of the Most High God who are telling you the way to be saved.'\" I find this"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,160",
+				"to": "00:09:24,320"
+			},
+			"offsets": {
+				"from": 556160,
+				"to": 564320
+			},
+			"text": " so interesting that this girl is possessed by a demonic spirit. Her owners are real pumped about"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,320",
+				"to": "00:09:32,240"
+			},
+			"offsets": {
+				"from": 564320,
+				"to": 572240
+			},
+			"text": " this because she's making them money by telling everybody the future. So then we have her following"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,240",
+				"to": "00:09:37,920"
+			},
+			"offsets": {
+				"from": 572240,
+				"to": 577920
+			},
+			"text": " around Paul and Silas, repeating, \"These men are servants of the Most High God, and they're telling"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,920",
+				"to": "00:09:45,920"
+			},
+			"offsets": {
+				"from": 577920,
+				"to": 585920
+			},
+			"text": " you the way to be saved.\" She's predicting the future. Like, she sees that they are certain - well, she"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,920",
+				"to": "00:09:53,360"
+			},
+			"offsets": {
+				"from": 585920,
+				"to": 593360
+			},
+			"text": " doesn't. The demon inside of her sees that they are followers of Jesus. So you would think this would"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,360",
+				"to": "00:09:58,160"
+			},
+			"offsets": {
+				"from": 593360,
+				"to": 598160
+			},
+			"text": " actually be like a positive thing, right? That people would be like, \"She predicted my future, and it"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,160",
+				"to": "00:10:03,840"
+			},
+			"offsets": {
+				"from": 598160,
+				"to": 603840
+			},
+			"text": " was right. Now she's saying this. I kind of want to follow these guys.\" But when Satan is the one"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,840",
+				"to": "00:10:11,040"
+			},
+			"offsets": {
+				"from": 603840,
+				"to": 611040
+			},
+			"text": " declaring the gospel, nobody wants that. Not only that, but I'm sure that she had sort of like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,040",
+				"to": "00:10:16,880"
+			},
+			"offsets": {
+				"from": 611040,
+				"to": 616880
+			},
+			"text": " like a shrill voice that was distracting. This is - I've - I was there. No, I'm just kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,880",
+				"to": "00:10:23,280"
+			},
+			"offsets": {
+				"from": 616880,
+				"to": 623280
+			},
+			"text": " Um, like distracting them. They're trying to preach grace and mercy, and she's just repeating herself."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,280",
+				"to": "00:10:27,440"
+			},
+			"offsets": {
+				"from": 623280,
+				"to": 627440
+			},
+			"text": " These guys are servants of the Most High God. They are teaching the way to be saved. And Paul and Silas"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:27,440",
+				"to": "00:10:33,920"
+			},
+			"offsets": {
+				"from": 627440,
+				"to": 633920
+			},
+			"text": " just get really sick of it. But one thing that I want to stop for a second is, did you notice that"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,920",
+				"to": "00:10:42,640"
+			},
+			"offsets": {
+				"from": 633920,
+				"to": 642640
+			},
+			"text": " the demons know who Jesus is? James 2 says, \"You believe that there is one God, good. Even the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,640",
+				"to": "00:10:50,160"
+			},
+			"offsets": {
+				"from": 642640,
+				"to": 650160
+			},
+			"text": " demons do and shudder.\" Is this demon a Christ follower? Not even close. But he knows who he is."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,160",
+				"to": "00:10:56,720"
+			},
+			"offsets": {
+				"from": 650160,
+				"to": 656720
+			},
+			"text": " So it's something for us to be reminded of. Just because you know that Jesus is God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,720",
+				"to": "00:11:03,600"
+			},
+			"offsets": {
+				"from": 656720,
+				"to": 663600
+			},
+			"text": " does not make you a Christ follower. It is the relationship with him. It is allowing him to"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,600",
+				"to": "00:11:08,800"
+			},
+			"offsets": {
+				"from": 663600,
+				"to": 668800
+			},
+			"text": " move throughout you and change you. That's what makes you a Christ follower. And oftentimes I think"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,800",
+				"to": "00:11:16,000"
+			},
+			"offsets": {
+				"from": 668800,
+				"to": 676000
+			},
+			"text": " people will just know. Yeah, I think Jesus is God. That's it. So do the demons. And shout it. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,000",
+				"to": "00:11:22,800"
+			},
+			"offsets": {
+				"from": 676000,
+				"to": 682800
+			},
+			"text": " shudder. Satan definitely knows who Jesus is. So we want to make sure that our walk with Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,800",
+				"to": "00:11:28,480"
+			},
+			"offsets": {
+				"from": 682800,
+				"to": 688480
+			},
+			"text": " doesn't end there. That we allow him to move in us and change us. And we worship him as the King and"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,480",
+				"to": "00:11:35,840"
+			},
+			"offsets": {
+				"from": 688480,
+				"to": 695840
+			},
+			"text": " kings and Lord and lords of our life. So, Paul and Silas are frustrated with this spirit. Verse 18,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,840",
+				"to": "00:11:41,920"
+			},
+			"offsets": {
+				"from": 695840,
+				"to": 701920
+			},
+			"text": " \"She kept this up for many days. Finally, Paul came, became so annoyed that he turned around and said to"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,920",
+				"to": "00:11:48,480"
+			},
+			"offsets": {
+				"from": 701920,
+				"to": 708480
+			},
+			"text": " the spirit, in the name of Jesus Christ, I command you to come out of her. And at once the spirit left"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,480",
+				"to": "00:11:56,720"
+			},
+			"offsets": {
+				"from": 708480,
+				"to": 716720
+			},
+			"text": " her.\" Again, Paul's walk with Jesus and his faith is so strong that he does not doubt in the name of"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,720",
+				"to": "00:12:02,400"
+			},
+			"offsets": {
+				"from": 716720,
+				"to": 722400
+			},
+			"text": " Jesus Christ, the spirit's going to go. And that's exactly what happened. Verse 19, \"When her owners realized that"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,400",
+				"to": "00:12:09,840"
+			},
+			"offsets": {
+				"from": 722400,
+				"to": 729840
+			},
+			"text": " their hope of making money was gone, they seized Paul and Silas and dragged them into the marketplace"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,840",
+				"to": "00:12:15,760"
+			},
+			"offsets": {
+				"from": 729840,
+				"to": 735760
+			},
+			"text": " to face the authorities. They brought them before the magistrates and said, 'These men are Jews and are"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,760",
+				"to": "00:12:23,520"
+			},
+			"offsets": {
+				"from": 735760,
+				"to": 743520
+			},
+			"text": " throwing our city into an uproar by advocating customs unlawful for us Romans to accept or practice.' The"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,520",
+				"to": "00:12:29,920"
+			},
+			"offsets": {
+				"from": 743520,
+				"to": 749920
+			},
+			"text": " crowd joins in the attack against Paul and Silas and the magistrates order them to be stripped and beaten with"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,920",
+				"to": "00:12:42,240"
+			},
+			"offsets": {
+				"from": 749920,
+				"to": 762240
+			},
+			"text": " rods.\" Stripped naked and beaten with rods in the middle of a crowd. Can you even begin to imagine"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,240",
+				"to": "00:12:49,840"
+			},
+			"offsets": {
+				"from": 762240,
+				"to": 769840
+			},
+			"text": " how humiliating and demeaning that was? You have people that are following Jesus with all of their heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,400",
+				"to": "00:12:57,680"
+			},
+			"offsets": {
+				"from": 770400,
+				"to": 777680
+			},
+			"text": " Jesus said, \"Go to Macedonia.\" And they listened. They followed the voice of God and they find themselves"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,680",
+				"to": "00:13:05,440"
+			},
+			"offsets": {
+				"from": 777680,
+				"to": 785440
+			},
+			"text": " stripped naked and beaten in front of everyone for doing exactly what Jesus called them to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,440",
+				"to": "00:13:15,440"
+			},
+			"offsets": {
+				"from": 785440,
+				"to": 795440
+			},
+			"text": " They had every right to be furious and angry and sad and confused. I would have been."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,120",
+				"to": "00:13:23,120"
+			},
+			"offsets": {
+				"from": 797120,
+				"to": 803120
+			},
+			"text": " But instead, they realized that the King of Kings and the Lord of Lords called them here and he's got"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,120",
+				"to": "00:13:30,800"
+			},
+			"offsets": {
+				"from": 803120,
+				"to": 810800
+			},
+			"text": " this under control. None of this is surprising God one bit. It's not a crime under Roman law to cast"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,800",
+				"to": "00:13:37,280"
+			},
+			"offsets": {
+				"from": 810800,
+				"to": 817280
+			},
+			"text": " out demons or to heal someone who's mentally sick. So they had in fact done nothing wrong. They were unjustly"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,280",
+				"to": "00:13:45,920"
+			},
+			"offsets": {
+				"from": 817280,
+				"to": 825920
+			},
+			"text": " punished even by Roman standards. Verse 23, \"They had been severely flogged and they were thrown into"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,920",
+				"to": "00:13:51,200"
+			},
+			"offsets": {
+				"from": 825920,
+				"to": 831200
+			},
+			"text": " prison. The jailer was commanded to guard them carefully. And when he received these orders,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,200",
+				"to": "00:14:00,160"
+			},
+			"offsets": {
+				"from": 831200,
+				"to": 840160
+			},
+			"text": " he put them in the inner cell and fastened their feet in stocks.\" So Roman prisons had three departments."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,160",
+				"to": "00:14:06,960"
+			},
+			"offsets": {
+				"from": 840160,
+				"to": 846960
+			},
+			"text": " The first one was called the communioria, which was the light and fresh air. So those criminals who had the"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,960",
+				"to": "00:14:14,720"
+			},
+			"offsets": {
+				"from": 846960,
+				"to": 854720
+			},
+			"text": " the latest defenses, they would have been put in that first cell. Then you have the next cell, which is"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,720",
+				"to": "00:14:22,960"
+			},
+			"offsets": {
+				"from": 854720,
+				"to": 862960
+			},
+			"text": " called the interiora. This was shot off by iron bars and locks. But Paul and Silas were put in the telunium,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,960",
+				"to": "00:14:31,040"
+			},
+			"offsets": {
+				"from": 862960,
+				"to": 871040
+			},
+			"text": " which was the dungeon where people were put to die. This was top security. And their feet were placed"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,040",
+				"to": "00:14:38,160"
+			},
+			"offsets": {
+				"from": 871040,
+				"to": 878160
+			},
+			"text": " in stocks, which were heavy pieces of woods with holes, similar, similar to medieval stocks. So these are"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,160",
+				"to": "00:14:44,240"
+			},
+			"offsets": {
+				"from": 878160,
+				"to": 884240
+			},
+			"text": " the stocks that you would have seen, um, something similar to this up off the ground. Their feet would"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,240",
+				"to": "00:14:50,480"
+			},
+			"offsets": {
+				"from": 884240,
+				"to": 890480
+			},
+			"text": " have been locked in here. They have been beaten. They are in excruciating pain and their feet are stuck in"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,480",
+				"to": "00:14:58,400"
+			},
+			"offsets": {
+				"from": 890480,
+				"to": 898400
+			},
+			"text": " this. Can we show the, um, inner cell again? This is what scholars believe to have been the actual cell"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:58,400",
+				"to": "00:15:05,840"
+			},
+			"offsets": {
+				"from": 898400,
+				"to": 905840
+			},
+			"text": " that Paul and Silas would have found themselves in sitting on a dark floor, miserable, beaten,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:05,840",
+				"to": "00:15:12,160"
+			},
+			"offsets": {
+				"from": 905840,
+				"to": 912160
+			},
+			"text": " feet in stocks for doing absolutely nothing wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,160",
+				"to": "00:15:22,000"
+			},
+			"offsets": {
+				"from": 912160,
+				"to": 922000
+			},
+			"text": " Um, so what do they do? Did they panic? Did they get to the point where like, really,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,960",
+				"to": "00:15:32,400"
+			},
+			"offsets": {
+				"from": 922960,
+				"to": 932400
+			},
+			"text": " this is what I get for everything that I've done? They don't do that. They actually begin to praise"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,400",
+				"to": "00:15:38,080"
+			},
+			"offsets": {
+				"from": 932400,
+				"to": 938080
+			},
+			"text": " and worship Jesus. Why do they do this? Because they have a relationship with Jesus that they are"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,080",
+				"to": "00:15:43,840"
+			},
+			"offsets": {
+				"from": 938080,
+				"to": 943840
+			},
+			"text": " constantly reminded that he has been there for me in the good and the bad, and he hasn't left me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,840",
+				"to": "00:15:50,720"
+			},
+			"offsets": {
+				"from": 943840,
+				"to": 950720
+			},
+			"text": " and he hasn't left me now, and he isn't going to leave me. They are able to view the world and their"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,720",
+				"to": "00:15:58,080"
+			},
+			"offsets": {
+				"from": 950720,
+				"to": 958080
+			},
+			"text": " circumstances, no matter how bad, through the eyes of Jesus, rather than through the eyes of the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,080",
+				"to": "00:16:06,480"
+			},
+			"offsets": {
+				"from": 958080,
+				"to": 966480
+			},
+			"text": " of this world. Hebrews 13:14 is one of my absolute favorite verses. It says, \"For this world is not our"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,480",
+				"to": "00:16:14,000"
+			},
+			"offsets": {
+				"from": 966480,
+				"to": 974000
+			},
+			"text": " permanent home. We are looking forward to a home yet to come.\" See, Paul and Silas are looking at their"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,000",
+				"to": "00:16:22,720"
+			},
+			"offsets": {
+				"from": 974000,
+				"to": 982720
+			},
+			"text": " better situation with those with that lens. This is not my permanent home. My job here is to fall"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,720",
+				"to": "00:16:29,040"
+			},
+			"offsets": {
+				"from": 982720,
+				"to": 989040
+			},
+			"text": " madly in love with Jesus and allow him to move me, because I know that I'm looking forward to something"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,040",
+				"to": "00:16:38,480"
+			},
+			"offsets": {
+				"from": 989040,
+				"to": 998480
+			},
+			"text": " better that is yet to come. About midnight, so this is verse 25, \"Paul and Silas were praying and singing"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,480",
+				"to": "00:16:45,520"
+			},
+			"offsets": {
+				"from": 998480,
+				"to": 1005520
+			},
+			"text": " hymns to God, and the other prisoners were listening to them.\" So how are they acting in one of their worst"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,520",
+				"to": "00:16:55,120"
+			},
+			"offsets": {
+				"from": 1005520,
+				"to": 1015120
+			},
+			"text": " days? They are singing and praising God. Like, this is just a normal man. These are just normal men"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,000",
+				"to": "00:17:04,480"
+			},
+			"offsets": {
+				"from": 1016000,
+				"to": 1024480
+			},
+			"text": " who found the Christ, the one that will bring them eternal salvation, but they're still feeling the"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,480",
+				"to": "00:17:11,760"
+			},
+			"offsets": {
+				"from": 1024480,
+				"to": 1031760
+			},
+			"text": " pain. They were still humiliated. And yet, while they're sitting in a dark prison, surrounded by"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,760",
+				"to": "00:17:17,360"
+			},
+			"offsets": {
+				"from": 1031760,
+				"to": 1037360
+			},
+			"text": " prisoners that are probably going to be executed, they may be executed the next morning. They have no"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,360",
+				"to": "00:17:26,160"
+			},
+			"offsets": {
+				"from": 1037360,
+				"to": 1046160
+			},
+			"text": " idea. Yet, they are taking this moment and singing praises to God. This is not a time for praying and"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,160",
+				"to": "00:17:32,160"
+			},
+			"offsets": {
+				"from": 1046160,
+				"to": 1052160
+			},
+			"text": " singing unless you have found a peace that passes understanding that you can only find in God."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,160",
+				"to": "00:17:42,320"
+			},
+			"offsets": {
+				"from": 1052160,
+				"to": 1062320
+			},
+			"text": " They were worshiping not in hopes that Jesus would set them free. They were worshiping because God had"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,320",
+				"to": "00:17:50,000"
+			},
+			"offsets": {
+				"from": 1062320,
+				"to": 1070000
+			},
+			"text": " already set them free. This is not the type of freedom that those other prisoners wanted, right? They wanted"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:50,000",
+				"to": "00:17:56,400"
+			},
+			"offsets": {
+				"from": 1070000,
+				"to": 1076400
+			},
+			"text": " out. They were terrified. They would do anything to get past those bars. Paul and Silas had a freedom"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,400",
+				"to": "00:18:05,040"
+			},
+			"offsets": {
+				"from": 1076400,
+				"to": 1085040
+			},
+			"text": " that can only come through a deep relationship with God. And that freedom, the world can never take away"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,040",
+				"to": "00:18:15,200"
+			},
+			"offsets": {
+				"from": 1085040,
+				"to": 1095200
+			},
+			"text": " from them. Do you and I focus on this freedom that we have in Christ during our life circumstances? Or do we"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,200",
+				"to": "00:18:23,520"
+			},
+			"offsets": {
+				"from": 1095200,
+				"to": 1103520
+			},
+			"text": " focus on the thoughts that we have nothing better coming, that this is it? Paul and Silas focus on their"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,520",
+				"to": "00:18:30,160"
+			},
+			"offsets": {
+				"from": 1103520,
+				"to": 1110160
+			},
+			"text": " freedom. Verse 26, \"Suddenly there's a violent earthquake and the foundations of the prison are shaken. At"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,160",
+				"to": "00:18:36,640"
+			},
+			"offsets": {
+				"from": 1110160,
+				"to": 1116640
+			},
+			"text": " once all the prison doors flew open and everyone's chains came loose.\" How many of you have ever been in an"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,640",
+				"to": "00:18:45,600"
+			},
+			"offsets": {
+				"from": 1116640,
+				"to": 1125600
+			},
+			"text": " earthquake? I had like, I was in a little one. Does it make any sense for chains to fall off arms and for"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,600",
+				"to": "00:18:53,760"
+			},
+			"offsets": {
+				"from": 1125600,
+				"to": 1133760
+			},
+			"text": " stalks to open? It's not how earthquakes work. Maybe the door would fly open. Maybe. But earthquakes don't take"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:53,760",
+				"to": "00:19:02,640"
+			},
+			"offsets": {
+				"from": 1133760,
+				"to": 1142640
+			},
+			"text": " chains off people. This was clearly an act of God and everyone there knew it. Verse 27, \"The jailer woke"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,640",
+				"to": "00:19:08,080"
+			},
+			"offsets": {
+				"from": 1142640,
+				"to": 1148080
+			},
+			"text": " up and when he saw the prison doors open, he drew his sword and was about to kill himself because he"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,080",
+				"to": "00:19:15,680"
+			},
+			"offsets": {
+				"from": 1148080,
+				"to": 1155680
+			},
+			"text": " thought the prisoners had escaped. But Paul shouted, 'Don't harm yourself. We are all here.'\" Who did it say"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:15,680",
+				"to": "00:19:27,280"
+			},
+			"offsets": {
+				"from": 1155680,
+				"to": 1167280
+			},
+			"text": " was all there? Everyone. Prisoners that were planning to be executed did not run. Why did they not run?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,280",
+				"to": "00:19:36,800"
+			},
+			"offsets": {
+				"from": 1167280,
+				"to": 1176800
+			},
+			"text": " Because in the middle of Paul and Silas's worst day, they chose to praise and worship God and others"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,800",
+				"to": "00:19:42,800"
+			},
+			"offsets": {
+				"from": 1176800,
+				"to": 1182800
+			},
+			"text": " paid attention. If you're sitting in a prison cell and you're going to be executed, the last thing you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:42,800",
+				"to": "00:19:49,200"
+			},
+			"offsets": {
+				"from": 1182800,
+				"to": 1189200
+			},
+			"text": " thinking about is praying and worshiping to God. But these men did and everyone took notice, including"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,200",
+				"to": "00:19:54,560"
+			},
+			"offsets": {
+				"from": 1189200,
+				"to": 1194560
+			},
+			"text": " the other prisoners. They know there's something different about these men. This is not the way you"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,560",
+				"to": "00:20:00,640"
+			},
+			"offsets": {
+				"from": 1194560,
+				"to": 1200640
+			},
+			"text": " act when you're treated like this, but these men did. So when this earthquake happened, everybody clearly"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,640",
+				"to": "00:20:06,800"
+			},
+			"offsets": {
+				"from": 1200640,
+				"to": 1206800
+			},
+			"text": " knew this was an act of God and I'm sticking around because this is way more important than what's going"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,800",
+				"to": "00:20:15,040"
+			},
+			"offsets": {
+				"from": 1206800,
+				"to": 1215040
+			},
+			"text": " on in my life. So why was the jailer going to kill himself? Sleeping while you were supposed to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,040",
+				"to": "00:20:22,800"
+			},
+			"offsets": {
+				"from": 1215040,
+				"to": 1222800
+			},
+			"text": " guarding prisoners in first century AD Roman Empire was a crime and it was punishable by death. So no doubt"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,800",
+				"to": "00:20:28,560"
+			},
+			"offsets": {
+				"from": 1222800,
+				"to": 1228560
+			},
+			"text": " the jailer assumed the doors are open, the chains are gone, these guys are gone, and I don't want to be put to death"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,120",
+				"to": "00:20:38,080"
+			},
+			"offsets": {
+				"from": 1229120,
+				"to": 1238080
+			},
+			"text": " by the Roman authorities. So I'm going to do it myself. The jailer called for lights and rushed in and fell"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,080",
+				"to": "00:20:45,920"
+			},
+			"offsets": {
+				"from": 1238080,
+				"to": 1245920
+			},
+			"text": " trembling before Paul and Silas. He then brought them out and says, \"Sirs, what must I do to be saved?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,200",
+				"to": "00:20:58,320"
+			},
+			"offsets": {
+				"from": 1247200,
+				"to": 1258320
+			},
+			"text": " What did he call them? Sirs. How quickly did the man who thought he was in charge flip and fall on his"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,320",
+				"to": "00:21:09,040"
+			},
+			"offsets": {
+				"from": 1258320,
+				"to": 1269040
+			},
+			"text": " feet to the prisoners and call them sirs? Who in this scenario was really in chains and who in this"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,040",
+				"to": "00:21:18,240"
+			},
+			"offsets": {
+				"from": 1269040,
+				"to": 1278240
+			},
+			"text": " scenario was really free? See, the reality is is we can live in bondage to sin while thinking we are free."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,240",
+				"to": "00:21:26,000"
+			},
+			"offsets": {
+				"from": 1278240,
+				"to": 1286000
+			},
+			"text": " This is the best trick that Satan can play on us. How often do we look at our lives and think,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,000",
+				"to": "00:21:33,280"
+			},
+			"offsets": {
+				"from": 1286000,
+				"to": 1293280
+			},
+			"text": " \"I'm free. I have the money that I needed. I have this house. I have these people that"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,280",
+				"to": "00:21:42,320"
+			},
+			"offsets": {
+				"from": 1293280,
+				"to": 1302320
+			},
+			"text": " finally love me and accept me.\" But in reality, we don't even see our chains. If we can be kept under"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,320",
+				"to": "00:21:48,800"
+			},
+			"offsets": {
+				"from": 1302320,
+				"to": 1308800
+			},
+			"text": " the understanding that we are free when we really aren't, then Satan has us right where he wants us."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,800",
+				"to": "00:21:53,920"
+			},
+			"offsets": {
+				"from": 1308800,
+				"to": 1313920
+			},
+			"text": " Because people don't try to get out of chains if they don't know that they're wearing them."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,920",
+				"to": "00:22:00,080"
+			},
+			"offsets": {
+				"from": 1313920,
+				"to": 1320080
+			},
+			"text": " These jailers had no idea that they were imprisoning people that were actually free"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,080",
+				"to": "00:22:07,920"
+			},
+			"offsets": {
+				"from": 1320080,
+				"to": 1327920
+			},
+			"text": " when he himself were in change. But in this moment, he gets it. Because Paul and Silas chose to worship"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,920",
+				"to": "00:22:16,800"
+			},
+			"offsets": {
+				"from": 1327920,
+				"to": 1336800
+			},
+			"text": " and sing in their darkest moment. So what does true freedom look like? Truly. Think about that. What"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,800",
+				"to": "00:22:24,720"
+			},
+			"offsets": {
+				"from": 1336800,
+				"to": 1344720
+			},
+			"text": " would it be like to feel free? Is it having enough money? Having a big house? Is it being athletic? Is it"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,720",
+				"to": "00:22:31,760"
+			},
+			"offsets": {
+				"from": 1344720,
+				"to": 1351760
+			},
+			"text": " having the right friends? Ask anybody who's gotten to the pinnacle of all of those things if it brought"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,760",
+				"to": "00:22:36,640"
+			},
+			"offsets": {
+				"from": 1351760,
+				"to": 1356640
+			},
+			"text": " them true freedom? And their answer will be no. How often do we hear of movie stars that have all"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,640",
+				"to": "00:22:43,600"
+			},
+			"offsets": {
+				"from": 1356640,
+				"to": 1363600
+			},
+			"text": " the money and all the fame committing suicide or turning to drugs or turning to partying and just"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,600",
+				"to": "00:22:48,880"
+			},
+			"offsets": {
+				"from": 1363600,
+				"to": 1368880
+			},
+			"text": " losing everything that they have? Because when you get to what you think is going to bring you freedom"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:48,880",
+				"to": "00:22:55,840"
+			},
+			"offsets": {
+				"from": 1368880,
+				"to": 1375840
+			},
+			"text": " and it doesn't, there's nowhere else to turn. These men were in the darkest cell in the Roman prison."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,840",
+				"to": "00:23:01,120"
+			},
+			"offsets": {
+				"from": 1375840,
+				"to": 1381120
+			},
+			"text": " They were naked. They had been beaten. They were in excruciating pain, yet they had freedom"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,120",
+				"to": "00:23:12,160"
+			},
+			"offsets": {
+				"from": 1381120,
+				"to": 1392160
+			},
+			"text": " that made absolutely no sense. True freedom looks like this. It means looking at your circumstances in"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,160",
+				"to": "00:23:18,240"
+			},
+			"offsets": {
+				"from": 1392160,
+				"to": 1398240
+			},
+			"text": " the light of Jesus in every scenario. When you look at your circumstances through the eyes of Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:18,240",
+				"to": "00:23:24,160"
+			},
+			"offsets": {
+				"from": 1398240,
+				"to": 1404160
+			},
+			"text": " everything shifts. You see things differently than the rest of the world sees them."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,160",
+				"to": "00:23:32,240"
+			},
+			"offsets": {
+				"from": 1404160,
+				"to": 1412240
+			},
+			"text": " This freedom that Christ gives us when we look through his eyes is not something that we were"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,240",
+				"to": "00:23:38,640"
+			},
+			"offsets": {
+				"from": 1412240,
+				"to": 1418640
+			},
+			"text": " called to keep to ourselves. It's something that Christ has begged us to share with others because he"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,640",
+				"to": "00:23:46,960"
+			},
+			"offsets": {
+				"from": 1418640,
+				"to": 1426960
+			},
+			"text": " doesn't want anyone to live in this bondage. My friend Sam Rogers, who is the pastor of Hope Valley"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,960",
+				"to": "00:23:55,120"
+			},
+			"offsets": {
+				"from": 1426960,
+				"to": 1435120
+			},
+			"text": " Church, has a quote that I had to share with you. It says, \"We are called to bring freedom to people who"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,120",
+				"to": "00:24:01,840"
+			},
+			"offsets": {
+				"from": 1435120,
+				"to": 1441840
+			},
+			"text": " cannot see their own chains.\" And that's what they did. We're not called to judge them. We're not called to"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,840",
+				"to": "00:24:07,600"
+			},
+			"offsets": {
+				"from": 1441840,
+				"to": 1447600
+			},
+			"text": " make fun of them. We're not called to think we're better than them. We are called to view them through the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,600",
+				"to": "00:24:14,720"
+			},
+			"offsets": {
+				"from": 1447600,
+				"to": 1454720
+			},
+			"text": " eyes of Jesus, which is I love them. I see that they're struggling and I want to remove the chains"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,720",
+				"to": "00:24:21,200"
+			},
+			"offsets": {
+				"from": 1454720,
+				"to": 1461200
+			},
+			"text": " that they don't even know that they have. That's how Jesus sees us. That's how Jesus saw Paul on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,200",
+				"to": "00:24:29,120"
+			},
+			"offsets": {
+				"from": 1461200,
+				"to": 1469120
+			},
+			"text": " road to Damascus. He saw a man that was responsible for the first martyr. He loves Stephen. Stephen was"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,120",
+				"to": "00:24:36,400"
+			},
+			"offsets": {
+				"from": 1469120,
+				"to": 1476400
+			},
+			"text": " stoned because Paul said, \"This man deserves to die.\" And what did Jesus see in Paul? He did not see"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:36,400",
+				"to": "00:24:40,880"
+			},
+			"offsets": {
+				"from": 1476400,
+				"to": 1480880
+			},
+			"text": " somebody that he wanted to turn his back on and never forgive. He saw somebody that was in chains"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,880",
+				"to": "00:24:45,920"
+			},
+			"offsets": {
+				"from": 1480880,
+				"to": 1485920
+			},
+			"text": " that didn't know that they were holding and he wanted to set them free. And so this is how Paul"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,920",
+				"to": "00:24:53,520"
+			},
+			"offsets": {
+				"from": 1485920,
+				"to": 1493520
+			},
+			"text": " sees others. Is this how we see others? Because oftentimes it's the opposite of how we see others."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,520",
+				"to": "00:25:10,560"
+			},
+			"offsets": {
+				"from": 1493520,
+				"to": 1510560
+			},
+			"text": " One thing that I was a little confused on is how did his family get to the jail?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,560",
+				"to": "00:25:18,080"
+			},
+			"offsets": {
+				"from": 1510560,
+				"to": 1518080
+			},
+			"text": " Scholars believe that they probably felt the earthquake and came to check on their father,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,080",
+				"to": "00:25:22,240"
+			},
+			"offsets": {
+				"from": 1518080,
+				"to": 1522240
+			},
+			"text": " their family member. And when they cut down there, instead of seeing their dad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,240",
+				"to": "00:25:29,280"
+			},
+			"offsets": {
+				"from": 1522240,
+				"to": 1529280
+			},
+			"text": " honestly, had Paul and Silas not worshiped, they would have seen their dad dead on the ground or"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,280",
+				"to": "00:25:36,560"
+			},
+			"offsets": {
+				"from": 1529280,
+				"to": 1536560
+			},
+			"text": " husband or uncle or whatever it was. But what they see is him on his hands and knees listening to every"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,560",
+				"to": "00:25:43,360"
+			},
+			"offsets": {
+				"from": 1536560,
+				"to": 1543360
+			},
+			"text": " word that these prisoners are telling him. What if Paul and Silas had gotten angry like they had every"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,360",
+				"to": "00:25:51,920"
+			},
+			"offsets": {
+				"from": 1543360,
+				"to": 1551920
+			},
+			"text": " right to do and been sitting in that cell fuming? What if they were sad and depressed and sat there"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,920",
+				"to": "00:25:59,680"
+			},
+			"offsets": {
+				"from": 1551920,
+				"to": 1559680
+			},
+			"text": " crying? I probably would have sat there crying and viewed their circumstances the way that everybody"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,680",
+				"to": "00:26:05,040"
+			},
+			"offsets": {
+				"from": 1559680,
+				"to": 1565040
+			},
+			"text": " else would have. I can tell you that the prisoners, when that earthquake happened, they would have bolted"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,040",
+				"to": "00:26:09,760"
+			},
+			"offsets": {
+				"from": 1565040,
+				"to": 1569760
+			},
+			"text": " because those guys were no different than them and they would have ran. That means that the jailer"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,760",
+				"to": "00:26:15,840"
+			},
+			"offsets": {
+				"from": 1569760,
+				"to": 1575840
+			},
+			"text": " would have killed himself because he knew that he was going to be executed and the jailer in his entire"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,840",
+				"to": "00:26:20,720"
+			},
+			"offsets": {
+				"from": 1575840,
+				"to": 1580720
+			},
+			"text": " family never would have heard the word of God. Not only that, but these prisoners' lives would have"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,720",
+				"to": "00:26:27,600"
+			},
+			"offsets": {
+				"from": 1580720,
+				"to": 1587600
+			},
+			"text": " never been able to be changed. How many times do we view our circumstances through the lens of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,600",
+				"to": "00:26:33,680"
+			},
+			"offsets": {
+				"from": 1587600,
+				"to": 1593680
+			},
+			"text": " world rather than through the eyes of Jesus and we miss an opportunity to show Jesus to others?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,680",
+				"to": "00:26:43,280"
+			},
+			"offsets": {
+				"from": 1593680,
+				"to": 1603280
+			},
+			"text": " Probably multiple times a day. See, that's what sets somebody apart who has a true relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:43,280",
+				"to": "00:26:50,960"
+			},
+			"offsets": {
+				"from": 1603280,
+				"to": 1610960
+			},
+			"text": " with Christ is how they handle life circumstances that don't go the way that they are. And just as a"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:50,960",
+				"to": "00:26:56,480"
+			},
+			"offsets": {
+				"from": 1610960,
+				"to": 1616480
+			},
+			"text": " reminder, if we do it wrong and we view them the way that the world views them, God just graciously"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,480",
+				"to": "00:27:03,280"
+			},
+			"offsets": {
+				"from": 1616480,
+				"to": 1623280
+			},
+			"text": " loves us and takes us back into his fold. It's just that we may be missing an opportunity to share the"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,280",
+				"to": "00:27:05,840"
+			},
+			"offsets": {
+				"from": 1623280,
+				"to": 1625840
+			},
+			"text": " love of Christ to others."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,840",
+				"to": "00:27:16,240"
+			},
+			"offsets": {
+				"from": 1625840,
+				"to": 1636240
+			},
+			"text": " So let's look at verse 33. At that hour of the night, the jailer took them and washed their wounds"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,240",
+				"to": "00:27:22,160"
+			},
+			"offsets": {
+				"from": 1636240,
+				"to": 1642160
+			},
+			"text": " and immediately he and his household were baptized. The jailer brought them into his house and set a meal"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,160",
+				"to": "00:27:33,280"
+			},
+			"offsets": {
+				"from": 1642160,
+				"to": 1653280
+			},
+			"text": " before them. He was filled with joy because he and his whole household. What's the first thing the jailer wanted"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,280",
+				"to": "00:27:40,960"
+			},
+			"offsets": {
+				"from": 1653280,
+				"to": 1660960
+			},
+			"text": " to do when he met Jesus? He wanted to share it with his family because nothing would ever be more important"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,960",
+				"to": "00:27:49,200"
+			},
+			"offsets": {
+				"from": 1660960,
+				"to": 1669200
+			},
+			"text": " than that moment. He saw there's something better in this world and I just found it. You guys need to know. I don't know what the"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,200",
+				"to": "00:27:55,120"
+			},
+			"offsets": {
+				"from": 1669200,
+				"to": 1675120
+			},
+			"text": " repercussions of a Roman guard becoming a Christian would have been at this time. I know in the very"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,120",
+				"to": "00:28:02,160"
+			},
+			"offsets": {
+				"from": 1675120,
+				"to": 1682160
+			},
+			"text": " least, his social status would have went down and he could have been potentially executed for this new"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,160",
+				"to": "00:28:10,160"
+			},
+			"offsets": {
+				"from": 1682160,
+				"to": 1690160
+			},
+			"text": " walk with Jesus and turn in. But none of that mattered. Even if his family was going to lose their lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:10,960",
+				"to": "00:28:16,960"
+			},
+			"offsets": {
+				"from": 1690960,
+				"to": 1696960
+			},
+			"text": " what was more important to him in that moment was not to keep his social status, to keep his job,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,960",
+				"to": "00:28:24,160"
+			},
+			"offsets": {
+				"from": 1696960,
+				"to": 1704160
+			},
+			"text": " to protect their lives. It was, I just met the savior and nothing else is more important than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:24,160",
+				"to": "00:28:34,160"
+			},
+			"offsets": {
+				"from": 1704160,
+				"to": 1714160
+			},
+			"text": " Parents, grandparents, aunts, uncles, mentors, do you live a life that shows those that are under you"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,160",
+				"to": "00:28:46,240"
+			},
+			"offsets": {
+				"from": 1714160,
+				"to": 1726240
+			},
+			"text": " that the most important number one priority is your walk with Jesus? Truly, is that how you live your life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:47,840",
+				"to": "00:28:59,840"
+			},
+			"offsets": {
+				"from": 1727840,
+				"to": 1739840
+			},
+			"text": " If not, ask yourself what you're putting first to them. Is it career? Is it sports? Is it money? Is it"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:59,840",
+				"to": "00:29:07,760"
+			},
+			"offsets": {
+				"from": 1739840,
+				"to": 1747760
+			},
+			"text": " popularity? What is it that you are showing your children, those that you mentor, is the most important"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,760",
+				"to": "00:29:14,640"
+			},
+			"offsets": {
+				"from": 1747760,
+				"to": 1754640
+			},
+			"text": " thing? Because they're paying attention. Just like those prisoners in the cell were paying attention to"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,640",
+				"to": "00:29:21,600"
+			},
+			"offsets": {
+				"from": 1754640,
+				"to": 1761600
+			},
+			"text": " Paul and Silas, they're watching you. And you were leading them into an adulthood that shows them"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,600",
+				"to": "00:29:27,440"
+			},
+			"offsets": {
+				"from": 1761600,
+				"to": 1767440
+			},
+			"text": " this is the most important thing. Is it chains that they're just going to carry with them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,440",
+				"to": "00:29:35,120"
+			},
+			"offsets": {
+				"from": 1767440,
+				"to": 1775120
+			},
+			"text": " Or is it the freedom that only Christ can give? Again, I want to show you the quote from Sam"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,120",
+				"to": "00:29:42,480"
+			},
+			"offsets": {
+				"from": 1775120,
+				"to": 1782480
+			},
+			"text": " Rogers. We are called to bring freedom to people who cannot see their own chains. Do you want those"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,480",
+				"to": "00:29:49,280"
+			},
+			"offsets": {
+				"from": 1782480,
+				"to": 1789280
+			},
+			"text": " around you? Do you want yourself? Do you want your children to have true freedom or to remain in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,280",
+				"to": "00:29:57,040"
+			},
+			"offsets": {
+				"from": 1789280,
+				"to": 1797040
+			},
+			"text": " bondage of this world and to Satan? If your answer is true freedom, are you raising them that way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,440",
+				"to": "00:30:10,240"
+			},
+			"offsets": {
+				"from": 1799440,
+				"to": 1810240
+			},
+			"text": " How do you give them true freedom? How did Paul give true freedom? Through no longer seeing people with"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,240",
+				"to": "00:30:17,200"
+			},
+			"offsets": {
+				"from": 1810240,
+				"to": 1817200
+			},
+			"text": " natural eyes, seeing them through the lens of Jesus. People are going to hurt us all the time, literally,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,200",
+				"to": "00:30:22,960"
+			},
+			"offsets": {
+				"from": 1817200,
+				"to": 1822960
+			},
+			"text": " constantly, just when you're like, all right, things are going good. Someone says or does something that just"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,960",
+				"to": "00:30:29,760"
+			},
+			"offsets": {
+				"from": 1822960,
+				"to": 1829760
+			},
+			"text": " crushes you? And you have an opportunity to make a choice. Am I going to view this person and this"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,760",
+				"to": "00:30:35,840"
+			},
+			"offsets": {
+				"from": 1829760,
+				"to": 1835840
+			},
+			"text": " situation through my eyes or through the lens of Jesus? Through the lens of Jesus tells us they are"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,840",
+				"to": "00:30:43,520"
+			},
+			"offsets": {
+				"from": 1835840,
+				"to": 1843520
+			},
+			"text": " children of God. He loves them just as much as he loves us, which is hard to believe when someone has"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,520",
+				"to": "00:30:50,880"
+			},
+			"offsets": {
+				"from": 1843520,
+				"to": 1850880
+			},
+			"text": " hurt us hurt you so deeply. But he does. And do we forgive them and walk forward because that's what Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,880",
+				"to": "00:31:01,040"
+			},
+			"offsets": {
+				"from": 1850880,
+				"to": 1861040
+			},
+			"text": " does to us over and over again? Sometimes that means walking away from a relationship in the love of"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:01,040",
+				"to": "00:31:09,520"
+			},
+			"offsets": {
+				"from": 1861040,
+				"to": 1869520
+			},
+			"text": " Jesus, but it means shifting your focus on how you see them and you allow yourself and your children to see"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,520",
+				"to": "00:31:17,840"
+			},
+			"offsets": {
+				"from": 1869520,
+				"to": 1877840
+			},
+			"text": " them differently. Paul and Silas could have walked out of that prison and said, I told you, I told you that"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,840",
+				"to": "00:31:25,040"
+			},
+			"offsets": {
+				"from": 1877840,
+				"to": 1885040
+			},
+			"text": " there was a God and you're wrong. See you later. But they would have, but Paul didn't do this because he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,040",
+				"to": "00:31:31,200"
+			},
+			"offsets": {
+				"from": 1885040,
+				"to": 1891200
+			},
+			"text": " reminded of how Jesus saw him on the road to Damascus and the grace and forgiveness that he received."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,200",
+				"to": "00:31:38,080"
+			},
+			"offsets": {
+				"from": 1891200,
+				"to": 1898080
+			},
+			"text": " Another question I have for you as you're mentoring and leading your family, as this is a family Sunday,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,080",
+				"to": "00:31:46,640"
+			},
+			"offsets": {
+				"from": 1898080,
+				"to": 1906640
+			},
+			"text": " is what is your relationship with Christ like? Is it the number one priority in your life? Because your"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,640",
+				"to": "00:31:54,240"
+			},
+			"offsets": {
+				"from": 1906640,
+				"to": 1914240
+			},
+			"text": " children are watching. Or Paul and Silas, I talked over and over and over again about how"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:54,240",
+				"to": "00:31:59,200"
+			},
+			"offsets": {
+				"from": 1914240,
+				"to": 1919200
+			},
+			"text": " he spent three years studying the scriptures. He spent 15 years up until this point,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,200",
+				"to": "00:32:04,560"
+			},
+			"offsets": {
+				"from": 1919200,
+				"to": 1924560
+			},
+			"text": " witnessing and sharing Christ and learning about God and just growing, growing closer so that when"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,560",
+				"to": "00:32:13,840"
+			},
+			"offsets": {
+				"from": 1924560,
+				"to": 1933840
+			},
+			"text": " others around him saw him, they saw Jesus. Do those that we are mentoring or raising, do they see"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,840",
+				"to": "00:32:22,080"
+			},
+			"offsets": {
+				"from": 1933840,
+				"to": 1942080
+			},
+			"text": " Jesus in us or do they just see another fallen person of this world? Your relationship with Jesus is going to"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,080",
+				"to": "00:32:27,920"
+			},
+			"offsets": {
+				"from": 1942080,
+				"to": 1947920
+			},
+			"text": " spill over into your relationship with everyone else. For the good or the bad. If you have no relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,920",
+				"to": "00:32:32,320"
+			},
+			"offsets": {
+				"from": 1947920,
+				"to": 1952320
+			},
+			"text": " with Jesus, it's going to spill over. You're going to be in chains like the rest of the world. If you have a"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,320",
+				"to": "00:32:38,240"
+			},
+			"offsets": {
+				"from": 1952320,
+				"to": 1958240
+			},
+			"text": " close relationship where you go to him for everything and you view the world through his eyes, your children"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,240",
+				"to": "00:32:44,800"
+			},
+			"offsets": {
+				"from": 1958240,
+				"to": 1964800
+			},
+			"text": " are going to see that. That's what gives them the freedom that this world doesn't want them to have."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:46,320",
+				"to": "00:32:51,280"
+			},
+			"offsets": {
+				"from": 1966320,
+				"to": 1971280
+			},
+			"text": " And the last thing is, do you practice what you preach? The most effective"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:51,280",
+				"to": "00:33:00,400"
+			},
+			"offsets": {
+				"from": 1971280,
+				"to": 1980400
+			},
+			"text": " way for you to teach is through your actions. Paul says in first Corinthians 11:1, \"Imitate"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,400",
+				"to": "00:33:09,280"
+			},
+			"offsets": {
+				"from": 1980400,
+				"to": 1989280
+			},
+			"text": " me as I imitate Christ.\" That's a tall order. That is not something that I would be comfortable"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:09,280",
+				"to": "00:33:16,480"
+			},
+			"offsets": {
+				"from": 1989280,
+				"to": 1996480
+			},
+			"text": " by saying, \"Imitate me as I imitate Christ.\" Yet, that's what we're called to do. Is your walk with Jesus so"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,480",
+				"to": "00:33:24,960"
+			},
+			"offsets": {
+				"from": 1996480,
+				"to": 2004960
+			},
+			"text": " strong that when others see how you're reacting, they see Christ? Tall order. But it's not something"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,960",
+				"to": "00:33:30,960"
+			},
+			"offsets": {
+				"from": 2004960,
+				"to": 2010960
+			},
+			"text": " that we can just dismiss as, \"Nope, I could never do that.\" He's calling us to do that. So I want to give you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,960",
+				"to": "00:33:39,600"
+			},
+			"offsets": {
+				"from": 2010960,
+				"to": 2019600
+			},
+			"text": " in closing, a practical application just this week to give this a try as you are growing closer with"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,600",
+				"to": "00:33:45,600"
+			},
+			"offsets": {
+				"from": 2019600,
+				"to": 2025600
+			},
+			"text": " Jesus. Remember when we used to write letters back in the old days and at the end you would put PS,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:45,600",
+				"to": "00:33:56,560"
+			},
+			"offsets": {
+				"from": 2025600,
+				"to": 2036560
+			},
+			"text": " postscript. So think of the letters PS. Pause and shift. So when you are thinking about someone,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:56,560",
+				"to": "00:34:03,520"
+			},
+			"offsets": {
+				"from": 2036560,
+				"to": 2043520
+			},
+			"text": " someone makes you mad and you're viewing them, I want you to pause your thoughts immediately. When"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,520",
+				"to": "00:34:08,720"
+			},
+			"offsets": {
+				"from": 2043520,
+				"to": 2048720
+			},
+			"text": " you get that nudge from the Holy Spirit being like, \"I don't think that's how I would act. I actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,720",
+				"to": "00:34:14,880"
+			},
+			"offsets": {
+				"from": 2048720,
+				"to": 2054880
+			},
+			"text": " really love that person.\" Pause your thoughts in that moment and shift them to the way that Jesus would"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:14,880",
+				"to": "00:34:22,400"
+			},
+			"offsets": {
+				"from": 2054880,
+				"to": 2062400
+			},
+			"text": " view them. This is an act that is going to take time. It's going to take repetition. Every time"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,520",
+				"to": "00:34:29,680"
+			},
+			"offsets": {
+				"from": 2063520,
+				"to": 2069680
+			},
+			"text": " you are doing something that you get that nudge of Jesus saying, \"That's not the path that I want you"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:29,680",
+				"to": "00:34:34,240"
+			},
+			"offsets": {
+				"from": 2069680,
+				"to": 2074240
+			},
+			"text": " to take. Those aren't the words that I want you to say. That's not the reaction that I want you to"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,240",
+				"to": "00:34:40,320"
+			},
+			"offsets": {
+				"from": 2074240,
+				"to": 2080320
+			},
+			"text": " have. I want you to view this through the eyes of Jesus and have freedom.\" Pause in that moment. Stop"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,320",
+				"to": "00:34:46,560"
+			},
+			"offsets": {
+				"from": 2080320,
+				"to": 2086560
+			},
+			"text": " those thoughts. Stop those words and shift. And if it means apologizing to someone for what you've done in"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:46,560",
+				"to": "00:34:52,560"
+			},
+			"offsets": {
+				"from": 2086560,
+				"to": 2092560
+			},
+			"text": " the past so that you can feel that freedom of, \"Okay, I'm following Jesus. I'm making it right.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,560",
+				"to": "00:35:00,800"
+			},
+			"offsets": {
+				"from": 2092560,
+				"to": 2100800
+			},
+			"text": " Pause and shift and go back to that person and apologize. Whatever you can do to take away the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:00,800",
+				"to": "00:35:09,600"
+			},
+			"offsets": {
+				"from": 2100800,
+				"to": 2109600
+			},
+			"text": " chains that Satan so desperately wants to keep on you, do it. Because the true freedom that we find in"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,600",
+				"to": "00:35:15,840"
+			},
+			"offsets": {
+				"from": 2109600,
+				"to": 2115840
+			},
+			"text": " Christ is nothing like we've ever experienced before. It's the peace that passes understanding. It's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,840",
+				"to": "00:35:22,160"
+			},
+			"offsets": {
+				"from": 2115840,
+				"to": 2122160
+			},
+			"text": " ability to look at your life and say, \"It's okay because Jesus still has me in the palm of his hands.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,160",
+				"to": "00:35:30,720"
+			},
+			"offsets": {
+				"from": 2122160,
+				"to": 2130720
+			},
+			"text": " No matter what. And this world is not my permanent home. I am waiting for something better yet to come."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,360",
+				"to": "00:35:37,680"
+			},
+			"offsets": {
+				"from": 2131360,
+				"to": 2137680
+			},
+			"text": " Do we live like that or do we live in bondage and chains like the rest of the world? And are we raising"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:37,680",
+				"to": "00:35:45,280"
+			},
+			"offsets": {
+				"from": 2137680,
+				"to": 2145280
+			},
+			"text": " our children to view this world through the eyes of Jesus? Are we raising them to view this world"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,280",
+				"to": "00:35:50,480"
+			},
+			"offsets": {
+				"from": 2145280,
+				"to": 2150480
+			},
+			"text": " through the worldly lens that everyone else does? Because if we are, then we're raising them to live"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,480",
+				"to": "00:35:56,880"
+			},
+			"offsets": {
+				"from": 2150480,
+				"to": 2156880
+			},
+			"text": " in chains and bondage that they won't know they had because they were raised by a loving Christian parent"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,520",
+				"to": "00:36:03,360"
+			},
+			"offsets": {
+				"from": 2157520,
+				"to": 2163360
+			},
+			"text": " that kept them in chains. I don't know about you, but I want desperately to be in the freedom of Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,360",
+				"to": "00:36:12,320"
+			},
+			"offsets": {
+				"from": 2163360,
+				"to": 2172320
+			},
+			"text": " myself and to give that freedom to my children and to be the person that handles situations differently"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,320",
+				"to": "00:36:19,120"
+			},
+			"offsets": {
+				"from": 2172320,
+				"to": 2179120
+			},
+			"text": " so that others notice and turn to Jesus. Because this world is short, but we're looking forward to"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,120",
+				"to": "00:36:26,080"
+			},
+			"offsets": {
+				"from": 2179120,
+				"to": 2186080
+			},
+			"text": " something so much greater yet to come. Let's pray together. Dear Heavenly Father,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,080",
+				"to": "00:36:32,080"
+			},
+			"offsets": {
+				"from": 2186080,
+				"to": 2192080
+			},
+			"text": " Father, I just thank you for giving us freedom. I thank you, God, that you love us so much that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,080",
+				"to": "00:36:39,520"
+			},
+			"offsets": {
+				"from": 2192080,
+				"to": 2199520
+			},
+			"text": " brought us out of this world and are allowing us to have a relationship with you and walk with you"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,520",
+				"to": "00:36:47,360"
+			},
+			"offsets": {
+				"from": 2199520,
+				"to": 2207360
+			},
+			"text": " every day on this earth. God, give us the freedom that you want us to have. God, I pray that this week"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,360",
+				"to": "00:36:55,040"
+			},
+			"offsets": {
+				"from": 2207360,
+				"to": 2215040
+			},
+			"text": " we are able to pause the thoughts that you don't want us to have and to pause the words that you don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,040",
+				"to": "00:37:03,360"
+			},
+			"offsets": {
+				"from": 2215040,
+				"to": 2223360
+			},
+			"text": " want us to say and to shift back to you, to shift back to the way you see this world and you love"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,360",
+				"to": "00:37:10,080"
+			},
+			"offsets": {
+				"from": 2223360,
+				"to": 2230080
+			},
+			"text": " those that we get so frustrated with. And God, I pray that our children will see it and those that are"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,080",
+				"to": "00:37:17,600"
+			},
+			"offsets": {
+				"from": 2230080,
+				"to": 2237600
+			},
+			"text": " around us will see it and they will find you and that freedom that only you can bring. In Jesus' name"
+		}
+	]
+}

@@ -1,0 +1,6313 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,100"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1100
+			},
+			"text": " Pray. Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:56,680"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 56680
+			},
+			"text": " Well, good morning, church."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,680",
+				"to": "00:00:59,720"
+			},
+			"offsets": {
+				"from": 56680,
+				"to": 59720
+			},
+			"text": " Thank you all for braving the weather."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,140",
+				"to": "00:01:01,800"
+			},
+			"offsets": {
+				"from": 60140,
+				"to": 61800
+			},
+			"text": " So glad that you have joined us."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,800",
+				"to": "00:01:03,440"
+			},
+			"offsets": {
+				"from": 61800,
+				"to": 63440
+			},
+			"text": " If we haven't met yet, my name is Ryan."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,440",
+				"to": "00:01:05,180"
+			},
+			"offsets": {
+				"from": 63440,
+				"to": 65180
+			},
+			"text": " I have the privilege of being one of the pastors here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,180",
+				"to": "00:01:08,220"
+			},
+			"offsets": {
+				"from": 65180,
+				"to": 68220
+			},
+			"text": " The glasses are a new thing, in case you're wondering."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,220",
+				"to": "00:01:13,740"
+			},
+			"offsets": {
+				"from": 68220,
+				"to": 73740
+			},
+			"text": " And I'm kind of in between because they're supposed to be for, like, nights and light."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,740",
+				"to": "00:01:15,960"
+			},
+			"offsets": {
+				"from": 73740,
+				"to": 75960
+			},
+			"text": " Not really good close up."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,960",
+				"to": "00:01:19,320"
+			},
+			"offsets": {
+				"from": 75960,
+				"to": 79320
+			},
+			"text": " So my theory is, because it's relatively dark in here with a lot of lights,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,320",
+				"to": "00:01:21,480"
+			},
+			"offsets": {
+				"from": 79320,
+				"to": 81480
+			},
+			"text": " I should be able to see some of you a lot better."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,480",
+				"to": "00:01:23,980"
+			},
+			"offsets": {
+				"from": 81480,
+				"to": 83980
+			},
+			"text": " I'm not sure if I'm going to be able to read my notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,980",
+				"to": "00:01:27,980"
+			},
+			"offsets": {
+				"from": 83980,
+				"to": 87980
+			},
+			"text": " So if I make long, awkward eye contact with some of you back further,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,320",
+				"to": "00:01:31,820"
+			},
+			"offsets": {
+				"from": 89320,
+				"to": 91820
+			},
+			"text": " it's because I can actually see you for the first time ever."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,820",
+				"to": "00:01:37,160"
+			},
+			"offsets": {
+				"from": 91820,
+				"to": 97160
+			},
+			"text": " And if I stumble over my notes, it's because I'm sacrificing the ability to read them"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,160",
+				"to": "00:01:41,640"
+			},
+			"offsets": {
+				"from": 97160,
+				"to": 101640
+			},
+			"text": " in order to make long, awkward eye contact with you all in the back row."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,780",
+				"to": "00:01:44,080"
+			},
+			"offsets": {
+				"from": 101780,
+				"to": 104080
+			},
+			"text": " So we are so glad that you are here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,080",
+				"to": "00:01:45,360"
+			},
+			"offsets": {
+				"from": 104080,
+				"to": 105360
+			},
+			"text": " We are continuing."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,360",
+				"to": "00:01:46,100"
+			},
+			"offsets": {
+				"from": 105360,
+				"to": 106100
+			},
+			"text": " Oh, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,100",
+				"to": "00:01:47,000"
+			},
+			"offsets": {
+				"from": 106100,
+				"to": 107000
+			},
+			"text": " Save that for later."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,000",
+				"to": "00:01:47,420"
+			},
+			"offsets": {
+				"from": 107000,
+				"to": 107420
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,420",
+				"to": "00:01:51,300"
+			},
+			"offsets": {
+				"from": 107420,
+				"to": 111300
+			},
+			"text": " That's long, awkward eye contact."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,300",
+				"to": "00:01:54,620"
+			},
+			"offsets": {
+				"from": 111300,
+				"to": 114620
+			},
+			"text": " We are continuing our series on Advent."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,620",
+				"to": "00:02:00,960"
+			},
+			"offsets": {
+				"from": 115620,
+				"to": 120960
+			},
+			"text": " And we've said so far that at Advent, the focus of Advent is to look back at the ways in which"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,960",
+				"to": "00:02:04,580"
+			},
+			"offsets": {
+				"from": 120960,
+				"to": 124580
+			},
+			"text": " God has been faithful to his promises in the past through the birth of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,540",
+				"to": "00:02:12,120"
+			},
+			"offsets": {
+				"from": 125540,
+				"to": 132120
+			},
+			"text": " To think about how we can participate in the promises of God in the present and to look forward with"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,120",
+				"to": "00:02:14,900"
+			},
+			"offsets": {
+				"from": 132120,
+				"to": 134900
+			},
+			"text": " anticipation to the promises of God in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,900",
+				"to": "00:02:20,380"
+			},
+			"offsets": {
+				"from": 134900,
+				"to": 140380
+			},
+			"text": " We light candles representing certain elements of Christ's character, his nature that he has"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,380",
+				"to": "00:02:22,160"
+			},
+			"offsets": {
+				"from": 140380,
+				"to": 142160
+			},
+			"text": " brought to us through the first Advent."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,160",
+				"to": "00:02:30,340"
+			},
+			"offsets": {
+				"from": 142160,
+				"to": 150340
+			},
+			"text": " And we know that the light from the candles are a flicker, a dimly lit candle showing us that"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,340",
+				"to": "00:02:31,540"
+			},
+			"offsets": {
+				"from": 150340,
+				"to": 151540
+			},
+			"text": " it's partially come."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,540",
+				"to": "00:02:34,300"
+			},
+			"offsets": {
+				"from": 151540,
+				"to": 154300
+			},
+			"text": " We're in this already not yet stage of the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,300",
+				"to": "00:02:39,120"
+			},
+			"offsets": {
+				"from": 154300,
+				"to": 159120
+			},
+			"text": " We can see hope, love, joy, and peace and dimness."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,120",
+				"to": "00:02:43,440"
+			},
+			"offsets": {
+				"from": 159120,
+				"to": 163440
+			},
+			"text": " And yet one day the lights will flip on when Jesus returns and all of it will be revealed"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,440",
+				"to": "00:02:45,220"
+			},
+			"offsets": {
+				"from": 163440,
+				"to": 165220
+			},
+			"text": " perfectly and clearly."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,220",
+				"to": "00:02:47,700"
+			},
+			"offsets": {
+				"from": 165220,
+				"to": 167700
+			},
+			"text": " We start it with hope."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,700",
+				"to": "00:02:50,840"
+			},
+			"offsets": {
+				"from": 167700,
+				"to": 170840
+			},
+			"text": " I got a new lighter that's like electric."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,840",
+				"to": "00:02:52,340"
+			},
+			"offsets": {
+				"from": 170840,
+				"to": 172340
+			},
+			"text": " So we're going to see how this goes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,340",
+				"to": "00:02:56,260"
+			},
+			"offsets": {
+				"from": 172340,
+				"to": 176260
+			},
+			"text": " I tested it before we got up here, but I'm always nervous."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,260",
+				"to": "00:02:57,240"
+			},
+			"offsets": {
+				"from": 176260,
+				"to": 177240
+			},
+			"text": " Hope."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,680",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 177680,
+				"to": 183000
+			},
+			"text": " We've said that hope is the confident expectation and intentional participation in the promises"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:03,480"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 183480
+			},
+			"text": " of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,480",
+				"to": "00:03:09,320"
+			},
+			"offsets": {
+				"from": 183480,
+				"to": 189320
+			},
+			"text": " Not only do we expect God's promises to come true, but we do so with participation, knowing"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,320",
+				"to": "00:03:14,420"
+			},
+			"offsets": {
+				"from": 189320,
+				"to": 194420
+			},
+			"text": " that if we step out in obedience and in faith, that God will use that obedience to do his kingdom"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,420",
+				"to": "00:03:16,840"
+			},
+			"offsets": {
+				"from": 194420,
+				"to": 196840
+			},
+			"text": " work on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,840",
+				"to": "00:03:22,020"
+			},
+			"offsets": {
+				"from": 196840,
+				"to": 202020
+			},
+			"text": " Last week we demonstrated the idea of love through hosting Watts."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,020",
+				"to": "00:03:26,640"
+			},
+			"offsets": {
+				"from": 202020,
+				"to": 206640
+			},
+			"text": " And I just want to pause right now and thank all of you that did anything to make Watts happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,440",
+				"to": "00:03:40,320"
+			},
+			"offsets": {
+				"from": 207440,
+				"to": 220320
+			},
+			"text": " First and foremost, Mike Gad, who led the whole thing with confidence and with just humility"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,320",
+				"to": "00:03:43,960"
+			},
+			"offsets": {
+				"from": 220320,
+				"to": 223960
+			},
+			"text": " and so thankful for all of you that participated in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,960",
+				"to": "00:03:49,940"
+			},
+			"offsets": {
+				"from": 223960,
+				"to": 229940
+			},
+			"text": " And we said that biblical love is most clearly demonstrated through sacrificial presence."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,940",
+				"to": "00:03:56,160"
+			},
+			"offsets": {
+				"from": 230940,
+				"to": 236160
+			},
+			"text": " And that nothing is seen more clearly than through the incarnation of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,160",
+				"to": "00:03:57,640"
+			},
+			"offsets": {
+				"from": 236160,
+				"to": 237640
+			},
+			"text": " Well, it worked."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,640",
+				"to": "00:03:58,220"
+			},
+			"offsets": {
+				"from": 237640,
+				"to": 238220
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,220",
+				"to": "00:04:03,480"
+			},
+			"offsets": {
+				"from": 238220,
+				"to": 243480
+			},
+			"text": " Today we are going to turn our eyes to joy and I will light that candle in just a few minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,480",
+				"to": "00:04:04,440"
+			},
+			"offsets": {
+				"from": 243480,
+				"to": 244440
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,440",
+				"to": "00:04:06,080"
+			},
+			"offsets": {
+				"from": 244440,
+				"to": 246080
+			},
+			"text": " We'll get started."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,080",
+				"to": "00:04:11,680"
+			},
+			"offsets": {
+				"from": 246080,
+				"to": 251680
+			},
+			"text": " Father, in heaven, we need you."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,780",
+				"to": "00:04:17,440"
+			},
+			"offsets": {
+				"from": 253780,
+				"to": 257440
+			},
+			"text": " We're so thankful that your love extends to the highest heavens."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,440",
+				"to": "00:04:26,660"
+			},
+			"offsets": {
+				"from": 257440,
+				"to": 266660
+			},
+			"text": " God, that when we might be in family situations or in life circumstances where we don't feel very loved or we don't feel like we are extending love in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,660",
+				"to": "00:04:34,020"
+			},
+			"offsets": {
+				"from": 266660,
+				"to": 274020
+			},
+			"text": " ways that we should, we remind ourselves, God, that you love us so much that you took on human flesh."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,020",
+				"to": "00:04:43,220"
+			},
+			"offsets": {
+				"from": 274020,
+				"to": 283220
+			},
+			"text": " God, we give you thanks for that and we invite your presence into this room to teach us, to correct us, to challenge us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,220",
+				"to": "00:04:50,400"
+			},
+			"offsets": {
+				"from": 283220,
+				"to": 290400
+			},
+			"text": " to move us to obedience, to kingdom living for your glory, for our good and for the good of our neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,540",
+				"to": "00:04:52,240"
+			},
+			"offsets": {
+				"from": 290540,
+				"to": 292240
+			},
+			"text": " It's in Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,240",
+				"to": "00:04:53,140"
+			},
+			"offsets": {
+				"from": 292240,
+				"to": 293140
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,140",
+				"to": "00:04:58,440"
+			},
+			"offsets": {
+				"from": 293140,
+				"to": 298440
+			},
+			"text": " If you want to turn in your Bibles to Luke chapter 2, we're going to get there in just a few minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,440",
+				"to": "00:05:08,740"
+			},
+			"offsets": {
+				"from": 298440,
+				"to": 308740
+			},
+			"text": " A while back, my friends and I, we got in the habit of creating alliterated nicknames for one another whenever somebody was being outrageous or ridiculous."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,740",
+				"to": "00:05:10,820"
+			},
+			"offsets": {
+				"from": 308740,
+				"to": 310820
+			},
+			"text": " It was a fun time."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,820",
+				"to": "00:05:12,380"
+			},
+			"offsets": {
+				"from": 310820,
+				"to": 312380
+			},
+			"text": " We enjoyed it a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,380",
+				"to": "00:05:17,400"
+			},
+			"offsets": {
+				"from": 312380,
+				"to": 317400
+			},
+			"text": " You know, some things like Nosy Nelly, Chatty Cathy, Complaining Karen."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,400",
+				"to": "00:05:20,020"
+			},
+			"offsets": {
+				"from": 317400,
+				"to": 320020
+			},
+			"text": " Anybody have heard some of these nicknames?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,020",
+				"to": "00:05:26,460"
+			},
+			"offsets": {
+				"from": 320020,
+				"to": 326460
+			},
+			"text": " Whenever somebody is being ridiculous or obnoxious, we would love to kind of come up with those nicknames."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,460",
+				"to": "00:05:31,940"
+			},
+			"offsets": {
+				"from": 326460,
+				"to": 331940
+			},
+			"text": " I'm sure you can all relate to someone in your life that takes an emotion to the absolute extreme."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,940",
+				"to": "00:05:35,180"
+			},
+			"offsets": {
+				"from": 331940,
+				"to": 335180
+			},
+			"text": " Sometimes it can be difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,180",
+				"to": "00:05:41,620"
+			},
+			"offsets": {
+				"from": 335180,
+				"to": 341620
+			},
+			"text": " One of my favorite comedic examples of this is the famous Saturday Night Live skit, Miss Debbie Downer."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,760",
+				"to": "00:05:42,040"
+			},
+			"offsets": {
+				"from": 341760,
+				"to": 342040
+			},
+			"text": " Anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,040",
+				"to": "00:05:43,900"
+			},
+			"offsets": {
+				"from": 342040,
+				"to": 343900
+			},
+			"text": " Wah, wah."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,900",
+				"to": "00:05:51,580"
+			},
+			"offsets": {
+				"from": 343900,
+				"to": 351580
+			},
+			"text": " Debbie was always looking for opportunities to tell you about the bad news that she recently heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,580",
+				"to": "00:05:57,740"
+			},
+			"offsets": {
+				"from": 351580,
+				"to": 357740
+			},
+			"text": " Whether or not it fit the context of the room or not, she wanted to tell you about the bad news that she heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,740",
+				"to": "00:05:59,520"
+			},
+			"offsets": {
+				"from": 357740,
+				"to": 359520
+			},
+			"text": " She was Debbie, the downer."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,520",
+				"to": "00:06:09,900"
+			},
+			"offsets": {
+				"from": 359520,
+				"to": 369900
+			},
+			"text": " We've probably all been in relationships with someone like this that tends to only focus on the negative and bring out all of the negative experiences of their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,900",
+				"to": "00:06:11,580"
+			},
+			"offsets": {
+				"from": 369900,
+				"to": 371580
+			},
+			"text": " It could be a real drain."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,760",
+				"to": "00:06:12,060"
+			},
+			"offsets": {
+				"from": 371760,
+				"to": 372060
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,060",
+				"to": "00:06:22,020"
+			},
+			"offsets": {
+				"from": 372060,
+				"to": 382020
+			},
+			"text": " Like, throughout the skits, I actually watched a couple over Thanksgiving, and all of the friends around the table find ways to remove themselves from Debbie's presence."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,020",
+				"to": "00:06:27,300"
+			},
+			"offsets": {
+				"from": 382020,
+				"to": 387300
+			},
+			"text": " Because it can be a lot when somebody only focuses on the negative experiences of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,300",
+				"to": "00:06:30,320"
+			},
+			"offsets": {
+				"from": 387300,
+				"to": 390320
+			},
+			"text": " We've probably all been in that situation."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,320",
+				"to": "00:06:36,000"
+			},
+			"offsets": {
+				"from": 391320,
+				"to": 396000
+			},
+			"text": " But we've probably also encountered, especially if you grew up in church, the opposite approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,000",
+				"to": "00:06:38,160"
+			},
+			"offsets": {
+				"from": 396000,
+				"to": 398160
+			},
+			"text": " Let's call him fake Frank."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,160",
+				"to": "00:06:39,860"
+			},
+			"offsets": {
+				"from": 398160,
+				"to": 399860
+			},
+			"text": " You know the type?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,860",
+				"to": "00:06:50,820"
+			},
+			"offsets": {
+				"from": 399860,
+				"to": 410820
+			},
+			"text": " The person that seems to ignore or totally explain away all negative emotions in order to put on a happy face that everyone can see through except for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,520",
+				"to": "00:06:55,420"
+			},
+			"offsets": {
+				"from": 411520,
+				"to": 415420
+			},
+			"text": " We've got Debbie Downer on one hand and fake Frank on the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,420",
+				"to": "00:07:05,620"
+			},
+			"offsets": {
+				"from": 415420,
+				"to": 425620
+			},
+			"text": " And I feel like Christmas time, holiday seasons, more than any other season, they tempt even the most rational of us to swing the pendulum to one of the extremes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,660",
+				"to": "00:07:12,260"
+			},
+			"offsets": {
+				"from": 426660,
+				"to": 432260
+			},
+			"text": " Holidays tend to bring about, they tend to strengthen emotions inside of us."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,260",
+				"to": "00:07:20,760"
+			},
+			"offsets": {
+				"from": 432260,
+				"to": 440760
+			},
+			"text": " And some of us that are usually rational, we might be tempted to swing to a very negative level of emotions around the holidays."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,760",
+				"to": "00:07:23,080"
+			},
+			"offsets": {
+				"from": 440760,
+				"to": 443080
+			},
+			"text": " Challenge, difficult, sad."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,740",
+				"to": "00:07:25,660"
+			},
+			"offsets": {
+				"from": 443740,
+				"to": 445660
+			},
+			"text": " Or we might be the opposite."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,660",
+				"to": "00:07:26,720"
+			},
+			"offsets": {
+				"from": 445660,
+				"to": 446720
+			},
+			"text": " We might swing the pendulum."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,720",
+				"to": "00:07:36,020"
+			},
+			"offsets": {
+				"from": 446720,
+				"to": 456020
+			},
+			"text": " We have a lot of negative things going on in our lives, but we're just going to ignore them and suppress them, at least for the next couple of weeks, to put on our fake, holly, jolly face."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,020",
+				"to": "00:07:40,540"
+			},
+			"offsets": {
+				"from": 456020,
+				"to": 460540
+			},
+			"text": " But what if there's a third option?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,540",
+				"to": "00:07:42,840"
+			},
+			"offsets": {
+				"from": 460540,
+				"to": 462840
+			},
+			"text": " A more balanced approach."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,840",
+				"to": "00:07:48,140"
+			},
+			"offsets": {
+				"from": 462840,
+				"to": 468140
+			},
+			"text": " What if we can sit honestly with the sorrows and disappointments of our life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,940",
+				"to": "00:07:59,720"
+			},
+			"offsets": {
+				"from": 468940,
+				"to": 479720
+			},
+			"text": " If we can be honest about them this holiday season and still experience a deep sense of inner happiness that isn't dependent on the external circumstances of our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,720",
+				"to": "00:08:00,600"
+			},
+			"offsets": {
+				"from": 479720,
+				"to": 480600
+			},
+			"text": " We can put Debbie down."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,600",
+				"to": "00:08:05,800"
+			},
+			"offsets": {
+				"from": 480600,
+				"to": 485800
+			},
+			"text": " Yeah, I just realized that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,800",
+				"to": "00:08:06,920"
+			},
+			"offsets": {
+				"from": 485800,
+				"to": 486920
+			},
+			"text": " I caught her out of the corner of my eye."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,920",
+				"to": "00:08:08,060"
+			},
+			"offsets": {
+				"from": 486920,
+				"to": 488060
+			},
+			"text": " I was like, wow, wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,060",
+				"to": "00:08:10,640"
+			},
+			"offsets": {
+				"from": 488060,
+				"to": 490640
+			},
+			"text": " What if there's a third option?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,640",
+				"to": "00:08:16,220"
+			},
+			"offsets": {
+				"from": 490640,
+				"to": 496220
+			},
+			"text": " An option that doesn't deny the difficult negative circumstances of our lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,220",
+				"to": "00:08:20,960"
+			},
+			"offsets": {
+				"from": 496220,
+				"to": 500960
+			},
+			"text": " and yet still finds an inner sense of joy in the midst of the difficulty."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,960",
+				"to": "00:08:23,800"
+			},
+			"offsets": {
+				"from": 500960,
+				"to": 503800
+			},
+			"text": " This is what biblical joy is all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,800",
+				"to": "00:08:28,920"
+			},
+			"offsets": {
+				"from": 503800,
+				"to": 508920
+			},
+			"text": " Joy is an internal sense of gratitude and contentment, no matter our external circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,920",
+				"to": "00:08:34,740"
+			},
+			"offsets": {
+				"from": 508920,
+				"to": 514740
+			},
+			"text": " It isn't blown away by the storms of life, but it is deeply rooted in the grace of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,740",
+				"to": "00:08:36,760"
+			},
+			"offsets": {
+				"from": 514740,
+				"to": 516760
+			},
+			"text": " It also isn't fake."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,760",
+				"to": "00:08:39,940"
+			},
+			"offsets": {
+				"from": 516760,
+				"to": 519940
+			},
+			"text": " It doesn't deny the external circumstances or try and explain them away."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,940",
+				"to": "00:08:48,720"
+			},
+			"offsets": {
+				"from": 519940,
+				"to": 528720
+			},
+			"text": " It tells the truth about the difficulty of living in a broken world and yet still holds on to gratitude and contentment in the midst of difficulty."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,720",
+				"to": "00:08:50,300"
+			},
+			"offsets": {
+				"from": 528720,
+				"to": 530300
+			},
+			"text": " I heard one pastor say it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,300",
+				"to": "00:08:57,220"
+			},
+			"offsets": {
+				"from": 530300,
+				"to": 537220
+			},
+			"text": " She said, happiness is like a candle that flickers in the wind and joy is like a lighthouse steadfast in the storm."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,220",
+				"to": "00:09:00,180"
+			},
+			"offsets": {
+				"from": 537220,
+				"to": 540180
+			},
+			"text": " That'll preach, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,180",
+				"to": "00:09:02,220"
+			},
+			"offsets": {
+				"from": 540180,
+				"to": 542220
+			},
+			"text": " That will preach."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,560",
+				"to": "00:09:04,680"
+			},
+			"offsets": {
+				"from": 542560,
+				"to": 544680
+			},
+			"text": " Paul says it this way in 2 Corinthians 6."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,680",
+				"to": "00:09:08,660"
+			},
+			"offsets": {
+				"from": 544680,
+				"to": 548660
+			},
+			"text": " He says, we live close to death, but we are still alive."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,660",
+				"to": "00:09:11,200"
+			},
+			"offsets": {
+				"from": 548660,
+				"to": 551200
+			},
+			"text": " We have been beaten, but we have not been killed."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,200",
+				"to": "00:09:15,520"
+			},
+			"offsets": {
+				"from": 551200,
+				"to": 555520
+			},
+			"text": " Our hearts ache, but we always have joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:15,520",
+				"to": "00:09:21,060"
+			},
+			"offsets": {
+				"from": 555520,
+				"to": 561060
+			},
+			"text": " So, this morning we light the candle of joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,460",
+				"to": "00:09:26,040"
+			},
+			"offsets": {
+				"from": 562460,
+				"to": 566040
+			},
+			"text": " And I invite you to think about this third option."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,040",
+				"to": "00:09:33,320"
+			},
+			"offsets": {
+				"from": 566040,
+				"to": 573320
+			},
+			"text": " How can we sit in the midst of the difficulty of this broken world and yet have a deep internal sense of joy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,320",
+				"to": "00:09:39,640"
+			},
+			"offsets": {
+				"from": 573320,
+				"to": 579640
+			},
+			"text": " How can we say like Paul, our hearts ache, but we have joy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:39,640",
+				"to": "00:09:44,680"
+			},
+			"offsets": {
+				"from": 579640,
+				"to": 584680
+			},
+			"text": " That's the goal for today."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,680",
+				"to": "00:09:48,380"
+			},
+			"offsets": {
+				"from": 584680,
+				"to": 588380
+			},
+			"text": " We're going to start in Luke chapter 2, starting in verse 8."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,380",
+				"to": "00:09:52,640"
+			},
+			"offsets": {
+				"from": 588380,
+				"to": 592640
+			},
+			"text": " And we're going to read this surprising announcement of joy from the Christmas story."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,640",
+				"to": "00:09:55,920"
+			},
+			"offsets": {
+				"from": 592640,
+				"to": 595920
+			},
+			"text": " And many of us are familiar with the story, especially if we watch Charlie Brown."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,920",
+				"to": "00:10:04,260"
+			},
+			"offsets": {
+				"from": 595920,
+				"to": 604260
+			},
+			"text": " Hopefully, I don't sound too much like Linus when I read this, but let's not let the familiarity of the story,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,260",
+				"to": "00:10:08,800"
+			},
+			"offsets": {
+				"from": 604260,
+				"to": 608800
+			},
+			"text": " let the contents of the story drift past us."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,800",
+				"to": "00:10:11,080"
+			},
+			"offsets": {
+				"from": 608800,
+				"to": 611080
+			},
+			"text": " Luke chapter 2, verse 8 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,080",
+				"to": "00:10:17,080"
+			},
+			"offsets": {
+				"from": 611080,
+				"to": 617080
+			},
+			"text": " That night after Jesus was born, there were shepherds staying in the fields nearby, guarding their flocks of sheep."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,620",
+				"to": "00:10:23,200"
+			},
+			"offsets": {
+				"from": 617620,
+				"to": 623200
+			},
+			"text": " Suddenly, an angel of the Lord appeared among them, and the radiance of the Lord's glory surrounded them."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,200",
+				"to": "00:10:28,420"
+			},
+			"offsets": {
+				"from": 623200,
+				"to": 628420
+			},
+			"text": " And they were, I've got a bad translation, sore afraid, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,420",
+				"to": "00:10:33,800"
+			},
+			"offsets": {
+				"from": 628420,
+				"to": 633800
+			},
+			"text": " He said, I bring you good news that will bring great joy to all people."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,800",
+				"to": "00:10:39,900"
+			},
+			"offsets": {
+				"from": 633800,
+				"to": 639900
+			},
+			"text": " The Savior, yes, the Messiah, the Lord has been born today in Bethlehem, the city of David."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,900",
+				"to": "00:10:42,220"
+			},
+			"offsets": {
+				"from": 639900,
+				"to": 642220
+			},
+			"text": " And you will recognize him by this sign."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,220",
+				"to": "00:10:47,520"
+			},
+			"offsets": {
+				"from": 642220,
+				"to": 647520
+			},
+			"text": " You will find a baby wrapped snugly in strips of cloth and lying in a manger."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,520",
+				"to": "00:10:53,640"
+			},
+			"offsets": {
+				"from": 647520,
+				"to": 653640
+			},
+			"text": " Suddenly, the angels was joined by a vast host of others, the armies of heaven, praising God and saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,640",
+				"to": "00:11:00,720"
+			},
+			"offsets": {
+				"from": 653640,
+				"to": 660720
+			},
+			"text": " Glory to God in the highest heaven and peace on earth to those with whom God is well."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,720",
+				"to": "00:11:01,640"
+			},
+			"offsets": {
+				"from": 660720,
+				"to": 661640
+			},
+			"text": " Please."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,180",
+				"to": "00:11:09,300"
+			},
+			"offsets": {
+				"from": 663180,
+				"to": 669300
+			},
+			"text": " So we're going to spend the majority of our time focusing in on the announcement that the angel is giving to the shepherds."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,300",
+				"to": "00:11:15,900"
+			},
+			"offsets": {
+				"from": 669300,
+				"to": 675900
+			},
+			"text": " But we can't pass, we can't just blow past the main characters of the story."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,900",
+				"to": "00:11:23,540"
+			},
+			"offsets": {
+				"from": 675900,
+				"to": 683540
+			},
+			"text": " The first officially recorded announcement of the birth of the Messiah was giving to shepherds in a field outside of town."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,900",
+				"to": "00:11:31,400"
+			},
+			"offsets": {
+				"from": 684900,
+				"to": 691400
+			},
+			"text": " Many of us, we've heard this story so many times that it's just become normal to us, but nothing could be further from the truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,400",
+				"to": "00:11:41,360"
+			},
+			"offsets": {
+				"from": 691400,
+				"to": 701360
+			},
+			"text": " There's nothing normal about the most important announcement ever in human history given to lowly shepherds out in the fields,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,360",
+				"to": "00:11:44,760"
+			},
+			"offsets": {
+				"from": 701360,
+				"to": 704760
+			},
+			"text": " unless you know the God of the Bible."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,880",
+				"to": "00:11:51,100"
+			},
+			"offsets": {
+				"from": 706880,
+				"to": 711100
+			},
+			"text": " Again, this is arguably the most important proclamation in all of human history,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,100",
+				"to": "00:11:56,040"
+			},
+			"offsets": {
+				"from": 711100,
+				"to": 716040
+			},
+			"text": " and it was entrusted to the least likely cast of characters by any worldly standards."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,040",
+				"to": "00:11:57,660"
+			},
+			"offsets": {
+				"from": 716040,
+				"to": 717660
+			},
+			"text": " Most shepherds were very young."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,660",
+				"to": "00:12:03,560"
+			},
+			"offsets": {
+				"from": 717660,
+				"to": 723560
+			},
+			"text": " They were members of a poor working class with not much social status or influence to speak of."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,560",
+				"to": "00:12:09,340"
+			},
+			"offsets": {
+				"from": 723560,
+				"to": 729340
+			},
+			"text": " And again, by worldly standards, this makes no sense at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,340",
+				"to": "00:12:15,940"
+			},
+			"offsets": {
+				"from": 729340,
+				"to": 735940
+			},
+			"text": " But if you know the God of the Bible, this fits his overarching redemptive narrative from the beginning of the story to the end of the story."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,500",
+				"to": "00:12:21,340"
+			},
+			"offsets": {
+				"from": 736500,
+				"to": 741340
+			},
+			"text": " Abraham, Moses, David, all names that most of you, even if you didn't grow up in church, know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,340",
+				"to": "00:12:30,200"
+			},
+			"offsets": {
+				"from": 741340,
+				"to": 750200
+			},
+			"text": " they were all lowly shepherds in a field before God grabbed them and invited them into his plan for human history."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,200",
+				"to": "00:12:40,280"
+			},
+			"offsets": {
+				"from": 750200,
+				"to": 760280
+			},
+			"text": " My point here is this, that the God of the Bible is in the business of using the ordinary to do the extraordinary by his power and his grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,280",
+				"to": "00:12:46,720"
+			},
+			"offsets": {
+				"from": 760280,
+				"to": 766720
+			},
+			"text": " So if you're in here and you feel ordinary or insignificant, just know that you are the perfect candidate for the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:46,720",
+				"to": "00:12:54,220"
+			},
+			"offsets": {
+				"from": 766720,
+				"to": 774220
+			},
+			"text": " God is in the business of entrusting what seems weak and foolish to the world to bring about his kingdom purposes."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,220",
+				"to": "00:13:00,380"
+			},
+			"offsets": {
+				"from": 774220,
+				"to": 780380
+			},
+			"text": " These are the main characters of the most important announcement in human history."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,620",
+				"to": "00:13:08,000"
+			},
+			"offsets": {
+				"from": 782620,
+				"to": 788000
+			},
+			"text": " Now, let's look at their response when an angel shows up unexpected in the middle of night."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:08,000",
+				"to": "00:13:17,660"
+			},
+			"offsets": {
+				"from": 788000,
+				"to": 797660
+			},
+			"text": " Now, although shepherds may not have much social status to speak of, they are tough individuals, not easily scared."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,780",
+				"to": "00:13:22,600"
+			},
+			"offsets": {
+				"from": 797780,
+				"to": 802600
+			},
+			"text": " They spend their lives protecting their flock from outside intruders."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,600",
+				"to": "00:13:32,840"
+			},
+			"offsets": {
+				"from": 802600,
+				"to": 812840
+			},
+			"text": " Like this is their life, being comfortable in the dark, waiting for surprise attacks from anyone that might want to feed on their flock."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,020",
+				"to": "00:13:34,580"
+			},
+			"offsets": {
+				"from": 813020,
+				"to": 814580
+			},
+			"text": " They're not easily frightened."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,580",
+				"to": "00:13:44,440"
+			},
+			"offsets": {
+				"from": 814580,
+				"to": 824440
+			},
+			"text": " But when it comes to the messenger of God showing up and yielding the glory of God, the visible, tangible expression of God's holiness, his set-apartness, they weren't just afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:44,440",
+				"to": "00:13:46,600"
+			},
+			"offsets": {
+				"from": 824440,
+				"to": 826600
+			},
+			"text": " They were terribly afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,600",
+				"to": "00:13:55,040"
+			},
+			"offsets": {
+				"from": 826600,
+				"to": 835040
+			},
+			"text": " And again, even though these are tough individuals, it's not shocking to me that when God's presence shows up to them that they're afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,040",
+				"to": "00:13:59,100"
+			},
+			"offsets": {
+				"from": 835040,
+				"to": 839100
+			},
+			"text": " This is the typical, appropriate response up to this point in the Bible."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,100",
+				"to": "00:14:05,660"
+			},
+			"offsets": {
+				"from": 839100,
+				"to": 845660
+			},
+			"text": " Whenever God's presence shows up to a person in the Bible to this point in human history, everyone is afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,660",
+				"to": "00:14:08,280"
+			},
+			"offsets": {
+				"from": 845660,
+				"to": 848280
+			},
+			"text": " This is typical."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,280",
+				"to": "00:14:09,000"
+			},
+			"offsets": {
+				"from": 848280,
+				"to": 849000
+			},
+			"text": " It's normal."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,000",
+				"to": "00:14:16,360"
+			},
+			"offsets": {
+				"from": 849000,
+				"to": 856360
+			},
+			"text": " Whenever the people in the biblical narrative, humanity encounters the defined, we see this time and time again."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,360",
+				"to": "00:14:20,520"
+			},
+			"offsets": {
+				"from": 856360,
+				"to": 860520
+			},
+			"text": " But I should make the note that this was not God's original design."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,940",
+				"to": "00:14:28,500"
+			},
+			"offsets": {
+				"from": 861940,
+				"to": 868500
+			},
+			"text": " The first pages of Scripture show God walking in the garden with Adam and Eve."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,500",
+				"to": "00:14:39,220"
+			},
+			"offsets": {
+				"from": 868500,
+				"to": 879220
+			},
+			"text": " This is God's original design, that there was not fear, that there was not worry, anxiety, that there was comfort and peace walking with the king of the universe in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,220",
+				"to": "00:14:43,560"
+			},
+			"offsets": {
+				"from": 879220,
+				"to": 883560
+			},
+			"text": " But we made a decision to try and elevate ourselves to the position of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,560",
+				"to": "00:14:49,460"
+			},
+			"offsets": {
+				"from": 883560,
+				"to": 889460
+			},
+			"text": " And when we made that decision, it became abundantly, invisibly clear that we are not like him."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,460",
+				"to": "00:14:53,520"
+			},
+			"offsets": {
+				"from": 889460,
+				"to": 893520
+			},
+			"text": " That he is totally, utterly different than us."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,520",
+				"to": "00:15:01,180"
+			},
+			"offsets": {
+				"from": 893520,
+				"to": 901180
+			},
+			"text": " When we tried to elevate ourselves to a God-like status, the great divide between humanity and God became utterly, invisibly clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,180",
+				"to": "00:15:03,140"
+			},
+			"offsets": {
+				"from": 901180,
+				"to": 903140
+			},
+			"text": " 1 Timothy 6 puts it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,140",
+				"to": "00:15:08,740"
+			},
+			"offsets": {
+				"from": 903140,
+				"to": 908740
+			},
+			"text": " God lives in light so brilliant that no human can approach him."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,080",
+				"to": "00:15:20,660"
+			},
+			"offsets": {
+				"from": 911080,
+				"to": 920660
+			},
+			"text": " And so you can see how the angels might be sore afraid when the angel shows up with a visible, tangible expression of God's glory."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,660",
+				"to": "00:15:23,700"
+			},
+			"offsets": {
+				"from": 920660,
+				"to": 923700
+			},
+			"text": " So they're terrified."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,700",
+				"to": "00:15:27,060"
+			},
+			"offsets": {
+				"from": 923700,
+				"to": 927060
+			},
+			"text": " But the angel is very quick to calm their fears."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,060",
+				"to": "00:15:29,840"
+			},
+			"offsets": {
+				"from": 927060,
+				"to": 929840
+			},
+			"text": " He immediately says, do not be afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,840",
+				"to": "00:15:31,420"
+			},
+			"offsets": {
+				"from": 929840,
+				"to": 931420
+			},
+			"text": " Why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,420",
+				"to": "00:15:39,600"
+			},
+			"offsets": {
+				"from": 931420,
+				"to": 939600
+			},
+			"text": " Because he has good news that will result in great joy and will be available for all people."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,600",
+				"to": "00:15:48,140"
+			},
+			"offsets": {
+				"from": 939600,
+				"to": 948140
+			},
+			"text": " Even though their response was normal and expected, the angel says, don't, don't be afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,140",
+				"to": "00:15:51,040"
+			},
+			"offsets": {
+				"from": 948140,
+				"to": 951040
+			},
+			"text": " I have good news to share with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,040",
+				"to": "00:15:53,320"
+			},
+			"offsets": {
+				"from": 951040,
+				"to": 953320
+			},
+			"text": " Things are about to change."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,440",
+				"to": "00:16:03,980"
+			},
+			"offsets": {
+				"from": 953440,
+				"to": 963980
+			},
+			"text": " Contained within this very concise and yet incredible announcement, in my opinion, is the key to understanding how we can be a people that embody authentic internal joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,980",
+				"to": "00:16:08,680"
+			},
+			"offsets": {
+				"from": 963980,
+				"to": 968680
+			},
+			"text": " This third way, this joy that transcends the circumstances of our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,680",
+				"to": "00:16:13,280"
+			},
+			"offsets": {
+				"from": 968680,
+				"to": 973280
+			},
+			"text": " We can learn about how to have that in the midst of this announcement from the angel."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:14,880",
+				"to": "00:16:20,360"
+			},
+			"offsets": {
+				"from": 974880,
+				"to": 980360
+			},
+			"text": " Again, even though this is the typical and appropriate response, the angel says, resist the temptation of fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,360",
+				"to": "00:16:34,520"
+			},
+			"offsets": {
+				"from": 980360,
+				"to": 994520
+			},
+			"text": " What's contained in the good news that will lead to great joy is this idea that the God who has been previously hidden behind a thick curtain, relatively inaccessible in the temple, has drawn near, so near."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,520",
+				"to": "00:16:48,380"
+			},
+			"offsets": {
+				"from": 994520,
+				"to": 1008380
+			},
+			"text": " See, don't be afraid, the God who dwells in unapproachable light, the God who you should be afraid of, is about to change some things."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,380",
+				"to": "00:16:51,340"
+			},
+			"offsets": {
+				"from": 1008380,
+				"to": 1011340
+			},
+			"text": " He has stepped into our world."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,340",
+				"to": "00:16:54,480"
+			},
+			"offsets": {
+				"from": 1011340,
+				"to": 1014480
+			},
+			"text": " He has taken on human flesh."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:54,480",
+				"to": "00:16:55,840"
+			},
+			"offsets": {
+				"from": 1014480,
+				"to": 1015840
+			},
+			"text": " He has drawn near to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,840",
+				"to": "00:17:00,500"
+			},
+			"offsets": {
+				"from": 1015840,
+				"to": 1020500
+			},
+			"text": " The God whom we are afraid to draw near to has, in love, drawn near to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,280",
+				"to": "00:17:05,900"
+			},
+			"offsets": {
+				"from": 1021280,
+				"to": 1025900
+			},
+			"text": " We have to resist the temptation to normalize this story because it's familiar to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:05,900",
+				"to": "00:17:11,040"
+			},
+			"offsets": {
+				"from": 1025900,
+				"to": 1031040
+			},
+			"text": " The God who dwells in unapproachable light took on flesh and dwelt among us."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,040",
+				"to": "00:17:17,020"
+			},
+			"offsets": {
+				"from": 1031040,
+				"to": 1037020
+			},
+			"text": " And this is what the angel calls good news."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,020",
+				"to": "00:17:23,520"
+			},
+			"offsets": {
+				"from": 1037020,
+				"to": 1043520
+			},
+			"text": " Good news that will result in great joy and be accessible for everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,520",
+				"to": "00:17:30,160"
+			},
+			"offsets": {
+				"from": 1043520,
+				"to": 1050160
+			},
+			"text": " Now, sometimes I avoid doing this, but because I'm wearing glasses this morning, let's talk about Greek."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,280",
+				"to": "00:17:36,700"
+			},
+			"offsets": {
+				"from": 1051280,
+				"to": 1056700
+			},
+			"text": " The Greek word here for good news, we've talked about this a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,700",
+				"to": "00:17:37,920"
+			},
+			"offsets": {
+				"from": 1056700,
+				"to": 1057920
+			},
+			"text": " It is euangelion."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,920",
+				"to": "00:17:40,380"
+			},
+			"offsets": {
+				"from": 1057920,
+				"to": 1060380
+			},
+			"text": " It is where we get the word gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,380",
+				"to": "00:17:46,900"
+			},
+			"offsets": {
+				"from": 1060380,
+				"to": 1066900
+			},
+			"text": " We've talked about this a lot in the last couple of months, so I'm not going to belabor an old point, but this is where we get the word gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,900",
+				"to": "00:17:47,940"
+			},
+			"offsets": {
+				"from": 1066900,
+				"to": 1067940
+			},
+			"text": " And we've talked about this."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,940",
+				"to": "00:17:54,500"
+			},
+			"offsets": {
+				"from": 1067940,
+				"to": 1074500
+			},
+			"text": " Unfortunately, in the American church specifically, this word has come to primarily mean the message about where we go when we die."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,220",
+				"to": "00:18:01,140"
+			},
+			"offsets": {
+				"from": 1075220,
+				"to": 1081140
+			},
+			"text": " And although that is included in the gospel, it is nowhere near the central point of the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,140",
+				"to": "00:18:08,240"
+			},
+			"offsets": {
+				"from": 1081140,
+				"to": 1088240
+			},
+			"text": " In the historical context, even the shepherds with no social status would have been familiar with this word."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,240",
+				"to": "00:18:11,260"
+			},
+			"offsets": {
+				"from": 1088240,
+				"to": 1091260
+			},
+			"text": " They would have known what this word means in the context."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,040",
+				"to": "00:18:17,500"
+			},
+			"offsets": {
+				"from": 1092040,
+				"to": 1097500
+			},
+			"text": " This word was very simple and contextual and relatable in the culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,500",
+				"to": "00:18:30,600"
+			},
+			"offsets": {
+				"from": 1097500,
+				"to": 1110600
+			},
+			"text": " When a king would have victory over their enemies or would conquer a new territory, they would send an evangelist with a euangelion, with an announcement of good news."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,600",
+				"to": "00:18:33,580"
+			},
+			"offsets": {
+				"from": 1110600,
+				"to": 1113580
+			},
+			"text": " They would proclaim the good news of their victory."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,580",
+				"to": "00:18:35,580"
+			},
+			"offsets": {
+				"from": 1113580,
+				"to": 1115580
+			},
+			"text": " One king defeating another king."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,580",
+				"to": "00:18:42,080"
+			},
+			"offsets": {
+				"from": 1115580,
+				"to": 1122080
+			},
+			"text": " And this is the exact format that Luke uses when he's writing his letter, when he's writing his gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,080",
+				"to": "00:18:43,600"
+			},
+			"offsets": {
+				"from": 1122080,
+				"to": 1123600
+			},
+			"text": " This is not an accident."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,600",
+				"to": "00:18:48,900"
+			},
+			"offsets": {
+				"from": 1123600,
+				"to": 1128900
+			},
+			"text": " He is using the very format of a kingdom proclamation."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,900",
+				"to": "00:19:00,320"
+			},
+			"offsets": {
+				"from": 1128900,
+				"to": 1140320
+			},
+			"text": " God sends a messenger to earth proclaiming gospel, good news that will result in great joy for anyone who has ears to hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,320",
+				"to": "00:19:02,400"
+			},
+			"offsets": {
+				"from": 1140320,
+				"to": 1142400
+			},
+			"text": " So what's the news?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,680",
+				"to": "00:19:14,400"
+			},
+			"offsets": {
+				"from": 1143680,
+				"to": 1154400
+			},
+			"text": " Well, it follows that example of a king sending a messenger to tell the good news that a kingdom has been defeated or will be defeated today in the city of David."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,400",
+				"to": "00:19:17,800"
+			},
+			"offsets": {
+				"from": 1154400,
+				"to": 1157800
+			},
+			"text": " The promised Messiah has been born, God in the flesh."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,800",
+				"to": "00:19:22,140"
+			},
+			"offsets": {
+				"from": 1157800,
+				"to": 1162140
+			},
+			"text": " He will save people from their sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,140",
+				"to": "00:19:27,380"
+			},
+			"offsets": {
+				"from": 1162140,
+				"to": 1167380
+			},
+			"text": " This is the good news that leads to great joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,980",
+				"to": "00:19:34,340"
+			},
+			"offsets": {
+				"from": 1167980,
+				"to": 1174340
+			},
+			"text": " This is the first gospel proclamation from heaven to earth after Christ was born."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,340",
+				"to": "00:19:44,860"
+			},
+			"offsets": {
+				"from": 1174340,
+				"to": 1184860
+			},
+			"text": " God, the king of heaven, is proclaiming through this messenger that a new kind of king has been born and a new kind of kingdom is being established."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,860",
+				"to": "00:19:48,100"
+			},
+			"offsets": {
+				"from": 1184860,
+				"to": 1188100
+			},
+			"text": " The one true king came from heaven to earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:48,100",
+				"to": "00:19:55,760"
+			},
+			"offsets": {
+				"from": 1188100,
+				"to": 1195760
+			},
+			"text": " He is the one who will have victory over the kingdoms of this world, over the dark spiritual forces and principalities, over all evil and injustice."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,760",
+				"to": "00:19:59,240"
+			},
+			"offsets": {
+				"from": 1195760,
+				"to": 1199240
+			},
+			"text": " A king has come and a kingdom is being established."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,240",
+				"to": "00:20:11,600"
+			},
+			"offsets": {
+				"from": 1199240,
+				"to": 1211600
+			},
+			"text": " And anyone who has ears to hear can join and participate in this new kingdom that will be victorious over all injustices, over all sin and destruction that we have let into this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,800",
+				"to": "00:20:20,920"
+			},
+			"offsets": {
+				"from": 1214800,
+				"to": 1220920
+			},
+			"text": " Sacrificial love will conquer death and will remove any obstacle in the way of humanity and the divine."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,920",
+				"to": "00:20:31,200"
+			},
+			"offsets": {
+				"from": 1220920,
+				"to": 1231200
+			},
+			"text": " Anyone who has ears to hear this message is invited to God's kingdom to receive great joy that isn't dependent on earthly circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,180",
+				"to": "00:20:35,900"
+			},
+			"offsets": {
+				"from": 1233180,
+				"to": 1235900
+			},
+			"text": " Now, I know what some of you might be thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,900",
+				"to": "00:20:40,900"
+			},
+			"offsets": {
+				"from": 1235900,
+				"to": 1240900
+			},
+			"text": " Ryan, you sound an awful lot like fake Frank right about now."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,900",
+				"to": "00:20:51,560"
+			},
+			"offsets": {
+				"from": 1240900,
+				"to": 1251560
+			},
+			"text": " So, okay, what you're saying here is just forget your problems because God has come near and he wins in the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,120",
+				"to": "00:20:54,420"
+			},
+			"offsets": {
+				"from": 1253120,
+				"to": 1254420
+			},
+			"text": " A little bit like fake Frank, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,420",
+				"to": "00:20:57,860"
+			},
+			"offsets": {
+				"from": 1254420,
+				"to": 1257860
+			},
+			"text": " Was I the only one thinking it when I wrote my notes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,860",
+				"to": "00:20:59,240"
+			},
+			"offsets": {
+				"from": 1257860,
+				"to": 1259240
+			},
+			"text": " I was writing my notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,240",
+				"to": "00:21:00,160"
+			},
+			"offsets": {
+				"from": 1259240,
+				"to": 1260160
+			},
+			"text": " I was like, oh, fake."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,160",
+				"to": "00:21:00,860"
+			},
+			"offsets": {
+				"from": 1260160,
+				"to": 1260860
+			},
+			"text": " That's not bad."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,860",
+				"to": "00:21:01,160"
+			},
+			"offsets": {
+				"from": 1260860,
+				"to": 1261160
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,160",
+				"to": "00:21:01,900"
+			},
+			"offsets": {
+				"from": 1261160,
+				"to": 1261900
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,900",
+				"to": "00:21:11,220"
+			},
+			"offsets": {
+				"from": 1261900,
+				"to": 1271220
+			},
+			"text": " Let's move towards a working explanation of how to embody this biblical joy and get practical so that we're not just like fake Frank."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,220",
+				"to": "00:21:12,160"
+			},
+			"offsets": {
+				"from": 1271220,
+				"to": 1272160
+			},
+			"text": " God wins in the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,160",
+				"to": "00:21:12,920"
+			},
+			"offsets": {
+				"from": 1272160,
+				"to": 1272920
+			},
+			"text": " Everything's great."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,920",
+				"to": "00:21:14,140"
+			},
+			"offsets": {
+				"from": 1272920,
+				"to": 1274140
+			},
+			"text": " I'm not going to worry about anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,620",
+				"to": "00:21:21,700"
+			},
+			"offsets": {
+				"from": 1275620,
+				"to": 1281700
+			},
+			"text": " In order to do this, I want to show a connection between the first two words of the angel's announcement."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,700",
+				"to": "00:21:23,320"
+			},
+			"offsets": {
+				"from": 1281700,
+				"to": 1283320
+			},
+			"text": " We're going to do Greek twice today."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,320",
+				"to": "00:21:25,340"
+			},
+			"offsets": {
+				"from": 1283320,
+				"to": 1285340
+			},
+			"text": " It's the glasses."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,340",
+				"to": "00:21:26,160"
+			},
+			"offsets": {
+				"from": 1285340,
+				"to": 1286160
+			},
+			"text": " It's the glasses."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,160",
+				"to": "00:21:32,200"
+			},
+			"offsets": {
+				"from": 1286160,
+				"to": 1292200
+			},
+			"text": " Okay, so we said euangelion, good news, the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,200",
+				"to": "00:21:43,260"
+			},
+			"offsets": {
+				"from": 1292200,
+				"to": 1303260
+			},
+			"text": " Now, if we were to take the good news, the gospel, and we were to shrink it down and put one word as the defining attribute to the gospel of Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,540",
+				"to": "00:21:46,420"
+			},
+			"offsets": {
+				"from": 1304540,
+				"to": 1306420
+			},
+			"text": " I'm nervous."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,420",
+				"to": "00:21:56,060"
+			},
+			"offsets": {
+				"from": 1306420,
+				"to": 1316060
+			},
+			"text": " I'm thinking about inviting you to give me your guesses, but if somebody gives a guess that's better than the one that I have in my notes, I'm going to look foolish."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:56,060",
+				"to": "00:22:01,820"
+			},
+			"offsets": {
+				"from": 1316060,
+				"to": 1321820
+			},
+			"text": " So, I'm just going to tell you my opinion, and then if you disagree with me, tell me after service, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,820",
+				"to": "00:22:08,520"
+			},
+			"offsets": {
+				"from": 1321820,
+				"to": 1328520
+			},
+			"text": " A lot of words could be used to be the central descriptor of the gospel of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:10,220",
+				"to": "00:22:15,840"
+			},
+			"offsets": {
+				"from": 1330220,
+				"to": 1335840
+			},
+			"text": " My working theory is that the most central adjective for the gospel is grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,380",
+				"to": "00:22:20,320"
+			},
+			"offsets": {
+				"from": 1337380,
+				"to": 1340320
+			},
+			"text": " Grace is God's undeserved kindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,320",
+				"to": "00:22:25,520"
+			},
+			"offsets": {
+				"from": 1340320,
+				"to": 1345520
+			},
+			"text": " Psalm 103 says it this way, the Lord is compassionate and merciful."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,520",
+				"to": "00:22:29,540"
+			},
+			"offsets": {
+				"from": 1345520,
+				"to": 1349540
+			},
+			"text": " This is a echo back to God giving his name to the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,320",
+				"to": "00:22:32,860"
+			},
+			"offsets": {
+				"from": 1351320,
+				"to": 1352860
+			},
+			"text": " God is compassionate and merciful."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,860",
+				"to": "00:22:35,640"
+			},
+			"offsets": {
+				"from": 1352860,
+				"to": 1355640
+			},
+			"text": " He's slow to get angry and filled with unfailing love."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,640",
+				"to": "00:22:39,440"
+			},
+			"offsets": {
+				"from": 1355640,
+				"to": 1359440
+			},
+			"text": " He will not constantly accuse us nor remain angry at us forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,440",
+				"to": "00:22:41,620"
+			},
+			"offsets": {
+				"from": 1359440,
+				"to": 1361620
+			},
+			"text": " He does not punish us for all of our sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,620",
+				"to": "00:22:45,020"
+			},
+			"offsets": {
+				"from": 1361620,
+				"to": 1365020
+			},
+			"text": " He does not deal harshly with us as we deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,020",
+				"to": "00:22:46,380"
+			},
+			"offsets": {
+				"from": 1365020,
+				"to": 1366380
+			},
+			"text": " This is the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,620",
+				"to": "00:22:54,120"
+			},
+			"offsets": {
+				"from": 1366620,
+				"to": 1374120
+			},
+			"text": " We deserve judgment and punishment, and instead, God extends his grace, his undeserved kindness and forgiveness to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,120",
+				"to": "00:23:01,680"
+			},
+			"offsets": {
+				"from": 1374120,
+				"to": 1381680
+			},
+			"text": " For his unfailing love towards those who fear him is as great as the height of the heavens above the earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,680",
+				"to": "00:23:09,060"
+			},
+			"offsets": {
+				"from": 1381680,
+				"to": 1389060
+			},
+			"text": " Grace, the central descriptor of the gospel of Jesus, the good news, is charis."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,560",
+				"to": "00:23:13,540"
+			},
+			"offsets": {
+				"from": 1390560,
+				"to": 1393540
+			},
+			"text": " Now, the next word in the announcement is joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,540",
+				"to": "00:23:17,100"
+			},
+			"offsets": {
+				"from": 1393540,
+				"to": 1397100
+			},
+			"text": " Take a look at grace now."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,100",
+				"to": "00:23:19,360"
+			},
+			"offsets": {
+				"from": 1397100,
+				"to": 1399360
+			},
+			"text": " Does it look familiar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,360",
+				"to": "00:23:21,300"
+			},
+			"offsets": {
+				"from": 1399360,
+				"to": 1401300
+			},
+			"text": " Look similar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,300",
+				"to": "00:23:23,820"
+			},
+			"offsets": {
+				"from": 1401300,
+				"to": 1403820
+			},
+			"text": " Charis, chara."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,820",
+				"to": "00:23:33,660"
+			},
+			"offsets": {
+				"from": 1403820,
+				"to": 1413660
+			},
+			"text": " My point here is that biblical joy that is not shaken by external circumstances is rooted in the grace of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,660",
+				"to": "00:23:34,500"
+			},
+			"offsets": {
+				"from": 1413660,
+				"to": 1414500
+			},
+			"text": " I'd put it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,500",
+				"to": "00:23:35,320"
+			},
+			"offsets": {
+				"from": 1414500,
+				"to": 1415320
+			},
+			"text": " This is my main point."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,400",
+				"to": "00:23:39,060"
+			},
+			"offsets": {
+				"from": 1415400,
+				"to": 1419060
+			},
+			"text": " If you're a note taker, I didn't put notes in the bulletin, I'm so sorry, but here's the main point."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:39,060",
+				"to": "00:23:40,660"
+			},
+			"offsets": {
+				"from": 1419060,
+				"to": 1420660
+			},
+			"text": " Wait, I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,660",
+				"to": "00:23:41,760"
+			},
+			"offsets": {
+				"from": 1420660,
+				"to": 1421760
+			},
+			"text": " I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:41,760",
+				"to": "00:23:43,600"
+			},
+			"offsets": {
+				"from": 1421760,
+				"to": 1423600
+			},
+			"text": " I wasn't going to, and then I changed it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,600",
+				"to": "00:23:44,440"
+			},
+			"offsets": {
+				"from": 1423600,
+				"to": 1424440
+			},
+			"text": " Okay, it's down there."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,440",
+				"to": "00:23:44,740"
+			},
+			"offsets": {
+				"from": 1424440,
+				"to": 1424740
+			},
+			"text": " Perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,740",
+				"to": "00:23:45,600"
+			},
+			"offsets": {
+				"from": 1424740,
+				"to": 1425600
+			},
+			"text": " All right, here it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,600",
+				"to": "00:23:55,740"
+			},
+			"offsets": {
+				"from": 1425600,
+				"to": 1435740
+			},
+			"text": " For you note takers, your capacity for joy is directly connected to the amount of God's grace and truth that you choose to acknowledge and receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,740",
+				"to": "00:24:02,980"
+			},
+			"offsets": {
+				"from": 1435740,
+				"to": 1442980
+			},
+			"text": " Joy is directly connected to the amount of grace and truth that we choose to acknowledge and receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,040",
+				"to": "00:24:07,220"
+			},
+			"offsets": {
+				"from": 1443040,
+				"to": 1447220
+			},
+			"text": " We're going to dig into that a little bit because it is a broad concept."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:07,220",
+				"to": "00:24:13,600"
+			},
+			"offsets": {
+				"from": 1447220,
+				"to": 1453600
+			},
+			"text": " Biblical joy that isn't taken away by our circumstances, by the seasons that we're experiencing."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,600",
+				"to": "00:24:21,120"
+			},
+			"offsets": {
+				"from": 1453600,
+				"to": 1461120
+			},
+			"text": " I heard it put this way, that joy is not based on the seasons we're experiencing, but the soil that we are planted in."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,120",
+				"to": "00:24:34,680"
+			},
+			"offsets": {
+				"from": 1461120,
+				"to": 1474680
+			},
+			"text": " Joy is rooted in our capacity to acknowledge and receive God's undeserved kindness to us, his forgiveness, his mercy, his grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:36,040",
+				"to": "00:24:40,440"
+			},
+			"offsets": {
+				"from": 1476040,
+				"to": 1480440
+			},
+			"text": " And we can get as practical or as spiritual as you want to get here this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,440",
+				"to": "00:24:47,800"
+			},
+			"offsets": {
+				"from": 1480440,
+				"to": 1487800
+			},
+			"text": " And this is why I've heard pastors in the past talk about only Christians know what true joy really is."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:48,440",
+				"to": "00:25:01,760"
+			},
+			"offsets": {
+				"from": 1488440,
+				"to": 1501760
+			},
+			"text": " And although I understand the sentiment, I think that's a little bit off because even people who don't acknowledge God's grace in their life still receive joy from the grace that God is extending to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,740",
+				"to": "00:25:17,820"
+			},
+			"offsets": {
+				"from": 1502740,
+				"to": 1517820
+			},
+			"text": " Right, like beautiful, healthy relationships, a good meal, breath in our lungs, the view from an incredible sunset, the emotional response of a powerful song, money in the bank, a healthy body and mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,820",
+				"to": "00:25:21,780"
+			},
+			"offsets": {
+				"from": 1517820,
+				"to": 1521780
+			},
+			"text": " All of these things are undeserved kindness from God to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,880",
+				"to": "00:25:30,040"
+			},
+			"offsets": {
+				"from": 1521880,
+				"to": 1530040
+			},
+			"text": " And whether or not they acknowledge that it's a gift from God or not, they receive it as a gift and express joy for those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,040",
+				"to": "00:25:42,300"
+			},
+			"offsets": {
+				"from": 1530040,
+				"to": 1542300
+			},
+			"text": " The problem with that being the cap of the grace that we're willing to receive from God is all of those things can be taken away in an instant."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,300",
+				"to": "00:25:49,880"
+			},
+			"offsets": {
+				"from": 1542300,
+				"to": 1549880
+			},
+			"text": " Beautiful sunsets only last for a few minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,880",
+				"to": "00:25:55,820"
+			},
+			"offsets": {
+				"from": 1551880,
+				"to": 1555820
+			},
+			"text": " Powerful songs fade into the distance."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,820",
+				"to": "00:26:02,860"
+			},
+			"offsets": {
+				"from": 1555820,
+				"to": 1562860
+			},
+			"text": " Our favorite meal turns into, wow, I ate way too much and now I feel miserable."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:02,860",
+				"to": "00:26:08,120"
+			},
+			"offsets": {
+				"from": 1562860,
+				"to": 1568120
+			},
+			"text": " Right, like all of these things, breath in our lungs, a healthy body and mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,120",
+				"to": "00:26:13,660"
+			},
+			"offsets": {
+				"from": 1568120,
+				"to": 1573660
+			},
+			"text": " All of us have been surprised by an unexpected diagnosis of ourselves or someone else."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,760",
+				"to": "00:26:28,500"
+			},
+			"offsets": {
+				"from": 1573760,
+				"to": 1588500
+			},
+			"text": " And if our joy is rooted in those temporary circumstances, our joy is rooted in our status in society, the job that we have, all of these things can be taken away in an instant."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,500",
+				"to": "00:26:36,540"
+			},
+			"offsets": {
+				"from": 1589500,
+				"to": 1596540
+			},
+			"text": " The joy that God invites us to, the great joy that cannot be taken away by circumstantial evidence goes beyond that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,540",
+				"to": "00:26:37,600"
+			},
+			"offsets": {
+				"from": 1596540,
+				"to": 1597600
+			},
+			"text": " It starts with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,600",
+				"to": "00:26:40,280"
+			},
+			"offsets": {
+				"from": 1597600,
+				"to": 1600280
+			},
+			"text": " We should acknowledge the good gifts of God in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,280",
+				"to": "00:26:42,920"
+			},
+			"offsets": {
+				"from": 1600280,
+				"to": 1602920
+			},
+			"text": " The practical, joyful gifts."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:42,920",
+				"to": "00:26:45,420"
+			},
+			"offsets": {
+				"from": 1602920,
+				"to": 1605420
+			},
+			"text": " And some of us have more of those things than others."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,920",
+				"to": "00:26:49,860"
+			},
+			"offsets": {
+				"from": 1608920,
+				"to": 1609860
+			},
+			"text": " Envy, anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:49,860",
+				"to": "00:26:59,660"
+			},
+			"offsets": {
+				"from": 1609860,
+				"to": 1619660
+			},
+			"text": " Anybody lose sight of the good things that God has been giving to you, the goodness of God in your life because you're too busy looking at the person down the street who has more than you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,660",
+				"to": "00:27:07,060"
+			},
+			"offsets": {
+				"from": 1619660,
+				"to": 1627060
+			},
+			"text": " Joy starts with our capacity to acknowledge the good practical gifts that God has given us."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,060",
+				"to": "00:27:13,980"
+			},
+			"offsets": {
+				"from": 1627060,
+				"to": 1633980
+			},
+			"text": " Even if we're in our worst season of life, what small, practical gifts from God can you dwell on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,980",
+				"to": "00:27:16,840"
+			},
+			"offsets": {
+				"from": 1633980,
+				"to": 1636840
+			},
+			"text": " Can you remind yourself that God didn't have to give me this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,840",
+				"to": "00:27:19,040"
+			},
+			"offsets": {
+				"from": 1636840,
+				"to": 1639040
+			},
+			"text": " He treats me as I don't deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,040",
+				"to": "00:27:22,200"
+			},
+			"offsets": {
+				"from": 1639040,
+				"to": 1642200
+			},
+			"text": " He doesn't extend the wrath and justice that I deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:22,200",
+				"to": "00:27:25,100"
+			},
+			"offsets": {
+				"from": 1642200,
+				"to": 1645100
+			},
+			"text": " Instead, he extends grace and patience and love."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,100",
+				"to": "00:27:28,280"
+			},
+			"offsets": {
+				"from": 1645100,
+				"to": 1648280
+			},
+			"text": " What practical things can we acknowledge?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:28,280",
+				"to": "00:27:32,060"
+			},
+			"offsets": {
+				"from": 1648280,
+				"to": 1652060
+			},
+			"text": " But then the believer goes deeper than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,640",
+				"to": "00:27:43,340"
+			},
+			"offsets": {
+				"from": 1652640,
+				"to": 1663340
+			},
+			"text": " We say not only that, but if we're a follower of Jesus, we know that God promises even our worst circumstances, our worst experiences of life will be redeemed for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,340",
+				"to": "00:27:47,620"
+			},
+			"offsets": {
+				"from": 1663340,
+				"to": 1667620
+			},
+			"text": " I said this a couple weeks ago, this line that's been resonating with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,620",
+				"to": "00:27:49,900"
+			},
+			"offsets": {
+				"from": 1667620,
+				"to": 1669900
+			},
+			"text": " If it's not good, God's not done."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,900",
+				"to": "00:27:55,840"
+			},
+			"offsets": {
+				"from": 1669900,
+				"to": 1675840
+			},
+			"text": " That doesn't mean that God caused or even we theologize this stuff a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,920",
+				"to": "00:28:03,360"
+			},
+			"offsets": {
+				"from": 1676920,
+				"to": 1683360
+			},
+			"text": " And anytime that something bad happens to us, we either say, we don't want to say that God caused it, but we say that God allowed it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:03,360",
+				"to": "00:28:08,940"
+			},
+			"offsets": {
+				"from": 1683360,
+				"to": 1688940
+			},
+			"text": " Sometimes bad things happen to us because we are in a broken world full of sinful people."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:08,940",
+				"to": "00:28:12,900"
+			},
+			"offsets": {
+				"from": 1688940,
+				"to": 1692900
+			},
+			"text": " Sometimes sinful people do bad things to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,360",
+				"to": "00:28:27,280"
+			},
+			"offsets": {
+				"from": 1693360,
+				"to": 1707280
+			},
+			"text": " And yet, in the midst of that, God says that he will redeem those negative experiences for his good and for his glory and your good for those who love him and are called according to his purposes."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,280",
+				"to": "00:28:39,700"
+			},
+			"offsets": {
+				"from": 1707280,
+				"to": 1719700
+			},
+			"text": " Our joy goes a little bit deeper because even in the worst experiences of our life, we can have confidence that God is somehow going to redeem that for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,060",
+				"to": "00:28:41,500"
+			},
+			"offsets": {
+				"from": 1720060,
+				"to": 1721500
+			},
+			"text": " Might take a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,500",
+				"to": "00:28:52,440"
+			},
+			"offsets": {
+				"from": 1721500,
+				"to": 1732440
+			},
+			"text": " We might not see it for a long time, but this is the promise that God takes the bad, negative, worst experiences of our life and he will redeem them for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,440",
+				"to": "00:28:54,580"
+			},
+			"offsets": {
+				"from": 1732440,
+				"to": 1734580
+			},
+			"text": " We can have joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,580",
+				"to": "00:29:03,340"
+			},
+			"offsets": {
+				"from": 1734580,
+				"to": 1743340
+			},
+			"text": " Not joy that denies the bad experiences, not joy that explains it away, but joy that says, I'm going to stay rooted in God's grace here."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,340",
+				"to": "00:29:07,620"
+			},
+			"offsets": {
+				"from": 1743340,
+				"to": 1747620
+			},
+			"text": " Because I have gifts that he didn't have to give me."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,120",
+				"to": "00:29:09,620"
+			},
+			"offsets": {
+				"from": 1748120,
+				"to": 1749620
+			},
+			"text": " I've got breath in my lungs."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,620",
+				"to": "00:29:18,040"
+			},
+			"offsets": {
+				"from": 1749620,
+				"to": 1758040
+			},
+			"text": " Not only that, but he's somehow, some way, I don't know it, but I've seen him do it in other people's lives and I've read about it in the scriptures."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,040",
+				"to": "00:29:23,960"
+			},
+			"offsets": {
+				"from": 1758040,
+				"to": 1763960
+			},
+			"text": " So I believe that he is somehow, in some way, going to work these negative experiences in my life for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,960",
+				"to": "00:29:25,820"
+			},
+			"offsets": {
+				"from": 1763960,
+				"to": 1765820
+			},
+			"text": " Somehow I'm going to trust him in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,820",
+				"to": "00:29:27,120"
+			},
+			"offsets": {
+				"from": 1765820,
+				"to": 1767120
+			},
+			"text": " I'm going to wait for him in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,120",
+				"to": "00:29:32,720"
+			},
+			"offsets": {
+				"from": 1767120,
+				"to": 1772720
+			},
+			"text": " And not only that, it goes a layer deeper to our eschatological hope, our end times hope."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,720",
+				"to": "00:29:33,660"
+			},
+			"offsets": {
+				"from": 1772720,
+				"to": 1773660
+			},
+			"text": " Again, that was the glasses."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,660",
+				"to": "00:29:34,180"
+			},
+			"offsets": {
+				"from": 1773660,
+				"to": 1774180
+			},
+			"text": " I'm sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,500",
+				"to": "00:29:36,600"
+			},
+			"offsets": {
+				"from": 1774500,
+				"to": 1776600
+			},
+			"text": " It's making me say words that I wouldn't normally say."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,600",
+				"to": "00:29:39,860"
+			},
+			"offsets": {
+				"from": 1776600,
+				"to": 1779860
+			},
+			"text": " Our future hope, sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,860",
+				"to": "00:29:40,540"
+			},
+			"offsets": {
+				"from": 1779860,
+				"to": 1780540
+			},
+			"text": " I don't know why."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,540",
+				"to": "00:29:41,560"
+			},
+			"offsets": {
+				"from": 1780540,
+				"to": 1781560
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,560",
+				"to": "00:29:53,320"
+			},
+			"offsets": {
+				"from": 1781560,
+				"to": 1793320
+			},
+			"text": " If God's temporary goodness to us wasn't enough, if his willingness to work out our negative experiences ultimately for good isn't enough,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,180",
+				"to": "00:29:55,820"
+			},
+			"offsets": {
+				"from": 1794180,
+				"to": 1795820
+			},
+			"text": " we have a future hope."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,820",
+				"to": "00:30:02,880"
+			},
+			"offsets": {
+				"from": 1795820,
+				"to": 1802880
+			},
+			"text": " Our temporary struggles are nothing to be compared to the future grace that God has promised us."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,260",
+				"to": "00:30:14,360"
+			},
+			"offsets": {
+				"from": 1804260,
+				"to": 1814360
+			},
+			"text": " And so our biblical joy that isn't taken away by external circumstances is how much grace we're willing to acknowledge and receive from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,420",
+				"to": "00:30:18,760"
+			},
+			"offsets": {
+				"from": 1815420,
+				"to": 1818760
+			},
+			"text": " Pastor Michelle showed me this illustration years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:18,760",
+				"to": "00:30:21,660"
+			},
+			"offsets": {
+				"from": 1818760,
+				"to": 1821660
+			},
+			"text": " And anytime I talk about joy, I think I'm going to use it because I love it."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,660",
+				"to": "00:30:23,240"
+			},
+			"offsets": {
+				"from": 1821660,
+				"to": 1823240
+			},
+			"text": " We've got two balloons here."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,240",
+				"to": "00:30:24,960"
+			},
+			"offsets": {
+				"from": 1823240,
+				"to": 1824960
+			},
+			"text": " Everybody see the balloons?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:24,960",
+				"to": "00:30:31,300"
+			},
+			"offsets": {
+				"from": 1824960,
+				"to": 1831300
+			},
+			"text": " I watch, Merce and I have been watching a lot of, is this a safe space for confession?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,300",
+				"to": "00:30:37,460"
+			},
+			"offsets": {
+				"from": 1831300,
+				"to": 1837460
+			},
+			"text": " Merce and I have been watching a lot of Hallmark the last couple days."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,460",
+				"to": "00:30:42,680"
+			},
+			"offsets": {
+				"from": 1839460,
+				"to": 1842680
+			},
+			"text": " Hey, I love Hallmark 10 on a lot of holidays."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,680",
+				"to": "00:30:44,140"
+			},
+			"offsets": {
+				"from": 1842680,
+				"to": 1844140
+			},
+			"text": " I'm not even going to pretend like I don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:44,140",
+				"to": "00:30:50,060"
+			},
+			"offsets": {
+				"from": 1844140,
+				"to": 1850060
+			},
+			"text": " But what I don't love is for every six minute of movie they show, they show seven minutes of advertisements."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,060",
+				"to": "00:30:58,800"
+			},
+			"offsets": {
+				"from": 1850060,
+				"to": 1858800
+			},
+			"text": " And some of those advertisements are like the ShamWow guy for like three minutes trying to tell you about this thing that he's going to,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:58,800",
+				"to": "00:31:01,160"
+			},
+			"offsets": {
+				"from": 1858800,
+				"to": 1861160
+			},
+			"text": " it's going to revolutionize your kitty litter."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,120",
+				"to": "00:31:08,580"
+			},
+			"offsets": {
+				"from": 1862120,
+				"to": 1868580
+			},
+			"text": " And the reason, that is not in the notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:08,580",
+				"to": "00:31:15,480"
+			},
+			"offsets": {
+				"from": 1868580,
+				"to": 1875480
+			},
+			"text": " I bring that up because they're like, these guys are so good at selling you something that I know for a fact isn't going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,480",
+				"to": "00:31:20,000"
+			},
+			"offsets": {
+				"from": 1875480,
+				"to": 1880000
+			},
+			"text": " And so then I stand up here with my two balloons and I'm like, look at the balloons."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,000",
+				"to": "00:31:23,020"
+			},
+			"offsets": {
+				"from": 1880000,
+				"to": 1883020
+			},
+			"text": " I'm like, why can't I have that gift?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,020",
+				"to": "00:31:25,460"
+			},
+			"offsets": {
+				"from": 1883020,
+				"to": 1885460
+			},
+			"text": " Why can't I have that energy, that passion?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,460",
+				"to": "00:31:27,900"
+			},
+			"offsets": {
+				"from": 1885460,
+				"to": 1887900
+			},
+			"text": " Because they're selling you something that's not going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:27,900",
+				"to": "00:31:30,060"
+			},
+			"offsets": {
+				"from": 1887900,
+				"to": 1890060
+			},
+			"text": " And I believe I'm selling you something that's going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,220",
+				"to": "00:31:33,640"
+			},
+			"offsets": {
+				"from": 1890220,
+				"to": 1893640
+			},
+			"text": " And yet I just don't have it in me to try and give you the infomercial voice."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,640",
+				"to": "00:31:36,540"
+			},
+			"offsets": {
+				"from": 1893640,
+				"to": 1896540
+			},
+			"text": " So, but wait, there's more."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,540",
+				"to": "00:31:40,080"
+			},
+			"offsets": {
+				"from": 1896540,
+				"to": 1900080
+			},
+			"text": " So I've got two balloons up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,080",
+				"to": "00:31:43,780"
+			},
+			"offsets": {
+				"from": 1900080,
+				"to": 1903780
+			},
+			"text": " One filled with air that represents joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:43,780",
+				"to": "00:31:47,500"
+			},
+			"offsets": {
+				"from": 1903780,
+				"to": 1907500
+			},
+			"text": " These are the, this is the joy that is rooted in the temporary grace of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,500",
+				"to": "00:31:50,140"
+			},
+			"offsets": {
+				"from": 1907500,
+				"to": 1910140
+			},
+			"text": " The good gifts that God gives us."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,140",
+				"to": "00:31:51,120"
+			},
+			"offsets": {
+				"from": 1910140,
+				"to": 1911120
+			},
+			"text": " We can have joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,120",
+				"to": "00:31:52,660"
+			},
+			"offsets": {
+				"from": 1911120,
+				"to": 1912660
+			},
+			"text": " I picked the yellow balloon."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,660",
+				"to": "00:31:53,840"
+			},
+			"offsets": {
+				"from": 1912660,
+				"to": 1913840
+			},
+			"text": " Joy, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,840",
+				"to": "00:31:56,540"
+			},
+			"offsets": {
+				"from": 1913840,
+				"to": 1916540
+			},
+			"text": " Bright, happy, exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:56,540",
+				"to": "00:31:59,820"
+			},
+			"offsets": {
+				"from": 1916540,
+				"to": 1919820
+			},
+			"text": " We can have joy based on the temporary goodness of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,820",
+				"to": "00:32:04,980"
+			},
+			"offsets": {
+				"from": 1919820,
+				"to": 1924980
+			},
+			"text": " But what happens when we face trial, difficulty, circumstances change."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,980",
+				"to": "00:32:07,740"
+			},
+			"offsets": {
+				"from": 1924980,
+				"to": 1927740
+			},
+			"text": " The things that we rooted our joy in are taken away."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:07,740",
+				"to": "00:32:09,820"
+			},
+			"offsets": {
+				"from": 1927740,
+				"to": 1929820
+			},
+			"text": " Everybody, trigger warning."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,820",
+				"to": "00:32:18,640"
+			},
+			"offsets": {
+				"from": 1929820,
+				"to": 1938640
+			},
+			"text": " It didn't take that long when I tested it."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,640",
+				"to": "00:32:19,840"
+			},
+			"offsets": {
+				"from": 1938640,
+				"to": 1939840
+			},
+			"text": " I was nervous that it wasn't going to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,840",
+				"to": "00:32:22,760"
+			},
+			"offsets": {
+				"from": 1939840,
+				"to": 1942760
+			},
+			"text": " Our joy can be taken from us in an instant."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:24,140",
+				"to": "00:32:26,740"
+			},
+			"offsets": {
+				"from": 1944140,
+				"to": 1946740
+			},
+			"text": " One change in our life circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,740",
+				"to": "00:32:31,700"
+			},
+			"offsets": {
+				"from": 1946740,
+				"to": 1951700
+			},
+			"text": " And if our, if our joy was rooted in those temporary circumstances, it can all be taken away."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:31,700",
+				"to": "00:32:39,720"
+			},
+			"offsets": {
+				"from": 1951700,
+				"to": 1959720
+			},
+			"text": " But a joy that is rooted in the grace and truth of God is filled with the living water of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,860",
+				"to": "00:32:45,460"
+			},
+			"offsets": {
+				"from": 1959860,
+				"to": 1965460
+			},
+			"text": " John 4 verse 14 says, but those who drink the water I give will never be thirsty again."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,460",
+				"to": "00:32:52,020"
+			},
+			"offsets": {
+				"from": 1965460,
+				"to": 1972020
+			},
+			"text": " It becomes a fresh bubbling spring within them, giving them eternal life."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:52,820",
+				"to": "00:33:02,300"
+			},
+			"offsets": {
+				"from": 1972820,
+				"to": 1982300
+			},
+			"text": " If we take our joy beyond just our temporary circumstances and we believe wholeheartedly that God is going to somehow redeem the negative situations in our life for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,300",
+				"to": "00:33:07,300"
+			},
+			"offsets": {
+				"from": 1982300,
+				"to": 1987300
+			},
+			"text": " And not only that, but even if we can't see him redeeming our negative circumstances for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,300",
+				"to": "00:33:11,500"
+			},
+			"offsets": {
+				"from": 1987300,
+				"to": 1991500
+			},
+			"text": " We believe that because he was faithful in the past that he will be faithful in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,500",
+				"to": "00:33:13,960"
+			},
+			"offsets": {
+				"from": 1991500,
+				"to": 1993960
+			},
+			"text": " That his promises do remain true."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,060",
+				"to": "00:33:16,000"
+			},
+			"offsets": {
+				"from": 1994060,
+				"to": 1996000
+			},
+			"text": " We can remain rooted in our joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,000",
+				"to": "00:33:17,400"
+			},
+			"offsets": {
+				"from": 1996000,
+				"to": 1997400
+			},
+			"text": " Oh no, this is a problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,400",
+				"to": "00:33:18,680"
+			},
+			"offsets": {
+				"from": 1997400,
+				"to": 1998680
+			},
+			"text": " I popped the candle that I needed."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,680",
+				"to": "00:33:19,620"
+			},
+			"offsets": {
+				"from": 1998680,
+				"to": 1999620
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,620",
+				"to": "00:33:20,800"
+			},
+			"offsets": {
+				"from": 1999620,
+				"to": 2000800
+			},
+			"text": " We got it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,800",
+				"to": "00:33:24,600"
+			},
+			"offsets": {
+				"from": 2000800,
+				"to": 2004600
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,600",
+				"to": "00:33:33,140"
+			},
+			"offsets": {
+				"from": 2004600,
+				"to": 2013140
+			},
+			"text": " What happens to this person whose capacity for joy is rooted in not just the practical temporary gifts of God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:33,140",
+				"to": "00:33:35,960"
+			},
+			"offsets": {
+				"from": 2013140,
+				"to": 2015960
+			},
+			"text": " but the spiritual and eternal gifts of God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,960",
+				"to": "00:33:39,680"
+			},
+			"offsets": {
+				"from": 2015960,
+				"to": 2019680
+			},
+			"text": " You guys nervous?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,680",
+				"to": "00:33:41,920"
+			},
+			"offsets": {
+				"from": 2019680,
+				"to": 2021920
+			},
+			"text": " I'm a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,920",
+				"to": "00:33:42,460"
+			},
+			"offsets": {
+				"from": 2021920,
+				"to": 2022460
+			},
+			"text": " I'm not."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,480",
+				"to": "00:33:44,520"
+			},
+			"offsets": {
+				"from": 2023480,
+				"to": 2024520
+			},
+			"text": " How are we doing down there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,520",
+				"to": "00:33:46,580"
+			},
+			"offsets": {
+				"from": 2024520,
+				"to": 2026580
+			},
+			"text": " Do we still have joy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,580",
+				"to": "00:33:52,180"
+			},
+			"offsets": {
+				"from": 2026580,
+				"to": 2032180
+			},
+			"text": " Joy, joy, joy, joy down in my heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,180",
+				"to": "00:33:52,600"
+			},
+			"offsets": {
+				"from": 2032180,
+				"to": 2032600
+			},
+			"text": " Where?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,600",
+				"to": "00:33:53,920"
+			},
+			"offsets": {
+				"from": 2032600,
+				"to": 2033920
+			},
+			"text": " Love it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,920",
+				"to": "00:33:55,700"
+			},
+			"offsets": {
+				"from": 2033920,
+				"to": 2035700
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,700",
+				"to": "00:33:59,700"
+			},
+			"offsets": {
+				"from": 2035700,
+				"to": 2039700
+			},
+			"text": " Our joy is able to remain, but this is where I want to transition from."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,700",
+				"to": "00:34:04,400"
+			},
+			"offsets": {
+				"from": 2039700,
+				"to": 2044400
+			},
+			"text": " The capacity of joy is directly connected to the amount of God's grace that we receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:04,400",
+				"to": "00:34:12,900"
+			},
+			"offsets": {
+				"from": 2044400,
+				"to": 2052900
+			},
+			"text": " And I want to transition to truth because what we're going to see here with this balloon is that just because our joy remains doesn't mean we don't face"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,900",
+				"to": "00:34:16,560"
+			},
+			"offsets": {
+				"from": 2052900,
+				"to": 2056560
+			},
+			"text": " face the negative consequences of the negative consequences of the external experiences of our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,560",
+				"to": "00:34:24,340"
+			},
+			"offsets": {
+				"from": 2056560,
+				"to": 2064340
+			},
+			"text": " There are visible, tangible pain that we experience through the difficulties of this life,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,340",
+				"to": "00:34:32,560"
+			},
+			"offsets": {
+				"from": 2064340,
+				"to": 2072560
+			},
+			"text": " which is why joy isn't just rooted in the grace that we receive, but it's rooted in our ability to receive God's truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,560",
+				"to": "00:34:42,060"
+			},
+			"offsets": {
+				"from": 2076560,
+				"to": 2082060
+			},
+			"text": " It is right and good to acknowledge that life is not as it should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,060",
+				"to": "00:34:45,260"
+			},
+			"offsets": {
+				"from": 2082060,
+				"to": 2085260
+			},
+			"text": " Fake Frank doesn't do anything for anyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,260",
+				"to": "00:34:55,900"
+			},
+			"offsets": {
+				"from": 2085260,
+				"to": 2095900
+			},
+			"text": " Fake Frank ignores the present realities of living in this broken world and just tries to fake like God's grace makes everything perfect all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,960",
+				"to": "00:34:56,780"
+			},
+			"offsets": {
+				"from": 2095960,
+				"to": 2096780
+			},
+			"text": " And that's not true."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,780",
+				"to": "00:35:01,940"
+			},
+			"offsets": {
+				"from": 2096780,
+				"to": 2101940
+			},
+			"text": " Unexpected diagnosis has come."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:01,940",
+				"to": "00:35:09,180"
+			},
+			"offsets": {
+				"from": 2101940,
+				"to": 2109180
+			},
+			"text": " The pregnancy test comes back empty for the fifth, sixth, seventh time."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,180",
+				"to": "00:35:16,040"
+			},
+			"offsets": {
+				"from": 2109180,
+				"to": 2116040
+			},
+			"text": " The person that stood at the altar and vowed to us that they would never betray us."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:16,040",
+				"to": "00:35:18,720"
+			},
+			"offsets": {
+				"from": 2116040,
+				"to": 2118720
+			},
+			"text": " Betrayed us."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:20,080",
+				"to": "00:35:21,580"
+			},
+			"offsets": {
+				"from": 2120080,
+				"to": 2121580
+			},
+			"text": " This happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,580",
+				"to": "00:35:31,020"
+			},
+			"offsets": {
+				"from": 2121580,
+				"to": 2131020
+			},
+			"text": " And it does nothing for ourselves, for others, or for God to pretend like it doesn't matter because God is gracious to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,020",
+				"to": "00:35:37,060"
+			},
+			"offsets": {
+				"from": 2131020,
+				"to": 2137060
+			},
+			"text": " It is right and good to acknowledge that life is not as it should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:37,060",
+				"to": "00:35:41,180"
+			},
+			"offsets": {
+				"from": 2137060,
+				"to": 2141180
+			},
+			"text": " It does not honor God to smile through the pain and pretend like life isn't difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:42,120",
+				"to": "00:35:43,580"
+			},
+			"offsets": {
+				"from": 2142120,
+				"to": 2143580
+			},
+			"text": " Real people, real lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:43,580",
+				"to": "00:35:49,160"
+			},
+			"offsets": {
+				"from": 2143580,
+				"to": 2149160
+			},
+			"text": " This is one of the things I love the most about our community is that we embody this value most of the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,160",
+				"to": "00:35:49,880"
+			},
+			"offsets": {
+				"from": 2149160,
+				"to": 2149880
+			},
+			"text": " We're not perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,880",
+				"to": "00:35:54,060"
+			},
+			"offsets": {
+				"from": 2149880,
+				"to": 2154060
+			},
+			"text": " But I can't tell you the amount of people that I've walked up to in the lobby and said, how are you doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:54,060",
+				"to": "00:35:55,440"
+			},
+			"offsets": {
+				"from": 2154060,
+				"to": 2155440
+			},
+			"text": " And they're like, hey, do you really want to know?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,440",
+				"to": "00:36:00,640"
+			},
+			"offsets": {
+				"from": 2155440,
+				"to": 2160640
+			},
+			"text": " And a lot of us who grew up in church know that's not normal."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,640",
+				"to": "00:36:03,480"
+			},
+			"offsets": {
+				"from": 2160640,
+				"to": 2163480
+			},
+			"text": " Blessed and highly favored."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,480",
+				"to": "00:36:04,580"
+			},
+			"offsets": {
+				"from": 2163480,
+				"to": 2164580
+			},
+			"text": " Am I right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,580",
+				"to": "00:36:05,600"
+			},
+			"offsets": {
+				"from": 2164580,
+				"to": 2165600
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:07,520",
+				"to": "00:36:11,000"
+			},
+			"offsets": {
+				"from": 2167520,
+				"to": 2171000
+			},
+			"text": " Our lives are filled with the consequences of living in a broken world."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,000",
+				"to": "00:36:18,980"
+			},
+			"offsets": {
+				"from": 2171000,
+				"to": 2178980
+			},
+			"text": " Consequences from decisions we've made, decisions others have made, or seemingly senseless evils of living in a fallen world."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,980",
+				"to": "00:36:26,760"
+			},
+			"offsets": {
+				"from": 2178980,
+				"to": 2186760
+			},
+			"text": " Part of having joy in the midst of difficult circumstances isn't ignoring them, but acknowledging that this isn't God's desire for his creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:28,580",
+				"to": "00:36:37,520"
+			},
+			"offsets": {
+				"from": 2188580,
+				"to": 2197520
+			},
+			"text": " It's so much not his desire for his creation that he stepped into his creation and experienced all of the evils of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:37,520",
+				"to": "00:36:40,600"
+			},
+			"offsets": {
+				"from": 2197520,
+				"to": 2200600
+			},
+			"text": " All the evils the world has to offer."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,600",
+				"to": "00:36:43,180"
+			},
+			"offsets": {
+				"from": 2200600,
+				"to": 2203180
+			},
+			"text": " He's not a high priest who cannot be sympathetic towards us."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,180",
+				"to": "00:36:46,740"
+			},
+			"offsets": {
+				"from": 2203180,
+				"to": 2206740
+			},
+			"text": " He stepped in and experienced the brokenness of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,740",
+				"to": "00:36:54,420"
+			},
+			"offsets": {
+				"from": 2206740,
+				"to": 2214420
+			},
+			"text": " In order to give us victory over sin, death, and the grave, and invite us into a new kingdom with a new purpose."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,420",
+				"to": "00:36:58,360"
+			},
+			"offsets": {
+				"from": 2214420,
+				"to": 2218360
+			},
+			"text": " One that doesn't ignore the problems of this world, but one that knows they are temporary."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,580",
+				"to": "00:37:07,960"
+			},
+			"offsets": {
+				"from": 2218580,
+				"to": 2227960
+			},
+			"text": " This is the good news that leads to great joy for all who have ears to hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,960",
+				"to": "00:37:11,140"
+			},
+			"offsets": {
+				"from": 2227960,
+				"to": 2231140
+			},
+			"text": " This is the charis that leads to kara."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,140",
+				"to": "00:37:13,560"
+			},
+			"offsets": {
+				"from": 2231140,
+				"to": 2233560
+			},
+			"text": " This is the grace that leads to joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,560",
+				"to": "00:37:16,060"
+			},
+			"offsets": {
+				"from": 2233560,
+				"to": 2236060
+			},
+			"text": " There's a quote."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:16,060",
+				"to": "00:37:20,880"
+			},
+			"offsets": {
+				"from": 2236060,
+				"to": 2240880
+			},
+			"text": " It's a long one that I want to read as we get ready to close up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,880",
+				"to": "00:37:26,500"
+			},
+			"offsets": {
+				"from": 2240880,
+				"to": 2246500
+			},
+			"text": " And I think this does a really incredible job of encapsulating this definition of joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:26,500",
+				"to": "00:37:32,760"
+			},
+			"offsets": {
+				"from": 2246500,
+				"to": 2252760
+			},
+			"text": " Our capacity for joy is directly connected to the amount of God's grace and truth we choose to acknowledge and receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,760",
+				"to": "00:37:34,200"
+			},
+			"offsets": {
+				"from": 2252760,
+				"to": 2254200
+			},
+			"text": " This is from Dr. Tim Gombas."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,200",
+				"to": "00:37:34,640"
+			},
+			"offsets": {
+				"from": 2254200,
+				"to": 2254640
+			},
+			"text": " He says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,640",
+				"to": "00:37:46,460"
+			},
+			"offsets": {
+				"from": 2254640,
+				"to": 2266460
+			},
+			"text": " It is tempting for many Christians to explain the aspects of reality away, to deny them, or to emphasize only the triumphant aspects of the Christian experience."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,140",
+				"to": "00:37:53,640"
+			},
+			"offsets": {
+				"from": 2267140,
+				"to": 2273640
+			},
+			"text": " But this is an inappropriate posture towards the world because God's world is not yet fully set right."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,640",
+				"to": "00:37:58,460"
+			},
+			"offsets": {
+				"from": 2273640,
+				"to": 2278460
+			},
+			"text": " We must mourn and lament when we face tragedy, pain, and suffering."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,460",
+				"to": "00:38:03,960"
+			},
+			"offsets": {
+				"from": 2278460,
+				"to": 2283960
+			},
+			"text": " It does not glorify God to give its sentimentality by looking for the silver lining in bad situations."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,960",
+				"to": "00:38:06,780"
+			},
+			"offsets": {
+				"from": 2283960,
+				"to": 2286780
+			},
+			"text": " When we suffer, we must grieve."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:08,260",
+				"to": "00:38:17,360"
+			},
+			"offsets": {
+				"from": 2288260,
+				"to": 2297360
+			},
+			"text": " Not only is that a healthy response, it is an honest and truthful one that resonates with what God knows is true about his world."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,360",
+				"to": "00:38:29,680"
+			},
+			"offsets": {
+				"from": 2297360,
+				"to": 2309680
+			},
+			"text": " But we can also have hope, a joy, a deep sense of internal joy that is not shaken by our external circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,680",
+				"to": "00:38:42,260"
+			},
+			"offsets": {
+				"from": 2309680,
+				"to": 2322260
+			},
+			"text": " We can have this hope that when the Lord Jesus completes his triumph over evil, our hearts will be fully satisfied and we will be able to participate in the celebration of evil's final destruction."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,260",
+				"to": "00:38:45,840"
+			},
+			"offsets": {
+				"from": 2322260,
+				"to": 2325840
+			},
+			"text": " The King has come and he has had victory."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:45,840",
+				"to": "00:38:50,920"
+			},
+			"offsets": {
+				"from": 2325840,
+				"to": 2330920
+			},
+			"text": " And we are just awaiting the final proclamation of that victory at his return."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:52,460",
+				"to": "00:39:04,480"
+			},
+			"offsets": {
+				"from": 2332460,
+				"to": 2344480
+			},
+			"text": " And not only this, but even amid suffering, God is working by his Holy Spirit to do good to his people, triumphing in small ways over evil by turning pain into fuel for perseverance on the part of the people of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,480",
+				"to": "00:39:12,480"
+			},
+			"offsets": {
+				"from": 2344480,
+				"to": 2352480
+			},
+			"text": " The task of the church, therefore, is to live fully and truthfully into the reality of this world as it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,480",
+				"to": "00:39:17,180"
+			},
+			"offsets": {
+				"from": 2352480,
+				"to": 2357180
+			},
+			"text": " Not Debbie Downer, not fake Frank."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:17,180",
+				"to": "00:39:20,300"
+			},
+			"offsets": {
+				"from": 2357180,
+				"to": 2360300
+			},
+			"text": " Let's call her authentic Abigail."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:21,100",
+				"to": "00:39:22,320"
+			},
+			"offsets": {
+				"from": 2361100,
+				"to": 2362320
+			},
+			"text": " Just made that up on the spot."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,320",
+				"to": "00:39:23,640"
+			},
+			"offsets": {
+				"from": 2362320,
+				"to": 2363640
+			},
+			"text": " See, it's a skill."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,640",
+				"to": "00:39:25,260"
+			},
+			"offsets": {
+				"from": 2363640,
+				"to": 2365260
+			},
+			"text": " I'm kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,260",
+				"to": "00:39:29,560"
+			},
+			"offsets": {
+				"from": 2365260,
+				"to": 2369560
+			},
+			"text": " Living truthfully and faithfully into the reality as it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,560",
+				"to": "00:39:31,140"
+			},
+			"offsets": {
+				"from": 2369560,
+				"to": 2371140
+			},
+			"text": " It is beautiful but broken."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,140",
+				"to": "00:39:34,300"
+			},
+			"offsets": {
+				"from": 2371140,
+				"to": 2374300
+			},
+			"text": " God has triumphed, but we wait his final victory."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:34,300",
+				"to": "00:39:39,680"
+			},
+			"offsets": {
+				"from": 2374300,
+				"to": 2379680
+			},
+			"text": " We have been saved and restored, but we still experience pain, loss, and death."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:39,680",
+				"to": "00:39:45,540"
+			},
+			"offsets": {
+				"from": 2379680,
+				"to": 2385540
+			},
+			"text": " We cannot deny any aspect of our reality, neither negative or positive."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,540",
+				"to": "00:39:49,100"
+			},
+			"offsets": {
+				"from": 2385540,
+				"to": 2389100
+			},
+			"text": " In the face of brokenness, we lament, we grieve, and we mourn."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,100",
+				"to": "00:39:52,700"
+			},
+			"offsets": {
+				"from": 2389100,
+				"to": 2392700
+			},
+			"text": " And yet we celebrate because we are God's people."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:52,700",
+				"to": "00:39:57,880"
+			},
+			"offsets": {
+				"from": 2392700,
+				"to": 2397880
+			},
+			"text": " And celebrating, rejoicing, having joy is an act of defiant faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,880",
+				"to": "00:40:07,880"
+			},
+			"offsets": {
+				"from": 2397880,
+				"to": 2407880
+			},
+			"text": " Your capacity for joy is directly connected to the amount of God's grace and truth that you choose to acknowledge and receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,960",
+				"to": "00:40:09,940"
+			},
+			"offsets": {
+				"from": 2407960,
+				"to": 2409940
+			},
+			"text": " I heard a pastor say it this way this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:09,940",
+				"to": "00:40:14,720"
+			},
+			"offsets": {
+				"from": 2409940,
+				"to": 2414720
+			},
+			"text": " What happens to us does not have to define what happens in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:14,720",
+				"to": "00:40:20,840"
+			},
+			"offsets": {
+				"from": 2414720,
+				"to": 2420840
+			},
+			"text": " What happens to us does not have to define what happens in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,740",
+				"to": "00:40:26,780"
+			},
+			"offsets": {
+				"from": 2422740,
+				"to": 2426780
+			},
+			"text": " Christian, the world needs no more Debbie Downers."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,780",
+				"to": "00:40:29,120"
+			},
+			"offsets": {
+				"from": 2426780,
+				"to": 2429120
+			},
+			"text": " I mean, no more fake Franks."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,120",
+				"to": "00:40:37,700"
+			},
+			"offsets": {
+				"from": 2429120,
+				"to": 2437700
+			},
+			"text": " The world needs real people with real lives, the people of God, to acknowledge the brokenness of this world and to step into it with compassion and grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:38,340",
+				"to": "00:40:46,580"
+			},
+			"offsets": {
+				"from": 2438340,
+				"to": 2446580
+			},
+			"text": " A people who are honest about the world as it is, but have a deep sense of joy because we have the faith to see what the world will be."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,580",
+				"to": "00:40:52,700"
+			},
+			"offsets": {
+				"from": 2446580,
+				"to": 2452700
+			},
+			"text": " This type of joy has power to transform communities."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,700",
+				"to": "00:41:01,720"
+			},
+			"offsets": {
+				"from": 2452700,
+				"to": 2461720
+			},
+			"text": " This type of joy brings visible, tangible expressions of God's kingdom on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:06,720",
+				"to": "00:41:07,620"
+			},
+			"offsets": {
+				"from": 2466720,
+				"to": 2467620
+			},
+			"text": " I think I've got time."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:07,620",
+				"to": "00:41:08,440"
+			},
+			"offsets": {
+				"from": 2467620,
+				"to": 2468440
+			},
+			"text": " I usually don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:08,440",
+				"to": "00:41:09,080"
+			},
+			"offsets": {
+				"from": 2468440,
+				"to": 2469080
+			},
+			"text": " This is great."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,080",
+				"to": "00:41:14,300"
+			},
+			"offsets": {
+				"from": 2469080,
+				"to": 2474300
+			},
+			"text": " Put in my notes, time permitting."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,300",
+				"to": "00:41:16,660"
+			},
+			"offsets": {
+				"from": 2474300,
+				"to": 2476660
+			},
+			"text": " And I think time permits, so let's do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:16,660",
+				"to": "00:41:20,820"
+			},
+			"offsets": {
+				"from": 2476660,
+				"to": 2480820
+			},
+			"text": " Let's look at how the shepherds respond."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:20,820",
+				"to": "00:41:25,000"
+			},
+			"offsets": {
+				"from": 2480820,
+				"to": 2485000
+			},
+			"text": " I didn't think I was going to do this when I told you this is when you come up."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,000",
+				"to": "00:41:29,660"
+			},
+			"offsets": {
+				"from": 2485000,
+				"to": 2489660
+			},
+			"text": " So you just, you keep going, but I hope you got like four songs on your sheet there."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,660",
+				"to": "00:41:31,700"
+			},
+			"offsets": {
+				"from": 2489660,
+				"to": 2491700
+			},
+			"text": " If not, we'll just listen to the same one over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,700",
+				"to": "00:41:36,620"
+			},
+			"offsets": {
+				"from": 2491700,
+				"to": 2496620
+			},
+			"text": " If you, if you have the Jeopardy theme in there, go for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,620",
+				"to": "00:41:39,280"
+			},
+			"offsets": {
+				"from": 2497620,
+				"to": 2499280
+			},
+			"text": " All right, let's look at that real quick."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:39,280",
+				"to": "00:41:39,900"
+			},
+			"offsets": {
+				"from": 2499280,
+				"to": 2499900
+			},
+			"text": " We'll do it quick."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:39,900",
+				"to": "00:41:41,700"
+			},
+			"offsets": {
+				"from": 2499900,
+				"to": 2501700
+			},
+			"text": " Let's look at the shepherd's response."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,700",
+				"to": "00:41:48,360"
+			},
+			"offsets": {
+				"from": 2501700,
+				"to": 2508360
+			},
+			"text": " After the good news of great joy has been proclaimed, when the angels had returned to heaven, the shepherds said to each other,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:48,440",
+				"to": "00:41:49,640"
+			},
+			"offsets": {
+				"from": 2508440,
+				"to": 2509640
+			},
+			"text": " let's go to Bethlehem."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:49,640",
+				"to": "00:41:52,840"
+			},
+			"offsets": {
+				"from": 2509640,
+				"to": 2512840
+			},
+			"text": " Let's see the thing that has happened, which the Lord has told us about."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:52,840",
+				"to": "00:41:55,740"
+			},
+			"offsets": {
+				"from": 2512840,
+				"to": 2515740
+			},
+			"text": " They hurried to the village and they found Mary and Joseph."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:55,740",
+				"to": "00:41:58,080"
+			},
+			"offsets": {
+				"from": 2515740,
+				"to": 2518080
+			},
+			"text": " And there was a baby lying in the manger."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,080",
+				"to": "00:42:03,940"
+			},
+			"offsets": {
+				"from": 2518080,
+				"to": 2523940
+			},
+			"text": " After seeing him, the shepherds told everyone what happened and what the angel had said to them about the child."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,000",
+				"to": "00:42:06,980"
+			},
+			"offsets": {
+				"from": 2524000,
+				"to": 2526980
+			},
+			"text": " And all who heard the shepherd's story were astonished."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,980",
+				"to": "00:42:12,760"
+			},
+			"offsets": {
+				"from": 2526980,
+				"to": 2532760
+			},
+			"text": " But Mary kept all of these things in her heart and thought about them often."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,760",
+				"to": "00:42:19,400"
+			},
+			"offsets": {
+				"from": 2532760,
+				"to": 2539400
+			},
+			"text": " The shepherds went back to their flocks, glorifying and praising God for all they had heard and seen."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:19,400",
+				"to": "00:42:23,500"
+			},
+			"offsets": {
+				"from": 2539400,
+				"to": 2543500
+			},
+			"text": " For it was just as the angel had told them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:24,560",
+				"to": "00:42:30,680"
+			},
+			"offsets": {
+				"from": 2544560,
+				"to": 2550680
+			},
+			"text": " And the announcement of good news that leads to great joy came to the shepherds."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,680",
+				"to": "00:42:33,680"
+			},
+			"offsets": {
+				"from": 2550680,
+				"to": 2553680
+			},
+			"text": " First thing they did is they went and received it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,680",
+				"to": "00:42:38,720"
+			},
+			"offsets": {
+				"from": 2553680,
+				"to": 2558720
+			},
+			"text": " They went and they saw the grace and truth of God that was announced to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,720",
+				"to": "00:42:39,860"
+			},
+			"offsets": {
+				"from": 2558720,
+				"to": 2559860
+			},
+			"text": " They received it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,860",
+				"to": "00:42:40,720"
+			},
+			"offsets": {
+				"from": 2559860,
+				"to": 2560720
+			},
+			"text": " They embodied it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,720",
+				"to": "00:42:42,700"
+			},
+			"offsets": {
+				"from": 2560720,
+				"to": 2562700
+			},
+			"text": " They took an action towards it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:44,400",
+				"to": "00:42:48,420"
+			},
+			"offsets": {
+				"from": 2564400,
+				"to": 2568420
+			},
+			"text": " And then immediately after seeing it, just as the Lord had told them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:48,420",
+				"to": "00:42:55,180"
+			},
+			"offsets": {
+				"from": 2568420,
+				"to": 2575180
+			},
+			"text": " The thing that God told them was true, was true."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,180",
+				"to": "00:42:56,360"
+			},
+			"offsets": {
+				"from": 2575180,
+				"to": 2576360
+			},
+			"text": " They went and they saw it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,360",
+				"to": "00:42:57,120"
+			},
+			"offsets": {
+				"from": 2576360,
+				"to": 2577120
+			},
+			"text": " They received it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:57,120",
+				"to": "00:42:58,000"
+			},
+			"offsets": {
+				"from": 2577120,
+				"to": 2578000
+			},
+			"text": " They embodied it."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,000",
+				"to": "00:43:02,340"
+			},
+			"offsets": {
+				"from": 2578000,
+				"to": 2582340
+			},
+			"text": " And then after that, they went into the world, spreading this message of joy to others."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:02,340",
+				"to": "00:43:04,180"
+			},
+			"offsets": {
+				"from": 2582340,
+				"to": 2584180
+			},
+			"text": " They receive it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:04,180",
+				"to": "00:43:05,980"
+			},
+			"offsets": {
+				"from": 2584180,
+				"to": 2585980
+			},
+			"text": " And they extend it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:05,980",
+				"to": "00:43:10,800"
+			},
+			"offsets": {
+				"from": 2585980,
+				"to": 2590800
+			},
+			"text": " And lastly, they go back to their fields, rejoicing."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:12,340",
+				"to": "00:43:15,700"
+			},
+			"offsets": {
+				"from": 2592340,
+				"to": 2595700
+			},
+			"text": " Even though none of their external circumstances had changed."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:15,700",
+				"to": "00:43:27,220"
+			},
+			"offsets": {
+				"from": 2595700,
+				"to": 2607220
+			},
+			"text": " Normally, when a euangelion comes, when a messenger of good news comes, it's done."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:27,220",
+				"to": "00:43:28,720"
+			},
+			"offsets": {
+				"from": 2607220,
+				"to": 2608720
+			},
+			"text": " The king has been defeated."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:28,720",
+				"to": "00:43:29,980"
+			},
+			"offsets": {
+				"from": 2608720,
+				"to": 2609980
+			},
+			"text": " The victory has been won."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:29,980",
+				"to": "00:43:31,760"
+			},
+			"offsets": {
+				"from": 2609980,
+				"to": 2611760
+			},
+			"text": " Everything is different."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:31,760",
+				"to": "00:43:40,620"
+			},
+			"offsets": {
+				"from": 2611760,
+				"to": 2620620
+			},
+			"text": " But when the heavenly messenger comes and preaches this good news of great joy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,900",
+				"to": "00:43:44,320"
+			},
+			"offsets": {
+				"from": 2621900,
+				"to": 2624320
+			},
+			"text": " it's just the seed of what's to come."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:44,320",
+				"to": "00:43:46,440"
+			},
+			"offsets": {
+				"from": 2624320,
+				"to": 2626440
+			},
+			"text": " The baby in the manger."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:46,440",
+				"to": "00:43:49,820"
+			},
+			"offsets": {
+				"from": 2626440,
+				"to": 2629820
+			},
+			"text": " Awaiting his triumphal victory."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:49,820",
+				"to": "00:43:54,700"
+			},
+			"offsets": {
+				"from": 2629820,
+				"to": 2634700
+			},
+			"text": " And isn't this like, isn't this like the Christian experience?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:54,700",
+				"to": "00:43:59,780"
+			},
+			"offsets": {
+				"from": 2634700,
+				"to": 2639780
+			},
+			"text": " We sit and we receive the grace and truth in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:59,780",
+				"to": "00:44:01,640"
+			},
+			"offsets": {
+				"from": 2639780,
+				"to": 2641640
+			},
+			"text": " And then we look around at our circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:03,240",
+				"to": "00:44:04,840"
+			},
+			"offsets": {
+				"from": 2643240,
+				"to": 2644840
+			},
+			"text": " And they don't always change."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:04,840",
+				"to": "00:44:08,720"
+			},
+			"offsets": {
+				"from": 2644840,
+				"to": 2648720
+			},
+			"text": " We pray for a relationship to be restored."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:08,720",
+				"to": "00:44:10,720"
+			},
+			"offsets": {
+				"from": 2648720,
+				"to": 2650720
+			},
+			"text": " We pray for a disease to be healed."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:10,720",
+				"to": "00:44:16,740"
+			},
+			"offsets": {
+				"from": 2650720,
+				"to": 2656740
+			},
+			"text": " We pray for a stinking 1% bonus this year."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:16,740",
+				"to": "00:44:19,060"
+			},
+			"offsets": {
+				"from": 2656740,
+				"to": 2659060
+			},
+			"text": " Something to do with this inflation."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:19,060",
+				"to": "00:44:21,680"
+			},
+			"offsets": {
+				"from": 2659060,
+				"to": 2661680
+			},
+			"text": " Somebody do something about this inflation."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:21,680",
+				"to": "00:44:21,940"
+			},
+			"offsets": {
+				"from": 2661680,
+				"to": 2661940
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:21,980",
+				"to": "00:44:22,520"
+			},
+			"offsets": {
+				"from": 2661980,
+				"to": 2662520
+			},
+			"text": " We pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:22,520",
+				"to": "00:44:22,560"
+			},
+			"offsets": {
+				"from": 2662520,
+				"to": 2662560
+			},
+			"text": " We pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:22,560",
+				"to": "00:44:27,000"
+			},
+			"offsets": {
+				"from": 2662560,
+				"to": 2667000
+			},
+			"text": " And what do we do if nothing changes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,000",
+				"to": "00:44:33,260"
+			},
+			"offsets": {
+				"from": 2667000,
+				"to": 2673260
+			},
+			"text": " We rejoice as an act of defiant faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,900",
+				"to": "00:44:46,780"
+			},
+			"offsets": {
+				"from": 2675900,
+				"to": 2686780
+			},
+			"text": " Father in heaven, we thank you that you invite us to be honest with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:46,780",
+				"to": "00:44:49,580"
+			},
+			"offsets": {
+				"from": 2686780,
+				"to": 2689580
+			},
+			"text": " Read the Psalms over and over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:50,320",
+				"to": "00:44:58,100"
+			},
+			"offsets": {
+				"from": 2690320,
+				"to": 2698100
+			},
+			"text": " People of God come into your presence with honesty about the brokenness of the world that they live in,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:58,100",
+				"to": "00:45:00,420"
+			},
+			"offsets": {
+				"from": 2698100,
+				"to": 2700420
+			},
+			"text": " about the negative experiences that they're facing."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:00,420",
+				"to": "00:45:02,540"
+			},
+			"offsets": {
+				"from": 2700420,
+				"to": 2702540
+			},
+			"text": " And yet somehow in the midst of all of that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,540",
+				"to": "00:45:10,440"
+			},
+			"offsets": {
+				"from": 2702540,
+				"to": 2710440
+			},
+			"text": " they find inside of them the defiant faith to rejoice in the midst of the broken circumstances of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,980",
+				"to": "00:45:17,740"
+			},
+			"offsets": {
+				"from": 2711980,
+				"to": 2717740
+			},
+			"text": " That's rooted in the character of God, goodness of God, the faithfulness of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:17,740",
+				"to": "00:45:25,720"
+			},
+			"offsets": {
+				"from": 2717740,
+				"to": 2725720
+			},
+			"text": " May we be a people who embody genuine joy that is not shaken by external circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:25,720",
+				"to": "00:45:33,440"
+			},
+			"offsets": {
+				"from": 2725720,
+				"to": 2733440
+			},
+			"text": " Not because we pretend like they don't exist, but because we acknowledge them in truth, God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:33,440",
+				"to": "00:45:39,260"
+			},
+			"offsets": {
+				"from": 2733440,
+				"to": 2739260
+			},
+			"text": " that you know that life is not as it should be and that you are in the process of restoring and renewing."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:39,260",
+				"to": "00:45:41,720"
+			},
+			"offsets": {
+				"from": 2739260,
+				"to": 2741720
+			},
+			"text": " And you will return and all things will be made right."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:42,820",
+				"to": "00:45:46,100"
+			},
+			"offsets": {
+				"from": 2742820,
+				"to": 2746100
+			},
+			"text": " God, may we be a people that embody authentic joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:46,100",
+				"to": "00:45:58,220"
+			},
+			"offsets": {
+				"from": 2746100,
+				"to": 2758220
+			},
+			"text": " And may that be like a light set up on a hilltop for others to see."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:58,220",
+				"to": "00:46:03,500"
+			},
+			"offsets": {
+				"from": 2758220,
+				"to": 2763500
+			},
+			"text": " May you bring about your kingdom purposes on earth as it is in heaven through our obedience."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:03,500",
+				"to": "00:46:06,620"
+			},
+			"offsets": {
+				"from": 2763500,
+				"to": 2766620
+			},
+			"text": " For your glory, for the good of our neighbor."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:06,620",
+				"to": "00:46:08,300"
+			},
+			"offsets": {
+				"from": 2766620,
+				"to": 2768300
+			},
+			"text": " In Jesus' name I pray."
+		}
+	]
+}

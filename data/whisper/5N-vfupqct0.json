@@ -1,0 +1,6247 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:29,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 29980
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 59980
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 65000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:10,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 70000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,000",
+				"to": "00:01:15,000"
+			},
+			"offsets": {
+				"from": 70000,
+				"to": 75000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,000",
+				"to": "00:01:20,000"
+			},
+			"offsets": {
+				"from": 75000,
+				"to": 80000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,000",
+				"to": "00:01:45,000"
+			},
+			"offsets": {
+				"from": 80000,
+				"to": 105000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,000",
+				"to": "00:01:46,000"
+			},
+			"offsets": {
+				"from": 105000,
+				"to": 106000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 106000,
+				"to": 111000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:56,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 116000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,000",
+				"to": "00:02:01,000"
+			},
+			"offsets": {
+				"from": 116000,
+				"to": 121000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,000",
+				"to": "00:02:06,000"
+			},
+			"offsets": {
+				"from": 121000,
+				"to": 126000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:07,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 127000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,000",
+				"to": "00:02:12,000"
+			},
+			"offsets": {
+				"from": 127000,
+				"to": 132000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,000",
+				"to": "00:02:17,000"
+			},
+			"offsets": {
+				"from": 132000,
+				"to": 137000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,000",
+				"to": "00:02:22,000"
+			},
+			"offsets": {
+				"from": 137000,
+				"to": 142000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:27,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 147000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,000",
+				"to": "00:02:28,000"
+			},
+			"offsets": {
+				"from": 147000,
+				"to": 148000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 148000,
+				"to": 153000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 153000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 153000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:34,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 154000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,000",
+				"to": "00:02:35,000"
+			},
+			"offsets": {
+				"from": 154000,
+				"to": 155000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,000",
+				"to": "00:02:40,000"
+			},
+			"offsets": {
+				"from": 155000,
+				"to": 160000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,000",
+				"to": "00:02:40,000"
+			},
+			"offsets": {
+				"from": 160000,
+				"to": 160000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 160000,
+				"to": 165000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 165000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 165000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 170000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:51,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 171000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,000",
+				"to": "00:02:55,000"
+			},
+			"offsets": {
+				"from": 171000,
+				"to": 175000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,000",
+				"to": "00:02:55,000"
+			},
+			"offsets": {
+				"from": 175000,
+				"to": 175000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 175000,
+				"to": 180000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 180000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 180000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:01,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 181000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,000",
+				"to": "00:03:03,460"
+			},
+			"offsets": {
+				"from": 181000,
+				"to": 183460
+			},
+			"text": " visible on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,460",
+				"to": "00:03:11,300"
+			},
+			"offsets": {
+				"from": 183460,
+				"to": 191300
+			},
+			"text": " There's a recommended reading in your bulletin, thank you, by N.T. Wright,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,300",
+				"to": "00:03:17,740"
+			},
+			"offsets": {
+				"from": 191300,
+				"to": 197740
+			},
+			"text": " and the language he uses is that the church is intended to be the small working model of new creation on earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,740",
+				"to": "00:03:25,660"
+			},
+			"offsets": {
+				"from": 197740,
+				"to": 205660
+			},
+			"text": " That our identity is to live out the values of the kingdom of God on earth as it is in heaven until he returns."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,620",
+				"to": "00:03:32,540"
+			},
+			"offsets": {
+				"from": 206620,
+				"to": 212540
+			},
+			"text": " Last week, Kent said that many pastors and theologians separate the book kind of by theology and application."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,540",
+				"to": "00:03:36,820"
+			},
+			"offsets": {
+				"from": 212540,
+				"to": 216820
+			},
+			"text": " Chapters one through three being theology and four through six being application."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,820",
+				"to": "00:03:39,940"
+			},
+			"offsets": {
+				"from": 216820,
+				"to": 219940
+			},
+			"text": " But I really prefer Kent's language of identity and implications."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,940",
+				"to": "00:03:44,700"
+			},
+			"offsets": {
+				"from": 219940,
+				"to": 224700
+			},
+			"text": " If we, one through three really is who God has made us as the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,700",
+				"to": "00:03:52,600"
+			},
+			"offsets": {
+				"from": 224700,
+				"to": 232600
+			},
+			"text": " And if we understand that that is our identity, it will impact the way that we live in chapters four through six."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,680",
+				"to": "00:03:58,180"
+			},
+			"offsets": {
+				"from": 232680,
+				"to": 238180
+			},
+			"text": " But oftentimes when we just like, when we think about it as theology, we fill our mind with all the right information."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,180",
+				"to": "00:04:05,780"
+			},
+			"offsets": {
+				"from": 238180,
+				"to": 245780
+			},
+			"text": " And then we get to the application and it becomes a gospel of sin management rather than a gospel of transformation by the power of the Holy Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,400",
+				"to": "00:04:20,240"
+			},
+			"offsets": {
+				"from": 246400,
+				"to": 260240
+			},
+			"text": " And so just really want us to focus on, in the first three chapters specifically, what our identity is as the church and how we should live in light of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,240",
+				"to": "00:04:25,840"
+			},
+			"offsets": {
+				"from": 260240,
+				"to": 265840
+			},
+			"text": " We read a portion of it at the end of, at the part of worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,840",
+				"to": "00:04:31,680"
+			},
+			"offsets": {
+				"from": 265840,
+				"to": 271680
+			},
+			"text": " And my mother, I love her so much as we were talking about all this unity and Jews and Gentiles being made one."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,740",
+				"to": "00:04:34,480"
+			},
+			"offsets": {
+				"from": 271740,
+				"to": 274480
+			},
+			"text": " My mom said, if only, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,480",
+				"to": "00:04:42,260"
+			},
+			"offsets": {
+				"from": 274480,
+				"to": 282260
+			},
+			"text": " And I think many of us feel that tension in the room, but there's something about the language here that we are becoming this, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,260",
+				"to": "00:04:44,700"
+			},
+			"offsets": {
+				"from": 282260,
+				"to": 284700
+			},
+			"text": " Identity is something that is a process."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,700",
+				"to": "00:04:51,180"
+			},
+			"offsets": {
+				"from": 284700,
+				"to": 291180
+			},
+			"text": " We are becoming this group of people where there is no longer hostility between us, but that we are united in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,680",
+				"to": "00:04:58,440"
+			},
+			"offsets": {
+				"from": 291680,
+				"to": 298440
+			},
+			"text": " So today I'm going to attempt to cover Ephesians chapter 2, which if you grew up in the church, you're probably very familiar with."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,440",
+				"to": "00:05:03,280"
+			},
+			"offsets": {
+				"from": 298440,
+				"to": 303280
+			},
+			"text": " And I am probably going to cover it from a slightly different perspective than you have heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,280",
+				"to": "00:05:05,060"
+			},
+			"offsets": {
+				"from": 303280,
+				"to": 305060
+			},
+			"text": " Shocker, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,060",
+				"to": "00:05:09,440"
+			},
+			"offsets": {
+				"from": 305060,
+				"to": 309440
+			},
+			"text": " You guys come here because you love hearing us say, this is what you heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,440",
+				"to": "00:05:11,320"
+			},
+			"offsets": {
+				"from": 309440,
+				"to": 311320
+			},
+			"text": " And it's like 80% right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,320",
+				"to": "00:05:15,240"
+			},
+			"offsets": {
+				"from": 311320,
+				"to": 315240
+			},
+			"text": " That sounds really arrogant when it comes out of my mouth."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,700",
+				"to": "00:05:18,660"
+			},
+			"offsets": {
+				"from": 317700,
+				"to": 318660
+			},
+			"text": " Yeah, we're not."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,660",
+				"to": "00:05:19,360"
+			},
+			"offsets": {
+				"from": 318660,
+				"to": 319360
+			},
+			"text": " We're not."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,360",
+				"to": "00:05:19,660"
+			},
+			"offsets": {
+				"from": 319360,
+				"to": 319660
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,660",
+				"to": "00:05:22,040"
+			},
+			"offsets": {
+				"from": 319660,
+				"to": 322040
+			},
+			"text": " Anyway, that, take, rewind it back."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,040",
+				"to": "00:05:23,760"
+			},
+			"offsets": {
+				"from": 322040,
+				"to": 323760
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,760",
+				"to": "00:05:26,500"
+			},
+			"offsets": {
+				"from": 323760,
+				"to": 326500
+			},
+			"text": " So I'm going to attempt to cover it from a different perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,500",
+				"to": "00:05:27,520"
+			},
+			"offsets": {
+				"from": 326500,
+				"to": 327520
+			},
+			"text": " So I need your prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,520",
+				"to": "00:05:30,580"
+			},
+			"offsets": {
+				"from": 327520,
+				"to": 330580
+			},
+			"text": " Pray for me as I pray for us together."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,100",
+				"to": "00:05:50,760"
+			},
+			"offsets": {
+				"from": 332100,
+				"to": 350760
+			},
+			"text": " Father in heaven, gracious, kind, merciful heavenly father, we give you thanks for this opportunity to gaze on the beauty of the scriptures that you have preserved for us to teach us about what our identity is."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,760",
+				"to": "00:05:54,100"
+			},
+			"offsets": {
+				"from": 350760,
+				"to": 354100
+			},
+			"text": " God, it's a passage that is familiar for many of us."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,100",
+				"to": "00:05:59,460"
+			},
+			"offsets": {
+				"from": 354100,
+				"to": 359460
+			},
+			"text": " And so I pray that that familiarity would not keep us from seeing what you want us to see this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,720",
+				"to": "00:06:11,060"
+			},
+			"offsets": {
+				"from": 360720,
+				"to": 371060
+			},
+			"text": " I pray that by the power of your Holy Spirit, we would see that our identity is far more than often we realize."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,060",
+				"to": "00:06:18,600"
+			},
+			"offsets": {
+				"from": 371060,
+				"to": 378600
+			},
+			"text": " And that we have been raised above the powers and principalities of the air that rule the systems of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,600",
+				"to": "00:06:24,560"
+			},
+			"offsets": {
+				"from": 378600,
+				"to": 384560
+			},
+			"text": " And we have been invited to live in this world as if we are citizens of another."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,560",
+				"to": "00:06:31,620"
+			},
+			"offsets": {
+				"from": 386560,
+				"to": 391620
+			},
+			"text": " God, that is not theological language that has no practical ramifications."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,620",
+				"to": "00:06:38,980"
+			},
+			"offsets": {
+				"from": 391620,
+				"to": 398980
+			},
+			"text": " It is identity language that changes the way we interact with everything on this earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,980",
+				"to": "00:06:43,740"
+			},
+			"offsets": {
+				"from": 398980,
+				"to": 403740
+			},
+			"text": " God, help us to see that and believe it and live into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,740",
+				"to": "00:06:45,540"
+			},
+			"offsets": {
+				"from": 403740,
+				"to": 405540
+			},
+			"text": " In Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,540",
+				"to": "00:06:46,440"
+			},
+			"offsets": {
+				"from": 405540,
+				"to": 406440
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,920",
+				"to": "00:06:50,100"
+			},
+			"offsets": {
+				"from": 408920,
+				"to": 410100
+			},
+			"text": " I brought a tricycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,100",
+				"to": "00:06:51,800"
+			},
+			"offsets": {
+				"from": 410100,
+				"to": 411800
+			},
+			"text": " This is Rory's tricycle."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,800",
+				"to": "00:06:54,520"
+			},
+			"offsets": {
+				"from": 411800,
+				"to": 414520
+			},
+			"text": " My two, soon to be three-year-old."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,520",
+				"to": "00:06:56,000"
+			},
+			"offsets": {
+				"from": 414520,
+				"to": 416000
+			},
+			"text": " I was going to attempt to ride it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,000",
+				"to": "00:06:59,560"
+			},
+			"offsets": {
+				"from": 416000,
+				"to": 419560
+			},
+			"text": " I did one test before service started."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,560",
+				"to": "00:07:00,540"
+			},
+			"offsets": {
+				"from": 419560,
+				"to": 420540
+			},
+			"text": " It's not going to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,540",
+				"to": "00:07:03,880"
+			},
+			"offsets": {
+				"from": 420540,
+				"to": 423880
+			},
+			"text": " So, no, don't try again, Deb."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,880",
+				"to": "00:07:04,920"
+			},
+			"offsets": {
+				"from": 423880,
+				"to": 424920
+			},
+			"text": " Don't get behind me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,920",
+				"to": "00:07:08,680"
+			},
+			"offsets": {
+				"from": 424920,
+				"to": 428680
+			},
+			"text": " Debbie, get behind me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,460",
+				"to": "00:07:19,620"
+			},
+			"offsets": {
+				"from": 431460,
+				"to": 439620
+			},
+			"text": " So, Rory is kind of beginning to learn what it means to ride a tricycle, which eventually will be the point where he rides a bike."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,620",
+				"to": "00:07:24,000"
+			},
+			"offsets": {
+				"from": 439620,
+				"to": 444000
+			},
+			"text": " And then he will kind of have the identity of being a bike rider."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,000",
+				"to": "00:07:26,280"
+			},
+			"offsets": {
+				"from": 444000,
+				"to": 446280
+			},
+			"text": " That's ultimately his goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,280",
+				"to": "00:07:26,920"
+			},
+			"offsets": {
+				"from": 446280,
+				"to": 446920
+			},
+			"text": " That's my goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,920",
+				"to": "00:07:29,240"
+			},
+			"offsets": {
+				"from": 446920,
+				"to": 449240
+			},
+			"text": " I want him to be the type of person that rides bikes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,760",
+				"to": "00:07:36,380"
+			},
+			"offsets": {
+				"from": 449760,
+				"to": 456380
+			},
+			"text": " But right now, there's kind of two elements to being the type of person that rides a bike."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,380",
+				"to": "00:07:39,680"
+			},
+			"offsets": {
+				"from": 456380,
+				"to": 459680
+			},
+			"text": " And Rory understands both of those elements."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,680",
+				"to": "00:07:44,700"
+			},
+			"offsets": {
+				"from": 459680,
+				"to": 464700
+			},
+			"text": " But his brain cannot understand both of those elements at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,700",
+				"to": "00:07:47,200"
+			},
+			"offsets": {
+				"from": 464700,
+				"to": 467200
+			},
+			"text": " So, there is the element of steering."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,200",
+				"to": "00:07:50,060"
+			},
+			"offsets": {
+				"from": 467200,
+				"to": 470060
+			},
+			"text": " And there is the element of pedaling."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,060",
+				"to": "00:07:52,140"
+			},
+			"offsets": {
+				"from": 470060,
+				"to": 472140
+			},
+			"text": " And Rory understands both elements."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,140",
+				"to": "00:07:55,320"
+			},
+			"offsets": {
+				"from": 472140,
+				"to": 475320
+			},
+			"text": " Not at the same time."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,740",
+				"to": "00:07:58,740"
+			},
+			"offsets": {
+				"from": 475740,
+				"to": 478740
+			},
+			"text": " If he focuses on steering, his feet stop moving."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,740",
+				"to": "00:08:02,700"
+			},
+			"offsets": {
+				"from": 478740,
+				"to": 482700
+			},
+			"text": " And then he gets frustrated because the bike isn't moving and he's not going anywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,700",
+				"to": "00:08:08,680"
+			},
+			"offsets": {
+				"from": 482700,
+				"to": 488680
+			},
+			"text": " And then, you know, when you crank this thing this way and it's not moving and you're sitting here, it doesn't end well."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,680",
+				"to": "00:08:09,000"
+			},
+			"offsets": {
+				"from": 488680,
+				"to": 489000
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,000",
+				"to": "00:08:09,840"
+			},
+			"offsets": {
+				"from": 489000,
+				"to": 489840
+			},
+			"text": " It's a little frustrating."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,840",
+				"to": "00:08:15,440"
+			},
+			"offsets": {
+				"from": 489840,
+				"to": 495440
+			},
+			"text": " And then sometimes he gets so focused on pedaling that he forgets to look up."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,440",
+				"to": "00:08:20,020"
+			},
+			"offsets": {
+				"from": 495440,
+				"to": 500020
+			},
+			"text": " He typically looks down with the concentrated toddler face, tongue out, you know, thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,020",
+				"to": "00:08:24,960"
+			},
+			"offsets": {
+				"from": 500020,
+				"to": 504960
+			},
+			"text": " And he runs into things, which is also very frustrating."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,580",
+				"to": "00:08:32,360"
+			},
+			"offsets": {
+				"from": 505580,
+				"to": 512360
+			},
+			"text": " Both of these elements are equally necessary to being a type of person who can claim the identity of a bike rider."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,360",
+				"to": "00:08:39,180"
+			},
+			"offsets": {
+				"from": 512360,
+				"to": 519180
+			},
+			"text": " And I think what we're going to see in Ephesians chapter 2, this would have been a much better illustration if I was riding the bike around."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,180",
+				"to": "00:08:43,100"
+			},
+			"offsets": {
+				"from": 519180,
+				"to": 523100
+			},
+			"text": " But you just get to look at it instead because I don't want to die."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,140",
+				"to": "00:08:49,940"
+			},
+			"offsets": {
+				"from": 525140,
+				"to": 529940
+			},
+			"text": " The same is true for our identity as followers of Christ, as members of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,940",
+				"to": "00:08:58,980"
+			},
+			"offsets": {
+				"from": 529940,
+				"to": 538980
+			},
+			"text": " In Ephesians chapter 2, we're going to see two distinct categories or two distinct implications or two distinct identity markers of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,980",
+				"to": "00:09:03,340"
+			},
+			"offsets": {
+				"from": 538980,
+				"to": 543340
+			},
+			"text": " One is vertical between us, what salvation has done for us and God."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,340",
+				"to": "00:09:07,060"
+			},
+			"offsets": {
+				"from": 543340,
+				"to": 547060
+			},
+			"text": " And one is horizontal, what salvation has done for us and one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,060",
+				"to": "00:09:13,460"
+			},
+			"offsets": {
+				"from": 547060,
+				"to": 553460
+			},
+			"text": " And typically what I think the church has done in the past is we've separated the one out from salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,840",
+				"to": "00:09:19,580"
+			},
+			"offsets": {
+				"from": 553840,
+				"to": 559580
+			},
+			"text": " We've so focused on the vertical aspect of what God has done for us in relationship to himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,580",
+				"to": "00:09:25,840"
+			},
+			"offsets": {
+				"from": 559580,
+				"to": 565840
+			},
+			"text": " And we've made the horizontal part of salvation just like an application, an implication of what is true."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:25,840",
+				"to": "00:09:36,680"
+			},
+			"offsets": {
+				"from": 565840,
+				"to": 576680
+			},
+			"text": " But if you read Ephesians 2 the way that I think Paul wants us to read Ephesians 2, we will see that salvation, salvation from God has vertical and horizontal identity markers."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,680",
+				"to": "00:09:43,740"
+			},
+			"offsets": {
+				"from": 576680,
+				"to": 583740
+			},
+			"text": " And that is not a practical application that we get around to once we figure out what it means for us to be saved by God."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,740",
+				"to": "00:09:45,860"
+			},
+			"offsets": {
+				"from": 583740,
+				"to": 585860
+			},
+			"text": " It is the whole picture."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,860",
+				"to": "00:09:52,940"
+			},
+			"offsets": {
+				"from": 585860,
+				"to": 592940
+			},
+			"text": " We have to have both as our identity markers if we are going to faithfully live into who God has made us to be in the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,940",
+				"to": "00:10:00,320"
+			},
+			"offsets": {
+				"from": 592940,
+				"to": 600320
+			},
+			"text": " Okay, you guys aren't tracking with me yet, but hopefully I will make the argument and you will agree with me by the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,320",
+				"to": "00:10:02,620"
+			},
+			"offsets": {
+				"from": 600320,
+				"to": 602620
+			},
+			"text": " And if not, I will apologize to you next week, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,620",
+				"to": "00:10:04,560"
+			},
+			"offsets": {
+				"from": 602620,
+				"to": 604560
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,960",
+				"to": "00:10:19,120"
+			},
+			"offsets": {
+				"from": 605960,
+				"to": 619120
+			},
+			"text": " Now, what I want us to remember as we get into Ephesians 2 is that this whole section is bracketed in chapters 1, 18, and 19, and 3, 20, and 21 with the key word power."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,120",
+				"to": "00:10:29,740"
+			},
+			"offsets": {
+				"from": 619120,
+				"to": 629740
+			},
+			"text": " And everything that we talk about when we talk about the identity that we have received as the church, we have to remember that it is a gift from God through his power."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,740",
+				"to": "00:10:31,420"
+			},
+			"offsets": {
+				"from": 629740,
+				"to": 631420
+			},
+			"text": " This is not something that we achieve."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,420",
+				"to": "00:10:33,000"
+			},
+			"offsets": {
+				"from": 631420,
+				"to": 633000
+			},
+			"text": " It's not something that we accomplish."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,000",
+				"to": "00:10:35,240"
+			},
+			"offsets": {
+				"from": 633000,
+				"to": 635240
+			},
+			"text": " It's not something that we work ourselves into."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,240",
+				"to": "00:10:39,420"
+			},
+			"offsets": {
+				"from": 635240,
+				"to": 639420
+			},
+			"text": " It is a gift from God by the power of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,420",
+				"to": "00:10:41,240"
+			},
+			"offsets": {
+				"from": 639420,
+				"to": 641240
+			},
+			"text": " Everybody look at your neighbor and say power."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:41,240",
+				"to": "00:10:43,680"
+			},
+			"offsets": {
+				"from": 641240,
+				"to": 643680
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,680",
+				"to": "00:10:45,400"
+			},
+			"offsets": {
+				"from": 643680,
+				"to": 645400
+			},
+			"text": " Ephesians chapter 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,400",
+				"to": "00:10:46,380"
+			},
+			"offsets": {
+				"from": 645400,
+				"to": 646380
+			},
+			"text": " Look at this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,380",
+				"to": "00:10:48,300"
+			},
+			"offsets": {
+				"from": 646380,
+				"to": 648300
+			},
+			"text": " Ephesians chapter 1, verses 18 and 19."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,400",
+				"to": "00:11:06,140"
+			},
+			"offsets": {
+				"from": 648400,
+				"to": 666140
+			},
+			"text": " Paul prays that the eyes of your heart may be enlightened in order that you may know the hope that which you are called, that you may know your identity as the church, the riches of his glorious inheritance in his holy people, and his incomparably great power for us who believe."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,140",
+				"to": "00:11:13,140"
+			},
+			"offsets": {
+				"from": 666140,
+				"to": 673140
+			},
+			"text": " All of these things that we are working through is a gift from God through his power."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,140",
+				"to": "00:11:15,700"
+			},
+			"offsets": {
+				"from": 673140,
+				"to": 675700
+			},
+			"text": " It ends in chapter 3, verses 20 and 21."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,700",
+				"to": "00:11:16,800"
+			},
+			"offsets": {
+				"from": 675700,
+				"to": 676800
+			},
+			"text": " He ends with another prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,800",
+				"to": "00:11:24,800"
+			},
+			"offsets": {
+				"from": 676800,
+				"to": 684800
+			},
+			"text": " Now to him who is able to do immeasurably more than all we ask or imagine according to his power that is at work within us."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,800",
+				"to": "00:11:34,220"
+			},
+			"offsets": {
+				"from": 684800,
+				"to": 694220
+			},
+			"text": " It is God's power working through us that forms us into the type of church that lives the values of the kingdom of heaven on earth until he returns."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,280",
+				"to": "00:11:37,080"
+			},
+			"offsets": {
+				"from": 695280,
+				"to": 697080
+			},
+			"text": " So it's all about God's power."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,080",
+				"to": "00:11:42,420"
+			},
+			"offsets": {
+				"from": 697080,
+				"to": 702420
+			},
+			"text": " It's an identity that we as followers of Jesus are given by God's power."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,420",
+				"to": "00:11:47,960"
+			},
+			"offsets": {
+				"from": 702420,
+				"to": 707960
+			},
+			"text": " It's an identity that has two clear aspects, both a vertical and a horizontal."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,960",
+				"to": "00:11:56,680"
+			},
+			"offsets": {
+				"from": 707960,
+				"to": 716680
+			},
+			"text": " And we can't, if we focus on one over the other, we will not be the type of people that embody the kingdom of heaven on earth until Jesus returns."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,680",
+				"to": "00:11:58,440"
+			},
+			"offsets": {
+				"from": 716680,
+				"to": 718440
+			},
+			"text": " The same thing with Rory."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,440",
+				"to": "00:12:00,940"
+			},
+			"offsets": {
+				"from": 718440,
+				"to": 720940
+			},
+			"text": " He's never going to ride a bike if he can only steer or pedal."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,940",
+				"to": "00:12:03,260"
+			},
+			"offsets": {
+				"from": 720940,
+				"to": 723260
+			},
+			"text": " He has to be able to do both in order to be a bike rider."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:03,400",
+				"to": "00:12:14,140"
+			},
+			"offsets": {
+				"from": 723400,
+				"to": 734140
+			},
+			"text": " We as the church have to understand our identity as being vertically redeemed by God and horizontally reconciled to one another if we are going to embody the kingdom of heaven on earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,140",
+				"to": "00:12:15,640"
+			},
+			"offsets": {
+				"from": 734140,
+				"to": 735640
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,640",
+				"to": "00:12:21,660"
+			},
+			"offsets": {
+				"from": 735640,
+				"to": 741660
+			},
+			"text": " Let's take a look first at the vertical aspect of our identity as the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,660",
+				"to": "00:12:26,400"
+			},
+			"offsets": {
+				"from": 741660,
+				"to": 746400
+			},
+			"text": " Now I want to, again, okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,540",
+				"to": "00:12:38,700"
+			},
+			"offsets": {
+				"from": 747540,
+				"to": 758700
+			},
+			"text": " When we read the Bible, oftentimes many of us who have been heavily influenced by the evangelical traditions, we often read the Bible as if it was written to us as individuals."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,700",
+				"to": "00:12:43,720"
+			},
+			"offsets": {
+				"from": 758700,
+				"to": 763720
+			},
+			"text": " And sometimes it's hard to tell because it's translated from the Greek into the English."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,720",
+				"to": "00:12:44,560"
+			},
+			"offsets": {
+				"from": 763720,
+				"to": 764560
+			},
+			"text": " I understand this."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,620",
+				"to": "00:12:51,760"
+			},
+			"offsets": {
+				"from": 764620,
+				"to": 771760
+			},
+			"text": " But as we read chapter two, these pronouns that we're going to read that look singular are plural."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,760",
+				"to": "00:13:04,940"
+			},
+			"offsets": {
+				"from": 771760,
+				"to": 784940
+			},
+			"text": " And now that we've had the privilege through Kent's seminar series, the Deep Well series the past two summers, I've actually, I could call two members of the NIV Translation Committee friends."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,580",
+				"to": "00:13:14,680"
+			},
+			"offsets": {
+				"from": 785580,
+				"to": 794680
+			},
+			"text": " And I think I really want to, like, have a conversation with them about reintroducing the term y'all into the NIV translation because it's really helpful, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,100",
+				"to": "00:13:19,180"
+			},
+			"offsets": {
+				"from": 795100,
+				"to": 799180
+			},
+			"text": " Like, those of you that are from the South, like, yeah, absolutely."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,180",
+				"to": "00:13:23,700"
+			},
+			"offsets": {
+				"from": 799180,
+				"to": 803700
+			},
+			"text": " Like, this passage is y'all have been saved by grace through faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,700",
+				"to": "00:13:25,400"
+			},
+			"offsets": {
+				"from": 803700,
+				"to": 805400
+			},
+			"text": " It is not me, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,400",
+				"to": "00:13:26,280"
+			},
+			"offsets": {
+				"from": 805400,
+				"to": 806280
+			},
+			"text": " And that's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,280",
+				"to": "00:13:29,480"
+			},
+			"offsets": {
+				"from": 806280,
+				"to": 809480
+			},
+			"text": " It has individual implications, but it is a plural passage."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,480",
+				"to": "00:13:42,700"
+			},
+			"offsets": {
+				"from": 809480,
+				"to": 822700
+			},
+			"text": " And so as we read it, as we think about the identity of the church, and the reason the horizontal part, I think, has lost some of its implications in the American church is because we've made these passages of Scripture so much more individual than they are intended to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,480",
+				"to": "00:13:54,660"
+			},
+			"offsets": {
+				"from": 823480,
+				"to": 834660
+			},
+			"text": " And so we can just think about our salvation with God, and we don't have to think about how it impacts our relationship with other people until later on down the road, and it sets us back in some big ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,660",
+				"to": "00:13:57,420"
+			},
+			"offsets": {
+				"from": 834660,
+				"to": 837420
+			},
+			"text": " All right, Ephesians chapter 2, starting in verse 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,420",
+				"to": "00:14:12,020"
+			},
+			"offsets": {
+				"from": 837420,
+				"to": 852020
+			},
+			"text": " As for you all, and as Kent pointed out last week, this you here actually is specific to Gentiles, which probably us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,080",
+				"to": "00:14:13,640"
+			},
+			"offsets": {
+				"from": 852080,
+				"to": 853640
+			},
+			"text": " He switches between you and we."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,640",
+				"to": "00:14:17,740"
+			},
+			"offsets": {
+				"from": 853640,
+				"to": 857740
+			},
+			"text": " He's talking about Gentiles and Jews, and that's an important part of this passage, as we're going to see."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,740",
+				"to": "00:14:31,260"
+			},
+			"offsets": {
+				"from": 857740,
+				"to": 871260
+			},
+			"text": " As for you all, Gentiles, you were dead in your transgressions and sins in which you used to live when you followed the ways of this world, under the rulers of the kingdom of the air, the Spirit who is now at work, and those who are disobedient."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,260",
+				"to": "00:14:42,420"
+			},
+			"offsets": {
+				"from": 873260,
+				"to": 882420
+			},
+			"text": " All of us, all of us, now he includes the Jews in this passage, all of us lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,420",
+				"to": "00:14:54,680"
+			},
+			"offsets": {
+				"from": 882420,
+				"to": 894680
+			},
+			"text": " So we see this distinction between Jew and Gentile, and yet the ultimate conclusion is the same."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,680",
+				"to": "00:15:00,840"
+			},
+			"offsets": {
+				"from": 894680,
+				"to": 900840
+			},
+			"text": " They were both deserving of God's wrath, both separated from a right relationship with God."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,940",
+				"to": "00:15:09,700"
+			},
+			"offsets": {
+				"from": 900940,
+				"to": 909700
+			},
+			"text": " And so how I've defined this first aspect of our identity, this vertical aspect, is I would call it the culmination of God's redemption plan for the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:09,700",
+				"to": "00:15:16,660"
+			},
+			"offsets": {
+				"from": 909700,
+				"to": 916660
+			},
+			"text": " This is what we're going to see in Ephesians chapter 2, verses 1 through 10, is the culmination of God's redemption plan for the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,720",
+				"to": "00:15:25,360"
+			},
+			"offsets": {
+				"from": 916720,
+				"to": 925360
+			},
+			"text": " Now, there is a really simple way for me to summarize what we just read in verses 1 through 3, and it's probably the way that you have heard it taught in the past."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,360",
+				"to": "00:15:30,080"
+			},
+			"offsets": {
+				"from": 925360,
+				"to": 930080
+			},
+			"text": " Gentiles, you're sinners and you need Jesus for salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,080",
+				"to": "00:15:34,060"
+			},
+			"offsets": {
+				"from": 930080,
+				"to": 934060
+			},
+			"text": " Jews, also sinners, you need Jesus for salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,060",
+				"to": "00:15:37,820"
+			},
+			"offsets": {
+				"from": 934060,
+				"to": 937820
+			},
+			"text": " What Paul is doing here in three verses, he does in three chapters in Romans."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,280",
+				"to": "00:15:45,780"
+			},
+			"offsets": {
+				"from": 938280,
+				"to": 945780
+			},
+			"text": " So there's a lot more nuance and context to his argument, but he really, he's saying, Jews, sinners, need Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,780",
+				"to": "00:15:47,740"
+			},
+			"offsets": {
+				"from": 945780,
+				"to": 947740
+			},
+			"text": " Gentiles, sinners, need Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,740",
+				"to": "00:15:53,500"
+			},
+			"offsets": {
+				"from": 947740,
+				"to": 953500
+			},
+			"text": " We could move on, but I think this is an oversimplification of what Paul is trying to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,500",
+				"to": "00:16:08,660"
+			},
+			"offsets": {
+				"from": 953500,
+				"to": 968660
+			},
+			"text": " And I think it allows us to disconnect the new covenant, the salvation that we receive from Jesus, from the old covenant, and Yahweh's intentional relationship with Israel to be a blessing to the rest of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,660",
+				"to": "00:16:14,400"
+			},
+			"offsets": {
+				"from": 968660,
+				"to": 974400
+			},
+			"text": " So I want to try and tease this out quickly, and I hope that it makes sense and adds some depth to our understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,280",
+				"to": "00:16:27,460"
+			},
+			"offsets": {
+				"from": 975280,
+				"to": 987460
+			},
+			"text": " So, first, Gentiles, they have, this is an entire category of people that have multiple different ethnicities and backgrounds and all kinds of things."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,460",
+				"to": "00:16:32,640"
+			},
+			"offsets": {
+				"from": 987460,
+				"to": 992640
+			},
+			"text": " They've all, this whole category of people, Gentiles, have totally rejected Yahweh as God."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,640",
+				"to": "00:16:38,740"
+			},
+			"offsets": {
+				"from": 992640,
+				"to": 998740
+			},
+			"text": " They have set up for themselves governments and nations according to the values of the systems of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,840",
+				"to": "00:16:46,700"
+			},
+			"offsets": {
+				"from": 998840,
+				"to": 1006700
+			},
+			"text": " They are doing everything they can to leverage the resources they have to be a better nation than the neighboring nation next to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,700",
+				"to": "00:16:52,600"
+			},
+			"offsets": {
+				"from": 1006700,
+				"to": 1012600
+			},
+			"text": " And they are trying to gather as many resources and provide as much as they possibly can for their people."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:52,600",
+				"to": "00:16:56,120"
+			},
+			"offsets": {
+				"from": 1012600,
+				"to": 1016120
+			},
+			"text": " And they are fighting and warring against one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,120",
+				"to": "00:17:04,140"
+			},
+			"offsets": {
+				"from": 1016120,
+				"to": 1024140
+			},
+			"text": " And while they are doing this, they are under the demonic influence of what Paul calls the powers and the principalities at work to destroy God's good world."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:04,640",
+				"to": "00:17:11,920"
+			},
+			"offsets": {
+				"from": 1024640,
+				"to": 1031920
+			},
+			"text": " Satan wants us to be separated into different categories of people and view each other as enemies to our life and to our flourishing."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,920",
+				"to": "00:17:17,920"
+			},
+			"offsets": {
+				"from": 1031920,
+				"to": 1037920
+			},
+			"text": " And the Gentiles are participating in this system, and they are worshiping idols."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,920",
+				"to": "00:17:20,820"
+			},
+			"offsets": {
+				"from": 1037920,
+				"to": 1040820
+			},
+			"text": " They have rejected God, and they are worshiping idols."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,820",
+				"to": "00:17:24,820"
+			},
+			"offsets": {
+				"from": 1040820,
+				"to": 1044820
+			},
+			"text": " And these idols are demanding idols that want things from them."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,820",
+				"to": "00:17:27,620"
+			},
+			"offsets": {
+				"from": 1044820,
+				"to": 1047620
+			},
+			"text": " They have no sense of security, no sense of value."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,620",
+				"to": "00:17:30,520"
+			},
+			"offsets": {
+				"from": 1047620,
+				"to": 1050520
+			},
+			"text": " They don't see their gods as loving them or wanting good for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,520",
+				"to": "00:17:36,180"
+			},
+			"offsets": {
+				"from": 1050520,
+				"to": 1056180
+			},
+			"text": " They're just trying to appease their gods so that their nation can be more successful than the neighboring nation."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,180",
+				"to": "00:17:40,260"
+			},
+			"offsets": {
+				"from": 1056180,
+				"to": 1060260
+			},
+			"text": " And there is no hope in this situation."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,260",
+				"to": "00:17:43,860"
+			},
+			"offsets": {
+				"from": 1060260,
+				"to": 1063860
+			},
+			"text": " And they are deserving of God's wrath."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,860",
+				"to": "00:17:53,820"
+			},
+			"offsets": {
+				"from": 1063860,
+				"to": 1073820
+			},
+			"text": " And again, wrath is one of those things that we've kind of lost in the church today because I think some people have overused it and some people have avoided it altogether."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:54,060",
+				"to": "00:18:01,060"
+			},
+			"offsets": {
+				"from": 1074060,
+				"to": 1081060
+			},
+			"text": " And some people say, God can't be loving and wrathful at the same time, to which I heard one pastor this week say, apparently you are not a parent."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,060",
+				"to": "00:18:06,880"
+			},
+			"offsets": {
+				"from": 1081060,
+				"to": 1086880
+			},
+			"text": " Because I love my son more than you could ever imagine."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,880",
+				"to": "00:18:10,600"
+			},
+			"offsets": {
+				"from": 1086880,
+				"to": 1090600
+			},
+			"text": " And sometimes there is wrath in my heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,900",
+				"to": "00:18:17,820"
+			},
+			"offsets": {
+				"from": 1091900,
+				"to": 1097820
+			},
+			"text": " But here's the beautiful thing about God's wrath, and I love this distinction, and Paul teases it out in Romans chapter 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,820",
+				"to": "00:18:23,480"
+			},
+			"offsets": {
+				"from": 1097820,
+				"to": 1103480
+			},
+			"text": " But the wrath of God is actually God allowing us to have the consequences of our decisions."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,480",
+				"to": "00:18:30,460"
+			},
+			"offsets": {
+				"from": 1103480,
+				"to": 1110460
+			},
+			"text": " And I think we think of wrath as like God is super angry, and he's coming down judgmentally, and he's punishing us."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,460",
+				"to": "00:18:44,880"
+			},
+			"offsets": {
+				"from": 1110460,
+				"to": 1124880
+			},
+			"text": " And actually, God, the wrath that we experience is actually God who loves us as a father, allowing us, releasing us to go chase after the desires of our heart that he knows are going to give us consequences that ultimately kill us and lead us to the grave."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,880",
+				"to": "00:18:50,140"
+			},
+			"offsets": {
+				"from": 1124880,
+				"to": 1130140
+			},
+			"text": " And he's allowing us to do it because we are in rebellion to him, and he doesn't want to force us into that relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,540",
+				"to": "00:19:01,440"
+			},
+			"offsets": {
+				"from": 1132540,
+				"to": 1141440
+			},
+			"text": " And so Gentiles are deserving of God's wrath, totally separated from Yahweh, the one true God, who created them and loves them."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:01,440",
+				"to": "00:19:04,380"
+			},
+			"offsets": {
+				"from": 1141440,
+				"to": 1144380
+			},
+			"text": " And the Jews find themselves in a different category of wrath."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,380",
+				"to": "00:19:07,820"
+			},
+			"offsets": {
+				"from": 1144380,
+				"to": 1147820
+			},
+			"text": " See, they had entered a covenant relationship with Yahweh."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,820",
+				"to": "00:19:14,600"
+			},
+			"offsets": {
+				"from": 1147820,
+				"to": 1154600
+			},
+			"text": " They had access to his presence in the temple, but they had failed to live up to their end of the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,600",
+				"to": "00:19:18,660"
+			},
+			"offsets": {
+				"from": 1154600,
+				"to": 1158660
+			},
+			"text": " The covenant was never just about saving Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,060",
+				"to": "00:19:24,180"
+			},
+			"offsets": {
+				"from": 1159060,
+				"to": 1164180
+			},
+			"text": " It was always about blessing the entire world through the nation of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,180",
+				"to": "00:19:36,180"
+			},
+			"offsets": {
+				"from": 1164180,
+				"to": 1176180
+			},
+			"text": " God was trying to work salvation through the nation of Israel to the Gentiles, and the nation of Israel completely failed to live up to their part of the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,180",
+				"to": "00:19:44,880"
+			},
+			"offsets": {
+				"from": 1176180,
+				"to": 1184880
+			},
+			"text": " Gentiles were worshiping idols, but Israel was intended to worship God as their one true king."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,960",
+				"to": "00:19:55,540"
+			},
+			"offsets": {
+				"from": 1184960,
+				"to": 1195540
+			},
+			"text": " It was intended to be a theocracy, but far too quickly did the nation of Israel turn against the parts of the covenant that they agreed to."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,540",
+				"to": "00:19:59,580"
+			},
+			"offsets": {
+				"from": 1195540,
+				"to": 1199580
+			},
+			"text": " And they said to Moses, give us a king, or not Moses, sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,580",
+				"to": "00:20:01,880"
+			},
+			"offsets": {
+				"from": 1199580,
+				"to": 1201880
+			},
+			"text": " Give me a second."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,880",
+				"to": "00:20:02,680"
+			},
+			"offsets": {
+				"from": 1201880,
+				"to": 1202680
+			},
+			"text": " Don't tell me."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,680",
+				"to": "00:20:03,480"
+			},
+			"offsets": {
+				"from": 1202680,
+				"to": 1203480
+			},
+			"text": " Samuel, there we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,480",
+				"to": "00:20:06,740"
+			},
+			"offsets": {
+				"from": 1203480,
+				"to": 1206740
+			},
+			"text": " They said to Samuel, give us a king like all the other nations."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,740",
+				"to": "00:20:11,240"
+			},
+			"offsets": {
+				"from": 1206740,
+				"to": 1211240
+			},
+			"text": " We want to be ruled the same way that the rest of the world is ruled."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,200",
+				"to": "00:20:18,900"
+			},
+			"offsets": {
+				"from": 1212200,
+				"to": 1218900
+			},
+			"text": " And what's interesting is when you read the first five books of the Bible and when Moses presents Israel with the covenant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,900",
+				"to": "00:20:23,900"
+			},
+			"offsets": {
+				"from": 1218900,
+				"to": 1223900
+			},
+			"text": " at the end in Deuteronomy chapter 30, he's kind of laid out the covenant for Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,900",
+				"to": "00:20:25,400"
+			},
+			"offsets": {
+				"from": 1223900,
+				"to": 1225400
+			},
+			"text": " You're going to be a theocracy."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,400",
+				"to": "00:20:29,940"
+			},
+			"offsets": {
+				"from": 1225400,
+				"to": 1229940
+			},
+			"text": " You're going to surrender to God's control over your life, and you're going to be a blessing to the rest of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,900",
+				"to": "00:20:39,440"
+			},
+			"offsets": {
+				"from": 1230900,
+				"to": 1239440
+			},
+			"text": " And Moses says in chapter 30, verse 15, see, I set before you today life and prosperity, death and destruction."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,300",
+				"to": "00:20:48,000"
+			},
+			"offsets": {
+				"from": 1240300,
+				"to": 1248000
+			},
+			"text": " At the beginning of the covenant relationship with Israel, Moses is saying, if you fulfill your end of the covenant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,000",
+				"to": "00:20:52,900"
+			},
+			"offsets": {
+				"from": 1248000,
+				"to": 1252900
+			},
+			"text": " it will lead to life and prosperity, both for the nation of Israel and for the rest of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,900",
+				"to": "00:20:59,260"
+			},
+			"offsets": {
+				"from": 1252900,
+				"to": 1259260
+			},
+			"text": " But if you do not fulfill your end of the covenant, it will lead to death and destruction."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,260",
+				"to": "00:21:02,200"
+			},
+			"offsets": {
+				"from": 1259260,
+				"to": 1262200
+			},
+			"text": " You will be brother, will be divided against brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,200",
+				"to": "00:21:04,900"
+			},
+			"offsets": {
+				"from": 1262200,
+				"to": 1264900
+			},
+			"text": " The nation of Israel will be fighting against one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,120",
+				"to": "00:21:08,020"
+			},
+			"offsets": {
+				"from": 1265120,
+				"to": 1268020
+			},
+			"text": " The nation of Israel will be fighting with the nations of the Gentiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:08,020",
+				"to": "00:21:11,560"
+			},
+			"offsets": {
+				"from": 1268020,
+				"to": 1271560
+			},
+			"text": " There will be death and chaos and destruction everywhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,560",
+				"to": "00:21:14,360"
+			},
+			"offsets": {
+				"from": 1271560,
+				"to": 1274360
+			},
+			"text": " And this is the choice that Israel made."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,360",
+				"to": "00:21:16,600"
+			},
+			"offsets": {
+				"from": 1274360,
+				"to": 1276600
+			},
+			"text": " They chose rebellion and half-hearted obedience."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:16,600",
+				"to": "00:21:21,280"
+			},
+			"offsets": {
+				"from": 1276600,
+				"to": 1281280
+			},
+			"text": " They rejected God as their king and asked for earthly kings to begin to lead them."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,960",
+				"to": "00:21:34,080"
+			},
+			"offsets": {
+				"from": 1281960,
+				"to": 1294080
+			},
+			"text": " And this ultimately led both groups to be at odds with one another and at odds with the one true God who made them and wanted a relationship with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:34,080",
+				"to": "00:21:37,920"
+			},
+			"offsets": {
+				"from": 1294080,
+				"to": 1297920
+			},
+			"text": " Israel failed to do the thing that God wanted them to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,920",
+				"to": "00:21:40,080"
+			},
+			"offsets": {
+				"from": 1297920,
+				"to": 1300080
+			},
+			"text": " They became just like all the other nations."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,080",
+				"to": "00:21:44,700"
+			},
+			"offsets": {
+				"from": 1300080,
+				"to": 1304700
+			},
+			"text": " And by the time Jesus stepped onto the plate, Israel was at war with Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,700",
+				"to": "00:21:48,360"
+			},
+			"offsets": {
+				"from": 1304700,
+				"to": 1308360
+			},
+			"text": " There was four different categories of what it meant to be a Jewish citizen."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,360",
+				"to": "00:21:50,620"
+			},
+			"offsets": {
+				"from": 1308360,
+				"to": 1310620
+			},
+			"text": " They were all fighting and infighting with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,620",
+				"to": "00:21:52,780"
+			},
+			"offsets": {
+				"from": 1310620,
+				"to": 1312780
+			},
+			"text": " And they were at odds with Rome."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,780",
+				"to": "00:21:54,320"
+			},
+			"offsets": {
+				"from": 1312780,
+				"to": 1314320
+			},
+			"text": " And Rome was at odds with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,320",
+				"to": "00:21:56,120"
+			},
+			"offsets": {
+				"from": 1314320,
+				"to": 1316120
+			},
+			"text": " And Rome was at odds with all the other nations."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:56,120",
+				"to": "00:22:00,060"
+			},
+			"offsets": {
+				"from": 1316120,
+				"to": 1320060
+			},
+			"text": " And there was chaos and destruction and death."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,060",
+				"to": "00:22:09,720"
+			},
+			"offsets": {
+				"from": 1320060,
+				"to": 1329720
+			},
+			"text": " And this is God's wrath when people reject his way of living."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,720",
+				"to": "00:22:13,220"
+			},
+			"offsets": {
+				"from": 1329720,
+				"to": 1333220
+			},
+			"text": " We get to verse four."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,280",
+				"to": "00:22:17,620"
+			},
+			"offsets": {
+				"from": 1336280,
+				"to": 1337620
+			},
+			"text": " Sorry, I used to be a youth pastor."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,620",
+				"to": "00:22:18,380"
+			},
+			"offsets": {
+				"from": 1337620,
+				"to": 1338380
+			},
+			"text": " I have to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,380",
+				"to": "00:22:20,340"
+			},
+			"offsets": {
+				"from": 1338380,
+				"to": 1340340
+			},
+			"text": " One of the most beautiful butts in scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,340",
+				"to": "00:22:23,400"
+			},
+			"offsets": {
+				"from": 1340340,
+				"to": 1343400
+			},
+			"text": " Sorry, I had to."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,400",
+				"to": "00:22:27,060"
+			},
+			"offsets": {
+				"from": 1343400,
+				"to": 1347060
+			},
+			"text": " Chapter four, or verse four."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,060",
+				"to": "00:22:40,840"
+			},
+			"offsets": {
+				"from": 1347060,
+				"to": 1360840
+			},
+			"text": " But because of his great love for us, God who is rich in mercy made us, see the corporate language here, made us alive with Christ even when we were dead in our transgressions."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,940",
+				"to": "00:22:55,600"
+			},
+			"offsets": {
+				"from": 1360940,
+				"to": 1375600
+			},
+			"text": " It is by grace that you have been saved and God raised us up with Christ and seated us in the heavenly realms with Christ in order that the coming ages he might show the incomparable riches of his grace expressed in his kindness to us in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,600",
+				"to": "00:22:59,380"
+			},
+			"offsets": {
+				"from": 1375600,
+				"to": 1379380
+			},
+			"text": " For it is by grace that we all have been saved through faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,380",
+				"to": "00:23:01,820"
+			},
+			"offsets": {
+				"from": 1379380,
+				"to": 1381820
+			},
+			"text": " And this is not from ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,820",
+				"to": "00:23:05,920"
+			},
+			"offsets": {
+				"from": 1381820,
+				"to": 1385920
+			},
+			"text": " It is a gift from God, not by works, so that none of us can boast."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,920",
+				"to": "00:23:15,340"
+			},
+			"offsets": {
+				"from": 1385920,
+				"to": 1395340
+			},
+			"text": " For we, we, the church, are God's workmanship created in Christ Jesus to do good works, which he prepared in advance for us to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,720",
+				"to": "00:23:25,540"
+			},
+			"offsets": {
+				"from": 1396720,
+				"to": 1405540
+			},
+			"text": " Nations at war with nations, Israel infighting with one another, there is death and chaos and destruction all around, but God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,540",
+				"to": "00:23:32,820"
+			},
+			"offsets": {
+				"from": 1405540,
+				"to": 1412820
+			},
+			"text": " Jesus stands at the culmination of this wrath, wrath between God and wrath between one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,820",
+				"to": "00:23:36,040"
+			},
+			"offsets": {
+				"from": 1412820,
+				"to": 1416040
+			},
+			"text": " At the time of Jesus, again, the nations were warring with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,040",
+				"to": "00:23:40,040"
+			},
+			"offsets": {
+				"from": 1416040,
+				"to": 1420040
+			},
+			"text": " Israel was completely divided and at odds with one another and with Rome."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,040",
+				"to": "00:23:47,480"
+			},
+			"offsets": {
+				"from": 1420040,
+				"to": 1427480
+			},
+			"text": " And Jesus steps into the center of the hostility between Rome and Israel and Israel and Israel and Israel and Rome and God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,480",
+				"to": "00:23:59,040"
+			},
+			"offsets": {
+				"from": 1427480,
+				"to": 1439040
+			},
+			"text": " Jesus steps into the center of all of God's wrath and he takes on the responsibility of Israel to perfectly live up to the requirements of the covenant of Israel, the covenant that Israel disobeyed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,040",
+				"to": "00:24:06,000"
+			},
+			"offsets": {
+				"from": 1439040,
+				"to": 1446000
+			},
+			"text": " And in so doing, Jesus becomes the blessing to the world that Israel was always intended to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:06,000",
+				"to": "00:24:08,700"
+			},
+			"offsets": {
+				"from": 1446000,
+				"to": 1448700
+			},
+			"text": " Jesus becomes Israel for Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,800",
+				"to": "00:24:12,160"
+			},
+			"offsets": {
+				"from": 1448800,
+				"to": 1452160
+			},
+			"text": " The thing that they rejected their responsibility of, they chose death."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,160",
+				"to": "00:24:17,360"
+			},
+			"offsets": {
+				"from": 1452160,
+				"to": 1457360
+			},
+			"text": " Jesus chooses death in their place to become life to all of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,360",
+				"to": "00:24:24,020"
+			},
+			"offsets": {
+				"from": 1457360,
+				"to": 1464020
+			},
+			"text": " This is the story of salvation that Paul is trying to get at, that Jesus takes on the responsibility of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,020",
+				"to": "00:24:25,600"
+			},
+			"offsets": {
+				"from": 1464020,
+				"to": 1465600
+			},
+			"text": " And this is why these two things are separate."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,600",
+				"to": "00:24:26,800"
+			},
+			"offsets": {
+				"from": 1465600,
+				"to": 1466800
+			},
+			"text": " The two wraths are separate."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,800",
+				"to": "00:24:34,020"
+			},
+			"offsets": {
+				"from": 1466800,
+				"to": 1474020
+			},
+			"text": " He says, Israel, you didn't do the thing that you were supposed to do and it has led to death to everyone, but Jesus has done it on our behalf."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:36,040",
+				"to": "00:24:41,580"
+			},
+			"offsets": {
+				"from": 1476040,
+				"to": 1481580
+			},
+			"text": " And Paul says, this is the perfect representation of God's love and his mercy and his kindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,580",
+				"to": "00:24:45,640"
+			},
+			"offsets": {
+				"from": 1481580,
+				"to": 1485640
+			},
+			"text": " Our salvation is about so much more than where we go when we die."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,640",
+				"to": "00:24:53,400"
+			},
+			"offsets": {
+				"from": 1485640,
+				"to": 1493400
+			},
+			"text": " It is a culmination of God's redemption plan for the entire world since before the foundation of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,400",
+				"to": "00:24:58,240"
+			},
+			"offsets": {
+				"from": 1493400,
+				"to": 1498240
+			},
+			"text": " Salvation is so much more about where we go when we die."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,240",
+				"to": "00:25:04,480"
+			},
+			"offsets": {
+				"from": 1498240,
+				"to": 1504480
+			},
+			"text": " It is about God reconciling every people group who have rejected him in their own different ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,000",
+				"to": "00:25:17,080"
+			},
+			"offsets": {
+				"from": 1506000,
+				"to": 1517080
+			},
+			"text": " It's about creating a way so that all people from every language, nation, tribe, and tongue can come to the Father who created them, made them, and loved them through the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,080",
+				"to": "00:25:20,100"
+			},
+			"offsets": {
+				"from": 1517080,
+				"to": 1520100
+			},
+			"text": " By no works of their own, but it is a gift of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:20,100",
+				"to": "00:25:25,460"
+			},
+			"offsets": {
+				"from": 1520100,
+				"to": 1525460
+			},
+			"text": " A gift from a God that the Gentiles could never imagine a God loving them."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,520",
+				"to": "00:25:32,940"
+			},
+			"offsets": {
+				"from": 1525520,
+				"to": 1532940
+			},
+			"text": " And Paul is saying, the God, the one true God who made you, he loves you so much that he has given you a gift of salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,740",
+				"to": "00:25:45,420"
+			},
+			"offsets": {
+				"from": 1534740,
+				"to": 1545420
+			},
+			"text": " It's about vertically reconciling people from every language, tribe, nation, and tongue to God and raising them with Christ above the powers and principalities of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,420",
+				"to": "00:25:54,800"
+			},
+			"offsets": {
+				"from": 1545420,
+				"to": 1554800
+			},
+			"text": " Seating them with Christ in the heavenly places where they are free by the power of the Holy Spirit to live their lives in such a way that displays God's kingdom on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,740",
+				"to": "00:26:00,960"
+			},
+			"offsets": {
+				"from": 1555740,
+				"to": 1560960
+			},
+			"text": " He says, both nations had been living under the powers and principalities of this air."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:00,960",
+				"to": "00:26:12,440"
+			},
+			"offsets": {
+				"from": 1560960,
+				"to": 1572440
+			},
+			"text": " They had been living according to the standards of this earth that leads to war and chaos and destruction that leads to us viewing our neighbors as our enemies and our enemies as the worst people."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,160",
+				"to": "00:26:27,620"
+			},
+			"offsets": {
+				"from": 1575160,
+				"to": 1587620
+			},
+			"text": " But God has, for those of us who have placed our faith and trust in Christ, he has raised us above the ruling powers and authorities of this air."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,620",
+				"to": "00:26:34,160"
+			},
+			"offsets": {
+				"from": 1587620,
+				"to": 1594160
+			},
+			"text": " And he has seated us with Christ who demonstrated to us what it looks like to live for the kingdom on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,160",
+				"to": "00:26:42,360"
+			},
+			"offsets": {
+				"from": 1594160,
+				"to": 1602360
+			},
+			"text": " It looks like sacrificially loving our neighbors, sacrificially loving our enemies to demonstrate the love of God to the world around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:42,360",
+				"to": "00:26:46,380"
+			},
+			"offsets": {
+				"from": 1602360,
+				"to": 1606380
+			},
+			"text": " This is the new vertical identity of those of us who trust in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,380",
+				"to": "00:26:53,980"
+			},
+			"offsets": {
+				"from": 1606380,
+				"to": 1613980
+			},
+			"text": " Our primary allegiance is no longer to earthly kingdoms, but to the resurrected, ascended, and reigning Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,980",
+				"to": "00:26:56,840"
+			},
+			"offsets": {
+				"from": 1613980,
+				"to": 1616840
+			},
+			"text": " He has made us citizens of new creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,840",
+				"to": "00:27:04,180"
+			},
+			"offsets": {
+				"from": 1616840,
+				"to": 1624180
+			},
+			"text": " There's been a vertical redemption for all people who would trust in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,180",
+				"to": "00:27:07,480"
+			},
+			"offsets": {
+				"from": 1624180,
+				"to": 1627480
+			},
+			"text": " It's no longer limited to come through the nation of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,480",
+				"to": "00:27:13,500"
+			},
+			"offsets": {
+				"from": 1627480,
+				"to": 1633500
+			},
+			"text": " It is Jesus fulfilling what Israel always intended to do and be a blessing to the entire world."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,500",
+				"to": "00:27:25,160"
+			},
+			"offsets": {
+				"from": 1633500,
+				"to": 1645160
+			},
+			"text": " And the reason I think Paul teases these things out is because it leads right into the horizontal aspect of salvation that he's going to play out starting in verse 11."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,880",
+				"to": "00:27:33,740"
+			},
+			"offsets": {
+				"from": 1645880,
+				"to": 1653740
+			},
+			"text": " I would say this way, the horizontal aspect is the culmination of God's reconciling work to the world, the reconciliation of the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,740",
+				"to": "00:27:41,700"
+			},
+			"offsets": {
+				"from": 1653740,
+				"to": 1661700
+			},
+			"text": " So vertical is redemption for every language, nation, tribe, and tongue to have access to the Father through the power of the Holy Spirit by the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:42,580",
+				"to": "00:27:53,280"
+			},
+			"offsets": {
+				"from": 1662580,
+				"to": 1673280
+			},
+			"text": " And then that salvation work isn't just about a vertical identity, but it's about reconciling every language, nation, tribe, and tongue to one another under the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,860",
+				"to": "00:28:02,440"
+			},
+			"offsets": {
+				"from": 1674860,
+				"to": 1682440
+			},
+			"text": " Ephesians chapter 2, verses 8 and 10, 8 through 10 is one of the clearest and most well-known summaries of God's saving work on our behalf through Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:02,440",
+				"to": "00:28:09,280"
+			},
+			"offsets": {
+				"from": 1682440,
+				"to": 1689280
+			},
+			"text": " Does it seem strange to any of us that Paul immediately transitions to a conversation about ethnicity?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,280",
+				"to": "00:28:14,480"
+			},
+			"offsets": {
+				"from": 1689280,
+				"to": 1694480
+			},
+			"text": " Isn't that a weird transition to make if you were like trying to write a good sermon?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,480",
+				"to": "00:28:16,980"
+			},
+			"offsets": {
+				"from": 1694480,
+				"to": 1696980
+			},
+			"text": " Let me tell you about how much Jesus loves you now."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,980",
+				"to": "00:28:18,180"
+			},
+			"offsets": {
+				"from": 1696980,
+				"to": 1698180
+			},
+			"text": " Let's talk about ethnicity."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,180",
+				"to": "00:28:19,780"
+			},
+			"offsets": {
+				"from": 1698180,
+				"to": 1699780
+			},
+			"text": " What?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,280",
+				"to": "00:28:21,820"
+			},
+			"offsets": {
+				"from": 1701280,
+				"to": 1701820
+			},
+			"text": " Read it."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,820",
+				"to": "00:28:22,380"
+			},
+			"offsets": {
+				"from": 1701820,
+				"to": 1702380
+			},
+			"text": " Verse 11."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,380",
+				"to": "00:28:28,400"
+			},
+			"offsets": {
+				"from": 1702380,
+				"to": 1708400
+			},
+			"text": " Therefore, remember that formerly you who are Gentiles by birth are called uncircumcised."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,400",
+				"to": "00:28:30,160"
+			},
+			"offsets": {
+				"from": 1708400,
+				"to": 1710160
+			},
+			"text": " They start getting into cultural differences."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,160",
+				"to": "00:28:33,040"
+			},
+			"offsets": {
+				"from": 1710160,
+				"to": 1713040
+			},
+			"text": " Right after, by grace, you have been saved through faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,040",
+				"to": "00:28:34,520"
+			},
+			"offsets": {
+				"from": 1713040,
+				"to": 1714520
+			},
+			"text": " Now let's talk about circumcision."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,520",
+				"to": "00:28:35,420"
+			},
+			"offsets": {
+				"from": 1714520,
+				"to": 1715420
+			},
+			"text": " Woo!"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,420",
+				"to": "00:28:45,000"
+			},
+			"offsets": {
+				"from": 1715420,
+				"to": 1725000
+			},
+			"text": " By those who call themselves the circumcision which is done in the body by human hands, remember that at that time you were separated from Christ,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,000",
+				"to": "00:28:49,000"
+			},
+			"offsets": {
+				"from": 1725000,
+				"to": 1729000
+			},
+			"text": " excluded from the citizenship in Israel, and foreigners to the covenants of the promise,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,460",
+				"to": "00:28:53,100"
+			},
+			"offsets": {
+				"from": 1729460,
+				"to": 1733100
+			},
+			"text": " without hope and without God in the world, another beautiful but."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:53,100",
+				"to": "00:29:01,560"
+			},
+			"offsets": {
+				"from": 1733100,
+				"to": 1741560
+			},
+			"text": " But now, in Christ Jesus, you who once were far away have now been brought near by the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,560",
+				"to": "00:29:07,400"
+			},
+			"offsets": {
+				"from": 1741560,
+				"to": 1747400
+			},
+			"text": " It should not surprise us that he immediately brings up ethnicity."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,400",
+				"to": "00:29:11,160"
+			},
+			"offsets": {
+				"from": 1747400,
+				"to": 1751160
+			},
+			"text": " This was the pressing question for both Jews and Gentiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,340",
+				"to": "00:29:20,420"
+			},
+			"offsets": {
+				"from": 1752340,
+				"to": 1760420
+			},
+			"text": " They were both being saved, being redeemed to the one true God by the power of God through the blood of a Jewish Messiah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,420",
+				"to": "00:29:26,520"
+			},
+			"offsets": {
+				"from": 1760420,
+				"to": 1766520
+			},
+			"text": " who it says destroyed the dividing wall between them and set aside the law of the covenant and its commands."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,520",
+				"to": "00:29:33,480"
+			},
+			"offsets": {
+				"from": 1766520,
+				"to": 1773480
+			},
+			"text": " You can begin to see how Jews would want to argue to the Gentiles that they have to give up their cultural identity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,480",
+				"to": "00:29:38,140"
+			},
+			"offsets": {
+				"from": 1773480,
+				"to": 1778140
+			},
+			"text": " and they have to become Jewish if they really want to be a part of what God is doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,540",
+				"to": "00:29:40,220"
+			},
+			"offsets": {
+				"from": 1778540,
+				"to": 1780220
+			},
+			"text": " And the Jews were saying this."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,220",
+				"to": "00:29:41,780"
+			},
+			"offsets": {
+				"from": 1780220,
+				"to": 1781780
+			},
+			"text": " You've got to be circumcised."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,780",
+				"to": "00:29:42,980"
+			},
+			"offsets": {
+				"from": 1781780,
+				"to": 1782980
+			},
+			"text": " You've got to keep following the law."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,980",
+				"to": "00:29:44,120"
+			},
+			"offsets": {
+				"from": 1782980,
+				"to": 1784120
+			},
+			"text": " You've got to do all of this stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,120",
+				"to": "00:29:47,500"
+			},
+			"offsets": {
+				"from": 1784120,
+				"to": 1787500
+			},
+			"text": " But you can also see how the Gentiles would say, whoa, whoa, whoa."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,500",
+				"to": "00:29:52,760"
+			},
+			"offsets": {
+				"from": 1787500,
+				"to": 1792760
+			},
+			"text": " Paul said that Jesus tore down the hostility and that he fulfilled the law and the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:52,760",
+				"to": "00:29:53,820"
+			},
+			"offsets": {
+				"from": 1792760,
+				"to": 1793820
+			},
+			"text": " Why do we have to do it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,820",
+				"to": "00:29:55,000"
+			},
+			"offsets": {
+				"from": 1793820,
+				"to": 1795000
+			},
+			"text": " Actually, you all shouldn't do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,000",
+				"to": "00:29:56,100"
+			},
+			"offsets": {
+				"from": 1795000,
+				"to": 1796100
+			},
+			"text": " You should become Gentiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:56,100",
+				"to": "00:29:58,580"
+			},
+			"offsets": {
+				"from": 1796100,
+				"to": 1798580
+			},
+			"text": " This is what the church should look like."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,000",
+				"to": "00:30:06,800"
+			},
+			"offsets": {
+				"from": 1799000,
+				"to": 1806800
+			},
+			"text": " And immediately the identity of the church is at stake because they're trying to figure out how to live on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,200",
+				"to": "00:30:17,120"
+			},
+			"offsets": {
+				"from": 1810200,
+				"to": 1817120
+			},
+			"text": " And if Paul, oh, sweet Paul, if he wanted an easier life, Paul had a hard life."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:17,120",
+				"to": "00:30:27,460"
+			},
+			"offsets": {
+				"from": 1817120,
+				"to": 1827460
+			},
+			"text": " If he wanted an easier life, he would have just started two churches, the Gentile church in Jerusalem and the Jewish church in Jerusalem,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,460",
+				"to": "00:30:30,540"
+			},
+			"offsets": {
+				"from": 1827460,
+				"to": 1830540
+			},
+			"text": " the Gentile church at Ephesus and the Jewish church at Ephesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,540",
+				"to": "00:30:32,400"
+			},
+			"offsets": {
+				"from": 1830540,
+				"to": 1832400
+			},
+			"text": " But this is a non-starter for Paul."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,400",
+				"to": "00:30:39,920"
+			},
+			"offsets": {
+				"from": 1832400,
+				"to": 1839920
+			},
+			"text": " It's not even an option because he says the identity of the saved people of God does not just redeem us to God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,920",
+				"to": "00:30:41,920"
+			},
+			"offsets": {
+				"from": 1839920,
+				"to": 1841920
+			},
+			"text": " but it reconciles us to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,920",
+				"to": "00:30:49,740"
+			},
+			"offsets": {
+				"from": 1841920,
+				"to": 1849740
+			},
+			"text": " And Paul spends most of his ministry trying to help these very divided, very segregated,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,740",
+				"to": "00:30:54,660"
+			},
+			"offsets": {
+				"from": 1849740,
+				"to": 1854660
+			},
+			"text": " very different groups of people figure out how to be one people under the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,660",
+				"to": "00:30:59,080"
+			},
+			"offsets": {
+				"from": 1854660,
+				"to": 1859080
+			},
+			"text": " Have you ever wondered why so much of the New Testament talks about what kind of food you should eat"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,080",
+				"to": "00:31:00,480"
+			},
+			"offsets": {
+				"from": 1859080,
+				"to": 1860480
+			},
+			"text": " and what days you should worship?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,480",
+				"to": "00:31:09,100"
+			},
+			"offsets": {
+				"from": 1860480,
+				"to": 1869100
+			},
+			"text": " It's because these very different group of peoples with very different opinions about how things should be done"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,100",
+				"to": "00:31:15,020"
+			},
+			"offsets": {
+				"from": 1869100,
+				"to": 1875020
+			},
+			"text": " had been reconciled to Yahweh through the blood of Jesus and brought into one family together."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,020",
+				"to": "00:31:18,320"
+			},
+			"offsets": {
+				"from": 1875020,
+				"to": 1878320
+			},
+			"text": " And that is hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,320",
+				"to": "00:31:23,060"
+			},
+			"offsets": {
+				"from": 1878320,
+				"to": 1883060
+			},
+			"text": " It is hard to be united with one another when we have so many differences,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,060",
+				"to": "00:31:28,620"
+			},
+			"offsets": {
+				"from": 1883060,
+				"to": 1888620
+			},
+			"text": " so many ideas and presuppositions that we come to the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,080",
+				"to": "00:31:32,580"
+			},
+			"offsets": {
+				"from": 1889080,
+				"to": 1892580
+			},
+			"text": " I heard one pastor this week say it this way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,580",
+				"to": "00:31:35,480"
+			},
+			"offsets": {
+				"from": 1892580,
+				"to": 1895480
+			},
+			"text": " there is no ethnic home team in the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,480",
+				"to": "00:31:42,740"
+			},
+			"offsets": {
+				"from": 1895480,
+				"to": 1902740
+			},
+			"text": " And I can see the tension between Jews and Gentiles both here to say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,740",
+				"to": "00:31:45,740"
+			},
+			"offsets": {
+				"from": 1902740,
+				"to": 1905740
+			},
+			"text": " no, no, no, no, no, Jesus tore down the dividing wall."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,740",
+				"to": "00:31:48,640"
+			},
+			"offsets": {
+				"from": 1905740,
+				"to": 1908640
+			},
+			"text": " It doesn't, being Jewish adds no value to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,640",
+				"to": "00:31:50,120"
+			},
+			"offsets": {
+				"from": 1908640,
+				"to": 1910120
+			},
+			"text": " You guys should be, become Gentile."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,120",
+				"to": "00:31:52,460"
+			},
+			"offsets": {
+				"from": 1910120,
+				"to": 1912460
+			},
+			"text": " We are now the ethnic home team of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,460",
+				"to": "00:31:56,920"
+			},
+			"offsets": {
+				"from": 1912460,
+				"to": 1916920
+			},
+			"text": " You guys screwed up so bad that Jesus invited us in to do the thing you couldn't do."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,020",
+				"to": "00:32:00,040"
+			},
+			"offsets": {
+				"from": 1918020,
+				"to": 1920040
+			},
+			"text": " I could see the pride welling up in them."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,040",
+				"to": "00:32:01,360"
+			},
+			"offsets": {
+				"from": 1920040,
+				"to": 1921360
+			},
+			"text": " And I could see the Jews being like, hey,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,360",
+				"to": "00:32:06,800"
+			},
+			"offsets": {
+				"from": 1921360,
+				"to": 1926800
+			},
+			"text": " did you hear that the blood of a Jewish Messiah is the reason that you're allowed to come in?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:06,800",
+				"to": "00:32:08,200"
+			},
+			"offsets": {
+				"from": 1926800,
+				"to": 1928200
+			},
+			"text": " So like you should become Jewish."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,200",
+				"to": "00:32:15,200"
+			},
+			"offsets": {
+				"from": 1928200,
+				"to": 1935200
+			},
+			"text": " And it's all of this pride welling up and this idea about what it means for them to live out the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,200",
+				"to": "00:32:19,340"
+			},
+			"offsets": {
+				"from": 1935200,
+				"to": 1939340
+			},
+			"text": " And we, today, we think we're above this."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,340",
+				"to": "00:32:33,500"
+			},
+			"offsets": {
+				"from": 1939340,
+				"to": 1953500
+			},
+			"text": " But how many of us, we focus so much on the vertical identity of what God has done for us as individuals in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,860",
+				"to": "00:32:43,940"
+			},
+			"offsets": {
+				"from": 1953860,
+				"to": 1963940
+			},
+			"text": " But it has not transformed the way that we view people who look different than us, talk different than us, eat different food than we do, sing different music than we do, and maybe, just maybe vote a little bit differently than we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,480",
+				"to": "00:32:58,680"
+			},
+			"offsets": {
+				"from": 1967480,
+				"to": 1978680
+			},
+			"text": " And by God's power, all of us who have placed our faith in Jesus, Jew and Gentile, every nation, tribe, language, and tongue, slave and free, male and female, are all one in Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,680",
+				"to": "00:33:02,620"
+			},
+			"offsets": {
+				"from": 1978680,
+				"to": 1982620
+			},
+			"text": " And we have been raised up with Christ and seated with him in the heavenly realm."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,220",
+				"to": "00:33:08,520"
+			},
+			"offsets": {
+				"from": 1983220,
+				"to": 1988520
+			},
+			"text": " And this is one of those theological phrases that, if we don't tease it out, means nothing to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,520",
+				"to": "00:33:20,520"
+			},
+			"offsets": {
+				"from": 1988520,
+				"to": 2000520
+			},
+			"text": " What are the implications of Christ raising us up above the powers and principalities that rule this earth and seating us with Christ in the heavenly places?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,520",
+				"to": "00:33:28,860"
+			},
+			"offsets": {
+				"from": 2000520,
+				"to": 2008860
+			},
+			"text": " Well, it begs the question, what does ethnicity and culture and language and gender, what does all of that look like in heaven?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,720",
+				"to": "00:33:34,100"
+			},
+			"offsets": {
+				"from": 2009720,
+				"to": 2014100
+			},
+			"text": " If we are supposed to be living like heaven on earth now, what does all of that look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:34,100",
+				"to": "00:33:39,680"
+			},
+			"offsets": {
+				"from": 2014100,
+				"to": 2019680
+			},
+			"text": " Does it look like the predominant culture in our current cultural moment?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,680",
+				"to": "00:33:43,400"
+			},
+			"offsets": {
+				"from": 2019680,
+				"to": 2023400
+			},
+			"text": " Or is it a bit more diverse than that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,400",
+				"to": "00:33:47,000"
+			},
+			"offsets": {
+				"from": 2023400,
+				"to": 2027000
+			},
+			"text": " Let's read Revelation chapter 21."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,000",
+				"to": "00:33:52,040"
+			},
+			"offsets": {
+				"from": 2027000,
+				"to": 2032040
+			},
+			"text": " This is a picture of what it's going to look like in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:52,040",
+				"to": "00:33:55,720"
+			},
+			"offsets": {
+				"from": 2032040,
+				"to": 2035720
+			},
+			"text": " And if we have been raised up above the principalities and powers of this earth,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,720",
+				"to": "00:34:02,240"
+			},
+			"offsets": {
+				"from": 2035720,
+				"to": 2042240
+			},
+			"text": " and we have been invited to live according to the governing powers and authority of heaven,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,240",
+				"to": "00:34:03,640"
+			},
+			"offsets": {
+				"from": 2042240,
+				"to": 2043640
+			},
+			"text": " then this is what heaven looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,640",
+				"to": "00:34:04,200"
+			},
+			"offsets": {
+				"from": 2043640,
+				"to": 2044200
+			},
+			"text": " John says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:04,200",
+				"to": "00:34:08,760"
+			},
+			"offsets": {
+				"from": 2044200,
+				"to": 2048760
+			},
+			"text": " I did not see a temple in the city because the Lord God Almighty and the Lamb are its temple."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,760",
+				"to": "00:34:12,100"
+			},
+			"offsets": {
+				"from": 2048760,
+				"to": 2052100
+			},
+			"text": " The city does not need the sun or the moon to shine on it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,100",
+				"to": "00:34:15,860"
+			},
+			"offsets": {
+				"from": 2052100,
+				"to": 2055860
+			},
+			"text": " for the glory of God gives it light, and the Lamb is its lamp."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,860",
+				"to": "00:34:16,420"
+			},
+			"offsets": {
+				"from": 2055860,
+				"to": 2056420
+			},
+			"text": " Listen to this."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,420",
+				"to": "00:34:18,660"
+			},
+			"offsets": {
+				"from": 2056420,
+				"to": 2058660
+			},
+			"text": " The nations, the Greek word, ethnos."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,180",
+				"to": "00:34:24,480"
+			},
+			"offsets": {
+				"from": 2059180,
+				"to": 2064480
+			},
+			"text": " The ethnicities will walk by its light, and the kings of the earth will bring their splendor into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,480",
+				"to": "00:34:29,120"
+			},
+			"offsets": {
+				"from": 2064480,
+				"to": 2069120
+			},
+			"text": " On no day will its gates ever be shut, for there will be no night there."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:29,120",
+				"to": "00:34:34,320"
+			},
+			"offsets": {
+				"from": 2069120,
+				"to": 2074320
+			},
+			"text": " The glory and honor of the ethnos will be brought into it."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,200",
+				"to": "00:34:41,820"
+			},
+			"offsets": {
+				"from": 2076200,
+				"to": 2081820
+			},
+			"text": " I heard one pastor of Hispanic descent preach this passage to me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,820",
+				"to": "00:34:48,220"
+			},
+			"offsets": {
+				"from": 2081820,
+				"to": 2088220
+			},
+			"text": " and I was overwhelmed by the lack of creativity and imagination I have about the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:48,220",
+				"to": "00:34:51,620"
+			},
+			"offsets": {
+				"from": 2088220,
+				"to": 2091620
+			},
+			"text": " He says that if you really pay attention here,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,620",
+				"to": "00:34:57,220"
+			},
+			"offsets": {
+				"from": 2091620,
+				"to": 2097220
+			},
+			"text": " John is very clearly saying that every tribe, language, nation, and tongue"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,220",
+				"to": "00:35:01,260"
+			},
+			"offsets": {
+				"from": 2097220,
+				"to": 2101260
+			},
+			"text": " is going to bring their unique glory before the Lord for worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,600",
+				"to": "00:35:07,260"
+			},
+			"offsets": {
+				"from": 2102600,
+				"to": 2107260
+			},
+			"text": " Which means that each one of us, from every perspective, from every cultural background,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,260",
+				"to": "00:35:11,540"
+			},
+			"offsets": {
+				"from": 2107260,
+				"to": 2111540
+			},
+			"text": " that we have a unique glory, that we image God in a way that the other people"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,540",
+				"to": "00:35:14,200"
+			},
+			"offsets": {
+				"from": 2111540,
+				"to": 2114200
+			},
+			"text": " that don't look like us or talk like us image God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,200",
+				"to": "00:35:17,520"
+			},
+			"offsets": {
+				"from": 2114200,
+				"to": 2117520
+			},
+			"text": " and that it's actually God bringing us all together into one family"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,520",
+				"to": "00:35:21,200"
+			},
+			"offsets": {
+				"from": 2117520,
+				"to": 2121200
+			},
+			"text": " that allows the whole world to see what the kingdom of heaven is supposed to be like."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,200",
+				"to": "00:35:24,800"
+			},
+			"offsets": {
+				"from": 2121200,
+				"to": 2124800
+			},
+			"text": " And we have actually rejected that as part of our identity."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,800",
+				"to": "00:35:28,620"
+			},
+			"offsets": {
+				"from": 2124800,
+				"to": 2128620
+			},
+			"text": " We've made it this, like, application point that we get to in the future"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,620",
+				"to": "00:35:30,420"
+			},
+			"offsets": {
+				"from": 2128620,
+				"to": 2130420
+			},
+			"text": " after we've figured out our theology."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,300",
+				"to": "00:35:34,460"
+			},
+			"offsets": {
+				"from": 2131300,
+				"to": 2134460
+			},
+			"text": " And I think what Paul is saying here is it's not a secondary thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,460",
+				"to": "00:35:36,120"
+			},
+			"offsets": {
+				"from": 2134460,
+				"to": 2136120
+			},
+			"text": " It's actually a part of the whole thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,120",
+				"to": "00:35:41,480"
+			},
+			"offsets": {
+				"from": 2136120,
+				"to": 2141480
+			},
+			"text": " That our identity as saved ones is not just people who have been redeemed to God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,480",
+				"to": "00:35:43,920"
+			},
+			"offsets": {
+				"from": 2141480,
+				"to": 2143920
+			},
+			"text": " but we have been reconciled to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:43,920",
+				"to": "00:35:49,820"
+			},
+			"offsets": {
+				"from": 2143920,
+				"to": 2149820
+			},
+			"text": " Each ethnos brings their unique glory into the presence of God for worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,820",
+				"to": "00:35:54,000"
+			},
+			"offsets": {
+				"from": 2149820,
+				"to": 2154000
+			},
+			"text": " Gentiles, Paul is saying, you get to bring your ethnic diversity to the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,080",
+				"to": "00:35:57,520"
+			},
+			"offsets": {
+				"from": 2155080,
+				"to": 2157520
+			},
+			"text": " You get to bring your pork to the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,520",
+				"to": "00:36:00,700"
+			},
+			"offsets": {
+				"from": 2157520,
+				"to": 2160700
+			},
+			"text": " Praise be to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,700",
+				"to": "00:36:06,540"
+			},
+			"offsets": {
+				"from": 2160700,
+				"to": 2166540
+			},
+			"text": " Now, they're going to tease out what that looks like and when they get to bring the pork to the table"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,540",
+				"to": "00:36:09,020"
+			},
+			"offsets": {
+				"from": 2166540,
+				"to": 2169020
+			},
+			"text": " so that they can create space and unity for all."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,020",
+				"to": "00:36:11,760"
+			},
+			"offsets": {
+				"from": 2169020,
+				"to": 2171760
+			},
+			"text": " But you get to be Gentile."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,760",
+				"to": "00:36:17,660"
+			},
+			"offsets": {
+				"from": 2171760,
+				"to": 2177660
+			},
+			"text": " Jews, you get to keep doing the Jewish things that mean so much to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,660",
+				"to": "00:36:19,680"
+			},
+			"offsets": {
+				"from": 2177660,
+				"to": 2179680
+			},
+			"text": " that teach you so much about what Yahweh is like."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,720",
+				"to": "00:36:23,360"
+			},
+			"offsets": {
+				"from": 2179720,
+				"to": 2183360
+			},
+			"text": " You don't have to stop being Jewish to come into the kingdom of heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:23,360",
+				"to": "00:36:27,640"
+			},
+			"offsets": {
+				"from": 2183360,
+				"to": 2187640
+			},
+			"text": " I love that Paul uses marriage language here."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,640",
+				"to": "00:36:32,840"
+			},
+			"offsets": {
+				"from": 2187640,
+				"to": 2192840
+			},
+			"text": " Verse 15, by setting aside the flesh and the law of its commands,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:32,840",
+				"to": "00:36:36,640"
+			},
+			"offsets": {
+				"from": 2192840,
+				"to": 2196640
+			},
+			"text": " his purpose was to create in himself one new humanity out of the two."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,880",
+				"to": "00:36:43,800"
+			},
+			"offsets": {
+				"from": 2198880,
+				"to": 2203800
+			},
+			"text": " And in one body to reconcile both of them to God through the cross."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,800",
+				"to": "00:36:47,500"
+			},
+			"offsets": {
+				"from": 2203800,
+				"to": 2207500
+			},
+			"text": " When Marissa and I got married, she did not stop being from South Jersey."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,500",
+				"to": "00:36:53,500"
+			},
+			"offsets": {
+				"from": 2207500,
+				"to": 2213500
+			},
+			"text": " She did not leave her family traditions behind at the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,500",
+				"to": "00:36:56,940"
+			},
+			"offsets": {
+				"from": 2213500,
+				"to": 2216940
+			},
+			"text": " When she said, I do, when her last name became Miller, it wasn't,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,940",
+				"to": "00:36:59,920"
+			},
+			"offsets": {
+				"from": 2216940,
+				"to": 2219920
+			},
+			"text": " all right, forget everything it means to be a Gall from South Jersey."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,920",
+				"to": "00:37:03,480"
+			},
+			"offsets": {
+				"from": 2219920,
+				"to": 2223480
+			},
+			"text": " And when I got married, it wasn't, okay, like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,480",
+				"to": "00:37:06,580"
+			},
+			"offsets": {
+				"from": 2223480,
+				"to": 2226580
+			},
+			"text": " let me disciple her to become exactly like my family."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,660",
+				"to": "00:37:08,640"
+			},
+			"offsets": {
+				"from": 2226660,
+				"to": 2228640
+			},
+			"text": " It was like, no, we created one new family."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,640",
+				"to": "00:37:11,720"
+			},
+			"offsets": {
+				"from": 2228640,
+				"to": 2231720
+			},
+			"text": " We brought our cultural differences to the table."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,720",
+				"to": "00:37:15,220"
+			},
+			"offsets": {
+				"from": 2231720,
+				"to": 2235220
+			},
+			"text": " We brought our preferences and our ideas to the table,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:15,220",
+				"to": "00:37:17,280"
+			},
+			"offsets": {
+				"from": 2235220,
+				"to": 2237280
+			},
+			"text": " and we created one new family."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,280",
+				"to": "00:37:20,500"
+			},
+			"offsets": {
+				"from": 2237280,
+				"to": 2240500
+			},
+			"text": " And Paul is saying here that this is the identity of the church,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,500",
+				"to": "00:37:23,760"
+			},
+			"offsets": {
+				"from": 2240500,
+				"to": 2243760
+			},
+			"text": " that people from every language, tribe, nation, and tongue"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:23,760",
+				"to": "00:37:28,840"
+			},
+			"offsets": {
+				"from": 2243760,
+				"to": 2248840
+			},
+			"text": " should be united together around one table under the blood of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:28,840",
+				"to": "00:37:34,180"
+			},
+			"offsets": {
+				"from": 2248840,
+				"to": 2254180
+			},
+			"text": " We should be uniquely diverse and multicultural and multi-ethnic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:34,520",
+				"to": "00:37:42,280"
+			},
+			"offsets": {
+				"from": 2254520,
+				"to": 2262280
+			},
+			"text": " and this will image what heaven is like to the world who is divided by what their nationality is."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,280",
+				"to": "00:37:47,580"
+			},
+			"offsets": {
+				"from": 2262280,
+				"to": 2267580
+			},
+			"text": " This is the horizontal work of Christ's reconciliation."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,580",
+				"to": "00:37:50,760"
+			},
+			"offsets": {
+				"from": 2267580,
+				"to": 2270760
+			},
+			"text": " He has brought us back into right relationship with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:51,900",
+				"to": "00:37:57,920"
+			},
+			"offsets": {
+				"from": 2271900,
+				"to": 2277920
+			},
+			"text": " And this is part of our identity as the church that is intended to bless the whole world."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:57,920",
+				"to": "00:38:05,080"
+			},
+			"offsets": {
+				"from": 2277920,
+				"to": 2285080
+			},
+			"text": " It's actually, it's the way in which we are intended to demonstrate,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,080",
+				"to": "00:38:08,600"
+			},
+			"offsets": {
+				"from": 2285080,
+				"to": 2288600
+			},
+			"text": " one of the primary ways we are intended to demonstrate what God is like to the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:08,600",
+				"to": "00:38:09,660"
+			},
+			"offsets": {
+				"from": 2288600,
+				"to": 2289660
+			},
+			"text": " Verse 19."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,660",
+				"to": "00:38:13,180"
+			},
+			"offsets": {
+				"from": 2290660,
+				"to": 2293180
+			},
+			"text": " Consequently, you are no longer foreigners and strangers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:13,180",
+				"to": "00:38:17,180"
+			},
+			"offsets": {
+				"from": 2293180,
+				"to": 2297180
+			},
+			"text": " but fellow citizens with God's people and also members of his household."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,180",
+				"to": "00:38:24,340"
+			},
+			"offsets": {
+				"from": 2297180,
+				"to": 2304340
+			},
+			"text": " Built on the foundation of the apostles and the prophets with Christ Jesus himself as the chief cornerstone."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:24,340",
+				"to": "00:38:30,960"
+			},
+			"offsets": {
+				"from": 2304340,
+				"to": 2310960
+			},
+			"text": " In him, the whole world is joined together and rises to become a holy temple in the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:30,960",
+				"to": "00:38:38,600"
+			},
+			"offsets": {
+				"from": 2310960,
+				"to": 2318600
+			},
+			"text": " And in him, you too are being built together to become a dwelling place in which God lives by his spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:39,100",
+				"to": "00:38:44,900"
+			},
+			"offsets": {
+				"from": 2319100,
+				"to": 2324900
+			},
+			"text": " In the old covenant, God's presence was limited to the temple."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,900",
+				"to": "00:38:49,080"
+			},
+			"offsets": {
+				"from": 2324900,
+				"to": 2329080
+			},
+			"text": " And it was limited to a group of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,080",
+				"to": "00:38:53,200"
+			},
+			"offsets": {
+				"from": 2329080,
+				"to": 2333200
+			},
+			"text": " You could only get so close if you were part of a certain group of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,200",
+				"to": "00:38:58,080"
+			},
+			"offsets": {
+				"from": 2333200,
+				"to": 2338080
+			},
+			"text": " And eventually, it was only one person once a year that could enter into the holy of holies."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,200",
+				"to": "00:39:03,180"
+			},
+			"offsets": {
+				"from": 2338200,
+				"to": 2343180
+			},
+			"text": " And in the new covenant, the church becomes the dwelling place of God on earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:03,180",
+				"to": "00:39:06,880"
+			},
+			"offsets": {
+				"from": 2343180,
+				"to": 2346880
+			},
+			"text": " This is not an individual thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:06,880",
+				"to": "00:39:08,220"
+			},
+			"offsets": {
+				"from": 2346880,
+				"to": 2348220
+			},
+			"text": " This is a corporate thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,220",
+				"to": "00:39:13,800"
+			},
+			"offsets": {
+				"from": 2348220,
+				"to": 2353800
+			},
+			"text": " When we come together to worship, when we bring our culture, when we bring our ethnicity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:13,800",
+				"to": "00:39:16,820"
+			},
+			"offsets": {
+				"from": 2353800,
+				"to": 2356820
+			},
+			"text": " when we bring our gender, when we bring who we are,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,820",
+				"to": "00:39:23,180"
+			},
+			"offsets": {
+				"from": 2356820,
+				"to": 2363180
+			},
+			"text": " when we bring the image of God in us together under the blood of Jesus around one table,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,380",
+				"to": "00:39:27,760"
+			},
+			"offsets": {
+				"from": 2363380,
+				"to": 2367760
+			},
+			"text": " this images what heaven is like on earth until he comes."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:27,760",
+				"to": "00:39:36,000"
+			},
+			"offsets": {
+				"from": 2367760,
+				"to": 2376000
+			},
+			"text": " In large part, the multi-ethnic socioeconomic diversity of the church"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,000",
+				"to": "00:39:39,760"
+			},
+			"offsets": {
+				"from": 2376000,
+				"to": 2379760
+			},
+			"text": " is what's intended to show the world what the kingdom of heaven looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,400",
+				"to": "00:39:47,240"
+			},
+			"offsets": {
+				"from": 2381400,
+				"to": 2387240
+			},
+			"text": " The cultural and ethnic diversity of the early church would have blown the minds of every average Roman citizen."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:47,240",
+				"to": "00:39:52,220"
+			},
+			"offsets": {
+				"from": 2387240,
+				"to": 2392220
+			},
+			"text": " They would have walked past the table of Jews and Gentiles, slaves and free,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,220",
+				"to": "00:39:59,100"
+			},
+			"offsets": {
+				"from": 2394220,
+				"to": 2399100
+			},
+			"text": " breaking bread and drinking wine in remembrance of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:59,100",
+				"to": "00:40:02,540"
+			},
+			"offsets": {
+				"from": 2399100,
+				"to": 2402540
+			},
+			"text": " And they would have said, what kind of strange people are these?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,540",
+				"to": "00:40:12,860"
+			},
+			"offsets": {
+				"from": 2402540,
+				"to": 2412860
+			},
+			"text": " And I don't know that we can say the same thing about churches in America today."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:15,440",
+				"to": "00:40:21,280"
+			},
+			"offsets": {
+				"from": 2415440,
+				"to": 2421280
+			},
+			"text": " For the most part, I think it's much easier for us to worship with people who look like us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,280",
+				"to": "00:40:24,800"
+			},
+			"offsets": {
+				"from": 2421280,
+				"to": 2424800
+			},
+			"text": " talk like us, eat the same food we eat, sing the same songs we sing."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:24,800",
+				"to": "00:40:29,220"
+			},
+			"offsets": {
+				"from": 2424800,
+				"to": 2429220
+			},
+			"text": " And I think the reason that we've allowed ourselves to do that"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,220",
+				"to": "00:40:32,740"
+			},
+			"offsets": {
+				"from": 2429220,
+				"to": 2432740
+			},
+			"text": " is because we've made this horizontal aspect of our salvation secondary."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,740",
+				"to": "00:40:35,260"
+			},
+			"offsets": {
+				"from": 2432740,
+				"to": 2435260
+			},
+			"text": " We've said, maybe we'll get to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:35,260",
+				"to": "00:40:40,400"
+			},
+			"offsets": {
+				"from": 2435260,
+				"to": 2440400
+			},
+			"text": " Maybe as the world progresses and the world becomes more diverse, the church will."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,400",
+				"to": "00:40:43,440"
+			},
+			"offsets": {
+				"from": 2440400,
+				"to": 2443440
+			},
+			"text": " No, the church should be the leading edge of the sword"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,440",
+				"to": "00:40:49,120"
+			},
+			"offsets": {
+				"from": 2443440,
+				"to": 2449120
+			},
+			"text": " on multi-ethnic cultural reconciliation and worship and unity together."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:49,120",
+				"to": "00:40:52,400"
+			},
+			"offsets": {
+				"from": 2449120,
+				"to": 2452400
+			},
+			"text": " And I think we've obfuscated our responsibility to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,400",
+				"to": "00:40:59,160"
+			},
+			"offsets": {
+				"from": 2452400,
+				"to": 2459160
+			},
+			"text": " It's often been said that the most segregated time in America is Sunday morning"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,160",
+				"to": "00:41:04,660"
+			},
+			"offsets": {
+				"from": 2459160,
+				"to": 2464660
+			},
+			"text": " because it's just easier to go to church with people who look like us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:04,660",
+				"to": "00:41:08,320"
+			},
+			"offsets": {
+				"from": 2464660,
+				"to": 2468320
+			},
+			"text": " talk like us, vote like us, eat what we eat and sing what we sing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,400",
+				"to": "00:41:23,040"
+			},
+			"offsets": {
+				"from": 2470400,
+				"to": 2483040
+			},
+			"text": " I'm trying to decide how mean, no, mean is not the right word."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:23,040",
+				"to": "00:41:27,660"
+			},
+			"offsets": {
+				"from": 2483040,
+				"to": 2487660
+			},
+			"text": " I'm trying to decide how, whether to use the rod or the staff as your pastor this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,660",
+				"to": "00:41:34,480"
+			},
+			"offsets": {
+				"from": 2487660,
+				"to": 2494480
+			},
+			"text": " We're happy, many of us are happy to become a multi-ethnic church"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:34,480",
+				"to": "00:41:38,360"
+			},
+			"offsets": {
+				"from": 2494480,
+				"to": 2498360
+			},
+			"text": " as long as people from the other groups leave their unique glory at the door"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:38,360",
+				"to": "00:41:40,000"
+			},
+			"offsets": {
+				"from": 2498360,
+				"to": 2500000
+			},
+			"text": " and look like us when they walk in."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,400",
+				"to": "00:41:46,860"
+			},
+			"offsets": {
+				"from": 2500400,
+				"to": 2506860
+			},
+			"text": " And I think in many ways, this is why the world around us isn't that interested in what we're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,860",
+				"to": "00:41:57,600"
+			},
+			"offsets": {
+				"from": 2506860,
+				"to": 2517600
+			},
+			"text": " And again, I think it's because we've made the horizontal reconciliation to one another secondary."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:57,600",
+				"to": "00:42:00,500"
+			},
+			"offsets": {
+				"from": 2517600,
+				"to": 2520500
+			},
+			"text": " We've made it a thing that we'll get to in the discipleship process."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:00,500",
+				"to": "00:42:02,020"
+			},
+			"offsets": {
+				"from": 2520500,
+				"to": 2522020
+			},
+			"text": " It is a part of our salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:02,020",
+				"to": "00:42:04,320"
+			},
+			"offsets": {
+				"from": 2522020,
+				"to": 2524320
+			},
+			"text": " God hasn't just redeemed us to himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:04,320",
+				"to": "00:42:06,080"
+			},
+			"offsets": {
+				"from": 2524320,
+				"to": 2526080
+			},
+			"text": " He has reconciled us to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:06,080",
+				"to": "00:42:10,960"
+			},
+			"offsets": {
+				"from": 2526080,
+				"to": 2530960
+			},
+			"text": " And if we don't live into that value, we are not embodying the identity of a Christ follower."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:10,960",
+				"to": "00:42:18,100"
+			},
+			"offsets": {
+				"from": 2530960,
+				"to": 2538100
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,100",
+				"to": "00:42:18,820"
+			},
+			"offsets": {
+				"from": 2538100,
+				"to": 2538820
+			},
+			"text": " That was the rod."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:18,820",
+				"to": "00:42:20,420"
+			},
+			"offsets": {
+				"from": 2538820,
+				"to": 2540420
+			},
+			"text": " Now, the staff."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,420",
+				"to": "00:42:27,700"
+			},
+			"offsets": {
+				"from": 2540420,
+				"to": 2547700
+			},
+			"text": " And I'm preaching to myself, by the way."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:27,780",
+				"to": "00:42:39,160"
+			},
+			"offsets": {
+				"from": 2547780,
+				"to": 2559160
+			},
+			"text": " We won't solve this problem with a single sermon."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,160",
+				"to": "00:42:46,360"
+			},
+			"offsets": {
+				"from": 2559160,
+				"to": 2566360
+			},
+			"text": " It is a 2,000-year-old problem that Peter, one of the apostles and prophets that Christ built his church on, struggled with."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:47,380",
+				"to": "00:42:52,800"
+			},
+			"offsets": {
+				"from": 2567380,
+				"to": 2572800
+			},
+			"text": " Peter had been told from Jesus, eat the bacon, sit at the table with your Gentile brothers."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:52,800",
+				"to": "00:42:58,520"
+			},
+			"offsets": {
+				"from": 2572800,
+				"to": 2578520
+			},
+			"text": " And he did it for a while until some of his rich Jewish friends who supported his ministry were in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,520",
+				"to": "00:43:00,280"
+			},
+			"offsets": {
+				"from": 2578520,
+				"to": 2580280
+			},
+			"text": " And he was like, you guys are eating bacon?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,280",
+				"to": "00:43:02,640"
+			},
+			"offsets": {
+				"from": 2580280,
+				"to": 2582640
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:02,640",
+				"to": "00:43:07,640"
+			},
+			"offsets": {
+				"from": 2582640,
+				"to": 2587640
+			},
+			"text": " It's a 2,000-year-old problem that we will not fix in one sermon."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,900",
+				"to": "00:43:10,300"
+			},
+			"offsets": {
+				"from": 2587900,
+				"to": 2590300
+			},
+			"text": " And I'm not sure what the systematic solution is."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:10,300",
+				"to": "00:43:12,320"
+			},
+			"offsets": {
+				"from": 2590300,
+				"to": 2592320
+			},
+			"text": " And I don't know that I'm qualified to come up with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:12,320",
+				"to": "00:43:17,440"
+			},
+			"offsets": {
+				"from": 2592320,
+				"to": 2597440
+			},
+			"text": " But one thing that we can all do as individuals is be more curious and less certain."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:17,440",
+				"to": "00:43:23,340"
+			},
+			"offsets": {
+				"from": 2597440,
+				"to": 2603340
+			},
+			"text": " And when you talk to a brother and sister in Christ who comes from a different place than you came from,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,340",
+				"to": "00:43:28,180"
+			},
+			"offsets": {
+				"from": 2603340,
+				"to": 2608180
+			},
+			"text": " who has different perspectives than you have, who speaks a different language than you speak,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:30,800",
+				"to": "00:43:33,860"
+			},
+			"offsets": {
+				"from": 2610800,
+				"to": 2613860
+			},
+			"text": " And it might be the same words with different vernacular."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:33,860",
+				"to": "00:43:41,580"
+			},
+			"offsets": {
+				"from": 2613860,
+				"to": 2621580
+			},
+			"text": " You can put to death the assumption that your perspective is 100% right and somehow better than theirs."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,580",
+				"to": "00:43:51,280"
+			},
+			"offsets": {
+				"from": 2621580,
+				"to": 2631280
+			},
+			"text": " We can put to death the perspective that our ethnicity is the primary home team of the kingdom of God because it is not."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:53,880",
+				"to": "00:44:01,060"
+			},
+			"offsets": {
+				"from": 2633880,
+				"to": 2641060
+			},
+			"text": " And we can ask God, what might you want to teach me about your multi-ethnic kingdom through this person that is so different than me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:01,060",
+				"to": "00:44:10,840"
+			},
+			"offsets": {
+				"from": 2641060,
+				"to": 2650840
+			},
+			"text": " Ephesians 2 is about the power of God to redeem a sinful humanity that is separated from him through the blood of Christ"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:10,840",
+				"to": "00:44:12,860"
+			},
+			"offsets": {
+				"from": 2650840,
+				"to": 2652860
+			},
+			"text": " and to reconcile us to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:12,860",
+				"to": "00:44:16,640"
+			},
+			"offsets": {
+				"from": 2652860,
+				"to": 2656640
+			},
+			"text": " Into one unified and multi-ethnic family."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:16,640",
+				"to": "00:44:22,800"
+			},
+			"offsets": {
+				"from": 2656640,
+				"to": 2662800
+			},
+			"text": " Both are necessary for us to embody the identity of the church on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:23,720",
+				"to": "00:44:34,840"
+			},
+			"offsets": {
+				"from": 2663720,
+				"to": 2674840
+			},
+			"text": " And my fear is, like Rory, we've been so focused at one or the other that we've lost our identity as both the redeemed and the reconciled people of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:34,840",
+				"to": "00:44:39,200"
+			},
+			"offsets": {
+				"from": 2674840,
+				"to": 2679200
+			},
+			"text": " That we're either steering or peddling, but we're not doing both."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:39,200",
+				"to": "00:44:48,240"
+			},
+			"offsets": {
+				"from": 2679200,
+				"to": 2688240
+			},
+			"text": " I don't know if you've noticed this or not, you probably have."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:48,240",
+				"to": "00:44:53,540"
+			},
+			"offsets": {
+				"from": 2688240,
+				"to": 2693540
+			},
+			"text": " There are many non-Christians who are drawn to the horizontal teachings of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:53,720",
+				"to": "00:45:10,340"
+			},
+			"offsets": {
+				"from": 2693720,
+				"to": 2710340
+			},
+			"text": " And who are looking for ways to themselves embody the kingdom of heaven on earth, but they are doing it apart from the power of God, apart from the work of the Holy Spirit, apart from bowing their knee to Jesus, apart from being raised above the principalities and powers of this earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,340",
+				"to": "00:45:14,420"
+			},
+			"offsets": {
+				"from": 2710340,
+				"to": 2714420
+			},
+			"text": " So they're trying to get the values of the kingdom of God in an earthly way."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:14,420",
+				"to": "00:45:17,660"
+			},
+			"offsets": {
+				"from": 2714420,
+				"to": 2717660
+			},
+			"text": " It's part of the reason our politics are so horrible."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:18,820",
+				"to": "00:45:25,620"
+			},
+			"offsets": {
+				"from": 2718820,
+				"to": 2725620
+			},
+			"text": " Because both parties are trying to do the thing that Jesus wanted us to do, but do it while treating each other like enemies."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,260",
+				"to": "00:45:46,320"
+			},
+			"offsets": {
+				"from": 2736260,
+				"to": 2746320
+			},
+			"text": " And I think the reason that they're so focused on doing it themselves with their thoughts is because we haven't really taken ownership of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:46,320",
+				"to": "00:45:47,420"
+			},
+			"offsets": {
+				"from": 2746320,
+				"to": 2747420
+			},
+			"text": " We've made it a secondary thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,420",
+				"to": "00:45:54,900"
+			},
+			"offsets": {
+				"from": 2747420,
+				"to": 2754900
+			},
+			"text": " My prayer for the church in this generation is that we would embody the holistic identity of the redeemed and reconciled family of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:54,900",
+				"to": "00:46:03,620"
+			},
+			"offsets": {
+				"from": 2754900,
+				"to": 2763620
+			},
+			"text": " And that in doing so, the world would see us being built together into the dwelling place of God through his Holy Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:06,260",
+				"to": "00:46:11,140"
+			},
+			"offsets": {
+				"from": 2766260,
+				"to": 2771140
+			},
+			"text": " I asked the band to come back up and play some of Re-Surrender again."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:11,140",
+				"to": "00:46:27,360"
+			},
+			"offsets": {
+				"from": 2771140,
+				"to": 2787360
+			},
+			"text": " It's funny, I went into the website we use to plan our services, and I was going to ask our worship leader if they could change one of the songs to a song that had plural language in it."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:27,360",
+				"to": "00:46:32,860"
+			},
+			"offsets": {
+				"from": 2787360,
+				"to": 2792860
+			},
+			"text": " Because I think even in our worship, we sing these songs, I this, I that, I this, I that."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:32,860",
+				"to": "00:46:39,340"
+			},
+			"offsets": {
+				"from": 2792860,
+				"to": 2799340
+			},
+			"text": " And it's not that that's bad or wrong, but much of the scripture is we this, we that, that we together."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:39,340",
+				"to": "00:46:46,300"
+			},
+			"offsets": {
+				"from": 2799340,
+				"to": 2806300
+			},
+			"text": " And before I could even text Liz, she already had this song put in here."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:46,300",
+				"to": "00:46:49,280"
+			},
+			"offsets": {
+				"from": 2806300,
+				"to": 2809280
+			},
+			"text": " Re-Surrender is just all of this corporate language."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:53,540",
+				"to": "00:46:58,940"
+			},
+			"offsets": {
+				"from": 2813540,
+				"to": 2818940
+			},
+			"text": " That we together need revival and renewal."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:58,940",
+				"to": "00:47:05,120"
+			},
+			"offsets": {
+				"from": 2818940,
+				"to": 2825120
+			},
+			"text": " That not, there's no one person in this room that can fix the multi-ethnic problem in the church in America."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:05,120",
+				"to": "00:47:11,220"
+			},
+			"offsets": {
+				"from": 2825120,
+				"to": 2831220
+			},
+			"text": " We together need to be a people that are more curious and less certain."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:11,220",
+				"to": "00:47:14,760"
+			},
+			"offsets": {
+				"from": 2831220,
+				"to": 2834760
+			},
+			"text": " That are more humble and less proud."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:16,620",
+				"to": "00:47:19,380"
+			},
+			"offsets": {
+				"from": 2836620,
+				"to": 2839380
+			},
+			"text": " We need re-surrender."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:19,380",
+				"to": "00:47:24,260"
+			},
+			"offsets": {
+				"from": 2839380,
+				"to": 2844260
+			},
+			"text": " There's a line in the song, you're turning over tables."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:24,260",
+				"to": "00:47:30,440"
+			},
+			"offsets": {
+				"from": 2844260,
+				"to": 2850440
+			},
+			"text": " In reference to the time Jesus flipped the tables and got a whip out."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:30,440",
+				"to": "00:47:35,100"
+			},
+			"offsets": {
+				"from": 2850440,
+				"to": 2855100
+			},
+			"text": " And oftentimes we focus on Jesus rebuking the religious leaders."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:35,100",
+				"to": "00:47:36,740"
+			},
+			"offsets": {
+				"from": 2855100,
+				"to": 2856740
+			},
+			"text": " He's rebuking the religious people."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:38,200",
+				"to": "00:47:42,800"
+			},
+			"offsets": {
+				"from": 2858200,
+				"to": 2862800
+			},
+			"text": " But why is he rebuking the religious people when he flips tables and makes a whip?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,800",
+				"to": "00:47:51,400"
+			},
+			"offsets": {
+				"from": 2862800,
+				"to": 2871400
+			},
+			"text": " Because they had set up a store in the court of the Gentiles."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:51,400",
+				"to": "00:47:53,400"
+			},
+			"offsets": {
+				"from": 2871400,
+				"to": 2873400
+			},
+			"text": " In the temple of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:53,400",
+				"to": "00:48:00,180"
+			},
+			"offsets": {
+				"from": 2873400,
+				"to": 2880180
+			},
+			"text": " Israel had become so focused on Israel that they had forgot that their purpose was to bless the whole world."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:00,860",
+				"to": "00:48:07,440"
+			},
+			"offsets": {
+				"from": 2880860,
+				"to": 2887440
+			},
+			"text": " And they had used the place that was supposed to be the invitation for the Gentiles who were separated from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:07,440",
+				"to": "00:48:08,460"
+			},
+			"offsets": {
+				"from": 2887440,
+				"to": 2888460
+			},
+			"text": " Under God's wrath."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:08,460",
+				"to": "00:48:12,060"
+			},
+			"offsets": {
+				"from": 2888460,
+				"to": 2892060
+			},
+			"text": " It was supposed to be their place where they could come and discover who God was like."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:12,060",
+				"to": "00:48:14,240"
+			},
+			"offsets": {
+				"from": 2892060,
+				"to": 2894240
+			},
+			"text": " And they could pray to the one true God."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:14,240",
+				"to": "00:48:18,320"
+			},
+			"offsets": {
+				"from": 2894240,
+				"to": 2898320
+			},
+			"text": " They could leave their idols at the door and come into the temple of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:18,320",
+				"to": "00:48:23,000"
+			},
+			"offsets": {
+				"from": 2898320,
+				"to": 2903000
+			},
+			"text": " And Israel made it a store."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:25,560",
+				"to": "00:48:33,040"
+			},
+			"offsets": {
+				"from": 2905560,
+				"to": 2913040
+			},
+			"text": " Jesus says, isn't it written that my house is to be a house of prayer for all the nations?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:33,040",
+				"to": "00:48:37,100"
+			},
+			"offsets": {
+				"from": 2913040,
+				"to": 2917100
+			},
+			"text": " God, we need to resurrender."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:37,100",
+				"to": "00:48:45,320"
+			},
+			"offsets": {
+				"from": 2917100,
+				"to": 2925320
+			},
+			"text": " Father, I know this message was likely heavy for a lot of us, very heavy for myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:45,320",
+				"to": "00:48:48,760"
+			},
+			"offsets": {
+				"from": 2925320,
+				"to": 2928760
+			},
+			"text": " I have not lived this value well."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:52,180",
+				"to": "00:48:57,320"
+			},
+			"offsets": {
+				"from": 2932180,
+				"to": 2937320
+			},
+			"text": " I am more comfortable being around people that look like me and talk like me and vote like me."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:57,320",
+				"to": "00:49:16,400"
+			},
+			"offsets": {
+				"from": 2937320,
+				"to": 2956400
+			},
+			"text": " I am more comfortable talking about the intellectual, theological realities of my salvation more than the boots on the ground, shoulder to shoulder, life on life aspects of my salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:20,760",
+				"to": "00:49:29,640"
+			},
+			"offsets": {
+				"from": 2960760,
+				"to": 2969640
+			},
+			"text": " God, may we be a church that embrace our identity as both redeemed and reconciled."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:29,640",
+				"to": "00:49:38,260"
+			},
+			"offsets": {
+				"from": 2969640,
+				"to": 2978260
+			},
+			"text": " Both made right with you and with one another by your power through your blood."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:41,040",
+				"to": "00:49:45,900"
+			},
+			"offsets": {
+				"from": 2981040,
+				"to": 2985900
+			},
+			"text": " You have raised us above the ruling powers of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:45,900",
+				"to": "00:49:52,140"
+			},
+			"offsets": {
+				"from": 2985900,
+				"to": 2992140
+			},
+			"text": " We no longer have to be enslaved to hating our enemies."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:52,140",
+				"to": "00:49:57,460"
+			},
+			"offsets": {
+				"from": 2992140,
+				"to": 2997460
+			},
+			"text": " Only praying for those we like."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:57,460",
+				"to": "00:50:05,800"
+			},
+			"offsets": {
+				"from": 2997460,
+				"to": 3005800
+			},
+			"text": " We've been invited to follow the example of Jesus and to lay down our lives for our enemies."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:07,540",
+				"to": "00:50:11,120"
+			},
+			"offsets": {
+				"from": 3007540,
+				"to": 3011120
+			},
+			"text": " So that the world may see what heaven is like until you return."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:11,120",
+				"to": "00:50:13,160"
+			},
+			"offsets": {
+				"from": 3011120,
+				"to": 3013160
+			},
+			"text": " God, purify your church."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:13,160",
+				"to": "00:50:14,960"
+			},
+			"offsets": {
+				"from": 3013160,
+				"to": 3014960
+			},
+			"text": " In Jesus' name we pray."
+		}
+	]
+}

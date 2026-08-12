@@ -1,0 +1,5543 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " *music*"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 59980
+			},
+			"text": " From preaching so we might be here a while, just kidding, I'm just kidding mostly, we got to beat the Methodists to Mother's Day restaurants, alright, I don't know why the Methodists got astray there, that's not fair, we are in week two of a series on the book of Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,620",
+				"to": "00:01:20,360"
+			},
+			"offsets": {
+				"from": 60620,
+				"to": 80360
+			},
+			"text": " And I think Jonah for many of us is a familiar story, but as somebody who grew up in the church and have heard the story of Jonah over and over again as I've studied the text, I want to make the argument that I think the story of Jonah is familiar, but the text of Scripture called the book of Jonah is far less familiar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,020",
+				"to": "00:01:37,640"
+			},
+			"offsets": {
+				"from": 81020,
+				"to": 97640
+			},
+			"text": " It is a complex and sophisticated text filled with irony, confusing words and phrases, there's so much to be mined in the book of Jonah that we often miss because we've heard the story so many times that we think we're familiar with it, that we just breeze past it rather than study it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,640",
+				"to": "00:01:48,260"
+			},
+			"offsets": {
+				"from": 97640,
+				"to": 108260
+			},
+			"text": " And Kent did a really good job last week of talking about all of the different challenging parts of the text and ways in which the text really is communicating so much and just the way that it's structured."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,260",
+				"to": "00:02:00,260"
+			},
+			"offsets": {
+				"from": 108260,
+				"to": 120260
+			},
+			"text": " And I think as Western intellectuals, we have a way of looking at some of these ancient texts with kind of our nose up at them and we try and explain away some things that seem confusing to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,880",
+				"to": "00:02:06,140"
+			},
+			"offsets": {
+				"from": 120880,
+				"to": 126140
+			},
+			"text": " Anything where it's like out of place, it's like, oh, well, they just didn't know how the world worked."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,140",
+				"to": "00:02:08,920"
+			},
+			"offsets": {
+				"from": 126140,
+				"to": 128920
+			},
+			"text": " And it's like, no, this is the Scriptures."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,920",
+				"to": "00:02:10,800"
+			},
+			"offsets": {
+				"from": 128920,
+				"to": 130800
+			},
+			"text": " It is from God through humans."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,800",
+				"to": "00:02:16,120"
+			},
+			"offsets": {
+				"from": 130800,
+				"to": 136120
+			},
+			"text": " It is an extremely clear and sophisticated text that is even communicating to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,120",
+				"to": "00:02:23,140"
+			},
+			"offsets": {
+				"from": 136120,
+				"to": 143140
+			},
+			"text": " When things look out of place, we as Westerners, we try and explain it away and come up with a really clean answer for why it's written the way that it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,140",
+				"to": "00:02:27,360"
+			},
+			"offsets": {
+				"from": 143140,
+				"to": 147360
+			},
+			"text": " And we have to realize that we're actually interacting with an Eastern text."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,360",
+				"to": "00:02:36,820"
+			},
+			"offsets": {
+				"from": 147360,
+				"to": 156820
+			},
+			"text": " And when Easterners come across problems in a text like the Scripture, their solution is not to just explain it away or come up with a clear and clean answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,820",
+				"to": "00:02:47,640"
+			},
+			"offsets": {
+				"from": 156820,
+				"to": 167640
+			},
+			"text": " Their solution is actually to search out the inconsistencies, search out the confusing parts, because there's something in the confusion that the author is inviting us deeper into."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,640",
+				"to": "00:02:49,400"
+			},
+			"offsets": {
+				"from": 167640,
+				"to": 169400
+			},
+			"text": " The rabbis actually have a phrase for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,400",
+				"to": "00:02:50,360"
+			},
+			"offsets": {
+				"from": 169400,
+				"to": 170360
+			},
+			"text": " It's called darshene."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,360",
+				"to": "00:02:51,160"
+			},
+			"offsets": {
+				"from": 170360,
+				"to": 171160
+			},
+			"text": " Can you say that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,160",
+				"to": "00:02:53,100"
+			},
+			"offsets": {
+				"from": 171160,
+				"to": 173100
+			},
+			"text": " I might be pronouncing it wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,100",
+				"to": "00:02:53,760"
+			},
+			"offsets": {
+				"from": 173100,
+				"to": 173760
+			},
+			"text": " That's okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,760",
+				"to": "00:02:55,980"
+			},
+			"offsets": {
+				"from": 173760,
+				"to": 175980
+			},
+			"text": " It literally means search me out."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,980",
+				"to": "00:03:00,480"
+			},
+			"offsets": {
+				"from": 175980,
+				"to": 180480
+			},
+			"text": " It's like when we're in the Hebrew text and we come across a problem in the text."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,480",
+				"to": "00:03:06,000"
+			},
+			"offsets": {
+				"from": 180480,
+				"to": 186000
+			},
+			"text": " And I know as good American Christians who believe in the sufficiency of Scripture, we would say there's no problems in the text."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,000",
+				"to": "00:03:08,800"
+			},
+			"offsets": {
+				"from": 186000,
+				"to": 188800
+			},
+			"text": " There's lots of problems in the text."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,800",
+				"to": "00:03:14,520"
+			},
+			"offsets": {
+				"from": 188800,
+				"to": 194520
+			},
+			"text": " And the problems in the text are an invitation to a lifetime of meditation on the character of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,520",
+				"to": "00:03:23,280"
+			},
+			"offsets": {
+				"from": 194520,
+				"to": 203280
+			},
+			"text": " I don't know how long it took me to realize that the people of God, the Israelites, were literally named after this pursuit."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,280",
+				"to": "00:03:26,400"
+			},
+			"offsets": {
+				"from": 203280,
+				"to": 206400
+			},
+			"text": " Israel literally means he who wrestles with God."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,400",
+				"to": "00:03:34,860"
+			},
+			"offsets": {
+				"from": 206400,
+				"to": 214860
+			},
+			"text": " And so I want to make the argument over the next couple of weeks, and I think Kent started us off really well, that the book of Jonah is a book that we're to be wrestling with."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,860",
+				"to": "00:03:42,100"
+			},
+			"offsets": {
+				"from": 214860,
+				"to": 222100
+			},
+			"text": " It's an invitation for us to really think about what God might want to teach us in his word."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,880",
+				"to": "00:03:45,320"
+			},
+			"offsets": {
+				"from": 222880,
+				"to": 225320
+			},
+			"text": " And I just, I want to say this up front."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,320",
+				"to": "00:03:55,120"
+			},
+			"offsets": {
+				"from": 225320,
+				"to": 235120
+			},
+			"text": " For those of you that might be getting stuck on the historicity of whether or not a real human got swallowed by a real whale, like, I might get fired for this."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,520",
+				"to": "00:04:03,740"
+			},
+			"offsets": {
+				"from": 237520,
+				"to": 243740
+			},
+			"text": " You can believe that it's a literary story meant to teach us things and be a good Christian."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,740",
+				"to": "00:04:12,400"
+			},
+			"offsets": {
+				"from": 243740,
+				"to": 252400
+			},
+			"text": " So if, like, you're, we believe in a resurrected Savior, so I think the thought of somebody living in a whale for a couple days is not that hard to, like, wrap our heads around."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,900",
+				"to": "00:04:15,600"
+			},
+			"offsets": {
+				"from": 252900,
+				"to": 255600
+			},
+			"text": " So both options are legitimate and valid."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,600",
+				"to": "00:04:19,900"
+			},
+			"offsets": {
+				"from": 255600,
+				"to": 259900
+			},
+			"text": " But if you're so stuck on that that you can't hear the rest of the story, I just want to give you permission right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,900",
+				"to": "00:04:21,080"
+			},
+			"offsets": {
+				"from": 259900,
+				"to": 261080
+			},
+			"text": " Take a deep breath."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,080",
+				"to": "00:04:28,480"
+			},
+			"offsets": {
+				"from": 261080,
+				"to": 268480
+			},
+			"text": " You can still be a good Christian and believe that this book was a story written to God's people to teach them spiritual truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,480",
+				"to": "00:04:30,320"
+			},
+			"offsets": {
+				"from": 268480,
+				"to": 270320
+			},
+			"text": " Cool."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,320",
+				"to": "00:04:30,800"
+			},
+			"offsets": {
+				"from": 270320,
+				"to": 270800
+			},
+			"text": " You good?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,400",
+				"to": "00:04:32,380"
+			},
+			"offsets": {
+				"from": 271400,
+				"to": 272380
+			},
+			"text": " Am I fired yet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,380",
+				"to": "00:04:34,560"
+			},
+			"offsets": {
+				"from": 272380,
+				"to": 274560
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,560",
+				"to": "00:04:35,060"
+			},
+			"offsets": {
+				"from": 274560,
+				"to": 275060
+			},
+			"text": " We'll see."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,060",
+				"to": "00:04:36,360"
+			},
+			"offsets": {
+				"from": 275060,
+				"to": 276360
+			},
+			"text": " We'll see."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,360",
+				"to": "00:04:36,640"
+			},
+			"offsets": {
+				"from": 276360,
+				"to": 276640
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,640",
+				"to": "00:04:40,900"
+			},
+			"offsets": {
+				"from": 276640,
+				"to": 280900
+			},
+			"text": " Jonah is a small book filled with a lifetime's worth of reflection and meditation."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,900",
+				"to": "00:04:45,700"
+			},
+			"offsets": {
+				"from": 280900,
+				"to": 285700
+			},
+			"text": " And the reason is because the story, the book of Jonah, isn't actually about a big fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,700",
+				"to": "00:04:47,720"
+			},
+			"offsets": {
+				"from": 285700,
+				"to": 287720
+			},
+			"text": " Kent said that last week."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,720",
+				"to": "00:04:49,020"
+			},
+			"offsets": {
+				"from": 287720,
+				"to": 289020
+			},
+			"text": " It's not about the city of Nineveh."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,020",
+				"to": "00:04:50,600"
+			},
+			"offsets": {
+				"from": 289020,
+				"to": 290600
+			},
+			"text": " It's not even about the prophet Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,600",
+				"to": "00:04:52,660"
+			},
+			"offsets": {
+				"from": 290600,
+				"to": 292660
+			},
+			"text": " It's about you and me."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,660",
+				"to": "00:04:56,880"
+			},
+			"offsets": {
+				"from": 292660,
+				"to": 296880
+			},
+			"text": " It's about our perspective on God's world and God's character."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,880",
+				"to": "00:05:11,980"
+			},
+			"offsets": {
+				"from": 296880,
+				"to": 311980
+			},
+			"text": " It forces us to wrestle with whether or not we're okay with a God who is compassionate and gracious, slow to anger and abounding in love and faithfulness both to us and to the worst people on the planet."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,980",
+				"to": "00:05:22,740"
+			},
+			"offsets": {
+				"from": 311980,
+				"to": 322740
+			},
+			"text": " To those that we would look upon with disdain and say they are not worthy of God's grace and compassion and forgiveness, but I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,740",
+				"to": "00:05:30,980"
+			},
+			"offsets": {
+				"from": 322740,
+				"to": 330980
+			},
+			"text": " The book of Jonah is about wrestling with that reality and who are the people that we have deemed unworthy of God's forgiveness and his grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,980",
+				"to": "00:05:41,420"
+			},
+			"offsets": {
+				"from": 330980,
+				"to": 341420
+			},
+			"text": " And where do we act like Jonah towards a group of people that we have said they are unworthy of the God who is compassionate and gracious, slow to anger and abounding in steadfast love."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,080",
+				"to": "00:05:56,220"
+			},
+			"offsets": {
+				"from": 342080,
+				"to": 356220
+			},
+			"text": " And I don't think there's a better text than all of the scriptures to confront our current cultural moment, which is highly individualistic and charged with prideful, ideological, and nationalistic groups that are at odds with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,180",
+				"to": "00:06:08,700"
+			},
+			"offsets": {
+				"from": 357180,
+				"to": 368700
+			},
+			"text": " And force us to view one another as enemies unworthy of God's grace and force ourselves to put ourselves on soapboxes where we are more worthy than others of the grace and forgiveness of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,700",
+				"to": "00:06:14,740"
+			},
+			"offsets": {
+				"from": 368700,
+				"to": 374740
+			},
+			"text": " So we might just preach the book of Jonah every year from now until whenever you guys do fire me."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,620",
+				"to": "00:06:21,680"
+			},
+			"offsets": {
+				"from": 376620,
+				"to": 381680
+			},
+			"text": " But for now, let's just go ahead and pray and dive into Jonah chapter 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,680",
+				"to": "00:06:25,340"
+			},
+			"offsets": {
+				"from": 381680,
+				"to": 385340
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,340",
+				"to": "00:06:25,980"
+			},
+			"offsets": {
+				"from": 385340,
+				"to": 385980
+			},
+			"text": " Pun intended."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,980",
+				"to": "00:06:31,340"
+			},
+			"offsets": {
+				"from": 385980,
+				"to": 391340
+			},
+			"text": " We're going to dive into Jonah chapter 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,340",
+				"to": "00:06:33,420"
+			},
+			"offsets": {
+				"from": 391340,
+				"to": 393420
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,420",
+				"to": "00:06:33,900"
+			},
+			"offsets": {
+				"from": 393420,
+				"to": 393900
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,900",
+				"to": "00:06:34,320"
+			},
+			"offsets": {
+				"from": 393900,
+				"to": 394320
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,320",
+				"to": "00:06:37,580"
+			},
+			"offsets": {
+				"from": 394320,
+				"to": 397580
+			},
+			"text": " I'll be here all week."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,580",
+				"to": "00:06:38,240"
+			},
+			"offsets": {
+				"from": 397580,
+				"to": 398240
+			},
+			"text": " All right, let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,240",
+				"to": "00:06:40,000"
+			},
+			"offsets": {
+				"from": 398240,
+				"to": 400000
+			},
+			"text": " Lord, help us."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,000",
+				"to": "00:06:40,600"
+			},
+			"offsets": {
+				"from": 400000,
+				"to": 400600
+			},
+			"text": " We need to pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,600",
+				"to": "00:06:55,120"
+			},
+			"offsets": {
+				"from": 400600,
+				"to": 415120
+			},
+			"text": " Oh, Father, Jesus, Holy Spirit, God, we believe the scriptures are your word given to us through your people, and they are, there is a lifetime worth of meditation in these texts."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,120",
+				"to": "00:07:01,980"
+			},
+			"offsets": {
+				"from": 415120,
+				"to": 421980
+			},
+			"text": " Book of Psalms says that blessed is the one who meditates on the law of the Lord day and night."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,980",
+				"to": "00:07:09,380"
+			},
+			"offsets": {
+				"from": 421980,
+				"to": 429380
+			},
+			"text": " For that produces deep roots and fruitfulness and faithfulness in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,380",
+				"to": "00:07:28,440"
+			},
+			"offsets": {
+				"from": 431380,
+				"to": 448440
+			},
+			"text": " God, Holy Spirit, I pray against any spirit of self-righteousness in the room that is already translating the meaning of the text in a way in which allows us to keep believing the things that we believe and living the way that we live without you confronting the hypocrisy in our hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,440",
+				"to": "00:07:33,840"
+			},
+			"offsets": {
+				"from": 448440,
+				"to": 453840
+			},
+			"text": " So, God, I pray against the spirit of self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,880",
+				"to": "00:07:36,680"
+			},
+			"offsets": {
+				"from": 454880,
+				"to": 456680
+			},
+			"text": " I pray against the spirit of shame."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,860",
+				"to": "00:07:50,120"
+			},
+			"offsets": {
+				"from": 457860,
+				"to": 470120
+			},
+			"text": " Those who are in the room who feel like this is all well and good for some of us, but they've gone too far, they've strayed too far, that they're too far gone from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,120",
+				"to": "00:07:53,660"
+			},
+			"offsets": {
+				"from": 470120,
+				"to": 473660
+			},
+			"text": " I pray for, I pray against the spirit of shame, against the spirit of self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,700",
+				"to": "00:07:56,900"
+			},
+			"offsets": {
+				"from": 473700,
+				"to": 476900
+			},
+			"text": " And I pray that your scriptures will confront us where we are at."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,900",
+				"to": "00:08:01,840"
+			},
+			"offsets": {
+				"from": 476900,
+				"to": 481840
+			},
+			"text": " And Holy Spirit, you would give each one of us individual invitations into deeper communion with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,840",
+				"to": "00:08:05,260"
+			},
+			"offsets": {
+				"from": 481840,
+				"to": 485260
+			},
+			"text": " Because you are a good and loving father."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,260",
+				"to": "00:08:12,200"
+			},
+			"offsets": {
+				"from": 485260,
+				"to": 492200
+			},
+			"text": " And your desire is that all people who were created in your image might know you more and more."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,480",
+				"to": "00:08:17,280"
+			},
+			"offsets": {
+				"from": 493480,
+				"to": 497280
+			},
+			"text": " So that your kingdom might become more clear on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,280",
+				"to": "00:08:18,480"
+			},
+			"offsets": {
+				"from": 497280,
+				"to": 498480
+			},
+			"text": " It's in Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,480",
+				"to": "00:08:19,480"
+			},
+			"offsets": {
+				"from": 498480,
+				"to": 499480
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,480",
+				"to": "00:08:24,600"
+			},
+			"offsets": {
+				"from": 499480,
+				"to": 504600
+			},
+			"text": " If you want to follow along, we are going to be reading from Jonah chapter 2 when we get there."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,600",
+				"to": "00:08:29,500"
+			},
+			"offsets": {
+				"from": 504600,
+				"to": 509500
+			},
+			"text": " In 2020, does anybody want to revisit what happened in the years 2020?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,500",
+				"to": "00:08:31,420"
+			},
+			"offsets": {
+				"from": 509500,
+				"to": 511420
+			},
+			"text": " Me either."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,420",
+				"to": "00:08:36,220"
+			},
+			"offsets": {
+				"from": 511420,
+				"to": 516220
+			},
+			"text": " But in the year 2020, Netflix released a documentary called The Social Dilemma."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,220",
+				"to": "00:08:38,480"
+			},
+			"offsets": {
+				"from": 516220,
+				"to": 518480
+			},
+			"text": " Anybody watch this, The Social Dilemma?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,440",
+				"to": "00:08:44,880"
+			},
+			"offsets": {
+				"from": 519440,
+				"to": 524880
+			},
+			"text": " The Social Dilemma captured the cultural conversation of our time for a few months at least."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,880",
+				"to": "00:08:46,400"
+			},
+			"offsets": {
+				"from": 524880,
+				"to": 526400
+			},
+			"text": " Many of you have probably seen it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,400",
+				"to": "00:08:52,340"
+			},
+			"offsets": {
+				"from": 526400,
+				"to": 532340
+			},
+			"text": " And if you haven't seen it, you've likely been exposed to the primary thesis of the documentary, whether you know it or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,340",
+				"to": "00:08:57,360"
+			},
+			"offsets": {
+				"from": 532340,
+				"to": 537360
+			},
+			"text": " This documentary was made by a lot of people who were involved in high-level tech company jobs."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,360",
+				"to": "00:09:04,080"
+			},
+			"offsets": {
+				"from": 537360,
+				"to": 544080
+			},
+			"text": " And the thesis of the documentary was that tech companies have employed the smartest people in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,080",
+				"to": "00:09:11,920"
+			},
+			"offsets": {
+				"from": 544080,
+				"to": 551920
+			},
+			"text": " And they have spent billions and billions and billions of dollars."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,920",
+				"to": "00:09:13,880"
+			},
+			"offsets": {
+				"from": 551920,
+				"to": 553880
+			},
+			"text": " You guys are not laughing at my jokes today."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,880",
+				"to": "00:09:14,260"
+			},
+			"offsets": {
+				"from": 553880,
+				"to": 554260
+			},
+			"text": " It's okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,260",
+				"to": "00:09:23,060"
+			},
+			"offsets": {
+				"from": 554260,
+				"to": 563060
+			},
+			"text": " To create algorithms aimed at curating our feeds and our ads to keep us clicking, to keep us interested."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,060",
+				"to": "00:09:31,740"
+			},
+			"offsets": {
+				"from": 563060,
+				"to": 571740
+			},
+			"text": " And the things that they have realized that keep us the most interested is the things that make us angry and that reinforce our previously held beliefs."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:31,740",
+				"to": "00:09:38,840"
+			},
+			"offsets": {
+				"from": 571740,
+				"to": 578840
+			},
+			"text": " These algorithms, these algorithms, over time, they shrink our world down and cause us to stop seeing things with clarity."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,840",
+				"to": "00:09:45,860"
+			},
+			"offsets": {
+				"from": 578840,
+				"to": 585860
+			},
+			"text": " Because the majority of the content that you and I consume, and even if you're like, I'm not on social media, it's like, no, your phone is listening to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,380",
+				"to": "00:09:51,300"
+			},
+			"offsets": {
+				"from": 586380,
+				"to": 591300
+			},
+			"text": " And you're probably on the internet at some point in your life or YouTube."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,300",
+				"to": "00:09:54,160"
+			},
+			"offsets": {
+				"from": 591300,
+				"to": 594160
+			},
+			"text": " Those things are shrinking down your world."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,160",
+				"to": "00:10:01,780"
+			},
+			"offsets": {
+				"from": 594160,
+				"to": 601780
+			},
+			"text": " Because they are filtering all of the content that you see through your own self-interest."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,780",
+				"to": "00:10:07,080"
+			},
+			"offsets": {
+				"from": 601780,
+				"to": 607080
+			},
+			"text": " And they slowly, over time, have trained us to reinterpret the world through our own lenses."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,020",
+				"to": "00:10:15,760"
+			},
+			"offsets": {
+				"from": 609020,
+				"to": 615760
+			},
+			"text": " They force us into smaller and smaller ideological tribes filled with people who see the world as we see it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,760",
+				"to": "00:10:22,820"
+			},
+			"offsets": {
+				"from": 615760,
+				"to": 622820
+			},
+			"text": " And they cause us to look at disdain with anyone who is outside of the tribe that we have identified with."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,820",
+				"to": "00:10:30,720"
+			},
+			"offsets": {
+				"from": 622820,
+				"to": 630720
+			},
+			"text": " These algorithms, they cause us to stop seeing God's world God's way and start seeing God's world our way."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,620",
+				"to": "00:10:37,940"
+			},
+			"offsets": {
+				"from": 631620,
+				"to": 637940
+			},
+			"text": " Our reality is distorted, and it leads us to become more and more self-righteous and judgmental."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,940",
+				"to": "00:10:42,160"
+			},
+			"offsets": {
+				"from": 637940,
+				"to": 642160
+			},
+			"text": " Am I the only person in the room that feels the weight of what I'm talking about this morning?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,160",
+				"to": "00:10:52,720"
+			},
+			"offsets": {
+				"from": 642160,
+				"to": 652720
+			},
+			"text": " Many of us have, we've got broken relationships with family members because of algorithms created by billionaire tech companies"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:52,720",
+				"to": "00:11:00,000"
+			},
+			"offsets": {
+				"from": 652720,
+				"to": 660000
+			},
+			"text": " that have forced us to see the world through our own self-interest and our own self-focused lenses."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,000",
+				"to": "00:11:04,080"
+			},
+			"offsets": {
+				"from": 660000,
+				"to": 664080
+			},
+			"text": " And the reason I share this story is because I think by the time we get to Jonah chapter 2,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,080",
+				"to": "00:11:07,980"
+			},
+			"offsets": {
+				"from": 664080,
+				"to": 667980
+			},
+			"text": " this is the very perspective that the prophet Jonah has."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,980",
+				"to": "00:11:11,760"
+			},
+			"offsets": {
+				"from": 667980,
+				"to": 671760
+			},
+			"text": " This is where I believe we find Jonah at the beginning of our story."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,760",
+				"to": "00:11:17,180"
+			},
+			"offsets": {
+				"from": 671760,
+				"to": 677180
+			},
+			"text": " Many of the pop culture depictions of the book of Jonah would like you to think that Jonah was afraid"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,180",
+				"to": "00:11:21,640"
+			},
+			"offsets": {
+				"from": 677180,
+				"to": 681640
+			},
+			"text": " of what the Ninevites would do to him if he went and preached the word of God to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,640",
+				"to": "00:11:23,300"
+			},
+			"offsets": {
+				"from": 681640,
+				"to": 683300
+			},
+			"text": " But I don't see that anywhere in the text."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,300",
+				"to": "00:11:27,200"
+			},
+			"offsets": {
+				"from": 683300,
+				"to": 687200
+			},
+			"text": " What I actually see in the text is that Jonah actually hated the people of Nineveh."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,200",
+				"to": "00:11:28,920"
+			},
+			"offsets": {
+				"from": 687200,
+				"to": 688920
+			},
+			"text": " He wasn't afraid of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,920",
+				"to": "00:11:33,960"
+			},
+			"offsets": {
+				"from": 688920,
+				"to": 693960
+			},
+			"text": " He was more afraid of what God would do for them if he did the thing God asked him to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,960",
+				"to": "00:11:40,760"
+			},
+			"offsets": {
+				"from": 693960,
+				"to": 700760
+			},
+			"text": " And so what I think I see in the book of Jonah is not an afraid prophet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,760",
+				"to": "00:11:47,340"
+			},
+			"offsets": {
+				"from": 700760,
+				"to": 707340
+			},
+			"text": " but a self-righteous and judgmental prophet who is good with God extending grace to him and his people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,340",
+				"to": "00:11:50,400"
+			},
+			"offsets": {
+				"from": 707340,
+				"to": 710400
+			},
+			"text": " but not good with God extending grace to other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,640",
+				"to": "00:12:00,500"
+			},
+			"offsets": {
+				"from": 711640,
+				"to": 720500
+			},
+			"text": " And I do want to have a little bit of empathy for Jonah when we talk about this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,500",
+				"to": "00:12:05,700"
+			},
+			"offsets": {
+				"from": 720500,
+				"to": 725700
+			},
+			"text": " because the people of Nineveh were horrible people, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,700",
+				"to": "00:12:07,800"
+			},
+			"offsets": {
+				"from": 725700,
+				"to": 727800
+			},
+			"text": " Like, let's just get this out in the open."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,800",
+				"to": "00:12:16,520"
+			},
+			"offsets": {
+				"from": 727800,
+				"to": 736520
+			},
+			"text": " Like, God is asking a prophet of the people of God to go to the worst people on the planet at this time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,520",
+				"to": "00:12:19,900"
+			},
+			"offsets": {
+				"from": 736520,
+				"to": 739900
+			},
+			"text": " whose warfare was known throughout the world for being,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,900",
+				"to": "00:12:26,120"
+			},
+			"offsets": {
+				"from": 739900,
+				"to": 746120
+			},
+			"text": " like, I heard one scholar say that the Assyrians made the Romans look like child's play, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,120",
+				"to": "00:12:28,920"
+			},
+			"offsets": {
+				"from": 746120,
+				"to": 748920
+			},
+			"text": " Like, these are horrible, evil, wicked people."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,020",
+				"to": "00:12:32,220"
+			},
+			"offsets": {
+				"from": 749020,
+				"to": 752220
+			},
+			"text": " And so you can have a little bit of empathy for Jonah looking at God and saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,220",
+				"to": "00:12:34,360"
+			},
+			"offsets": {
+				"from": 752220,
+				"to": 754360
+			},
+			"text": " seriously, these people?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,360",
+				"to": "00:12:37,520"
+			},
+			"offsets": {
+				"from": 754360,
+				"to": 757520
+			},
+			"text": " So we've got a little bit of empathy here,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,520",
+				"to": "00:12:41,500"
+			},
+			"offsets": {
+				"from": 757520,
+				"to": 761500
+			},
+			"text": " but at the same time, God is confronting Jonah in this posture."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,500",
+				"to": "00:12:45,160"
+			},
+			"offsets": {
+				"from": 761500,
+				"to": 765160
+			},
+			"text": " And I think he wants to confront each and every one of us who have a similar posture"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,160",
+				"to": "00:12:49,800"
+			},
+			"offsets": {
+				"from": 765160,
+				"to": 769800
+			},
+			"text": " to a similar group of people who we have deemed unworthy of his grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,940",
+				"to": "00:12:54,500"
+			},
+			"offsets": {
+				"from": 770940,
+				"to": 774500
+			},
+			"text": " And Jonah here, at the beginning of the book,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,500",
+				"to": "00:12:57,560"
+			},
+			"offsets": {
+				"from": 774500,
+				"to": 777560
+			},
+			"text": " is standing in front of the tree of the knowledge of good and evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,560",
+				"to": "00:13:02,160"
+			},
+			"offsets": {
+				"from": 777560,
+				"to": 782160
+			},
+			"text": " And he is deciding that he would prefer to live in God's world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,160",
+				"to": "00:13:03,780"
+			},
+			"offsets": {
+				"from": 782160,
+				"to": 783780
+			},
+			"text": " but to find good and evil for himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,780",
+				"to": "00:13:07,500"
+			},
+			"offsets": {
+				"from": 783780,
+				"to": 787500
+			},
+			"text": " This is the story of the scriptures repeated over and over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,500",
+				"to": "00:13:11,620"
+			},
+			"offsets": {
+				"from": 787500,
+				"to": 791620
+			},
+			"text": " Jonah is confronted by God with a definition of what is good and true."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:11,620",
+				"to": "00:13:13,380"
+			},
+			"offsets": {
+				"from": 791620,
+				"to": 793380
+			},
+			"text": " And Jonah says, no, I want your world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,380",
+				"to": "00:13:16,680"
+			},
+			"offsets": {
+				"from": 793380,
+				"to": 796680
+			},
+			"text": " but I don't want you to get to define what is good and evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,680",
+				"to": "00:13:20,200"
+			},
+			"offsets": {
+				"from": 796680,
+				"to": 800200
+			},
+			"text": " He's standing in front of the tree of the knowledge of good and evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,220",
+				"to": "00:13:21,340"
+			},
+			"offsets": {
+				"from": 800220,
+				"to": 801340
+			},
+			"text": " And he says, no, God, I'm good."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,340",
+				"to": "00:13:23,620"
+			},
+			"offsets": {
+				"from": 801340,
+				"to": 803620
+			},
+			"text": " I will take your stuff and I will leave."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,620",
+				"to": "00:13:26,160"
+			},
+			"offsets": {
+				"from": 803620,
+				"to": 806160
+			},
+			"text": " So he leaves and he flees to a place called Tarshish,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,160",
+				"to": "00:13:28,280"
+			},
+			"offsets": {
+				"from": 806160,
+				"to": 808280
+			},
+			"text": " which is a really hard word to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,280",
+				"to": "00:13:30,100"
+			},
+			"offsets": {
+				"from": 808280,
+				"to": 810100
+			},
+			"text": " I've got to tell you, I've been practicing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,100",
+				"to": "00:13:31,800"
+			},
+			"offsets": {
+				"from": 810100,
+				"to": 811800
+			},
+			"text": " And I think I nailed it that time."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,800",
+				"to": "00:13:34,900"
+			},
+			"offsets": {
+				"from": 811800,
+				"to": 814900
+			},
+			"text": " But don't expect it to happen again."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,900",
+				"to": "00:13:38,860"
+			},
+			"offsets": {
+				"from": 814900,
+				"to": 818860
+			},
+			"text": " Tarshish, which in the biblical text,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,860",
+				"to": "00:13:42,100"
+			},
+			"offsets": {
+				"from": 818860,
+				"to": 822100
+			},
+			"text": " it represents an attempt to recreate Eden apart from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,100",
+				"to": "00:13:45,280"
+			},
+			"offsets": {
+				"from": 822100,
+				"to": 825280
+			},
+			"text": " And so Jonah leaves the place that God calls him to,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,280",
+				"to": "00:13:49,340"
+			},
+			"offsets": {
+				"from": 825280,
+				"to": 829340
+			},
+			"text": " to go to a place where he can recreate Eden for himself apart from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,500",
+				"to": "00:13:52,400"
+			},
+			"offsets": {
+				"from": 829500,
+				"to": 832400
+			},
+			"text": " And at this point,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:52,400",
+				"to": "00:13:57,240"
+			},
+			"offsets": {
+				"from": 832400,
+				"to": 837240
+			},
+			"text": " God is far too gracious and compassionate to let him go."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,240",
+				"to": "00:14:03,600"
+			},
+			"offsets": {
+				"from": 837240,
+				"to": 843600
+			},
+			"text": " Instead of receiving God's grace,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,600",
+				"to": "00:14:05,560"
+			},
+			"offsets": {
+				"from": 843600,
+				"to": 845560
+			},
+			"text": " he digs his self-righteous heels in."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,560",
+				"to": "00:14:09,640"
+			},
+			"offsets": {
+				"from": 845560,
+				"to": 849640
+			},
+			"text": " And he says, I'd rather die than live in a world"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,640",
+				"to": "00:14:11,620"
+			},
+			"offsets": {
+				"from": 849640,
+				"to": 851620
+			},
+			"text": " where Yahweh extends compassion and grace"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,620",
+				"to": "00:14:14,640"
+			},
+			"offsets": {
+				"from": 851620,
+				"to": 854640
+			},
+			"text": " to those outside my ideological and nationalistic bubble."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,180",
+				"to": "00:14:20,200"
+			},
+			"offsets": {
+				"from": 855180,
+				"to": 860200
+			},
+			"text": " This is what Jonah is doing when he's forcing the sailors to throw him overboard into the water."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,200",
+				"to": "00:14:24,600"
+			},
+			"offsets": {
+				"from": 860200,
+				"to": 864600
+			},
+			"text": " He says, I'd rather be dead than live in a world where God gets to define what is good and evil"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:24,600",
+				"to": "00:14:26,160"
+			},
+			"offsets": {
+				"from": 864600,
+				"to": 866160
+			},
+			"text": " because I don't agree with his definition."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,420",
+				"to": "00:14:35,980"
+			},
+			"offsets": {
+				"from": 871420,
+				"to": 875980
+			},
+			"text": " And the way that Jonah goes about it, I think, provides a clear roadmap for us"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,980",
+				"to": "00:14:38,980"
+			},
+			"offsets": {
+				"from": 875980,
+				"to": 878980
+			},
+			"text": " for the way in which self-righteousness distorts our reality."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,980",
+				"to": "00:14:44,280"
+			},
+			"offsets": {
+				"from": 878980,
+				"to": 884280
+			},
+			"text": " Jonah runs a playbook of self-righteousness that I think if we're attuned and attentive,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,280",
+				"to": "00:14:49,200"
+			},
+			"offsets": {
+				"from": 884280,
+				"to": 889200
+			},
+			"text": " we can see this playbook play out in our lives and the lives of those around us on a regular basis."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,200",
+				"to": "00:14:50,660"
+			},
+			"offsets": {
+				"from": 889200,
+				"to": 890660
+			},
+			"text": " There's nothing new under the sun."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,660",
+				"to": "00:14:52,920"
+			},
+			"offsets": {
+				"from": 890660,
+				"to": 892920
+			},
+			"text": " Jonah is doing the very thing that we often do"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,160",
+				"to": "00:14:57,760"
+			},
+			"offsets": {
+				"from": 893160,
+				"to": 897760
+			},
+			"text": " when we don't want to live in a world where God gets to define what's right and wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,760",
+				"to": "00:15:03,640"
+			},
+			"offsets": {
+				"from": 897760,
+				"to": 903640
+			},
+			"text": " He forces the pagan sailors to kill him."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,640",
+				"to": "00:15:07,360"
+			},
+			"offsets": {
+				"from": 903640,
+				"to": 907360
+			},
+			"text": " Notice that oftentimes in the biblical scriptures,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,360",
+				"to": "00:15:10,700"
+			},
+			"offsets": {
+				"from": 907360,
+				"to": 910700
+			},
+			"text": " there's these moments where the prophets will offer themselves up"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,700",
+				"to": "00:15:12,740"
+			},
+			"offsets": {
+				"from": 910700,
+				"to": 912740
+			},
+			"text": " as a sacrifice on behalf of the people."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,740",
+				"to": "00:15:14,400"
+			},
+			"offsets": {
+				"from": 912740,
+				"to": 914400
+			},
+			"text": " Moses on the mountain says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,400",
+				"to": "00:15:17,280"
+			},
+			"offsets": {
+				"from": 914400,
+				"to": 917280
+			},
+			"text": " God, you rescued the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,280",
+				"to": "00:15:21,160"
+			},
+			"offsets": {
+				"from": 917280,
+				"to": 921160
+			},
+			"text": " God's about to just destroy them for creating a golden calf."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,160",
+				"to": "00:15:23,460"
+			},
+			"offsets": {
+				"from": 921160,
+				"to": 923460
+			},
+			"text": " And Moses says, no, kill me, let them live."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,460",
+				"to": "00:15:27,020"
+			},
+			"offsets": {
+				"from": 923460,
+				"to": 927020
+			},
+			"text": " Like, you've got to do this thing that you promised to do in them."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,020",
+				"to": "00:15:31,100"
+			},
+			"offsets": {
+				"from": 927020,
+				"to": 931100
+			},
+			"text": " So there's this pattern where prophets would lay down their lives for the people."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,100",
+				"to": "00:15:33,280"
+			},
+			"offsets": {
+				"from": 931100,
+				"to": 933280
+			},
+			"text": " And Jonah is actually, he's doing the exact opposite."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,280",
+				"to": "00:15:35,880"
+			},
+			"offsets": {
+				"from": 933280,
+				"to": 935880
+			},
+			"text": " He wants to die, but he wants to make somebody else do it for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,880",
+				"to": "00:15:39,280"
+			},
+			"offsets": {
+				"from": 935880,
+				"to": 939280
+			},
+			"text": " He makes the pagan sailors throw him overboard"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,280",
+				"to": "00:15:41,900"
+			},
+			"offsets": {
+				"from": 939280,
+				"to": 941900
+			},
+			"text": " so that he can die a righteous martyr,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,900",
+				"to": "00:15:43,360"
+			},
+			"offsets": {
+				"from": 941900,
+				"to": 943360
+			},
+			"text": " condemning the people he hates"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,360",
+				"to": "00:15:47,380"
+			},
+			"offsets": {
+				"from": 943360,
+				"to": 947380
+			},
+			"text": " and accusing God of being just as unjust as he always knew he was."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,560",
+				"to": "00:15:51,340"
+			},
+			"offsets": {
+				"from": 948560,
+				"to": 951340
+			},
+			"text": " This is Jonah chapter one."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,340",
+				"to": "00:15:54,780"
+			},
+			"offsets": {
+				"from": 951340,
+				"to": 954780
+			},
+			"text": " And this brings us to, if you have your notes in your bulletin,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,780",
+				"to": "00:15:57,740"
+			},
+			"offsets": {
+				"from": 954780,
+				"to": 957740
+			},
+			"text": " it brings us to the first two thirds of the first point in your notes."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:57,740",
+				"to": "00:16:01,160"
+			},
+			"offsets": {
+				"from": 957740,
+				"to": 961160
+			},
+			"text": " Self-righteousness distorts reality,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,160",
+				"to": "00:16:04,400"
+			},
+			"offsets": {
+				"from": 961160,
+				"to": 964400
+			},
+			"text": " leading us to condemn others and accuse God."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,400",
+				"to": "00:16:07,720"
+			},
+			"offsets": {
+				"from": 964400,
+				"to": 967720
+			},
+			"text": " This is where we find Jonah at the end of chapter one."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,720",
+				"to": "00:16:09,000"
+			},
+			"offsets": {
+				"from": 967720,
+				"to": 969000
+			},
+			"text": " He is so self-righteous."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,000",
+				"to": "00:16:11,900"
+			},
+			"offsets": {
+				"from": 969000,
+				"to": 971900
+			},
+			"text": " He's so convinced that his way of viewing the world is right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,900",
+				"to": "00:16:16,200"
+			},
+			"offsets": {
+				"from": 971900,
+				"to": 976200
+			},
+			"text": " that he wants the sailors who so far have been pretty obedient to God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,200",
+				"to": "00:16:20,280"
+			},
+			"offsets": {
+				"from": 976200,
+				"to": 980280
+			},
+			"text": " he wants them to kill him so his blood will be on their hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,280",
+				"to": "00:16:24,340"
+			},
+			"offsets": {
+				"from": 980280,
+				"to": 984340
+			},
+			"text": " He can condemn them and he can accuse God for being unjust, for letting him die."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,340",
+				"to": "00:16:28,740"
+			},
+			"offsets": {
+				"from": 984340,
+				"to": 988740
+			},
+			"text": " He's got this whole theological plan in his head where he gets to be right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,740",
+				"to": "00:16:29,780"
+			},
+			"offsets": {
+				"from": 988740,
+				"to": 989780
+			},
+			"text": " God gets to be wrong,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,780",
+				"to": "00:16:33,740"
+			},
+			"offsets": {
+				"from": 989780,
+				"to": 993740
+			},
+			"text": " and the pagan sailors get to be everything he thought they were."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,140",
+				"to": "00:16:41,600"
+			},
+			"offsets": {
+				"from": 995140,
+				"to": 1001600
+			},
+			"text": " There's a poet by the name of Thomas Carlyle who wrote a book of poems about the book of Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,600",
+				"to": "00:16:45,180"
+			},
+			"offsets": {
+				"from": 1001600,
+				"to": 1005180
+			},
+			"text": " And this is one of his poems that I think really summarizes where we see Jonah at"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,180",
+				"to": "00:16:47,840"
+			},
+			"offsets": {
+				"from": 1005180,
+				"to": 1007840
+			},
+			"text": " in this part of our story in his self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,840",
+				"to": "00:16:48,520"
+			},
+			"offsets": {
+				"from": 1007840,
+				"to": 1008520
+			},
+			"text": " It says this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,920",
+				"to": "00:17:09,160"
+			},
+			"offsets": {
+				"from": 1008920,
+				"to": 1029160
+			},
+			"text": " I would rather die than live in a world with a God like you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,160",
+				"to": "00:17:11,680"
+			},
+			"offsets": {
+				"from": 1029160,
+				"to": 1031680
+			},
+			"text": " And don't try and forgive me either."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:14,180",
+				"to": "00:17:21,500"
+			},
+			"offsets": {
+				"from": 1034180,
+				"to": 1041500
+			},
+			"text": " This is the perspective of Jonah as he forces the pagan sailors to throw him overboard."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,500",
+				"to": "00:17:22,580"
+			},
+			"offsets": {
+				"from": 1041500,
+				"to": 1042580
+			},
+			"text": " It's self-righteous."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,580",
+				"to": "00:17:25,880"
+			},
+			"offsets": {
+				"from": 1042580,
+				"to": 1045880
+			},
+			"text": " And as he's thrown into the raging seas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,880",
+				"to": "00:17:29,260"
+			},
+			"offsets": {
+				"from": 1045880,
+				"to": 1049260
+			},
+			"text": " ideologically rooted in his own self-righteousness"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,260",
+				"to": "00:17:32,340"
+			},
+			"offsets": {
+				"from": 1049260,
+				"to": 1052340
+			},
+			"text": " that has distorted the way that he looks at the world,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:32,340",
+				"to": "00:17:34,960"
+			},
+			"offsets": {
+				"from": 1052340,
+				"to": 1054960
+			},
+			"text": " condemning those outside of his ideological tribe"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,960",
+				"to": "00:17:36,820"
+			},
+			"offsets": {
+				"from": 1054960,
+				"to": 1056820
+			},
+			"text": " and accusing God of being unjust."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,820",
+				"to": "00:17:40,780"
+			},
+			"offsets": {
+				"from": 1056820,
+				"to": 1060780
+			},
+			"text": " This is where we pick up the rest of our story in Jonah chapter 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,780",
+				"to": "00:17:42,880"
+			},
+			"offsets": {
+				"from": 1060780,
+				"to": 1062880
+			},
+			"text": " We'll start in chapter 1, verse 17."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,540",
+				"to": "00:17:46,420"
+			},
+			"offsets": {
+				"from": 1063540,
+				"to": 1066420
+			},
+			"text": " He gets thrown into the sea, self-righteous,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,420",
+				"to": "00:17:49,840"
+			},
+			"offsets": {
+				"from": 1066420,
+				"to": 1069840
+			},
+			"text": " condemning those that are outside of his tribe"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,840",
+				"to": "00:17:51,420"
+			},
+			"offsets": {
+				"from": 1069840,
+				"to": 1071420
+			},
+			"text": " and accusing God of being unjust."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:51,420",
+				"to": "00:17:53,560"
+			},
+			"offsets": {
+				"from": 1071420,
+				"to": 1073560
+			},
+			"text": " And this is where we read verse 17."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,560",
+				"to": "00:17:57,740"
+			},
+			"offsets": {
+				"from": 1073560,
+				"to": 1077740
+			},
+			"text": " And the Lord appointed a great fish to swallow up Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,740",
+				"to": "00:18:01,720"
+			},
+			"offsets": {
+				"from": 1077740,
+				"to": 1081720
+			},
+			"text": " And Jonah was in the belly of the fish three days and three nights."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,720",
+				"to": "00:18:06,020"
+			},
+			"offsets": {
+				"from": 1081720,
+				"to": 1086020
+			},
+			"text": " Then Jonah prayed to the Lord his God from the belly of the fish saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,020",
+				"to": "00:18:08,440"
+			},
+			"offsets": {
+				"from": 1086020,
+				"to": 1088440
+			},
+			"text": " I called out to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,440",
+				"to": "00:18:10,820"
+			},
+			"offsets": {
+				"from": 1088440,
+				"to": 1090820
+			},
+			"text": " Out of my distress, he answered me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,820",
+				"to": "00:18:12,540"
+			},
+			"offsets": {
+				"from": 1090820,
+				"to": 1092540
+			},
+			"text": " Out of the belly of Sheol, I cried."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,620",
+				"to": "00:18:15,720"
+			},
+			"offsets": {
+				"from": 1092620,
+				"to": 1095720
+			},
+			"text": " And you heard my voice, for you cast me into the deeps."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,720",
+				"to": "00:18:15,920"
+			},
+			"offsets": {
+				"from": 1095720,
+				"to": 1095920
+			},
+			"text": " Wait."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,920",
+				"to": "00:18:19,000"
+			},
+			"offsets": {
+				"from": 1095920,
+				"to": 1099000
+			},
+			"text": " Who cast them into the deeps?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,000",
+				"to": "00:18:22,320"
+			},
+			"offsets": {
+				"from": 1099000,
+				"to": 1102320
+			},
+			"text": " Because when I read it, it was the pagan sailors."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,320",
+				"to": "00:18:23,620"
+			},
+			"offsets": {
+				"from": 1102320,
+				"to": 1103620
+			},
+			"text": " But apparently now it's God's fault."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,620",
+				"to": "00:18:26,220"
+			},
+			"offsets": {
+				"from": 1103620,
+				"to": 1106220
+			},
+			"text": " You cast me into the deeps, into the heart of the sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,220",
+				"to": "00:18:27,880"
+			},
+			"offsets": {
+				"from": 1106220,
+				"to": 1107880
+			},
+			"text": " And the flood surrounded me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,880",
+				"to": "00:18:30,320"
+			},
+			"offsets": {
+				"from": 1107880,
+				"to": 1110320
+			},
+			"text": " And all of your waves and your billows passed over me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,320",
+				"to": "00:18:33,220"
+			},
+			"offsets": {
+				"from": 1110320,
+				"to": 1113220
+			},
+			"text": " Then I said, I am driven away from your sight."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,220",
+				"to": "00:18:36,140"
+			},
+			"offsets": {
+				"from": 1113220,
+				"to": 1116140
+			},
+			"text": " Yet I shall again look upon your holy temple."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,140",
+				"to": "00:18:40,420"
+			},
+			"offsets": {
+				"from": 1118140,
+				"to": 1120420
+			},
+			"text": " The waters closed in over to take my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,420",
+				"to": "00:18:41,460"
+			},
+			"offsets": {
+				"from": 1120420,
+				"to": 1121460
+			},
+			"text": " The deeps surrounded me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,460",
+				"to": "00:18:43,020"
+			},
+			"offsets": {
+				"from": 1121460,
+				"to": 1123020
+			},
+			"text": " Weeds were trapped around my head."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,020",
+				"to": "00:18:45,200"
+			},
+			"offsets": {
+				"from": 1123020,
+				"to": 1125200
+			},
+			"text": " And the roots, at the roots of the mountains."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,200",
+				"to": "00:18:48,720"
+			},
+			"offsets": {
+				"from": 1125200,
+				"to": 1128720
+			},
+			"text": " I went down to the land whose bars closed upon me forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,720",
+				"to": "00:18:50,860"
+			},
+			"offsets": {
+				"from": 1128720,
+				"to": 1130860
+			},
+			"text": " Yet you brought up my life from the pit."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,860",
+				"to": "00:18:51,960"
+			},
+			"offsets": {
+				"from": 1130860,
+				"to": 1131960
+			},
+			"text": " Oh, Lord, my God."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:51,960",
+				"to": "00:18:56,060"
+			},
+			"offsets": {
+				"from": 1131960,
+				"to": 1136060
+			},
+			"text": " When my life was fainting away, I remembered the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,060",
+				"to": "00:18:58,200"
+			},
+			"offsets": {
+				"from": 1136060,
+				"to": 1138200
+			},
+			"text": " And my prayer came to you in your holy temple."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,200",
+				"to": "00:19:03,740"
+			},
+			"offsets": {
+				"from": 1139200,
+				"to": 1143740
+			},
+			"text": " Those who pay regard to vain idols forsake their hope of steadfast love."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,740",
+				"to": "00:19:09,660"
+			},
+			"offsets": {
+				"from": 1143740,
+				"to": 1149660
+			},
+			"text": " But I, with a voice of thanksgiving, will sacrifice to you what I have vowed I will pay."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,660",
+				"to": "00:19:12,940"
+			},
+			"offsets": {
+				"from": 1149660,
+				"to": 1152940
+			},
+			"text": " Salvation belongs to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,940",
+				"to": "00:19:16,200"
+			},
+			"offsets": {
+				"from": 1152940,
+				"to": 1156200
+			},
+			"text": " And the Lord spoke to the fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,200",
+				"to": "00:19:20,340"
+			},
+			"offsets": {
+				"from": 1156200,
+				"to": 1160340
+			},
+			"text": " And it vomited out Jonah onto dry land."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,340",
+				"to": "00:19:22,280"
+			},
+			"offsets": {
+				"from": 1160340,
+				"to": 1162280
+			},
+			"text": " This is the word of the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,800",
+				"to": "00:19:30,780"
+			},
+			"offsets": {
+				"from": 1164800,
+				"to": 1170780
+			},
+			"text": " So the hinge into the next scene of the story is Jonah in the belly of a fish for three days and three nights."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,780",
+				"to": "00:19:36,280"
+			},
+			"offsets": {
+				"from": 1170780,
+				"to": 1176280
+			},
+			"text": " Followed by what you see is a very articulate and beautiful prayer written by a prophet of God here."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,280",
+				"to": "00:19:40,320"
+			},
+			"offsets": {
+				"from": 1176280,
+				"to": 1180320
+			},
+			"text": " And this would have been a familiar refrain to the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,320",
+				"to": "00:19:44,200"
+			},
+			"offsets": {
+				"from": 1180320,
+				"to": 1184200
+			},
+			"text": " There is a pattern in the biblical text of three days and three nights."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,200",
+				"to": "00:19:55,960"
+			},
+			"offsets": {
+				"from": 1184200,
+				"to": 1195960
+			},
+			"text": " It's being when the people of God or a prophet of God or someone who is representing the people for God come near death and come out the other side with new life."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,960",
+				"to": "00:20:02,360"
+			},
+			"offsets": {
+				"from": 1195960,
+				"to": 1202360
+			},
+			"text": " So if you're the original readers, you're hearing this and you get that three days, three night phrase and you're like, oh, okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,360",
+				"to": "00:20:03,560"
+			},
+			"offsets": {
+				"from": 1202360,
+				"to": 1203560
+			},
+			"text": " Here it comes."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,560",
+				"to": "00:20:04,680"
+			},
+			"offsets": {
+				"from": 1203560,
+				"to": 1204680
+			},
+			"text": " Jonah's about to repent."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,680",
+				"to": "00:20:05,780"
+			},
+			"offsets": {
+				"from": 1204680,
+				"to": 1205780
+			},
+			"text": " Jonah's about to understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,780",
+				"to": "00:20:09,720"
+			},
+			"offsets": {
+				"from": 1205780,
+				"to": 1209720
+			},
+			"text": " He's about to come out of the fish with new life."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,280",
+				"to": "00:20:16,460"
+			},
+			"offsets": {
+				"from": 1210280,
+				"to": 1216460
+			},
+			"text": " They would have thought, okay, here it is, the faithful Israelite receiving judgment from God, repenting and turning back to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,460",
+				"to": "00:20:20,000"
+			},
+			"offsets": {
+				"from": 1216460,
+				"to": 1220000
+			},
+			"text": " And at first glance, it kind of looks like that's the case."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,000",
+				"to": "00:20:25,540"
+			},
+			"offsets": {
+				"from": 1220000,
+				"to": 1225540
+			},
+			"text": " But remember, everything in the book of Jonah is upside down what we think it should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,540",
+				"to": "00:20:27,760"
+			},
+			"offsets": {
+				"from": 1225540,
+				"to": 1227760
+			},
+			"text": " It's the opposite of what we think it should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:27,780",
+				"to": "00:20:42,300"
+			},
+			"offsets": {
+				"from": 1227780,
+				"to": 1242300
+			},
+			"text": " And although this reads like a prayer that Jonah cried out as he's realizing who he is before God and what he's done, as he's sinking down into the deeps, it reads as if he's reaching out to God and asking God to rescue him."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,300",
+				"to": "00:20:44,880"
+			},
+			"offsets": {
+				"from": 1242300,
+				"to": 1244880
+			},
+			"text": " Except there's only one problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,880",
+				"to": "00:20:47,620"
+			},
+			"offsets": {
+				"from": 1244880,
+				"to": 1247620
+			},
+			"text": " In the text, read with me Jonah 2, verse 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,620",
+				"to": "00:20:47,960"
+			},
+			"offsets": {
+				"from": 1247620,
+				"to": 1247960
+			},
+			"text": " It says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,960",
+				"to": "00:20:54,380"
+			},
+			"offsets": {
+				"from": 1247960,
+				"to": 1254380
+			},
+			"text": " From the belly of the fish."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,380",
+				"to": "00:20:57,520"
+			},
+			"offsets": {
+				"from": 1254380,
+				"to": 1257520
+			},
+			"text": " Jonah didn't pray a thing until after God already saved him."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,520",
+				"to": "00:20:58,880"
+			},
+			"offsets": {
+				"from": 1257520,
+				"to": 1258880
+			},
+			"text": " Isn't that crazy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,880",
+				"to": "00:21:07,200"
+			},
+			"offsets": {
+				"from": 1258880,
+				"to": 1267200
+			},
+			"text": " Like you would think falling into the raging seas, sinking down deeper and deeper at once, Jonah would be like, all right, God, please save me, rescue me, help me."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,200",
+				"to": "00:21:07,560"
+			},
+			"offsets": {
+				"from": 1267200,
+				"to": 1267560
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,560",
+				"to": "00:21:10,460"
+			},
+			"offsets": {
+				"from": 1267560,
+				"to": 1270460
+			},
+			"text": " He doesn't pray at all because he doesn't want saved."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,460",
+				"to": "00:21:15,240"
+			},
+			"offsets": {
+				"from": 1270460,
+				"to": 1275240
+			},
+			"text": " He wants to die a righteous martyr accusing God and condemning others."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:16,280",
+				"to": "00:21:23,600"
+			},
+			"offsets": {
+				"from": 1276280,
+				"to": 1283600
+			},
+			"text": " And now God has saved him and he's got to figure out what to do next because he's in the belly of a whale alive and he's not really sure what that means for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,600",
+				"to": "00:21:30,600"
+			},
+			"offsets": {
+				"from": 1283600,
+				"to": 1290600
+			},
+			"text": " And so now he begins to think up some theologically good prayers to pray to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,600",
+				"to": "00:21:35,400"
+			},
+			"offsets": {
+				"from": 1290600,
+				"to": 1295400
+			},
+			"text": " Jonah wants to be a martyr, but God's grace is too good to let him off the hook that easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:35,400",
+				"to": "00:21:42,100"
+			},
+			"offsets": {
+				"from": 1295400,
+				"to": 1302100
+			},
+			"text": " God's grace is the same to both the dug-in self-righteous prophet and the wicked pagan Ninevites."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,200",
+				"to": "00:21:48,060"
+			},
+			"offsets": {
+				"from": 1302200,
+				"to": 1308060
+			},
+			"text": " That's what the story of the book of Jonah is about, that image bearers have tremendous potential for good."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,060",
+				"to": "00:21:57,100"
+			},
+			"offsets": {
+				"from": 1308060,
+				"to": 1317100
+			},
+			"text": " That God is not giving up on the Ninevites and he is not giving up on the self-righteous prophet who wants to die a righteous martyr accusing him and condemning others."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,100",
+				"to": "00:21:58,060"
+			},
+			"offsets": {
+				"from": 1317100,
+				"to": 1318060
+			},
+			"text": " God says, no, no, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,060",
+				"to": "00:22:00,380"
+			},
+			"offsets": {
+				"from": 1318060,
+				"to": 1320380
+			},
+			"text": " You don't get off the hook that easy, brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,480",
+				"to": "00:22:06,560"
+			},
+			"offsets": {
+				"from": 1322480,
+				"to": 1326560
+			},
+			"text": " So the question then becomes, what will Jonah do with his undeserved kindness?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,560",
+				"to": "00:22:08,680"
+			},
+			"offsets": {
+				"from": 1326560,
+				"to": 1328680
+			},
+			"text": " Will he repent or will he double down?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,680",
+				"to": "00:22:16,640"
+			},
+			"offsets": {
+				"from": 1328680,
+				"to": 1336640
+			},
+			"text": " And it looks to me like he's doubling down, using a common playbook for those whose reality is shaped by self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,500",
+				"to": "00:22:24,040"
+			},
+			"offsets": {
+				"from": 1337500,
+				"to": 1344040
+			},
+			"text": " And that is Jonah uses religious language to justify himself before God with no real repentance."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,040",
+				"to": "00:22:31,620"
+			},
+			"offsets": {
+				"from": 1344040,
+				"to": 1351620
+			},
+			"text": " Like 90% of the words prayed in the prayer that Jonah prays are straight from the book of the Psalms."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,620",
+				"to": "00:22:33,220"
+			},
+			"offsets": {
+				"from": 1351620,
+				"to": 1353220
+			},
+			"text": " Straight scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,220",
+				"to": "00:22:35,760"
+			},
+			"offsets": {
+				"from": 1353220,
+				"to": 1355760
+			},
+			"text": " Jonah is just quoting scripture back to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,760",
+				"to": "00:22:47,980"
+			},
+			"offsets": {
+				"from": 1355760,
+				"to": 1367980
+			},
+			"text": " Have any of you ever been in a room where a self-righteous person was praying a prayer that was just recited scripture that was, you could tell, was aimed at making everybody else feel less holy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,940",
+				"to": "00:22:52,320"
+			},
+			"offsets": {
+				"from": 1369940,
+				"to": 1372320
+			},
+			"text": " I'm not saying that you shouldn't pray scripture back to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,320",
+				"to": "00:22:53,140"
+			},
+			"offsets": {
+				"from": 1372320,
+				"to": 1373140
+			},
+			"text": " We should."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,140",
+				"to": "00:23:00,020"
+			},
+			"offsets": {
+				"from": 1373140,
+				"to": 1380020
+			},
+			"text": " But I think there's a difference between, we've all been in a room where someone, like just, scripture was just coming out of them with gratitude and a grateful heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,020",
+				"to": "00:23:09,300"
+			},
+			"offsets": {
+				"from": 1380020,
+				"to": 1389300
+			},
+			"text": " And then we've been in rooms where people were using the text of scripture to make themselves feel righteous and make everyone else feel small."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,300",
+				"to": "00:23:13,420"
+			},
+			"offsets": {
+				"from": 1389300,
+				"to": 1393420
+			},
+			"text": " And this is what Jonah's prayer reads like to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,420",
+				"to": "00:23:16,200"
+			},
+			"offsets": {
+				"from": 1393420,
+				"to": 1396200
+			},
+			"text": " He pontificates about how he almost dies."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,200",
+				"to": "00:23:18,040"
+			},
+			"offsets": {
+				"from": 1396200,
+				"to": 1398040
+			},
+			"text": " He blames God for throwing him over."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,140",
+				"to": "00:23:24,440"
+			},
+			"offsets": {
+				"from": 1399140,
+				"to": 1404440
+			},
+			"text": " But he says, I prayed towards the temple because I know the right way to pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,440",
+				"to": "00:23:25,660"
+			},
+			"offsets": {
+				"from": 1404440,
+				"to": 1405660
+			},
+			"text": " Of course, God's going to save me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,660",
+				"to": "00:23:29,160"
+			},
+			"offsets": {
+				"from": 1405660,
+				"to": 1409160
+			},
+			"text": " The only problem is, again, he didn't pray for salvation until after it already came."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,160",
+				"to": "00:23:35,940"
+			},
+			"offsets": {
+				"from": 1409160,
+				"to": 1415940
+			},
+			"text": " And this is the pattern of people whose reality is distorted by self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,940",
+				"to": "00:23:42,120"
+			},
+			"offsets": {
+				"from": 1415940,
+				"to": 1422120
+			},
+			"text": " And this completes our statement in the back of our notes that self-righteousness distorts reality."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,120",
+				"to": "00:23:43,340"
+			},
+			"offsets": {
+				"from": 1422120,
+				"to": 1423340
+			},
+			"text": " It leads us to condemn others."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,340",
+				"to": "00:23:44,580"
+			},
+			"offsets": {
+				"from": 1423340,
+				"to": 1424580
+			},
+			"text": " It leads us to accuse God."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,580",
+				"to": "00:23:47,060"
+			},
+			"offsets": {
+				"from": 1424580,
+				"to": 1427060
+			},
+			"text": " And it leads us to justify ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:48,340",
+				"to": "00:23:51,500"
+			},
+			"offsets": {
+				"from": 1428340,
+				"to": 1431500
+			},
+			"text": " This is Jonah's perspective."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,500",
+				"to": "00:23:53,000"
+			},
+			"offsets": {
+				"from": 1431500,
+				"to": 1433000
+			},
+			"text": " I am great."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,000",
+				"to": "00:23:57,860"
+			},
+			"offsets": {
+				"from": 1433000,
+				"to": 1437860
+			},
+			"text": " And everyone who thinks like me and acts like me and talks like me is great."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,860",
+				"to": "00:23:59,460"
+			},
+			"offsets": {
+				"from": 1437860,
+				"to": 1439460
+			},
+			"text": " And they are deserving of salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,460",
+				"to": "00:24:05,740"
+			},
+			"offsets": {
+				"from": 1439460,
+				"to": 1445740
+			},
+			"text": " And everyone outside my tribe deserves God's wrath and God's judgment."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,740",
+				"to": "00:24:08,180"
+			},
+			"offsets": {
+				"from": 1445740,
+				"to": 1448180
+			},
+			"text": " Listen to verse 7 through 9."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,180",
+				"to": "00:24:11,780"
+			},
+			"offsets": {
+				"from": 1448180,
+				"to": 1451780
+			},
+			"text": " When my life was spaining away, I remembered the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,780",
+				"to": "00:24:14,660"
+			},
+			"offsets": {
+				"from": 1451780,
+				"to": 1454660
+			},
+			"text": " And my prayer came to you in your holy temple."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,660",
+				"to": "00:24:21,260"
+			},
+			"offsets": {
+				"from": 1454660,
+				"to": 1461260
+			},
+			"text": " Those who pay regard to vain idols, they forsake their hope of steadfast love."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,260",
+				"to": "00:24:25,140"
+			},
+			"offsets": {
+				"from": 1461260,
+				"to": 1465140
+			},
+			"text": " But I, with a voice of thanksgiving, will sacrifice to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,140",
+				"to": "00:24:27,020"
+			},
+			"offsets": {
+				"from": 1465140,
+				"to": 1467020
+			},
+			"text": " What I have vowed, I will pay."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,140",
+				"to": "00:24:41,320"
+			},
+			"offsets": {
+				"from": 1470140,
+				"to": 1481320
+			},
+			"text": " The ironic part here is I think the people that Jonah's talking about in verse 8, those who pay regard to vain idols, probably the sailors and or maybe both the Ninevites."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,760",
+				"to": "00:24:48,680"
+			},
+			"offsets": {
+				"from": 1481760,
+				"to": 1488680
+			},
+			"text": " And up until this point, the sailors are the ones that are actually repentant and obeying the things that God invited them to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,420",
+				"to": "00:24:52,240"
+			},
+			"offsets": {
+				"from": 1489420,
+				"to": 1492240
+			},
+			"text": " And Jonah here is still digging his heels in."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:52,240",
+				"to": "00:24:58,680"
+			},
+			"offsets": {
+				"from": 1492240,
+				"to": 1498680
+			},
+			"text": " And he's saying, those wicked pagan Gentiles, they deserve your wrath and your judgment."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,680",
+				"to": "00:25:02,080"
+			},
+			"offsets": {
+				"from": 1498680,
+				"to": 1502080
+			},
+			"text": " But I, I will make vows and I will make sacrifices."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,080",
+				"to": "00:25:04,960"
+			},
+			"offsets": {
+				"from": 1502080,
+				"to": 1504960
+			},
+			"text": " They just, they actually just made vows and sacrifices."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,960",
+				"to": "00:25:08,160"
+			},
+			"offsets": {
+				"from": 1504960,
+				"to": 1508160
+			},
+			"text": " And Jonah's in the belly of the whale promising like, ah, I'll do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,740",
+				"to": "00:25:13,240"
+			},
+			"offsets": {
+				"from": 1508740,
+				"to": 1513240
+			},
+			"text": " Once you vomit me out of this fish, then I'll go pay my vows and make my sacrifices."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:13,240",
+				"to": "00:25:15,160"
+			},
+			"offsets": {
+				"from": 1513240,
+				"to": 1515160
+			},
+			"text": " It's self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,160",
+				"to": "00:25:16,780"
+			},
+			"offsets": {
+				"from": 1515160,
+				"to": 1516780
+			},
+			"text": " It's a distorted reality."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,780",
+				"to": "00:25:20,660"
+			},
+			"offsets": {
+				"from": 1516780,
+				"to": 1520660
+			},
+			"text": " It's a justification of my own actions and behaviors before a holy God."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,400",
+				"to": "00:25:40,080"
+			},
+			"offsets": {
+				"from": 1524400,
+				"to": 1540080
+			},
+			"text": " And I'm, as I read this passage this week, I couldn't help but find myself thinking about Luke chapter 18."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,080",
+				"to": "00:25:45,400"
+			},
+			"offsets": {
+				"from": 1540080,
+				"to": 1545400
+			},
+			"text": " Some of you might be familiar with where I'm going here."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,260",
+				"to": "00:25:54,400"
+			},
+			"offsets": {
+				"from": 1547260,
+				"to": 1554400
+			},
+			"text": " Jesus says this, he told a parable to some who trusted in themselves that they were righteous and treated others with contempt."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,400",
+				"to": "00:25:59,440"
+			},
+			"offsets": {
+				"from": 1554400,
+				"to": 1559440
+			},
+			"text": " Two men went up into the temple to pray, one a Pharisee, the other a tax collector."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,440",
+				"to": "00:26:10,680"
+			},
+			"offsets": {
+				"from": 1559440,
+				"to": 1570680
+			},
+			"text": " The Pharisee standing by himself prayed thus, God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like the tax collector."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,680",
+				"to": "00:26:12,600"
+			},
+			"offsets": {
+				"from": 1570680,
+				"to": 1572600
+			},
+			"text": " I fast twice a week."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,600",
+				"to": "00:26:14,500"
+			},
+			"offsets": {
+				"from": 1572600,
+				"to": 1574500
+			},
+			"text": " I give tithes on all that I get."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,240",
+				"to": "00:26:24,520"
+			},
+			"offsets": {
+				"from": 1576240,
+				"to": 1584520
+			},
+			"text": " But the tax collector, standing far off, would not even lift up his eyes to heaven, but he beat his breast saying, God, be merciful to me, a sinner."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,520",
+				"to": "00:26:31,060"
+			},
+			"offsets": {
+				"from": 1584520,
+				"to": 1591060
+			},
+			"text": " I tell you, this man went down justified rather than the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,060",
+				"to": "00:26:36,860"
+			},
+			"offsets": {
+				"from": 1591060,
+				"to": 1596860
+			},
+			"text": " For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,860",
+				"to": "00:26:43,380"
+			},
+			"offsets": {
+				"from": 1596860,
+				"to": 1603380
+			},
+			"text": " This is what I believe we see in Jonah chapter 2 is the spirit of self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,720",
+				"to": "00:26:50,860"
+			},
+			"offsets": {
+				"from": 1604720,
+				"to": 1610860
+			},
+			"text": " Justifying himself before God and accusing everyone else around him, even the ones who are actually the ones doing the will of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,640",
+				"to": "00:27:02,660"
+			},
+			"offsets": {
+				"from": 1614640,
+				"to": 1622660
+			},
+			"text": " The spirit of Jonah was alive and well in the Pharisees, and I would argue that it is alive and well today, and oftentimes is being fueled by our algorithms."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,660",
+				"to": "00:27:14,620"
+			},
+			"offsets": {
+				"from": 1622660,
+				"to": 1634620
+			},
+			"text": " The content that we consume pushes us into smaller and smaller ideological communities of self-righteousness, distorts our realities, causing us to condemn others, accuse God, and justify ourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,620",
+				"to": "00:27:22,140"
+			},
+			"offsets": {
+				"from": 1635620,
+				"to": 1642140
+			},
+			"text": " And God is patient with us, just like he was patient with us, just like he was patient with Jonah, just like he was patient with the Ninevites."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,820",
+				"to": "00:27:32,680"
+			},
+			"offsets": {
+				"from": 1645820,
+				"to": 1652680
+			},
+			"text": " Jesus spent more time with the Pharisees than any other group of people outside of his disciples, because they had some pretty good theology."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,680",
+				"to": "00:27:35,960"
+			},
+			"offsets": {
+				"from": 1652680,
+				"to": 1655960
+			},
+			"text": " They were close to understanding what God was all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,400",
+				"to": "00:27:45,600"
+			},
+			"offsets": {
+				"from": 1656400,
+				"to": 1665600
+			},
+			"text": " And Jesus was begging them to see through the pride and arrogance of their self-righteousness and to see that God was a God who cared about all people."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,040",
+				"to": "00:27:50,060"
+			},
+			"offsets": {
+				"from": 1667040,
+				"to": 1670060
+			},
+			"text": " Who loved all people unconditionally and sacrificially."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,060",
+				"to": "00:28:04,600"
+			},
+			"offsets": {
+				"from": 1670060,
+				"to": 1684600
+			},
+			"text": " God is patient and often works in spite of our brokenness."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,600",
+				"to": "00:28:15,100"
+			},
+			"offsets": {
+				"from": 1684600,
+				"to": 1695100
+			},
+			"text": " The last line of Jonah's prayer, I think, is the most truthful statement in Jonah's prayer, and many commentators believe that it's actually the whole point of the book of Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,420",
+				"to": "00:28:19,320"
+			},
+			"offsets": {
+				"from": 1695420,
+				"to": 1699320
+			},
+			"text": " He says, salvation belongs to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,320",
+				"to": "00:28:26,580"
+			},
+			"offsets": {
+				"from": 1699320,
+				"to": 1706580
+			},
+			"text": " See, even in Jonah's self-righteousness, he knows what is true about God."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,580",
+				"to": "00:28:33,320"
+			},
+			"offsets": {
+				"from": 1706580,
+				"to": 1713320
+			},
+			"text": " Jonah knows what is true, he's just uncomfortable with what it means."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,320",
+				"to": "00:28:36,200"
+			},
+			"offsets": {
+				"from": 1713320,
+				"to": 1716200
+			},
+			"text": " Salvation is God's and God's alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:36,200",
+				"to": "00:28:44,680"
+			},
+			"offsets": {
+				"from": 1716200,
+				"to": 1724680
+			},
+			"text": " He is compassionate and gracious, slow to anger and abounding in love and faithfulness, both to immoral, idolatrous, and murderous Ninevites."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,420",
+				"to": "00:28:52,940"
+			},
+			"offsets": {
+				"from": 1725420,
+				"to": 1732940
+			},
+			"text": " And to the self-righteous religious Israelites, who in their own unique way were also immoral, idolatrous, and murderous."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:54,100",
+				"to": "00:28:58,520"
+			},
+			"offsets": {
+				"from": 1734100,
+				"to": 1738520
+			},
+			"text": " This is much of the point of the Sermon on the Mount in Jesus in Matthew chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,520",
+				"to": "00:29:09,280"
+			},
+			"offsets": {
+				"from": 1738520,
+				"to": 1749280
+			},
+			"text": " He says, Jesus tells the faithful Israelites, or those who think they're faithful Israelites, he says, when you lust, you've actually committed immorality in your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:10,280",
+				"to": "00:29:16,340"
+			},
+			"offsets": {
+				"from": 1750280,
+				"to": 1756340
+			},
+			"text": " When you hoard wealth and refuse to give to the poor, you've actually committed idolatry in your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,340",
+				"to": "00:29:19,980"
+			},
+			"offsets": {
+				"from": 1756340,
+				"to": 1759980
+			},
+			"text": " When you hate your brother, you've committed murder in your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,980",
+				"to": "00:29:26,780"
+			},
+			"offsets": {
+				"from": 1759980,
+				"to": 1766780
+			},
+			"text": " Jonah is so caught up looking at the Ninevites that he's unwilling to look at his own sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:27,720",
+				"to": "00:29:30,160"
+			},
+			"offsets": {
+				"from": 1767720,
+				"to": 1770160
+			},
+			"text": " And how often is that true of you and me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:30,160",
+				"to": "00:29:36,420"
+			},
+			"offsets": {
+				"from": 1770160,
+				"to": 1776420
+			},
+			"text": " How often is our worldview, our reality, distorted by our own self-righteousness?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:36,420",
+				"to": "00:29:48,220"
+			},
+			"offsets": {
+				"from": 1776420,
+				"to": 1788220
+			},
+			"text": " We condemn those who don't believe the things that we believe, who don't look the way that we look."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:49,480",
+				"to": "00:30:01,720"
+			},
+			"offsets": {
+				"from": 1789480,
+				"to": 1801720
+			},
+			"text": " We accuse God for being gracious and patient to people who are disobedient, and we justify ourselves, refusing to allow God to correct the sin that's deep in our hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,720",
+				"to": "00:30:11,900"
+			},
+			"offsets": {
+				"from": 1801720,
+				"to": 1811900
+			},
+			"text": " The story of Jonah reads a lot like the parable of the prodigal son, or as I prefer to call it, the parable of the gracious father."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,820",
+				"to": "00:30:21,220"
+			},
+			"offsets": {
+				"from": 1813820,
+				"to": 1821220
+			},
+			"text": " Jonah overlaps nicely with the self-righteous older brother, while the Ninevites play the role of the younger brother, who's run far away from a loving father."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,220",
+				"to": "00:30:27,420"
+			},
+			"offsets": {
+				"from": 1821220,
+				"to": 1827420
+			},
+			"text": " And both groups want the blessing of Eden without the presence of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,420",
+				"to": "00:30:40,340"
+			},
+			"offsets": {
+				"from": 1827420,
+				"to": 1840340
+			},
+			"text": " And neither group will get what they're looking for without the humble surrender of the tax collector in Luke chapter 18."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,820",
+				"to": "00:30:52,720"
+			},
+			"offsets": {
+				"from": 1843820,
+				"to": 1852720
+			},
+			"text": " Salvation belongs to the Lord, who is compassionate and gracious, slow to anger and abounding in steadfast love and faithfulness."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,720",
+				"to": "00:30:54,840"
+			},
+			"offsets": {
+				"from": 1852720,
+				"to": 1854840
+			},
+			"text": " For a thousand generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,840",
+				"to": "00:31:02,320"
+			},
+			"offsets": {
+				"from": 1854840,
+				"to": 1862320
+			},
+			"text": " This is the character of God, that he is far more gracious with us than we are willing to acknowledge or admit."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,320",
+				"to": "00:31:10,220"
+			},
+			"offsets": {
+				"from": 1862320,
+				"to": 1870220
+			},
+			"text": " And he is just that gracious to those that we deem unworthy of that grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,820",
+				"to": "00:31:22,480"
+			},
+			"offsets": {
+				"from": 1873820,
+				"to": 1882480
+			},
+			"text": " Second point on your notes is salvation belongs to the Lord and is freely given to those who humbly repent instead of justifying themselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,480",
+				"to": "00:31:27,740"
+			},
+			"offsets": {
+				"from": 1882480,
+				"to": 1887740
+			},
+			"text": " Point of Jonah is that salvation belongs to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:27,740",
+				"to": "00:31:33,120"
+			},
+			"offsets": {
+				"from": 1887740,
+				"to": 1893120
+			},
+			"text": " And it is a free gift to anyone who would receive it the way that he invites us to receive it."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,120",
+				"to": "00:31:35,440"
+			},
+			"offsets": {
+				"from": 1893120,
+				"to": 1895440
+			},
+			"text": " With humility."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:35,440",
+				"to": "00:31:37,420"
+			},
+			"offsets": {
+				"from": 1895440,
+				"to": 1897420
+			},
+			"text": " With surrender."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,920",
+				"to": "00:31:43,740"
+			},
+			"offsets": {
+				"from": 1898920,
+				"to": 1903740
+			},
+			"text": " With allowing him to be the one who gets to define who it is for and how they get it."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:43,740",
+				"to": "00:31:51,200"
+			},
+			"offsets": {
+				"from": 1903740,
+				"to": 1911200
+			},
+			"text": " The question for the reader of Jonah becomes, where do I see myself in the story?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,200",
+				"to": "00:31:55,940"
+			},
+			"offsets": {
+				"from": 1911200,
+				"to": 1915940
+			},
+			"text": " Do I believe salvation belongs to the Lord?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,940",
+				"to": "00:31:59,060"
+			},
+			"offsets": {
+				"from": 1915940,
+				"to": 1919060
+			},
+			"text": " Am I willing to receive it on his terms?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,060",
+				"to": "00:32:06,920"
+			},
+			"offsets": {
+				"from": 1919060,
+				"to": 1926920
+			},
+			"text": " Or will I come up with some theological equation in my mind where I get to be more righteous than other people?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:06,920",
+				"to": "00:32:11,740"
+			},
+			"offsets": {
+				"from": 1926920,
+				"to": 1931740
+			},
+			"text": " Where I get to be worthy of salvation while others are not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:11,740",
+				"to": "00:32:20,580"
+			},
+			"offsets": {
+				"from": 1931740,
+				"to": 1940580
+			},
+			"text": " Am I willing to believe that salvation belongs to the Lord and am I willing to receive it on his terms?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:20,580",
+				"to": "00:32:25,060"
+			},
+			"offsets": {
+				"from": 1940580,
+				"to": 1945060
+			},
+			"text": " Many of us in the room are likely believers."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,060",
+				"to": "00:32:29,140"
+			},
+			"offsets": {
+				"from": 1945060,
+				"to": 1949140
+			},
+			"text": " Many of us have probably had a point in time where we have repented."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:29,140",
+				"to": "00:32:31,840"
+			},
+			"offsets": {
+				"from": 1949140,
+				"to": 1951840
+			},
+			"text": " We have received salvation on God's terms."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,120",
+				"to": "00:32:35,460"
+			},
+			"offsets": {
+				"from": 1953120,
+				"to": 1955460
+			},
+			"text": " But repentance is not a one-time activity."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,460",
+				"to": "00:32:39,260"
+			},
+			"offsets": {
+				"from": 1955460,
+				"to": 1959260
+			},
+			"text": " And we live in a culture that breeds self-righteousness."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,260",
+				"to": "00:32:46,340"
+			},
+			"offsets": {
+				"from": 1959260,
+				"to": 1966340
+			},
+			"text": " The powers and principalities are at work to get faithful believers down a path of self-righteous justification."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:46,340",
+				"to": "00:32:54,540"
+			},
+			"offsets": {
+				"from": 1966340,
+				"to": 1974540
+			},
+			"text": " And I think if we're honest with ourselves, many of us are further down that road than we'd like to admit."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,400",
+				"to": "00:32:58,360"
+			},
+			"offsets": {
+				"from": 1975400,
+				"to": 1978360
+			},
+			"text": " We've had a moment of repentance and receiving salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,360",
+				"to": "00:33:03,560"
+			},
+			"offsets": {
+				"from": 1978360,
+				"to": 1983560
+			},
+			"text": " And we've been filled with the joy of Christ's salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,560",
+				"to": "00:33:13,820"
+			},
+			"offsets": {
+				"from": 1983560,
+				"to": 1993820
+			},
+			"text": " And yet slowly over time, the inputs of our lives, we've got more inputs that are from the powers and principalities than we do that are from God and his spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,080",
+				"to": "00:33:26,060"
+			},
+			"offsets": {
+				"from": 1995080,
+				"to": 2006060
+			},
+			"text": " And is it possible that over time, we've drifted from a joyful convert to a self-righteous prophet, condemning others, accusing God, and justifying our hatred for others using biblical language?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,060",
+				"to": "00:33:33,580"
+			},
+			"offsets": {
+				"from": 2006060,
+				"to": 2013580
+			},
+			"text": " Does your Facebook feed look anything like my Facebook feed?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,580",
+				"to": "00:33:37,060"
+			},
+			"offsets": {
+				"from": 2015580,
+				"to": 2017060
+			},
+			"text": " A lot of people quote in Scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,060",
+				"to": "00:33:46,880"
+			},
+			"offsets": {
+				"from": 2017060,
+				"to": 2026880
+			},
+			"text": " I'm afraid more of us are closer to the category than we'd like to admit."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,880",
+				"to": "00:33:53,520"
+			},
+			"offsets": {
+				"from": 2026880,
+				"to": 2033520
+			},
+			"text": " And I'd implore each one of us who have trusted in Christ to search our hearts, myself, at the forefront of this list."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,720",
+				"to": "00:34:01,820"
+			},
+			"offsets": {
+				"from": 2035720,
+				"to": 2041820
+			},
+			"text": " And ask God to reveal where there's a pattern of self-righteousness that might be alive and well in my heart or your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,820",
+				"to": "00:34:07,200"
+			},
+			"offsets": {
+				"from": 2041820,
+				"to": 2047200
+			},
+			"text": " And in just a minute, we're going to end by reading the story of the gracious Father."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:07,200",
+				"to": "00:34:11,740"
+			},
+			"offsets": {
+				"from": 2047200,
+				"to": 2051740
+			},
+			"text": " And I just want those of you that are in the room that think you might be kind of drifting into that category,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,740",
+				"to": "00:34:16,080"
+			},
+			"offsets": {
+				"from": 2051740,
+				"to": 2056080
+			},
+			"text": " I want you to listen to the Father's interaction with the older brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:18,040",
+				"to": "00:34:31,440"
+			},
+			"offsets": {
+				"from": 2058040,
+				"to": 2071440
+			},
+			"text": " I'm asking that the Holy Spirit would give you a personal invitation from the Father who loves you too much to let you miss the goodness of God's salvation that is available to all people."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:31,440",
+				"to": "00:34:39,420"
+			},
+			"offsets": {
+				"from": 2071440,
+				"to": 2079420
+			},
+			"text": " And in a room this size, I'm sure there are others of us that can relate more to the Ninevites or the younger brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,420",
+				"to": "00:34:40,340"
+			},
+			"offsets": {
+				"from": 2079420,
+				"to": 2080340
+			},
+			"text": " We're far from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,340",
+				"to": "00:34:42,960"
+			},
+			"offsets": {
+				"from": 2080340,
+				"to": 2082960
+			},
+			"text": " We're searching for life apart from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,960",
+				"to": "00:34:46,420"
+			},
+			"offsets": {
+				"from": 2082960,
+				"to": 2086420
+			},
+			"text": " The one who gave us the gift of that life to begin with."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,140",
+				"to": "00:34:50,040"
+			},
+			"offsets": {
+				"from": 2087140,
+				"to": 2090040
+			},
+			"text": " Maybe you're in here and somebody just drug you here."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,040",
+				"to": "00:34:52,220"
+			},
+			"offsets": {
+				"from": 2090040,
+				"to": 2092220
+			},
+			"text": " Not drugged you here."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,220",
+				"to": "00:34:53,600"
+			},
+			"offsets": {
+				"from": 2092220,
+				"to": 2093600
+			},
+			"text": " Sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,600",
+				"to": "00:34:56,240"
+			},
+			"offsets": {
+				"from": 2093600,
+				"to": 2096240
+			},
+			"text": " Drug you here."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,240",
+				"to": "00:35:00,600"
+			},
+			"offsets": {
+				"from": 2096240,
+				"to": 2100600
+			},
+			"text": " I mean, if someone drugged you here, please come see me after service."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:00,600",
+				"to": "00:35:11,160"
+			},
+			"offsets": {
+				"from": 2100600,
+				"to": 2111160
+			},
+			"text": " And you're just like, you're just, you're indifferent to the things of God and you're here because you want to be a good friend or a good son or whatever reason you might be here."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,140",
+				"to": "00:35:18,840"
+			},
+			"offsets": {
+				"from": 2113140,
+				"to": 2118840
+			},
+			"text": " Or maybe you're here and you feel like you're just way too far gone to receive God's grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,840",
+				"to": "00:35:20,900"
+			},
+			"offsets": {
+				"from": 2118840,
+				"to": 2120900
+			},
+			"text": " He's given you too many chances."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,360",
+				"to": "00:35:29,420"
+			},
+			"offsets": {
+				"from": 2122360,
+				"to": 2129420
+			},
+			"text": " And you've blown those chances too many times that your opportunity for God's grace is over."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,420",
+				"to": "00:35:43,500"
+			},
+			"offsets": {
+				"from": 2129420,
+				"to": 2143500
+			},
+			"text": " Or maybe, and my hunch is, and it makes me sad, it breaks my heart, my hunch is that some of you in here have encountered self-righteous prophets that have distorted your view of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:46,880",
+				"to": "00:35:57,140"
+			},
+			"offsets": {
+				"from": 2146880,
+				"to": 2157140
+			},
+			"text": " Maybe the reason you're not interested in God is because people like me have self-righteously told you things about God and the way God thinks about you that aren't true."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,780",
+				"to": "00:36:17,840"
+			},
+			"offsets": {
+				"from": 2159780,
+				"to": 2177840
+			},
+			"text": " Because the God who shows up in the parable of the faithful father is a God who is slow to anger, who is abounding in steadfast love, who does the opposite of what you would expect a father to do when the son steals his inheritance and runs away."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,200",
+				"to": "00:36:25,520"
+			},
+			"offsets": {
+				"from": 2178200,
+				"to": 2185520
+			},
+			"text": " That is a description of what the God of the scriptures thinks about you when you are as far away as you could possibly be for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,520",
+				"to": "00:36:33,280"
+			},
+			"offsets": {
+				"from": 2185520,
+				"to": 2193280
+			},
+			"text": " He is waiting on the porch for you to just take one millimeter of a turn back towards him and he's running after you."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,580",
+				"to": "00:36:40,080"
+			},
+			"offsets": {
+				"from": 2196580,
+				"to": 2200080
+			},
+			"text": " So as we begin to wrap up our gathering, I'm going to read the story of the gracious father."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,080",
+				"to": "00:36:52,740"
+			},
+			"offsets": {
+				"from": 2200080,
+				"to": 2212740
+			},
+			"text": " And if you find yourself closer to the prodigal son, I just want to invite you to listen to the father's interaction with the son, the younger son."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:52,740",
+				"to": "00:36:56,480"
+			},
+			"offsets": {
+				"from": 2212740,
+				"to": 2216480
+			},
+			"text": " And maybe you might hear from God this morning an invitation to return home."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:00,720",
+				"to": "00:37:06,960"
+			},
+			"offsets": {
+				"from": 2220720,
+				"to": 2226960
+			},
+			"text": " Because at the end of the day, the book of Jonah is about this one thing, salvation belongs to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,960",
+				"to": "00:37:21,540"
+			},
+			"offsets": {
+				"from": 2226960,
+				"to": 2241540
+			},
+			"text": " And that salvation is compassionate and gracious, it's patient, it's slow to anger, both for the self-righteous prophet who wants to condemn others and accuse God and justify himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:21,540",
+				"to": "00:37:27,380"
+			},
+			"offsets": {
+				"from": 2241540,
+				"to": 2247380
+			},
+			"text": " I mean, we're like, we're accusing God to his faith and his response to us is patient grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,720",
+				"to": "00:37:36,480"
+			},
+			"offsets": {
+				"from": 2250720,
+				"to": 2256480
+			},
+			"text": " Salvation belongs to the Lord and it is patient with the self-righteous prophet like Jonah."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:36,480",
+				"to": "00:37:45,840"
+			},
+			"offsets": {
+				"from": 2256480,
+				"to": 2265840
+			},
+			"text": " And it is slow to anger and abounding in steadfast love to people like the Medivites."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,840",
+				"to": "00:37:52,960"
+			},
+			"offsets": {
+				"from": 2265840,
+				"to": 2272960
+			},
+			"text": " Who were about as far away from God's will as you could possibly be."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,220",
+				"to": "00:38:03,680"
+			},
+			"offsets": {
+				"from": 2275220,
+				"to": 2283680
+			},
+			"text": " But every human being on planet Earth is created in the image of God and has tremendous potential for good if they would turn back to him."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:03,680",
+				"to": "00:38:07,160"
+			},
+			"offsets": {
+				"from": 2283680,
+				"to": 2287160
+			},
+			"text": " So God is patiently waiting."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,160",
+				"to": "00:38:18,280"
+			},
+			"offsets": {
+				"from": 2287160,
+				"to": 2298280
+			},
+			"text": " The scriptures I read at some point in time, whether it's the day you die or the day Christ returns or some other time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:18,280",
+				"to": "00:38:23,900"
+			},
+			"offsets": {
+				"from": 2298280,
+				"to": 2303900
+			},
+			"text": " that there seems to be a time in which that patience runs out, where judgment does come."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,900",
+				"to": "00:38:28,240"
+			},
+			"offsets": {
+				"from": 2303900,
+				"to": 2308240
+			},
+			"text": " The scriptures say, today, if you hear his voice, do not harden your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,240",
+				"to": "00:38:38,680"
+			},
+			"offsets": {
+				"from": 2308240,
+				"to": 2318680
+			},
+			"text": " So as I read the text in Luke chapter 15, I just want to invite you to hear an invitation from the Father to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:39,420",
+				"to": "00:38:43,660"
+			},
+			"offsets": {
+				"from": 2319420,
+				"to": 2323660
+			},
+			"text": " And as I finish, the worship team is going to lead us in one final song."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,660",
+				"to": "00:38:51,840"
+			},
+			"offsets": {
+				"from": 2323660,
+				"to": 2331840
+			},
+			"text": " And we're just going to open up the front of the room for anybody that wants to respond to whatever invitation the Lord might be extending to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,840",
+				"to": "00:38:55,900"
+			},
+			"offsets": {
+				"from": 2331840,
+				"to": 2335900
+			},
+			"text": " Whether you're a self-righteous prophet who needs to repent."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:57,480",
+				"to": "00:39:05,640"
+			},
+			"offsets": {
+				"from": 2337480,
+				"to": 2345640
+			},
+			"text": " Or whether you're a wayward son who needs to come home for the first time or come back for the first time in a long time."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:05,640",
+				"to": "00:39:12,260"
+			},
+			"offsets": {
+				"from": 2345640,
+				"to": 2352260
+			},
+			"text": " Whatever invitation the Father might be extending to you, the front of the room would be open for you to come and pray as we sing."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:12,260",
+				"to": "00:39:14,240"
+			},
+			"offsets": {
+				"from": 2352260,
+				"to": 2354240
+			},
+			"text": " There'll be people up here."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,240",
+				"to": "00:39:18,420"
+			},
+			"offsets": {
+				"from": 2354240,
+				"to": 2358420
+			},
+			"text": " If you want to pray with somebody, please come and we'd love to pray with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,420",
+				"to": "00:39:30,740"
+			},
+			"offsets": {
+				"from": 2362420,
+				"to": 2370740
+			},
+			"text": " And my hope and my prayer is that today would be a day when we remember that salvation belongs to the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:30,740",
+				"to": "00:39:34,420"
+			},
+			"offsets": {
+				"from": 2370740,
+				"to": 2374420
+			},
+			"text": " And he gets to define what it looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:34,420",
+				"to": "00:39:36,120"
+			},
+			"offsets": {
+				"from": 2374420,
+				"to": 2376120
+			},
+			"text": " And who it's for."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:36,120",
+				"to": "00:39:38,400"
+			},
+			"offsets": {
+				"from": 2376120,
+				"to": 2378400
+			},
+			"text": " And how long he is patient."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,400",
+				"to": "00:39:45,120"
+			},
+			"offsets": {
+				"from": 2378400,
+				"to": 2385120
+			},
+			"text": " Jesus said there was a man who had two sons."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:45,120",
+				"to": "00:39:47,640"
+			},
+			"offsets": {
+				"from": 2385120,
+				"to": 2387640
+			},
+			"text": " The younger of them said to his father,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:47,640",
+				"to": "00:39:50,400"
+			},
+			"offsets": {
+				"from": 2387640,
+				"to": 2390400
+			},
+			"text": " Father, give me the share of property that is coming to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,980",
+				"to": "00:39:52,920"
+			},
+			"offsets": {
+				"from": 2390980,
+				"to": 2392920
+			},
+			"text": " And he divided his property between them."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:52,920",
+				"to": "00:39:58,780"
+			},
+			"offsets": {
+				"from": 2392920,
+				"to": 2398780
+			},
+			"text": " Not many days later, the younger son gathered all that he had and took a journey into a far country."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,780",
+				"to": "00:40:02,660"
+			},
+			"offsets": {
+				"from": 2398780,
+				"to": 2402660
+			},
+			"text": " And there he squandered his property in reckless living."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,660",
+				"to": "00:40:11,060"
+			},
+			"offsets": {
+				"from": 2402660,
+				"to": 2411060
+			},
+			"text": " And when he had spent everything, a severe famine arose in that country and he began to be in need."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,060",
+				"to": "00:40:17,460"
+			},
+			"offsets": {
+				"from": 2411060,
+				"to": 2417460
+			},
+			"text": " So he went and hired himself out to one of the citizens of the country who sent him into the fields to feed pigs."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,200",
+				"to": "00:40:24,140"
+			},
+			"offsets": {
+				"from": 2419200,
+				"to": 2424140
+			},
+			"text": " And he was longing to be fed with the pods that the pigs ate and no one would give him anything."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,780",
+				"to": "00:40:27,580"
+			},
+			"offsets": {
+				"from": 2425780,
+				"to": 2427580
+			},
+			"text": " But when he came to himself, he said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:27,580",
+				"to": "00:40:30,760"
+			},
+			"offsets": {
+				"from": 2427580,
+				"to": 2430760
+			},
+			"text": " How many of my father's hired servants have more than enough bread?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:30,760",
+				"to": "00:40:32,780"
+			},
+			"offsets": {
+				"from": 2430760,
+				"to": 2432780
+			},
+			"text": " But I perish here in hunger."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,780",
+				"to": "00:40:36,920"
+			},
+			"offsets": {
+				"from": 2432780,
+				"to": 2436920
+			},
+			"text": " I will arise and I will go to my father and I will say to him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,920",
+				"to": "00:40:41,220"
+			},
+			"offsets": {
+				"from": 2436920,
+				"to": 2441220
+			},
+			"text": " Father, I have sinned against heaven and before you I am no longer worthy to be called your son."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,220",
+				"to": "00:40:44,080"
+			},
+			"offsets": {
+				"from": 2441220,
+				"to": 2444080
+			},
+			"text": " Treat me as one of your hired servants."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,280",
+				"to": "00:40:47,620"
+			},
+			"offsets": {
+				"from": 2445280,
+				"to": 2447620
+			},
+			"text": " And he arose and he came to his father."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,620",
+				"to": "00:40:50,420"
+			},
+			"offsets": {
+				"from": 2447620,
+				"to": 2450420
+			},
+			"text": " But while he was still a long way off,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:50,420",
+				"to": "00:41:01,800"
+			},
+			"offsets": {
+				"from": 2450420,
+				"to": 2461800
+			},
+			"text": " his father saw him and felt compassion and ran and embraced him and kissed him."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:01,800",
+				"to": "00:41:03,520"
+			},
+			"offsets": {
+				"from": 2461800,
+				"to": 2463520
+			},
+			"text": " And the son said to him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,520",
+				"to": "00:41:09,100"
+			},
+			"offsets": {
+				"from": 2463520,
+				"to": 2469100
+			},
+			"text": " Father, I have sinned against heaven and before you I am no longer worthy to be called your son."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,100",
+				"to": "00:41:10,600"
+			},
+			"offsets": {
+				"from": 2469100,
+				"to": 2470600
+			},
+			"text": " But before he could get his speech out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,600",
+				"to": "00:41:12,340"
+			},
+			"offsets": {
+				"from": 2470600,
+				"to": 2472340
+			},
+			"text": " the father said to the servants,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:12,340",
+				"to": "00:41:14,760"
+			},
+			"offsets": {
+				"from": 2472340,
+				"to": 2474760
+			},
+			"text": " Bring quickly the best robe and put it on him."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,760",
+				"to": "00:41:21,340"
+			},
+			"offsets": {
+				"from": 2474760,
+				"to": 2481340
+			},
+			"text": " Put a ring on his hand and shoes on his feet and bring the fattened calf and kill it and let us eat and celebrate."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:21,340",
+				"to": "00:41:24,620"
+			},
+			"offsets": {
+				"from": 2481340,
+				"to": 2484620
+			},
+			"text": " For this, my son was dead and he is alive again."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:24,620",
+				"to": "00:41:27,280"
+			},
+			"offsets": {
+				"from": 2484620,
+				"to": 2487280
+			},
+			"text": " He was lost and now he is found."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,520",
+				"to": "00:41:31,120"
+			},
+			"offsets": {
+				"from": 2489520,
+				"to": 2491120
+			},
+			"text": " And they began to celebrate."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,120",
+				"to": "00:41:37,580"
+			},
+			"offsets": {
+				"from": 2491120,
+				"to": 2497580
+			},
+			"text": " Now his older son was in the field."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,580",
+				"to": "00:41:40,460"
+			},
+			"offsets": {
+				"from": 2497580,
+				"to": 2500460
+			},
+			"text": " And as he came and drew near to the house,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,460",
+				"to": "00:41:44,020"
+			},
+			"offsets": {
+				"from": 2500460,
+				"to": 2504020
+			},
+			"text": " he heard music and dancing and he called out to one of the servants and asked them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:44,020",
+				"to": "00:41:45,460"
+			},
+			"offsets": {
+				"from": 2504020,
+				"to": 2505460
+			},
+			"text": " What does this mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,460",
+				"to": "00:41:47,500"
+			},
+			"offsets": {
+				"from": 2505460,
+				"to": 2507500
+			},
+			"text": " And the servant said to him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,500",
+				"to": "00:41:50,400"
+			},
+			"offsets": {
+				"from": 2507500,
+				"to": 2510400
+			},
+			"text": " Your brother has come and your father has killed the fattened calf"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:50,400",
+				"to": "00:41:53,040"
+			},
+			"offsets": {
+				"from": 2510400,
+				"to": 2513040
+			},
+			"text": " because he has received him back safe and sound."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,040",
+				"to": "00:41:55,360"
+			},
+			"offsets": {
+				"from": 2513040,
+				"to": 2515360
+			},
+			"text": " But he was angry and refused to go in."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:59,240",
+				"to": "00:42:01,340"
+			},
+			"offsets": {
+				"from": 2519240,
+				"to": 2521340
+			},
+			"text": " His father came out to him and entreated him."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:01,340",
+				"to": "00:42:03,120"
+			},
+			"offsets": {
+				"from": 2521340,
+				"to": 2523120
+			},
+			"text": " But he answered his father,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:03,120",
+				"to": "00:42:07,080"
+			},
+			"offsets": {
+				"from": 2523120,
+				"to": 2527080
+			},
+			"text": " Look, these many years I have served you and I have never disobeyed your command."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,080",
+				"to": "00:42:11,000"
+			},
+			"offsets": {
+				"from": 2527080,
+				"to": 2531000
+			},
+			"text": " Yet you have never given me even a young goat that I might celebrate with my friends."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,800",
+				"to": "00:42:17,940"
+			},
+			"offsets": {
+				"from": 2532800,
+				"to": 2537940
+			},
+			"text": " But when this son of yours, who has devoured your property with prostitutes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,940",
+				"to": "00:42:22,040"
+			},
+			"offsets": {
+				"from": 2537940,
+				"to": 2542040
+			},
+			"text": " you killed the fattened calf for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:22,040",
+				"to": "00:42:25,300"
+			},
+			"offsets": {
+				"from": 2542040,
+				"to": 2545300
+			},
+			"text": " And the father said to him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,300",
+				"to": "00:42:26,720"
+			},
+			"offsets": {
+				"from": 2545300,
+				"to": 2546720
+			},
+			"text": " Son, you are always with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,720",
+				"to": "00:42:30,140"
+			},
+			"offsets": {
+				"from": 2546720,
+				"to": 2550140
+			},
+			"text": " And all that is mine is yours."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,140",
+				"to": "00:42:32,640"
+			},
+			"offsets": {
+				"from": 2550140,
+				"to": 2552640
+			},
+			"text": " It was fitting to celebrate and be glad."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,360",
+				"to": "00:42:37,600"
+			},
+			"offsets": {
+				"from": 2553360,
+				"to": 2557600
+			},
+			"text": " For this, your brother was dead and is alive."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:37,600",
+				"to": "00:42:42,000"
+			},
+			"offsets": {
+				"from": 2557600,
+				"to": 2562000
+			},
+			"text": " He was lost and is found."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,000",
+				"to": "00:42:45,940"
+			},
+			"offsets": {
+				"from": 2562000,
+				"to": 2565940
+			},
+			"text": " Let's reflect, worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:45,940",
+				"to": "00:42:49,620"
+			},
+			"offsets": {
+				"from": 2565940,
+				"to": 2569620
+			},
+			"text": " And if you want to come forward and pray with us or by yourself, please do so."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:49,620",
+				"to": "00:42:51,920"
+			},
+			"offsets": {
+				"from": 2569620,
+				"to": 2571920
+			},
+			"text": " Amen."
+		}
+	]
+}

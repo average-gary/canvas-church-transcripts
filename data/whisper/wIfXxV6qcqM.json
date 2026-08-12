@@ -1,0 +1,1605 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,640",
+				"to": "00:00:09,860"
+			},
+			"offsets": {
+				"from": 640,
+				"to": 9860
+			},
+			"text": " Well, hey church family. Usually when we have a snow day Sunday, I don't have the time to pre-record a devotional or a message."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,860",
+				"to": "00:00:14,120"
+			},
+			"offsets": {
+				"from": 9860,
+				"to": 14120
+			},
+			"text": " We kind of usually call it later in the process."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,120",
+				"to": "00:00:24,680"
+			},
+			"offsets": {
+				"from": 14120,
+				"to": 24680
+			},
+			"text": " And so I thought I would take this time that I have now to just record a little bit of a short devotional on the second week in our Sabbath series."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,680",
+				"to": "00:00:35,760"
+			},
+			"offsets": {
+				"from": 24680,
+				"to": 35760
+			},
+			"text": " And really just think it's such a gift for us to have this opportunity to kind of begin to apply this message series almost in a forced way."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,760",
+				"to": "00:00:42,200"
+			},
+			"offsets": {
+				"from": 35760,
+				"to": 42200
+			},
+			"text": " Many of us are almost forced to stay at home and to have this period of kind of forced Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,200",
+				"to": "00:00:53,880"
+			},
+			"offsets": {
+				"from": 42200,
+				"to": 53880
+			},
+			"text": " And so I'm asking that you would see this as an opportunity and an invitation to begin to apply some of these things that we're talking about with the formational practice of Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,880",
+				"to": "00:00:59,200"
+			},
+			"offsets": {
+				"from": 53880,
+				"to": 59200
+			},
+			"text": " This 24-hour period where we stop and rest in the presence of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,200",
+				"to": "00:01:09,200"
+			},
+			"offsets": {
+				"from": 59200,
+				"to": 69200
+			},
+			"text": " So I'm going to pray and then I'm just going to share a little bit of what I was studying and preparing for this week so that we don't kind of lose our place in the series moving forward."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,200",
+				"to": "00:01:09,640"
+			},
+			"offsets": {
+				"from": 69200,
+				"to": 69640
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,640",
+				"to": "00:01:36,680"
+			},
+			"offsets": {
+				"from": 79640,
+				"to": 96680
+			},
+			"text": " Father in heaven, Father in heaven, I again just want to thank you for this opportunity to almost have a forced period of rest, of stopping the productivity and the efficiency and the busyness of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,020",
+				"to": "00:01:48,380"
+			},
+			"offsets": {
+				"from": 97020,
+				"to": 108380
+			},
+			"text": " And just having time to ourselves with our families and our communities to rest and to even just be confronted with the beauty of your creation outside of our windows."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,380",
+				"to": "00:01:51,440"
+			},
+			"offsets": {
+				"from": 108380,
+				"to": 111440
+			},
+			"text": " And so Father, we thank you for this time."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,960",
+				"to": "00:02:07,620"
+			},
+			"offsets": {
+				"from": 111960,
+				"to": 127620
+			},
+			"text": " And I just pray that whatever it is that you have prepared for me to say would come from you and whatever it is that each individual who interacts with this message receives, that that thing that they receive would ultimately be from you and not from me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,400",
+				"to": "00:02:23,660"
+			},
+			"offsets": {
+				"from": 128400,
+				"to": 143660
+			},
+			"text": " And so God, may we be people who are pursuing lives that are built on this rhythm of working with you and creativity and production and resting in your grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,660",
+				"to": "00:02:29,960"
+			},
+			"offsets": {
+				"from": 143660,
+				"to": 149960
+			},
+			"text": " So God, as a gift that you have given to us for your glory, for our good, and for the good of our neighbors."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,960",
+				"to": "00:02:31,960"
+			},
+			"offsets": {
+				"from": 149960,
+				"to": 151960
+			},
+			"text": " It's in Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,960",
+				"to": "00:02:33,060"
+			},
+			"offsets": {
+				"from": 151960,
+				"to": 153060
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,060",
+				"to": "00:02:43,420"
+			},
+			"offsets": {
+				"from": 153060,
+				"to": 163420
+			},
+			"text": " So like I said, last week we launched this Sabbath series and we focused on the fact that Sabbath was a rhythm, is a rhythm that's woven into the fabric of creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,420",
+				"to": "00:02:48,240"
+			},
+			"offsets": {
+				"from": 163420,
+				"to": 168240
+			},
+			"text": " I've heard it said this way, that we are not human doings, we are human beings."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,240",
+				"to": "00:03:13,040"
+			},
+			"offsets": {
+				"from": 168240,
+				"to": 193040
+			},
+			"text": " And from the beginning God has modeled for us and invited us into this weekly rhythm of stopping from all our work, stopping from the constant activity, settling our thoughts about all the things that need to be done, all the problems that need to be solved, and just to be content, to have gratitude, to give thanks to the God who has given us this life as a gift."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,040",
+				"to": "00:03:16,580"
+			},
+			"offsets": {
+				"from": 193040,
+				"to": 196580
+			},
+			"text": " The very breath in our lungs is a gift."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,240",
+				"to": "00:03:21,400"
+			},
+			"offsets": {
+				"from": 198240,
+				"to": 201400
+			},
+			"text": " It's where we cultivate this heart of contentment and gratitude."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,400",
+				"to": "00:03:35,740"
+			},
+			"offsets": {
+				"from": 201400,
+				"to": 215740
+			},
+			"text": " And so today I want to move kind of past this idea of just stopping from working and dig a little bit deeper into this aspect of rest and how do we truly experience rest from God on the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,740",
+				"to": "00:03:43,660"
+			},
+			"offsets": {
+				"from": 215740,
+				"to": 223660
+			},
+			"text": " Because I think that there is a way in which we can stop working and yet not truly experience rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,740",
+				"to": "00:03:54,580"
+			},
+			"offsets": {
+				"from": 223740,
+				"to": 234580
+			},
+			"text": " There's a way in which we can put this spiritual practice in place in our lives so we can stop working for 24 hours and actually still not experience the rest that God intended for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,580",
+				"to": "00:04:06,420"
+			},
+			"offsets": {
+				"from": 234580,
+				"to": 246420
+			},
+			"text": " And one of my favorite pastors, not one of my favorite pastors, but a pastor friend of mine distinguishes these two activities by talking about the difference between relaxation and rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,740",
+				"to": "00:04:13,020"
+			},
+			"offsets": {
+				"from": 246740,
+				"to": 253020
+			},
+			"text": " And he defines relaxation as kind of turning ourselves off, turning ourselves off from activity."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,020",
+				"to": "00:04:19,720"
+			},
+			"offsets": {
+				"from": 253020,
+				"to": 259720
+			},
+			"text": " It's really what we talked about last week, just this idea of stopping, that there's a way that we can stop without truly resting."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,720",
+				"to": "00:04:21,640"
+			},
+			"offsets": {
+				"from": 259720,
+				"to": 261640
+			},
+			"text": " Relaxation is turning ourselves off."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,640",
+				"to": "00:04:25,580"
+			},
+			"offsets": {
+				"from": 261640,
+				"to": 265580
+			},
+			"text": " And he defines rest as plugging ourselves in."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,580",
+				"to": "00:04:28,540"
+			},
+			"offsets": {
+				"from": 265580,
+				"to": 268540
+			},
+			"text": " And the illustration he uses is that of a cell phone."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,540",
+				"to": "00:04:31,800"
+			},
+			"offsets": {
+				"from": 268540,
+				"to": 271800
+			},
+			"text": " Most of us kind of carry one with us everywhere we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,900",
+				"to": "00:04:35,340"
+			},
+			"offsets": {
+				"from": 271900,
+				"to": 275340
+			},
+			"text": " Oftentimes it's a necessity for our everyday activities."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,340",
+				"to": "00:04:39,440"
+			},
+			"offsets": {
+				"from": 275340,
+				"to": 279440
+			},
+			"text": " And I don't know about you, but I've been in situations where I was out and about."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,440",
+				"to": "00:04:43,860"
+			},
+			"offsets": {
+				"from": 279440,
+				"to": 283860
+			},
+			"text": " I needed my phone for a certain thing, but the battery was kind of getting down to a certain level."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,860",
+				"to": "00:04:46,520"
+			},
+			"offsets": {
+				"from": 283860,
+				"to": 286520
+			},
+			"text": " And I knew it wasn't going to last as long as I needed it."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,520",
+				"to": "00:04:52,640"
+			},
+			"offsets": {
+				"from": 286520,
+				"to": 292640
+			},
+			"text": " So I made the decision to turn the phone off to preserve the battery, to preserve the energy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,900",
+				"to": "00:05:01,380"
+			},
+			"offsets": {
+				"from": 293900,
+				"to": 301380
+			},
+			"text": " And then I could turn it back on and it would be able to function for as long as it previously was able to function."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,380",
+				"to": "00:05:10,380"
+			},
+			"offsets": {
+				"from": 301380,
+				"to": 310380
+			},
+			"text": " And there's a way in which you can turn the phone off and retain the energy that's there without adding energy to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,380",
+				"to": "00:05:14,820"
+			},
+			"offsets": {
+				"from": 310380,
+				"to": 314820
+			},
+			"text": " And I think that that's kind of how Sabbath can function for us if we're not careful."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,940",
+				"to": "00:05:20,220"
+			},
+			"offsets": {
+				"from": 314940,
+				"to": 320220
+			},
+			"text": " It can be this thing that's more like turning ourselves off rather than plugging ourselves in."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,220",
+				"to": "00:05:29,980"
+			},
+			"offsets": {
+				"from": 320220,
+				"to": 329980
+			},
+			"text": " Oftentimes we get done with a period of what we would call rest and we feel just as depleted, just as tired, just as burnt out as we were before."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,980",
+				"to": "00:05:36,780"
+			},
+			"offsets": {
+				"from": 329980,
+				"to": 336780
+			},
+			"text": " If we aren't intentional with this practice, Sabbath can be a thing that provides us relaxation but not true rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,780",
+				"to": "00:05:44,460"
+			},
+			"offsets": {
+				"from": 336780,
+				"to": 344460
+			},
+			"text": " It provides us with a period of time where we're no longer depleting ourselves, but we're also not filling ourselves back up."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,460",
+				"to": "00:05:50,020"
+			},
+			"offsets": {
+				"from": 344460,
+				"to": 350020
+			},
+			"text": " And last week when we looked at Sabbath, we looked at it from the Ten Commandments in Exodus."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,020",
+				"to": "00:05:58,960"
+			},
+			"offsets": {
+				"from": 350020,
+				"to": 358960
+			},
+			"text": " And many of you probably know, some of you might not, but there's actually two accounts of the Ten Commandments in the first five books of the Old Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,960",
+				"to": "00:06:02,660"
+			},
+			"offsets": {
+				"from": 358960,
+				"to": 362660
+			},
+			"text": " The first is Exodus and the second is in Deuteronomy."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,660",
+				"to": "00:06:12,280"
+			},
+			"offsets": {
+				"from": 362660,
+				"to": 372280
+			},
+			"text": " And if you look at these two accounts side by side, you'll see that the command for Sabbath is almost identical in both accounts except for two slight differences."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,280",
+				"to": "00:06:20,220"
+			},
+			"offsets": {
+				"from": 372280,
+				"to": 380220
+			},
+			"text": " And since I want all of us, myself included, to actually have time to practice Sabbath today, we're just going to cover the one difference."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,220",
+				"to": "00:06:27,420"
+			},
+			"offsets": {
+				"from": 380220,
+				"to": 387420
+			},
+			"text": " But at the beginning of the Exodus account, Moses tells the Israelites to remember the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,040",
+				"to": "00:06:34,220"
+			},
+			"offsets": {
+				"from": 388040,
+				"to": 394220
+			},
+			"text": " And we said last week that he was writing to this group of people, this group of slaves who were coming out of 400 years of slavery."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,220",
+				"to": "00:06:37,100"
+			},
+			"offsets": {
+				"from": 394220,
+				"to": 397100
+			},
+			"text": " They hadn't been able to keep the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,100",
+				"to": "00:06:42,480"
+			},
+			"offsets": {
+				"from": 397100,
+				"to": 402480
+			},
+			"text": " And so he's inviting them to remember this rhythm and creation that has existed from the beginning."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,480",
+				"to": "00:06:48,360"
+			},
+			"offsets": {
+				"from": 402480,
+				"to": 408360
+			},
+			"text": " Yes, you weren't able to participate in it, but now I want you to bring it back into the imagination of your lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,360",
+				"to": "00:06:49,960"
+			},
+			"offsets": {
+				"from": 408360,
+				"to": 409960
+			},
+			"text": " Bring it back into your memory."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,960",
+				"to": "00:06:52,220"
+			},
+			"offsets": {
+				"from": 409960,
+				"to": 412220
+			},
+			"text": " Build it into your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,660",
+				"to": "00:06:59,700"
+			},
+			"offsets": {
+				"from": 412660,
+				"to": 419700
+			},
+			"text": " And what he says in Deuteronomy, which is interesting because the context is to essentially, at this point, a different group of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,700",
+				"to": "00:07:04,120"
+			},
+			"offsets": {
+				"from": 419700,
+				"to": 424120
+			},
+			"text": " At the beginning, it's these slaves who have come out of slavery in Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,120",
+				"to": "00:07:09,940"
+			},
+			"offsets": {
+				"from": 424120,
+				"to": 429940
+			},
+			"text": " At the end, it's after 40 years of wandering where they've practiced the Sabbath every week."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,940",
+				"to": "00:07:19,680"
+			},
+			"offsets": {
+				"from": 429940,
+				"to": 439680
+			},
+			"text": " They've kind of been intentionally forced to practice the Sabbath every week in the wilderness with not a whole lot of opportunity to work or to co-create with God."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,680",
+				"to": "00:07:21,560"
+			},
+			"offsets": {
+				"from": 439680,
+				"to": 441560
+			},
+			"text": " They're just kind of wandering in the desert."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,560",
+				"to": "00:07:30,360"
+			},
+			"offsets": {
+				"from": 441560,
+				"to": 450360
+			},
+			"text": " And as they're about to come out of the desert and go into the promised land filled with endless potential, endless opportunity, endless work to be done,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,360",
+				"to": "00:07:38,660"
+			},
+			"offsets": {
+				"from": 450360,
+				"to": 458660
+			},
+			"text": " filled with a group of non-Jewish people who are not going to be keeping the Sabbath, the adjective changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,660",
+				"to": "00:07:40,660"
+			},
+			"offsets": {
+				"from": 458660,
+				"to": 460660
+			},
+			"text": " He doesn't tell them to remember the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,660",
+				"to": "00:07:43,560"
+			},
+			"offsets": {
+				"from": 460660,
+				"to": 463560
+			},
+			"text": " He tells them to guard the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,560",
+				"to": "00:07:46,660"
+			},
+			"offsets": {
+				"from": 463560,
+				"to": 466660
+			},
+			"text": " He says, guard this day."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,660",
+				"to": "00:07:48,800"
+			},
+			"offsets": {
+				"from": 466660,
+				"to": 468800
+			},
+			"text": " Keep watch over it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,800",
+				"to": "00:07:51,300"
+			},
+			"offsets": {
+				"from": 468800,
+				"to": 471300
+			},
+			"text": " Essentially, he says, there will be a million distractions."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,300",
+				"to": "00:07:54,180"
+			},
+			"offsets": {
+				"from": 471300,
+				"to": 474180
+			},
+			"text": " There will be a million things to be done."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,180",
+				"to": "00:07:57,460"
+			},
+			"offsets": {
+				"from": 474180,
+				"to": 477460
+			},
+			"text": " There will be a million reasons for you not to Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,460",
+				"to": "00:08:02,840"
+			},
+			"offsets": {
+				"from": 477460,
+				"to": 482840
+			},
+			"text": " And even when you are Sabbathing, there will be a million things going on in your head that you will be thinking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,840",
+				"to": "00:08:05,060"
+			},
+			"offsets": {
+				"from": 482840,
+				"to": 485060
+			},
+			"text": " what if I could have been doing this instead?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,060",
+				"to": "00:08:07,280"
+			},
+			"offsets": {
+				"from": 485060,
+				"to": 487280
+			},
+			"text": " What am I missing out on?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,280",
+				"to": "00:08:11,620"
+			},
+			"offsets": {
+				"from": 487280,
+				"to": 491620
+			},
+			"text": " What am I losing traction on by taking this day off?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,260",
+				"to": "00:08:24,740"
+			},
+			"offsets": {
+				"from": 492260,
+				"to": 504740
+			},
+			"text": " And I think that if we have a creative imagination, this context, this situation that they are entering as they enter the promised land looks a whole lot like our circumstances today."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,300",
+				"to": "00:08:40,960"
+			},
+			"offsets": {
+				"from": 505300,
+				"to": 520960
+			},
+			"text": " Many of us are filled with endless potential, opportunity, work to be done, and we're surrounded by a culture of people who do not see this 24-hour period of rest per week as a value to be built their lives on."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,020",
+				"to": "00:08:43,460"
+			},
+			"offsets": {
+				"from": 521020,
+				"to": 523460
+			},
+			"text": " We're surrounded by people who don't value rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,460",
+				"to": "00:08:47,500"
+			},
+			"offsets": {
+				"from": 523460,
+				"to": 527500
+			},
+			"text": " And we're filled with endless opportunities to chase after."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,500",
+				"to": "00:08:50,620"
+			},
+			"offsets": {
+				"from": 527500,
+				"to": 530620
+			},
+			"text": " And so I think we need the same encouragement."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,620",
+				"to": "00:08:52,580"
+			},
+			"offsets": {
+				"from": 530620,
+				"to": 532580
+			},
+			"text": " We need to guard the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,580",
+				"to": "00:08:57,820"
+			},
+			"offsets": {
+				"from": 532580,
+				"to": 537820
+			},
+			"text": " We need to keep a close eye on what we are doing or not doing on the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,820",
+				"to": "00:09:06,940"
+			},
+			"offsets": {
+				"from": 537820,
+				"to": 546940
+			},
+			"text": " Not just the 24-hour period, hour of time, but what is it that we are doing to experience rest during this 24-hour period."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,940",
+				"to": "00:09:19,700"
+			},
+			"offsets": {
+				"from": 546940,
+				"to": 559700
+			},
+			"text": " And my hunch is that for most of us that have opportunities and potential and temptation to be distracted, even if we succeed at stopping for 24 hours,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,700",
+				"to": "00:09:27,540"
+			},
+			"offsets": {
+				"from": 559700,
+				"to": 567540
+			},
+			"text": " that on those 24 hours are going to be constant distractions and interruptions that are going to be pulling us away from experiencing rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,560",
+				"to": "00:09:36,640"
+			},
+			"offsets": {
+				"from": 568560,
+				"to": 576640
+			},
+			"text": " And I think even if we choose to keep the Sabbath, that our temptation might be to rush into the Sabbath running on fumes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,640",
+				"to": "00:09:45,580"
+			},
+			"offsets": {
+				"from": 576640,
+				"to": 585580
+			},
+			"text": " And if we aren't careful, this posture will often lead us to crave the experience of relaxation rather than the experience of true rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,580",
+				"to": "00:09:49,120"
+			},
+			"offsets": {
+				"from": 585580,
+				"to": 589120
+			},
+			"text": " We're going to want to just unplug from the stressful realities of life."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,120",
+				"to": "00:09:55,220"
+			},
+			"offsets": {
+				"from": 589120,
+				"to": 595220
+			},
+			"text": " Maybe have a few cocktails, or if that's not your thing, a few too many little Debbie Cakes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,920",
+				"to": "00:10:00,160"
+			},
+			"offsets": {
+				"from": 595920,
+				"to": 600160
+			},
+			"text": " Binge watch our favorite show while mindlessly scrolling on YouTube or social media."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,160",
+				"to": "00:10:06,440"
+			},
+			"offsets": {
+				"from": 600160,
+				"to": 606440
+			},
+			"text": " Or pitter-patter around the house and fix all of the things that we haven't had time to fix."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,440",
+				"to": "00:10:11,820"
+			},
+			"offsets": {
+				"from": 606440,
+				"to": 611820
+			},
+			"text": " This can often feel like rest, but I think it's actually a form of relaxation."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:13,560",
+				"to": "00:10:21,460"
+			},
+			"offsets": {
+				"from": 613560,
+				"to": 621460
+			},
+			"text": " And oftentimes if we approach the Sabbath this way, when we head back into our normal life the next day, we don't feel rested."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,460",
+				"to": "00:10:28,820"
+			},
+			"offsets": {
+				"from": 621460,
+				"to": 628820
+			},
+			"text": " We don't feel ready or overflowing to chase after the creativity that God's inviting us into."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,820",
+				"to": "00:10:30,380"
+			},
+			"offsets": {
+				"from": 628820,
+				"to": 630380
+			},
+			"text": " We're actually still running on fumes."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,380",
+				"to": "00:10:33,160"
+			},
+			"offsets": {
+				"from": 630380,
+				"to": 633160
+			},
+			"text": " We're like the phone who had been turned off for a period of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,160",
+				"to": "00:10:38,160"
+			},
+			"offsets": {
+				"from": 633160,
+				"to": 638160
+			},
+			"text": " We turned back on with just the amount of energy that we came into Sabbath with."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,160",
+				"to": "00:10:45,340"
+			},
+			"offsets": {
+				"from": 638160,
+				"to": 645340
+			},
+			"text": " I think relaxation is what happens when we don't guard the Sabbath, when we don't keep watch over it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,340",
+				"to": "00:10:49,280"
+			},
+			"offsets": {
+				"from": 645340,
+				"to": 649280
+			},
+			"text": " Relaxation is the result of this, I earn this mentality."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,280",
+				"to": "00:10:54,000"
+			},
+			"offsets": {
+				"from": 649280,
+				"to": 654000
+			},
+			"text": " We work hard for six days and we get to this period of rest and we say, I earned this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,000",
+				"to": "00:10:58,160"
+			},
+			"offsets": {
+				"from": 654000,
+				"to": 658160
+			},
+			"text": " This is my reward for the frantic pace I've been living."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,100",
+				"to": "00:11:06,180"
+			},
+			"offsets": {
+				"from": 659100,
+				"to": 666180
+			},
+			"text": " And what I would say on the other side of the coin is that rest isn't something that we earn, but it is a gift that has been given to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,180",
+				"to": "00:11:09,420"
+			},
+			"offsets": {
+				"from": 666180,
+				"to": 669420
+			},
+			"text": " It isn't a reward we give ourselves at the end of a long week."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,420",
+				"to": "00:11:17,040"
+			},
+			"offsets": {
+				"from": 669420,
+				"to": 677040
+			},
+			"text": " It is a gift that God gives us and that we're intended to work from, not work for."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,040",
+				"to": "00:11:18,040"
+			},
+			"offsets": {
+				"from": 677040,
+				"to": 678040
+			},
+			"text": " I would say it this way."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,040",
+				"to": "00:11:22,180"
+			},
+			"offsets": {
+				"from": 678040,
+				"to": 682180
+			},
+			"text": " If we don't work from rest, we will work for relaxation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,920",
+				"to": "00:11:31,440"
+			},
+			"offsets": {
+				"from": 683920,
+				"to": 691440
+			},
+			"text": " If rest isn't this gift that we're receiving, that God is filling us up with His life and His presence and His goodness,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,440",
+				"to": "00:11:38,300"
+			},
+			"offsets": {
+				"from": 691440,
+				"to": 698300
+			},
+			"text": " and then we are able to turn around the next day and kind of have a week's full of supply of energy to pour out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,300",
+				"to": "00:11:45,560"
+			},
+			"offsets": {
+				"from": 698300,
+				"to": 705560
+			},
+			"text": " then what will happen is we will actually just work six days on fumes, run into a spot where we get some relaxation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,460",
+				"to": "00:11:54,300"
+			},
+			"offsets": {
+				"from": 707460,
+				"to": 714300
+			},
+			"text": " So my encouragement for us this morning is that we would just continue to lean into this practice of Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,300",
+				"to": "00:12:01,460"
+			},
+			"offsets": {
+				"from": 714300,
+				"to": 721460
+			},
+			"text": " And as we do, it wouldn't just be something that we remember to stop for 24 hours or we remember to stop for a period of time to take a break,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,460",
+				"to": "00:12:05,640"
+			},
+			"offsets": {
+				"from": 721460,
+				"to": 725640
+			},
+			"text": " to not overwork, to not overproduce, to not be overly consumed with efficiency,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,640",
+				"to": "00:12:11,880"
+			},
+			"offsets": {
+				"from": 725640,
+				"to": 731880
+			},
+			"text": " but that we would also guard that time, that we would think about what it is that we are doing in that time."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,880",
+				"to": "00:12:14,380"
+			},
+			"offsets": {
+				"from": 731880,
+				"to": 734380
+			},
+			"text": " Keep a close eye on what we're doing on the Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,380",
+				"to": "00:12:20,740"
+			},
+			"offsets": {
+				"from": 734380,
+				"to": 740740
+			},
+			"text": " Is it producing in us rest that will fuel our kingdom work for the rest of the week?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,740",
+				"to": "00:12:27,060"
+			},
+			"offsets": {
+				"from": 740740,
+				"to": 747060
+			},
+			"text": " Or is it just the turning ourselves off from the realities of life for a period of time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,060",
+				"to": "00:12:32,360"
+			},
+			"offsets": {
+				"from": 747060,
+				"to": 752360
+			},
+			"text": " Now, I'm not saying you can't watch TV or have a glass of wine or eat some ice cream on Sabbath."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,360",
+				"to": "00:12:33,420"
+			},
+			"offsets": {
+				"from": 752360,
+				"to": 753420
+			},
+			"text": " That's not what I'm saying."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:33,740",
+				"to": "00:12:39,740"
+			},
+			"offsets": {
+				"from": 753740,
+				"to": 759740
+			},
+			"text": " I'm just saying I think the invitation for us is to guard our time of rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,740",
+				"to": "00:12:52,000"
+			},
+			"offsets": {
+				"from": 759740,
+				"to": 772000
+			},
+			"text": " To really keep watch over what we're doing during the practice to examine whether or not it's leading us to an experience of rest as a gift or relaxation as a reward."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,580",
+				"to": "00:13:00,040"
+			},
+			"offsets": {
+				"from": 773580,
+				"to": 780040
+			},
+			"text": " So that's my kind of encouragement for us today is we have this forced time of rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,040",
+				"to": "00:13:05,160"
+			},
+			"offsets": {
+				"from": 780040,
+				"to": 785160
+			},
+			"text": " Keep an eye on what it is that you feel drawn to do during this time of rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,160",
+				"to": "00:13:12,160"
+			},
+			"offsets": {
+				"from": 785160,
+				"to": 792160
+			},
+			"text": " If there's too much silence, are you drawn to be distracted to go do a chore or something like that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,800",
+				"to": "00:13:14,740"
+			},
+			"offsets": {
+				"from": 792800,
+				"to": 794740
+			},
+			"text": " What is it that you're drawn to?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,740",
+				"to": "00:13:23,740"
+			},
+			"offsets": {
+				"from": 794740,
+				"to": 803740
+			},
+			"text": " Keep an eye on it and ask yourself, is this going to fill me up or is this just going to distract me to keep me from actually experiencing rest?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,740",
+				"to": "00:13:26,980"
+			},
+			"offsets": {
+				"from": 803740,
+				"to": 806980
+			},
+			"text": " This is my encouragement for us this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,980",
+				"to": "00:13:32,780"
+			},
+			"offsets": {
+				"from": 806980,
+				"to": 812780
+			},
+			"text": " The curriculum that we're using, Practicing the Way, they have a podcast that's kind of a bonus podcast."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,180",
+				"to": "00:13:42,120"
+			},
+			"offsets": {
+				"from": 814180,
+				"to": 822120
+			},
+			"text": " And the episode on this week gets really specific about kind of internal and external challenges that will keep us from experiencing rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,120",
+				"to": "00:13:46,040"
+			},
+			"offsets": {
+				"from": 822120,
+				"to": 826040
+			},
+			"text": " And so I'm going to link that here in this video."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,040",
+				"to": "00:13:55,820"
+			},
+			"offsets": {
+				"from": 826040,
+				"to": 835820
+			},
+			"text": " And I would encourage you, if you want some practical, concrete ideas about how to truly prioritize rest during your Sabbath, how to guard it, how to keep watch over it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,820",
+				"to": "00:13:57,900"
+			},
+			"offsets": {
+				"from": 835820,
+				"to": 837900
+			},
+			"text": " I'd encourage you to check that out sometime this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,820",
+				"to": "00:14:05,020"
+			},
+			"offsets": {
+				"from": 839820,
+				"to": 845020
+			},
+			"text": " But other than that, I'm thankful that you've taken the time to spend with us today."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,020",
+				"to": "00:14:21,580"
+			},
+			"offsets": {
+				"from": 845020,
+				"to": 861580
+			},
+			"text": " And I hope that you will redeem this opportunity to rest and to, again, just to begin to apply some of these Sabbath principles on this snow day to really be present to yourself, to God, to your family."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,580",
+				"to": "00:14:22,560"
+			},
+			"offsets": {
+				"from": 861580,
+				"to": 862560
+			},
+			"text": " Let me pray for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,560",
+				"to": "00:14:29,660"
+			},
+			"offsets": {
+				"from": 862560,
+				"to": 869660
+			},
+			"text": " Father, thank you for each person that has consumed this content with us, for each person that finds,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,820",
+				"to": "00:14:32,460"
+			},
+			"offsets": {
+				"from": 869820,
+				"to": 872460
+			},
+			"text": " a space in our community as a church."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,460",
+				"to": "00:14:42,660"
+			},
+			"offsets": {
+				"from": 872460,
+				"to": 882660
+			},
+			"text": " I pray that we would be a people that guard our time of rest as a rhythm of creation that you have invited us to participate with you in."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,660",
+				"to": "00:14:51,240"
+			},
+			"offsets": {
+				"from": 882660,
+				"to": 891240
+			},
+			"text": " God, help us to see where we're too obsessed with productivity, efficiency, with making money, with getting to the next thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,100",
+				"to": "00:15:00,000"
+			},
+			"offsets": {
+				"from": 892100,
+				"to": 900000
+			},
+			"text": " And God, help us to receive your invitation, not to work to earn rest, but to receive rest as a gift."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:00,000",
+				"to": "00:15:13,840"
+			},
+			"offsets": {
+				"from": 900000,
+				"to": 913840
+			},
+			"text": " So, God, may we be a people who grow in our ability to receive rest as a gift from you, for your glory, for our good, for the good of our neighbor."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:13,840",
+				"to": "00:15:15,200"
+			},
+			"offsets": {
+				"from": 913840,
+				"to": 915200
+			},
+			"text": " It's in Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,200",
+				"to": "00:15:15,920"
+			},
+			"offsets": {
+				"from": 915200,
+				"to": 915920
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,920",
+				"to": "00:15:16,880"
+			},
+			"offsets": {
+				"from": 915920,
+				"to": 916880
+			},
+			"text": " All right, church."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,880",
+				"to": "00:15:18,780"
+			},
+			"offsets": {
+				"from": 916880,
+				"to": 918780
+			},
+			"text": " Hopefully I will see you."
+		}
+	]
+}

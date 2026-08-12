@@ -1,0 +1,4531 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:29,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 29980
+			},
+			"text": " How's everybody doing this morning? Awesome, I heard. Thank you. That's wonderful. I love to hear that. We're good. I'm having some technical difficulties, but you know, that's okay. Is it because I complimented you guys so much last week? I gave them like this huge compliment, and now they're..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,980",
+				"to": "00:00:59,960"
+			},
+			"offsets": {
+				"from": 29980,
+				"to": 59960
+			},
+			"text": " They're messing with me. No, I'm just kidding. Hey, if we haven't had the privilege of meeting yet, my name is Ryan, and I am one of the pastors here. I'm so grateful that you have joined us. This is week two of a four-week series we are calling Go and Tell. I half expected us to break some attendance records this week because most of you in Frederick County were stuck in the house with your kids all week. Is that what I heard? I just figured you'd like, just get these kids out of my house. Let's go to church. Like people were going to come to church that have never been to church before. Anything that's open."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,960",
+				"to": "00:01:29,940"
+			},
+			"offsets": {
+				"from": 59960,
+				"to": 89940
+			},
+			"text": " that I can get out of the house. Wow, you guys are not laughing as hard as I thought you were going to. When I write a joke, you guys are supposed to laugh. Just kidding. Hey, so we launched this series, Go and Tell, working through kind of the ideas behind the Great Commission. Last week, we said that the Great Commission should be is the goal of every Bible church. Any church that claims to take the Bible seriously, the goal of that church should be the Great Commission, to go into all the world and to make disciples, baptizing them and teaching them, to do all"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,960",
+				"to": "00:01:59,940"
+			},
+			"offsets": {
+				"from": 89960,
+				"to": 119940
+			},
+			"text": " all that Jesus commanded you. That is the goal of the church. But we said that each local church gets to kind of contextualize how they go about accomplishing those goals. We don't carbon copy churches, and churches exist in different environments with different giftings of people. And so we, as a church, get to kind of decide how we are going to go about contextualizing the Great Commission. And last week, we covered our mission and our core values."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,960",
+				"to": "00:02:10,960"
+			},
+			"offsets": {
+				"from": 119960,
+				"to": 130960
+			},
+			"text": " And we said the way that we've laid out our mission and our core values is the Great Commission is actually twofold. We tend to, at least I, growing up in church, thought about the Great Commission as going out of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,960",
+				"to": "00:02:27,960"
+			},
+			"offsets": {
+				"from": 130960,
+				"to": 147960
+			},
+			"text": " But when you look at the Great Commission, it really requires two different systems or two different strategies. It's go out into the world and make disciples. There's this evangelistic effort of us, the church, leaving the community of the church and going out into the world to reach people who don't yet know Jesus with the gospel of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,960",
+				"to": "00:02:38,960"
+			},
+			"offsets": {
+				"from": 147960,
+				"to": 158960
+			},
+			"text": " And then it says, \"Baptizing them and teaching them to obey all that I have commanded you.\" And that is where we gather together as believers. Once someone comes into the family of God, we gather together as believers."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,960",
+				"to": "00:02:51,960"
+			},
+			"offsets": {
+				"from": 158960,
+				"to": 171960
+			},
+			"text": " And our goal is to take that first step of obedience and baptism, and then to be discipled to obey the teachings of Jesus. And so last week, we covered our mission statement and our core values, and that is kind of our internal strategy."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,960",
+				"to": "00:03:05,960"
+			},
+			"offsets": {
+				"from": 171960,
+				"to": 185960
+			},
+			"text": " That is how we as a church want to go about baptizing and teaching people to obey all that Christ commanded you. If you weren't here, our mission statement is inviting real people with real lives into a Christ-centered community."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,960",
+				"to": "00:03:14,960"
+			},
+			"offsets": {
+				"from": 185960,
+				"to": 194960
+			},
+			"text": " We said that this community, this church is going to be an invitational community. We're going to invite people to obey Jesus, not legalistically or religiously enforce people to obey Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,960",
+				"to": "00:03:27,960"
+			},
+			"offsets": {
+				"from": 194960,
+				"to": 207960
+			},
+			"text": " Because obedience to Jesus because of religion or because of peer pressure is not going to get you the things that Jesus promised you. It has to be you choosing to surrender your life to Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,960",
+				"to": "00:03:36,960"
+			},
+			"offsets": {
+				"from": 207960,
+				"to": 216960
+			},
+			"text": " We're going to be an invitational community. We're going to be an authentic community. We're going to be willing to share who we are as real people in life."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,960",
+				"to": "00:03:43,960"
+			},
+			"offsets": {
+				"from": 216960,
+				"to": 223960
+			},
+			"text": " We're going to confess our struggles. We're going to admit where we've fallen short. We're not going to take credit for crowns that aren't ours."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,960",
+				"to": "00:03:48,960"
+			},
+			"offsets": {
+				"from": 223960,
+				"to": 228960
+			},
+			"text": " We're not going to pretend like we're better than we are. We're going to be honest about who we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,960",
+				"to": "00:03:55,960"
+			},
+			"offsets": {
+				"from": 228960,
+				"to": 235960
+			},
+			"text": " And lastly, it's going to be centered on Jesus. We're not going to get lost in the weeds of secondary theology."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,960",
+				"to": "00:04:00,960"
+			},
+			"offsets": {
+				"from": 235960,
+				"to": 240960
+			},
+			"text": " We are going to focus on who Jesus is and what he's all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,960",
+				"to": "00:04:06,960"
+			},
+			"offsets": {
+				"from": 240960,
+				"to": 246960
+			},
+			"text": " Lastly, we talked about that, and we emphasized a point of emphasis that I'd like us to focus on in the year of 2025,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,960",
+				"to": "00:04:12,960"
+			},
+			"offsets": {
+				"from": 246960,
+				"to": 252960
+			},
+			"text": " which comes from the song \"Make Room,\" that we are a growing community and that we're considering different ways"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,960",
+				"to": "00:04:18,960"
+			},
+			"offsets": {
+				"from": 252960,
+				"to": 258960
+			},
+			"text": " to make room for our growing neighborhood in this building. If God decides to draw more people to himself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,960",
+				"to": "00:04:24,960"
+			},
+			"offsets": {
+				"from": 258960,
+				"to": 264960
+			},
+			"text": " how can we make space for them? We talked about the possibility, the possibility of going to two services on Easter."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,960",
+				"to": "00:04:30,960"
+			},
+			"offsets": {
+				"from": 264960,
+				"to": 270960
+			},
+			"text": " If we do that, it's going to require more volunteers. So you're going to see a table out in the lobby every week this month."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,960",
+				"to": "00:04:35,960"
+			},
+			"offsets": {
+				"from": 270960,
+				"to": 275960
+			},
+			"text": " If that's something that you want to consider doing, if you're not volunteering and you'd like to volunteer"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,960",
+				"to": "00:04:41,960"
+			},
+			"offsets": {
+				"from": 275960,
+				"to": 281960
+			},
+			"text": " or you think God might be inviting you to volunteer, check out that table to see the spots that we might need."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,960",
+				"to": "00:04:48,960"
+			},
+			"offsets": {
+				"from": 281960,
+				"to": 288960
+			},
+			"text": " And if you're already volunteering and you want to volunteer more, just tell your lovely leader that, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,960",
+				"to": "00:04:55,960"
+			},
+			"offsets": {
+				"from": 288960,
+				"to": 295960
+			},
+			"text": " just use me all that you want. And we'll probably have a meeting sometime in February where we invite you all to come"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,960",
+				"to": "00:05:01,960"
+			},
+			"offsets": {
+				"from": 295960,
+				"to": 301960
+			},
+			"text": " and we'll talk about the different possibilities based on the volunteers that we have, what we might try and do in Easter."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,960",
+				"to": "00:05:10,960"
+			},
+			"offsets": {
+				"from": 301960,
+				"to": 310960
+			},
+			"text": " And so that's kind of a point of emphasis is just make room. Does everybody remember that? Checks out. We're good. Perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,960",
+				"to": "00:05:15,960"
+			},
+			"offsets": {
+				"from": 310960,
+				"to": 315960
+			},
+			"text": " If you missed last week, I'd encourage you to go check it out. So this week we are going to look at the external"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,960",
+				"to": "00:05:21,960"
+			},
+			"offsets": {
+				"from": 315960,
+				"to": 321960
+			},
+			"text": " strategy as a church. How do we go out into the world and make disciples? What does that look like for us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,960",
+				"to": "00:05:39,960"
+			},
+			"offsets": {
+				"from": 321960,
+				"to": 339960
+			},
+			"text": " So that's the roadmap. Let me pray and then we'll get started. Holy Spirit, God, you are welcome in this place. May you take"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,960",
+				"to": "00:05:46,960"
+			},
+			"offsets": {
+				"from": 339960,
+				"to": 346960
+			},
+			"text": " whatever words that you have prompted me to write down and use them the way that you would choose to use them in"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,960",
+				"to": "00:05:51,960"
+			},
+			"offsets": {
+				"from": 346960,
+				"to": 351960
+			},
+			"text": " the life of each individual person in this room. And God, if there's something you want me to say that is not"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,960",
+				"to": "00:05:57,960"
+			},
+			"offsets": {
+				"from": 351960,
+				"to": 357960
+			},
+			"text": " written down, may you, by your Spirit, lead me to say it. And if there's something that I don't say that you want"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,960",
+				"to": "00:06:04,960"
+			},
+			"offsets": {
+				"from": 357960,
+				"to": 364960
+			},
+			"text": " somebody in this room to hear, God, may by your Spirit, may they hear what you want them to hear today. God, this"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:04,960",
+				"to": "00:06:19,960"
+			},
+			"offsets": {
+				"from": 364960,
+				"to": 379960
+			},
+			"text": " service is yours. The sermon is yours. God, speak to us. Draw us to yourself. And fan into flame a fire of passion for"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,960",
+				"to": "00:06:27,960"
+			},
+			"offsets": {
+				"from": 379960,
+				"to": 387960
+			},
+			"text": " going into the world and spreading a message of hope where there is no hope. Giving people an identity that they can"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,960",
+				"to": "00:06:33,960"
+			},
+			"offsets": {
+				"from": 387960,
+				"to": 393960
+			},
+			"text": " find in Christ where there's all these potential identities that can be found that all fall short. May we find our"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,960",
+				"to": "00:06:41,960"
+			},
+			"offsets": {
+				"from": 393960,
+				"to": 401960
+			},
+			"text": " identity as children of God. God, lead us today by your spirit. In Jesus' name, I pray. Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,960",
+				"to": "00:06:48,960"
+			},
+			"offsets": {
+				"from": 401960,
+				"to": 408960
+			},
+			"text": " It sounds like the children are having fun. That's awesome. All right, I'm going to need some participation"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,960",
+				"to": "00:06:52,960"
+			},
+			"offsets": {
+				"from": 408960,
+				"to": 412960
+			},
+			"text": " here. I usually try and get into it with some lighthearted storytelling, some fun things. We're"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,960",
+				"to": "00:06:58,960"
+			},
+			"offsets": {
+				"from": 412960,
+				"to": 418960
+			},
+			"text": " just going to jump straight into the deep end this morning. Does that sound good? All right. Touchdown."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,960",
+				"to": "00:07:04,960"
+			},
+			"offsets": {
+				"from": 418960,
+				"to": 424960
+			},
+			"text": " All the football talk got everybody pumped from last week. Do me a favor. Raise your hand"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,960",
+				"to": "00:07:10,960"
+			},
+			"offsets": {
+				"from": 424960,
+				"to": 430960
+			},
+			"text": " if you think that every Christian's responsibility, it is every Christian's responsibility to tell others"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,960",
+				"to": "00:07:15,960"
+			},
+			"offsets": {
+				"from": 430960,
+				"to": 435960
+			},
+			"text": " about Jesus and invite them to follow him. Raise your hand if you think that's the Christian"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,960",
+				"to": "00:07:23,960"
+			},
+			"offsets": {
+				"from": 435960,
+				"to": 443960
+			},
+			"text": " responsibility, okay? Now, let me state the question before you participate. If you are a Christian,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,960",
+				"to": "00:07:28,960"
+			},
+			"offsets": {
+				"from": 443960,
+				"to": 448960
+			},
+			"text": " raise your hand if you would say that telling others about Jesus is a regular practice of yours"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,960",
+				"to": "00:07:38,960"
+			},
+			"offsets": {
+				"from": 448960,
+				"to": 458960
+			},
+			"text": " that you look forward to. Real people, real lives. Okay, a couple. I don't say that to shame us. The goal"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,960",
+				"to": "00:07:43,960"
+			},
+			"offsets": {
+				"from": 458960,
+				"to": 463960
+			},
+			"text": " here is not guilt or shame. The reality is I kind of thought that that might be the response, and I want"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,960",
+				"to": "00:07:48,960"
+			},
+			"offsets": {
+				"from": 463960,
+				"to": 468960
+			},
+			"text": " to put you a little bit at ease, not too much at ease, because this is a tension that we should struggle"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,960",
+				"to": "00:07:52,960"
+			},
+			"offsets": {
+				"from": 468960,
+				"to": 472960
+			},
+			"text": " with. This is the tension that I struggle with. You might think you're a pastor. Yeah, it's a lot easier"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,960",
+				"to": "00:07:59,960"
+			},
+			"offsets": {
+				"from": 472960,
+				"to": 479960
+			},
+			"text": " to preach about Jesus to a crowd of people that can't talk back than it is to one-on-one"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,960",
+				"to": "00:08:05,960"
+			},
+			"offsets": {
+				"from": 479960,
+				"to": 485960
+			},
+			"text": " have a conversation with somebody who has deep church hurt or religious hurt or doubts or questions."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,960",
+				"to": "00:08:12,960"
+			},
+			"offsets": {
+				"from": 485960,
+				"to": 492960
+			},
+			"text": " It's much more easy. It's easier for me personally to yell at you all from up here than it is to engage"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,960",
+				"to": "00:08:16,960"
+			},
+			"offsets": {
+				"from": 492960,
+				"to": 496960
+			},
+			"text": " in these difficult conversations. So there's no, I'm not trying to shame you or guilt you, but it is a"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,960",
+				"to": "00:08:21,960"
+			},
+			"offsets": {
+				"from": 496960,
+				"to": 501960
+			},
+			"text": " tension we should wrestle with. And the statistics back the response of the room up."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,960",
+				"to": "00:08:26,960"
+			},
+			"offsets": {
+				"from": 501960,
+				"to": 506960
+			},
+			"text": " Barna has done a couple studies on this recently, and one of their studies says that"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,960",
+				"to": "00:08:33,960"
+			},
+			"offsets": {
+				"from": 506960,
+				"to": 513960
+			},
+			"text": " 100% of Christians agree that they are responsible for sharing their faith. And yet, of that same group,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,960",
+				"to": "00:08:38,960"
+			},
+			"offsets": {
+				"from": 513960,
+				"to": 518960
+			},
+			"text": " 69% of Christians agree that during the past 12 months they shared their faith with someone different,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,960",
+				"to": "00:08:42,960"
+			},
+			"offsets": {
+				"from": 518960,
+				"to": 522960
+			},
+			"text": " with someone who had different beliefs. So that's a 20% gap of people to say, \"This is my job."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,960",
+				"to": "00:08:48,960"
+			},
+			"offsets": {
+				"from": 522960,
+				"to": 528960
+			},
+			"text": " This is my responsibility. This is something I'm called to.\" Versus, \"Yes, I'm actually stepping out"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,960",
+				"to": "00:08:53,960"
+			},
+			"offsets": {
+				"from": 528960,
+				"to": 533960
+			},
+			"text": " in obedience and doing the thing that God called me to do.\" Another study, and of course,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,960",
+				"to": "00:08:59,960"
+			},
+			"offsets": {
+				"from": 533960,
+				"to": 539960
+			},
+			"text": " this is the group that gets picked on the most typically right now in studies. It's us millennials,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,960",
+				"to": "00:09:04,960"
+			},
+			"offsets": {
+				"from": 539960,
+				"to": 544960
+			},
+			"text": " so if you're in that category. Barna did a study of church-going millennials,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,960",
+				"to": "00:09:09,960"
+			},
+			"offsets": {
+				"from": 544960,
+				"to": 549960
+			},
+			"text": " and they said these things. This is very fascinating. They said, \"96% of my faith,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,960",
+				"to": "00:09:16,960"
+			},
+			"offsets": {
+				"from": 549960,
+				"to": 556960
+			},
+			"text": " or 96% of people said part of my faith means being a witness about Jesus.\" Almost 100%."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,960",
+				"to": "00:09:21,960"
+			},
+			"offsets": {
+				"from": 556960,
+				"to": 561960
+			},
+			"text": " They all say, \"Yes, this is part of faith in Jesus. I'm supposed to tell people. I'm supposed to be a witness"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,960",
+				"to": "00:09:28,960"
+			},
+			"offsets": {
+				"from": 561960,
+				"to": 568960
+			},
+			"text": " about Jesus to others.\" 94% of those, this is, I think, great. I wish it was 100%, but 94% of them said the best"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,960",
+				"to": "00:09:34,960"
+			},
+			"offsets": {
+				"from": 568960,
+				"to": 574960
+			},
+			"text": " thing that could ever happen to someone is for them to come to know Jesus. The best thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,960",
+				"to": "00:09:38,960"
+			},
+			"offsets": {
+				"from": 574960,
+				"to": 578960
+			},
+			"text": " This is what Christians believe, genuinely. This is what I believe. This is what most of you believe."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,960",
+				"to": "00:09:41,960"
+			},
+			"offsets": {
+				"from": 578960,
+				"to": 581960
+			},
+			"text": " The best thing that could happen to your coworker, your friend, your neighbor, your family member"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,960",
+				"to": "00:09:45,960"
+			},
+			"offsets": {
+				"from": 581960,
+				"to": 585960
+			},
+			"text": " who does not know Jesus, who is lost without hope. The best thing that could happen to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,960",
+				"to": "00:09:52,960"
+			},
+			"offsets": {
+				"from": 585960,
+				"to": 592960
+			},
+			"text": " Is that they would come to know and follow Jesus. This is where it gets kind of scary."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,960",
+				"to": "00:09:58,960"
+			},
+			"offsets": {
+				"from": 592960,
+				"to": 598960
+			},
+			"text": " 47% of church-going Christian millennials say that they think it is wrong to share their beliefs"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,960",
+				"to": "00:10:05,960"
+			},
+			"offsets": {
+				"from": 598960,
+				"to": 605960
+			},
+			"text": " with someone of a different worldview. See, we live in this postmodern culture where everybody's truth is valid"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:05,960",
+				"to": "00:10:10,960"
+			},
+			"offsets": {
+				"from": 605960,
+				"to": 610960
+			},
+			"text": " and everybody gets to live their truth, and you do you and I do me, and there's, the enemy has used this."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,960",
+				"to": "00:10:16,960"
+			},
+			"offsets": {
+				"from": 610960,
+				"to": 616960
+			},
+			"text": " He has weaponized this to make certain, some of us feel like, okay, yeah, I know I'm supposed to share my faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,960",
+				"to": "00:10:20,960"
+			},
+			"offsets": {
+				"from": 616960,
+				"to": 620960
+			},
+			"text": " I know I'm supposed to talk to others about Jesus, but I don't want to offend anyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,960",
+				"to": "00:10:25,960"
+			},
+			"offsets": {
+				"from": 620960,
+				"to": 625960
+			},
+			"text": " I don't want to get canceled. I don't want to get fired at work. Like, there's all of these tensions and struggles,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,960",
+				"to": "00:10:30,960"
+			},
+			"offsets": {
+				"from": 625960,
+				"to": 630960
+			},
+			"text": " and there's likely a number of reasons that many of us would say, like, I know I'm supposed to do it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,960",
+				"to": "00:10:34,960"
+			},
+			"offsets": {
+				"from": 630960,
+				"to": 634960
+			},
+			"text": " but I struggle to do it. It's not something that I'm excited about. Maybe you don't feel equipped."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:34,960",
+				"to": "00:10:40,960"
+			},
+			"offsets": {
+				"from": 634960,
+				"to": 640960
+			},
+			"text": " Maybe the methods that you have been given in the past are not something that you're interested in copy"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,960",
+				"to": "00:10:45,960"
+			},
+			"offsets": {
+				"from": 640960,
+				"to": 645960
+			},
+			"text": " and pasting in your life. Maybe you're afraid of rejection or how you might be received."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,960",
+				"to": "00:10:51,960"
+			},
+			"offsets": {
+				"from": 645960,
+				"to": 651960
+			},
+			"text": " I don't know what your attention is, but my goal is, with the rest of our time, I want to unpack our vision statement,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,960",
+				"to": "00:10:56,960"
+			},
+			"offsets": {
+				"from": 651960,
+				"to": 656960
+			},
+			"text": " which I think gives us a fresh vision for how we might go about sharing our faith,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,960",
+				"to": "00:11:02,960"
+			},
+			"offsets": {
+				"from": 656960,
+				"to": 662960
+			},
+			"text": " how we might think about sharing our faith. And I think that the way that we have kind of articulated this on paper,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,960",
+				"to": "00:11:07,960"
+			},
+			"offsets": {
+				"from": 662960,
+				"to": 667960
+			},
+			"text": " I hope and pray that it might relieve some of the tension that comes around this idea,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,960",
+				"to": "00:11:15,960"
+			},
+			"offsets": {
+				"from": 667960,
+				"to": 675960
+			},
+			"text": " and kind of blow a fresh enthusiasm and excitement about us going out into the world"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:15,960",
+				"to": "00:11:19,960"
+			},
+			"offsets": {
+				"from": 675960,
+				"to": 679960
+			},
+			"text": " and having spiritual conversations, making disciples of people that we love and we care about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,960",
+				"to": "00:11:26,960"
+			},
+			"offsets": {
+				"from": 679960,
+				"to": 686960
+			},
+			"text": " and we want to see come to Jesus. We think the best thing that could happen to them is in coming to know Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,960",
+				"to": "00:11:30,960"
+			},
+			"offsets": {
+				"from": 686960,
+				"to": 690960
+			},
+			"text": " Now, before we get into that, I will say there is probably one tension that many of you struggle with,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,960",
+				"to": "00:11:37,960"
+			},
+			"offsets": {
+				"from": 690960,
+				"to": 697960
+			},
+			"text": " that I myself struggle with, that there is no biblical relief for, unfortunately."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,960",
+				"to": "00:11:43,960"
+			},
+			"offsets": {
+				"from": 697960,
+				"to": 703960
+			},
+			"text": " There is a tension that we just have to, by the power of the Holy Spirit, get over."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,960",
+				"to": "00:11:51,960"
+			},
+			"offsets": {
+				"from": 703960,
+				"to": 711960
+			},
+			"text": " Jesus says this, \"Woe to you when everyone thinks well of you.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,960",
+				"to": "00:11:57,960"
+			},
+			"offsets": {
+				"from": 711960,
+				"to": 717960
+			},
+			"text": " And so, I don't know about you, but one of my tensions behind sharing my faith with others"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,960",
+				"to": "00:12:11,960"
+			},
+			"offsets": {
+				"from": 717960,
+				"to": 731960
+			},
+			"text": " is I want everyone to think well of me. I want everyone to think I'm a reasonable, logical, intelligent, wise, handsome, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,960",
+				"to": "00:12:18,960"
+			},
+			"offsets": {
+				"from": 731960,
+				"to": 738960
+			},
+			"text": " Like, I want, that was my mom. She said you are. She's, I don't even have to pay her to say that. It's great. Aw, wonderful."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,960",
+				"to": "00:12:25,960"
+			},
+			"offsets": {
+				"from": 738960,
+				"to": 745960
+			},
+			"text": " But if that's a reservation for you, I get it. I wrestle with it myself, but that is one that I cannot give you a biblical passage."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,960",
+				"to": "00:12:36,960"
+			},
+			"offsets": {
+				"from": 745960,
+				"to": 756960
+			},
+			"text": " I cannot give you a prayer. I cannot ask the Holy Spirit to somehow quench that, because the reality is, if we go out and share our faith, we will offend people."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,960",
+				"to": "00:12:43,960"
+			},
+			"offsets": {
+				"from": 756960,
+				"to": 763960
+			},
+			"text": " People won't understand our perspective. They won't understand where we're coming from, and that's, we've got to be okay with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,960",
+				"to": "00:12:49,960"
+			},
+			"offsets": {
+				"from": 763960,
+				"to": 769960
+			},
+			"text": " We shouldn't look for that. We shouldn't be excited about that. But at the end of the day, we've got to be okay with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,960",
+				"to": "00:12:59,960"
+			},
+			"offsets": {
+				"from": 769960,
+				"to": 779960
+			},
+			"text": " For the sake of Jesus and His kingdom, we've got to be okay. All right. Vision. This is what our church's strategy is."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,960",
+				"to": "00:13:05,960"
+			},
+			"offsets": {
+				"from": 779960,
+				"to": 785960
+			},
+			"text": " How we envision us as believers of Jesus, each one of us as individuals leaving this building, going out into the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,960",
+				"to": "00:13:14,960"
+			},
+			"offsets": {
+				"from": 785960,
+				"to": 794960
+			},
+			"text": " We say our vision is to cultivate the kingdom of God by proclaiming Jesus clearly and obeying Jesus boldly."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,960",
+				"to": "00:13:24,960"
+			},
+			"offsets": {
+				"from": 794960,
+				"to": 804960
+			},
+			"text": " Cultivate the kingdom of God by proclaiming, by giving words, by giving testimony, by sharing the truth about Jesus, and by living out the truth of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:24,960",
+				"to": "00:13:34,960"
+			},
+			"offsets": {
+				"from": 804960,
+				"to": 814960
+			},
+			"text": " This is a holistic definition of what success looks like for us as we seek to live out the Great Commission outside of these walls, outside of our church, everywhere we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,960",
+				"to": "00:13:41,960"
+			},
+			"offsets": {
+				"from": 814960,
+				"to": 821960
+			},
+			"text": " We want to be a people that have eyes to see, ears to hear, and hands to partner with what God is doing around the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,960",
+				"to": "00:13:48,960"
+			},
+			"offsets": {
+				"from": 821960,
+				"to": 828960
+			},
+			"text": " The Great Commission, the external version of the Great Commission, it's not just about preaching to people."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,960",
+				"to": "00:13:54,960"
+			},
+			"offsets": {
+				"from": 828960,
+				"to": 834960
+			},
+			"text": " And it's not just about demonstrating acts of kindness in the name of Jesus. It's both and."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,960",
+				"to": "00:14:03,960"
+			},
+			"offsets": {
+				"from": 834960,
+				"to": 843960
+			},
+			"text": " It's about being empowered by the Holy Spirit to know how to engage people around us with the good news of Jesus in word and in deed."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,960",
+				"to": "00:14:09,960"
+			},
+			"offsets": {
+				"from": 843960,
+				"to": 849960
+			},
+			"text": " Now, it's not a task that we're called to. It's not a box that we're supposed to check."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,960",
+				"to": "00:14:15,960"
+			},
+			"offsets": {
+				"from": 849960,
+				"to": 855960
+			},
+			"text": " It is a lifestyle. It is a type of person that we are called to be formed into."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,960",
+				"to": "00:14:25,960"
+			},
+			"offsets": {
+				"from": 855960,
+				"to": 865960
+			},
+			"text": " And this, for me, gives me a lot more hope for my own progress in this because I grew up thinking it was a box I had to check, a task I had to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,960",
+				"to": "00:14:30,960"
+			},
+			"offsets": {
+				"from": 865960,
+				"to": 870960
+			},
+			"text": " If I went Saturday mornings and knocked on doors, then I did the thing that I was supposed to do even though I hated it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,960",
+				"to": "00:14:36,960"
+			},
+			"offsets": {
+				"from": 870960,
+				"to": 876960
+			},
+			"text": " And now God's happy with me and I can move on. It's not a religious task."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,960",
+				"to": "00:14:42,960"
+			},
+			"offsets": {
+				"from": 876960,
+				"to": 882960
+			},
+			"text": " It is a lifestyle of obedience. It is a person that Jesus wants us to become."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,960",
+				"to": "00:14:48,960"
+			},
+			"offsets": {
+				"from": 882960,
+				"to": 888960
+			},
+			"text": " So, we're gonna unpack that statement kind of word by word, phrase by phrase, first and foremost, cultivate."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,960",
+				"to": "00:14:54,960"
+			},
+			"offsets": {
+				"from": 888960,
+				"to": 894960
+			},
+			"text": " This word is a word that we, as a church, use a lot. Hopefully you see it in some of our documentation."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,960",
+				"to": "00:15:02,960"
+			},
+			"offsets": {
+				"from": 894960,
+				"to": 902960
+			},
+			"text": " It is a very intentional word that I believe gets to the heart of how God chooses to work in his world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,960",
+				"to": "00:15:14,960"
+			},
+			"offsets": {
+				"from": 902960,
+				"to": 914960
+			},
+			"text": " The idea of cultivate, it has this idea of our participation, and yet the thrust of the action being done, the thrust of the work being done is God's."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,960",
+				"to": "00:15:21,960"
+			},
+			"offsets": {
+				"from": 914960,
+				"to": 921960
+			},
+			"text": " We participate and God works. Throughout the scriptures, God almost always chooses to work through human partnerships."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,960",
+				"to": "00:15:28,960"
+			},
+			"offsets": {
+				"from": 921960,
+				"to": 928960
+			},
+			"text": " Noah's Ark, famous one we probably heard about in Sunday school growing up, flannel graphs, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,960",
+				"to": "00:15:38,960"
+			},
+			"offsets": {
+				"from": 928960,
+				"to": 938960
+			},
+			"text": " God rescued the world from judgment. God did it. Noah built the ark, right? There's participation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,960",
+				"to": "00:15:45,960"
+			},
+			"offsets": {
+				"from": 938960,
+				"to": 945960
+			},
+			"text": " It is God's invitation to Noah to be used by him to be a vehicle for God's work in the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,960",
+				"to": "00:15:54,960"
+			},
+			"offsets": {
+				"from": 945960,
+				"to": 954960
+			},
+			"text": " Israel at the banks of the Red Sea. God parted the Red Sea as Moses lifted up the staff."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,960",
+				"to": "00:15:59,960"
+			},
+			"offsets": {
+				"from": 954960,
+				"to": 959960
+			},
+			"text": " There's human participation. There's God working through human participation."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,960",
+				"to": "00:16:05,960"
+			},
+			"offsets": {
+				"from": 959960,
+				"to": 965960
+			},
+			"text": " We move into the New Testament. A servant's water jugs are used by God to turn water into wine."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,960",
+				"to": "00:16:10,960"
+			},
+			"offsets": {
+				"from": 965960,
+				"to": 970960
+			},
+			"text": " They were used. They were available. They were cultivating. They were participating in what God was doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,960",
+				"to": "00:16:17,960"
+			},
+			"offsets": {
+				"from": 970960,
+				"to": 977960
+			},
+			"text": " A little boy's lunchbox was used to feed 5,000 people. Did that little boy feed 5,000 people? No."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,960",
+				"to": "00:16:27,960"
+			},
+			"offsets": {
+				"from": 977960,
+				"to": 987960
+			},
+			"text": " No, but he was used. He was available. He was cultivating. God does the work in response to our participation."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,960",
+				"to": "00:16:33,960"
+			},
+			"offsets": {
+				"from": 987960,
+				"to": 993960
+			},
+			"text": " Now, this is a fun little tangent here. Remember I said that we are a Christ-centered community."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,960",
+				"to": "00:16:44,960"
+			},
+			"offsets": {
+				"from": 993960,
+				"to": 1004960
+			},
+			"text": " We don't get lost in the nuance of secondary debatable theology. Please, please do not get stuck trying to understand this intellectually."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,960",
+				"to": "00:16:57,960"
+			},
+			"offsets": {
+				"from": 1004960,
+				"to": 1017960
+			},
+			"text": " Do not get stuck trying to define exactly how your participation and God's participation works. Churches split over smart people thinking they can explain exactly how God's sovereignty and man's participation work."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,960",
+				"to": "00:17:07,960"
+			},
+			"offsets": {
+				"from": 1017960,
+				"to": 1027960
+			},
+			"text": " May we not be a people that are so set on figuring out exactly how God works that we miss out on actually just participating in what he wants us to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,960",
+				"to": "00:17:13,960"
+			},
+			"offsets": {
+				"from": 1027960,
+				"to": 1033960
+			},
+			"text": " This is one of the most unnecessary divisions in the church, in my opinion. And I know some of you are passionate about it. It's important to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,960",
+				"to": "00:17:20,960"
+			},
+			"offsets": {
+				"from": 1033960,
+				"to": 1040960
+			},
+			"text": " It's okay to wrestle through and try and figure out how it works, but don't make it the primary thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,960",
+				"to": "00:17:29,960"
+			},
+			"offsets": {
+				"from": 1040960,
+				"to": 1049960
+			},
+			"text": " So this spring, I'm going to talk as if I did most of the work, but we'll just go ahead and say up front that Marissa did most of the work."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,960",
+				"to": "00:17:37,960"
+			},
+			"offsets": {
+				"from": 1049960,
+				"to": 1057960
+			},
+			"text": " But this spring, I finally got around to using the raised garden bed at our house. I've had it for a couple of years."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,960",
+				"to": "00:17:42,960"
+			},
+			"offsets": {
+				"from": 1057960,
+				"to": 1062960
+			},
+			"text": " I've tried here and there to use it, but never really consistently did anything about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,960",
+				"to": "00:17:48,960"
+			},
+			"offsets": {
+				"from": 1062960,
+				"to": 1068960
+			},
+			"text": " And I, I won't speak for Marissa, know next to nothing about plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,960",
+				"to": "00:17:56,960"
+			},
+			"offsets": {
+				"from": 1068960,
+				"to": 1076960
+			},
+			"text": " But what we saw this year is with a little bit of time and intentionality, even though I know next to nothing about gardening plants,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,960",
+				"to": "00:18:02,960"
+			},
+			"offsets": {
+				"from": 1076960,
+				"to": 1082960
+			},
+			"text": " with a little bit of time and a little bit of intentionality, we had tomatoes growing in our garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,960",
+				"to": "00:18:11,960"
+			},
+			"offsets": {
+				"from": 1082960,
+				"to": 1091960
+			},
+			"text": " Put them in a salad. It was awesome. Now, did I grow tomatoes? No."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,960",
+				"to": "00:18:18,960"
+			},
+			"offsets": {
+				"from": 1091960,
+				"to": 1098960
+			},
+			"text": " I didn't grow tomatoes. I participated in the process that God has laid out for him to produce tomatoes."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:18,960",
+				"to": "00:18:25,960"
+			},
+			"offsets": {
+				"from": 1098960,
+				"to": 1105960
+			},
+			"text": " This is God's work. I don't, I don't create life. I don't make these things happen, but I participate in the process."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,960",
+				"to": "00:18:34,960"
+			},
+			"offsets": {
+				"from": 1105960,
+				"to": 1114960
+			},
+			"text": " And, and it's, it's helpful to have some knowledge, right? Like my sister-in-law has a degree in plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,960",
+				"to": "00:18:47,960"
+			},
+			"offsets": {
+				"from": 1114960,
+				"to": 1127960
+			},
+			"text": " I, I should know the name of it. I do not. She, she knows way more about planting things than I do. And she's probably can do way more with plants than I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,960",
+				"to": "00:18:54,960"
+			},
+			"offsets": {
+				"from": 1127960,
+				"to": 1134960
+			},
+			"text": " And so when we think about sharing our faith with Jesus, we might have this obstacle of like, I don't know enough to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,960",
+				"to": "00:19:00,960"
+			},
+			"offsets": {
+				"from": 1134960,
+				"to": 1140960
+			},
+			"text": " And it's good to grow in your knowledge. We should be seeking to grow in our knowledge of how to share our faith, of how to answer people's questions."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,960",
+				"to": "00:19:06,960"
+			},
+			"offsets": {
+				"from": 1140960,
+				"to": 1146960
+			},
+			"text": " These are all things that we should do, but that should not be an obstacle for us from us starting to do the work."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,960",
+				"to": "00:19:14,960"
+			},
+			"offsets": {
+				"from": 1146960,
+				"to": 1154960
+			},
+			"text": " I didn't need to know everything I needed to know about a tomato plant to grow some tomatoes. I just had to do a little bit of time and a little bit of intentionality."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,960",
+				"to": "00:19:21,960"
+			},
+			"offsets": {
+				"from": 1154960,
+				"to": 1161960
+			},
+			"text": " So it helps that we grow in our knowledge, and we can benefit. And also, here's the other thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,960",
+				"to": "00:19:33,960"
+			},
+			"offsets": {
+				"from": 1163960,
+				"to": 1173960
+			},
+			"text": " We can benefit from the work of others in our life. So raising a plant from a seed, harder than just raising a plant that you transplant."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,960",
+				"to": "00:19:38,960"
+			},
+			"offsets": {
+				"from": 1173960,
+				"to": 1178960
+			},
+			"text": " So some of the tomatoes we grew were transplanted for my sister has a degree in plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,960",
+				"to": "00:19:46,960"
+			},
+			"offsets": {
+				"from": 1178960,
+				"to": 1186960
+			},
+			"text": " Horticulture. That doesn't sound like what she has, but that is a degree."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,960",
+				"to": "00:19:52,960"
+			},
+			"offsets": {
+				"from": 1186960,
+				"to": 1192960
+			},
+			"text": " All right. Let's not try and figure this question out right now. I'm sweating up here. Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,960",
+				"to": "00:20:00,960"
+			},
+			"offsets": {
+				"from": 1194960,
+				"to": 1200960
+			},
+			"text": " And so here's the other thing. Like we partner together in cultivating and sharing our faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,960",
+				"to": "00:20:10,960"
+			},
+			"offsets": {
+				"from": 1200960,
+				"to": 1210960
+			},
+			"text": " Like sometimes you're going to stumble into and have a conversation with somebody about faith, and they're already, their wheels are already turning because they had a conversation with somebody else that was trying to share their faith with Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,960",
+				"to": "00:20:16,960"
+			},
+			"offsets": {
+				"from": 1210960,
+				"to": 1216960
+			},
+			"text": " So this cultivation process is not just on us. It's on God, and we do it in community with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,960",
+				"to": "00:20:21,960"
+			},
+			"offsets": {
+				"from": 1216960,
+				"to": 1221960
+			},
+			"text": " We participate. God does the work. Matthew chapter 9."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,960",
+				"to": "00:20:24,960"
+			},
+			"offsets": {
+				"from": 1222960,
+				"to": 1224960
+			},
+			"text": " I took the lid off and didn't take a drink."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,960",
+				"to": "00:20:28,960"
+			},
+			"offsets": {
+				"from": 1224960,
+				"to": 1228960
+			},
+			"text": " Matthew chapter 9, verses 35 through 38."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,960",
+				"to": "00:20:36,960"
+			},
+			"offsets": {
+				"from": 1228960,
+				"to": 1236960
+			},
+			"text": " Jesus traveled through all the towns and villages of that area, teaching in the synagogues and announcing the good news about the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,960",
+				"to": "00:20:41,960"
+			},
+			"offsets": {
+				"from": 1236960,
+				"to": 1241960
+			},
+			"text": " It's important. Announcing the good news about the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,960",
+				"to": "00:20:50,960"
+			},
+			"offsets": {
+				"from": 1241960,
+				"to": 1250960
+			},
+			"text": " And he healed every kind of disease and illness. And when he saw the crowds, he had compassion on them because they were confused and helpless like sheep without a shepherd."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,960",
+				"to": "00:20:57,960"
+			},
+			"offsets": {
+				"from": 1252960,
+				"to": 1257960
+			},
+			"text": " He said to his disciples, \"The harvest is great, but the workers are few.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,960",
+				"to": "00:21:05,960"
+			},
+			"offsets": {
+				"from": 1257960,
+				"to": 1265960
+			},
+			"text": " So, pray to the Lord who is in charge of the harvest. Ask him to send more workers into the field."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,960",
+				"to": "00:21:13,960"
+			},
+			"offsets": {
+				"from": 1265960,
+				"to": 1273960
+			},
+			"text": " Like Jesus, we are surrounded by a culture of people who are like sheep without a shepherd."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,960",
+				"to": "00:21:19,960"
+			},
+			"offsets": {
+				"from": 1273960,
+				"to": 1279960
+			},
+			"text": " There are people all around us who are lost and hopeless, looking for meaning and purpose,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,960",
+				"to": "00:21:26,960"
+			},
+			"offsets": {
+				"from": 1280960,
+				"to": 1286960
+			},
+			"text": " looking for direction, looking to understand why they exist and what their life is all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,960",
+				"to": "00:21:30,960"
+			},
+			"offsets": {
+				"from": 1286960,
+				"to": 1290960
+			},
+			"text": " And you and I, some of us in this room, most of us in this room, we know the good shepherd."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,960",
+				"to": "00:21:37,960"
+			},
+			"offsets": {
+				"from": 1290960,
+				"to": 1297960
+			},
+			"text": " The one who answers these questions, whose leadership will bring true meaning, purpose, and identity in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,960",
+				"to": "00:21:42,960"
+			},
+			"offsets": {
+				"from": 1297960,
+				"to": 1302960
+			},
+			"text": " And Jesus is drawing people to himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,960",
+				"to": "00:21:49,960"
+			},
+			"offsets": {
+				"from": 1302960,
+				"to": 1309960
+			},
+			"text": " So the question then becomes, \"Are we going to participate? Will we join with him in his redemptive work?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,960",
+				"to": "00:21:53,960"
+			},
+			"offsets": {
+				"from": 1309960,
+				"to": 1313960
+			},
+			"text": " Notice that he does not ask his disciples to pray for the harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,960",
+				"to": "00:21:59,960"
+			},
+			"offsets": {
+				"from": 1313960,
+				"to": 1319960
+			},
+			"text": " He doesn't say, \"Pray that these people will come to know me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,960",
+				"to": "00:22:06,960"
+			},
+			"offsets": {
+				"from": 1319960,
+				"to": 1326960
+			},
+			"text": " He says, \"There is a harvest. There is people that are out there that are going to come to know me."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,960",
+				"to": "00:22:11,960"
+			},
+			"offsets": {
+				"from": 1326960,
+				"to": 1331960
+			},
+			"text": " I am in charge of the harvest. What you need to pray for are the workers, because the harvest is there."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,960",
+				"to": "00:22:16,960"
+			},
+			"offsets": {
+				"from": 1331960,
+				"to": 1336960
+			},
+			"text": " The harvest will come. But in order for the harvest to come, there need to be workers who go out into the fields."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,960",
+				"to": "00:22:23,960"
+			},
+			"offsets": {
+				"from": 1336960,
+				"to": 1343960
+			},
+			"text": " That's you and I. So when we think about cultivate, we got to realize that there is already a harvest outside of these walls."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,960",
+				"to": "00:22:27,960"
+			},
+			"offsets": {
+				"from": 1343960,
+				"to": 1347960
+			},
+			"text": " There is a harvest in your circle of influence. There is a harvest in the relationships that you have."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,960",
+				"to": "00:22:31,960"
+			},
+			"offsets": {
+				"from": 1347960,
+				"to": 1351960
+			},
+			"text": " There is a harvest at your work, at your school, at your family reunion."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,960",
+				"to": "00:22:37,960"
+			},
+			"offsets": {
+				"from": 1351960,
+				"to": 1357960
+			},
+			"text": " There is a harvest of people that God is drawing to himself. Will we be available?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,960",
+				"to": "00:22:42,960"
+			},
+			"offsets": {
+				"from": 1357960,
+				"to": 1362960
+			},
+			"text": " Will we make room to participate in what God is doing all around us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,960",
+				"to": "00:22:49,960"
+			},
+			"offsets": {
+				"from": 1365960,
+				"to": 1369960
+			},
+			"text": " See, each of us, we have a unique circle of influence. We have a unique context."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:49,960",
+				"to": "00:22:54,960"
+			},
+			"offsets": {
+				"from": 1369960,
+				"to": 1374960
+			},
+			"text": " Many of you know people that I will never come across, and I know some people that you will never come across."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,960",
+				"to": "00:22:59,960"
+			},
+			"offsets": {
+				"from": 1374960,
+				"to": 1379960
+			},
+			"text": " We all have these unique circles of influence, a harvest available to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,960",
+				"to": "00:23:05,960"
+			},
+			"offsets": {
+				"from": 1379960,
+				"to": 1385960
+			},
+			"text": " Will we be a people who choose to just be available to be used by God, a worker in the harvest?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,960",
+				"to": "00:23:10,960"
+			},
+			"offsets": {
+				"from": 1385960,
+				"to": 1390960
+			},
+			"text": " You don't have to have all the answers. You just have to be available."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,960",
+				"to": "00:23:34,960"
+			},
+			"offsets": {
+				"from": 1393960,
+				"to": 1414960
+			},
+			"text": " I love how Tyler Staten puts it. He says, \"God has designed you as an individual, and placed you into human history at this moment, in this part of the world, with this personality, in this set of hobbies and preferences, because you are the best person He has ever designed to reach the people around you.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,960",
+				"to": "00:23:42,960"
+			},
+			"offsets": {
+				"from": 1414960,
+				"to": 1422960
+			},
+			"text": " Do we believe this? Do we believe that God has intentionally knit us together in our mother's womb,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,960",
+				"to": "00:24:02,960"
+			},
+			"offsets": {
+				"from": 1422960,
+				"to": 1442960
+			},
+			"text": " for such a time as this? To be a worker in the fields of God's harvest. Not in charge of convincing people to believe what we believe, just available to have conversations about the God that we have known and experienced through the power of the Holy Spirit, through the resurrection of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,960",
+				"to": "00:24:11,960"
+			},
+			"offsets": {
+				"from": 1442960,
+				"to": 1451960
+			},
+			"text": " We want to be a people that cultivate. What are we cultivating? What is it that we're invited to cultivate? The thing that turned me off the most"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,960",
+				"to": "00:24:40,960"
+			},
+			"offsets": {
+				"from": 1451960,
+				"to": 1480960
+			},
+			"text": " growing up in an American evangelical church? Anybody else fall in that category? Yeah? Okay, some of us, that's great. When I thought about the idea of evangelism, and this might be young me internalizing the wrong things, but the thing that I walked away with when we talked about evangelism in the American evangelical church growing up is the emphasis seemed to be placed on converts."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,960",
+				"to": "00:25:09,960"
+			},
+			"offsets": {
+				"from": 1480960,
+				"to": 1509960
+			},
+			"text": " I'm persuading people to pray a prayer that is found nowhere in the Bible, and have them ask Jesus into their hearts. The focus was on their eternal destination. Where are you gonna go when you die? And although I am certain that the motivation behind this was good, it comes across as transactional and shallow. It felt more like I was being persuaded to recruit for a heavenly pyramid scheme. This is my experience. This is how I felt."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,960",
+				"to": "00:25:38,960"
+			},
+			"offsets": {
+				"from": 1509960,
+				"to": 1538960
+			},
+			"text": " Then I was being trained to have compassion on people who are lost and searching for hope and meaning and purpose. This falls woefully short of what we see Jesus doing. Look at the Matthew passage again. It's a shorter version. What was Jesus doing? Next one, I think. Announcing the good news about the kingdom. The gospel is so"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,960",
+				"to": "00:26:07,960"
+			},
+			"offsets": {
+				"from": 1538960,
+				"to": 1567960
+			},
+			"text": " much bigger than just about where we go when we die. That is a element of it. That is a part of it. But it's an announcement about a new king and a new kingdom, not run by the desires of our heart that will leave us wanting more, but by the desires of the Creator who knows what we were made for. We're not called to just make converts. We're not called to just ask people if they know when they're going, when they die. We're called to invite people"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,960",
+				"to": "00:26:35,960"
+			},
+			"offsets": {
+				"from": 1567960,
+				"to": 1595960
+			},
+			"text": " to consider Jesus' kingdom. That because He did indeed raise from the dead, that He did indeed inaugurate a new kingdom that is run by enemy love, sacrificial love, that is run by the purposes that He designed for this whole thing to be done. The kingdom of God is so much bigger than converts. We are called to cultivate God's kingdom on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,960",
+				"to": "00:26:45,960"
+			},
+			"offsets": {
+				"from": 1595960,
+				"to": 1605960
+			},
+			"text": " Jesus says, \"There is a normal way of living that the majority of people choose.\" This is not word-for-word quote. This is my paraphrase, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,960",
+				"to": "00:27:03,960"
+			},
+			"offsets": {
+				"from": 1605960,
+				"to": 1623960
+			},
+			"text": " That seems easy in the moment, but in the end leads to destruction. And there is a new countercultural way of living that is hard to find because it requires self-sacrifice. It requires laying down your life, surrendering all. But in the end, it leads to life."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,960",
+				"to": "00:27:19,960"
+			},
+			"offsets": {
+				"from": 1623960,
+				"to": 1639960
+			},
+			"text": " Abundant life and eternal life. See, when Jesus teaches his people to pray, we read this earlier, he does not say, \"Our Father in heaven, holy is your name. May more people ask Jesus into their heart and go to heaven when they die.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,960",
+				"to": "00:27:31,960"
+			},
+			"offsets": {
+				"from": 1639960,
+				"to": 1651960
+			},
+			"text": " He says, \"May your kingdom come. May your will be done on earth as it is in heaven.\" This is not shallow. This is not transactional. This is an invitation"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,960",
+				"to": "00:27:39,960"
+			},
+			"offsets": {
+				"from": 1651960,
+				"to": 1659960
+			},
+			"text": " into a better way to live. A way that will continue on long after our short and temporary lives come to an end."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,960",
+				"to": "00:27:48,960"
+			},
+			"offsets": {
+				"from": 1659960,
+				"to": 1668960
+			},
+			"text": " Love how John Mark Homer puts it. To live, this is what the kingdom of God is all about. This is what we're invited to participate in. To live now what one day will become true of the whole world."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,960",
+				"to": "00:27:59,960"
+			},
+			"offsets": {
+				"from": 1668960,
+				"to": 1679960
+			},
+			"text": " Jesus is king, whether we acknowledge it or not. He is the king of the universe who came, lived, died, rose again, ascended into heaven, and he is coming again."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:59,960",
+				"to": "00:28:11,960"
+			},
+			"offsets": {
+				"from": 1679960,
+				"to": 1691960
+			},
+			"text": " His kingdom will come once and for all in eternity. And what we're invited to do right now is to participate, to live into the values of the kingdom of God on earth now as we await the final return."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,960",
+				"to": "00:28:17,960"
+			},
+			"offsets": {
+				"from": 1691960,
+				"to": 1697960
+			},
+			"text": " How does this happen? How do we become a people that cultivate God's kingdom on earth as it is in heaven?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,960",
+				"to": "00:28:26,960"
+			},
+			"offsets": {
+				"from": 1697960,
+				"to": 1706960
+			},
+			"text": " God's kingdom expands, it becomes more visible as followers of Jesus proclaim his kingdom clearly and obey his kingdom boldly."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:27,960",
+				"to": "00:28:38,960"
+			},
+			"offsets": {
+				"from": 1707960,
+				"to": 1718960
+			},
+			"text": " Inviting others to lay down their false kings and false kingdoms and step off the wide road that leads to destruction and step onto the narrow road that leads to life."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:38,960",
+				"to": "00:28:45,960"
+			},
+			"offsets": {
+				"from": 1718960,
+				"to": 1725960
+			},
+			"text": " Proclaiming Jesus clearly. This is the point of every follower of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,960",
+				"to": "00:28:52,960"
+			},
+			"offsets": {
+				"from": 1725960,
+				"to": 1732960
+			},
+			"text": " Our lives should be built around communicating and obeying the teachings of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:52,960",
+				"to": "00:28:57,960"
+			},
+			"offsets": {
+				"from": 1732960,
+				"to": 1737960
+			},
+			"text": " This is Christ's ministry. His ministry was built on announcing and demonstrating. We saw that in the Matthew passage."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:57,960",
+				"to": "00:29:03,960"
+			},
+			"offsets": {
+				"from": 1737960,
+				"to": 1743960
+			},
+			"text": " He was announcing the kingdom of God and healing the sick. And this is our example."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,960",
+				"to": "00:29:10,960"
+			},
+			"offsets": {
+				"from": 1743960,
+				"to": 1750960
+			},
+			"text": " Now, my hunch is that some of us are probably not good at either."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:10,960",
+				"to": "00:29:15,960"
+			},
+			"offsets": {
+				"from": 1750960,
+				"to": 1755960
+			},
+			"text": " Real people, real lives, no shame, no guilt, invitation."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,960",
+				"to": "00:29:19,960"
+			},
+			"offsets": {
+				"from": 1756960,
+				"to": 1759960
+			},
+			"text": " But my hunch is that some of us are good at one or the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,960",
+				"to": "00:29:26,960"
+			},
+			"offsets": {
+				"from": 1759960,
+				"to": 1766960
+			},
+			"text": " Or even if we're not good, we feel drawn to, to emphasize, to focus on one or the other. Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,960",
+				"to": "00:29:33,960"
+			},
+			"offsets": {
+				"from": 1766960,
+				"to": 1773960
+			},
+			"text": " We've all met, I think, we've all met Christians who preach Jesus all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,960",
+				"to": "00:29:39,960"
+			},
+			"offsets": {
+				"from": 1773960,
+				"to": 1779960
+			},
+			"text": " But if you followed their lives around, if you had a camera on them for 24 hours for one day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,960",
+				"to": "00:29:47,960"
+			},
+			"offsets": {
+				"from": 1780960,
+				"to": 1787960
+			},
+			"text": " you would say, \"Wow, the Jesus you preach about doesn't seem to lead your life.\" Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,960",
+				"to": "00:29:51,960"
+			},
+			"offsets": {
+				"from": 1787960,
+				"to": 1791960
+			},
+			"text": " And so that message becomes less and less compelling."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,960",
+				"to": "00:29:54,960"
+			},
+			"offsets": {
+				"from": 1791960,
+				"to": 1794960
+			},
+			"text": " When you're evangelizing to people who do life with you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,960",
+				"to": "00:29:58,960"
+			},
+			"offsets": {
+				"from": 1794960,
+				"to": 1798960
+			},
+			"text": " and they see your life not looking anything like the Jesus you're preaching about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,960",
+				"to": "00:30:02,960"
+			},
+			"offsets": {
+				"from": 1798960,
+				"to": 1802960
+			},
+			"text": " probably not gonna harvest a whole lot of that fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,960",
+				"to": "00:30:08,960"
+			},
+			"offsets": {
+				"from": 1802960,
+				"to": 1808960
+			},
+			"text": " On the flip side, I know some followers of Jesus that are the most kind,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,960",
+				"to": "00:30:10,960"
+			},
+			"offsets": {
+				"from": 1808960,
+				"to": 1810960
+			},
+			"text": " compassionate, and loving people I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,960",
+				"to": "00:30:16,960"
+			},
+			"offsets": {
+				"from": 1810960,
+				"to": 1816960
+			},
+			"text": " But they do not leverage that as an opportunity to have conversations about God's kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,960",
+				"to": "00:30:21,960"
+			},
+			"offsets": {
+				"from": 1816960,
+				"to": 1821960
+			},
+			"text": " It's like you're hanging out with your friends, you're super patient, you're so kind."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,960",
+				"to": "00:30:24,960"
+			},
+			"offsets": {
+				"from": 1821960,
+				"to": 1824960
+			},
+			"text": " And they're like, \"Wow, you're so kind and loving."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:24,960",
+				"to": "00:30:27,960"
+			},
+			"offsets": {
+				"from": 1824960,
+				"to": 1827960
+			},
+			"text": " It must be that cold plunge and sauna routine that you've been doing.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,960",
+				"to": "00:30:33,960"
+			},
+			"offsets": {
+				"from": 1827960,
+				"to": 1833960
+			},
+			"text": " It's like, it's gotta be the cold plunge and sauna."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,960",
+				"to": "00:30:34,960"
+			},
+			"offsets": {
+				"from": 1833960,
+				"to": 1834960
+			},
+			"text": " It's like, no, use this opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:34,960",
+				"to": "00:30:37,960"
+			},
+			"offsets": {
+				"from": 1834960,
+				"to": 1837960
+			},
+			"text": " Use your obedience to Jesus as a on-ramp to have conversations about God's kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:37,960",
+				"to": "00:30:39,960"
+			},
+			"offsets": {
+				"from": 1837960,
+				"to": 1839960
+			},
+			"text": " Stay on-ramp to have conversations about Him."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,960",
+				"to": "00:30:42,960"
+			},
+			"offsets": {
+				"from": 1839960,
+				"to": 1842960
+			},
+			"text": " We can't just obey Jesus and hope people will connect the dots."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,960",
+				"to": "00:30:45,960"
+			},
+			"offsets": {
+				"from": 1842960,
+				"to": 1845960
+			},
+			"text": " The kingdom of God isn't like COVID-19."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,960",
+				"to": "00:30:48,960"
+			},
+			"offsets": {
+				"from": 1845960,
+				"to": 1848960
+			},
+			"text": " People will not catch it by you breathing on them."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,960",
+				"to": "00:30:52,960"
+			},
+			"offsets": {
+				"from": 1848960,
+				"to": 1852960
+			},
+			"text": " It has to be announced with clarity."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,960",
+				"to": "00:31:00,960"
+			},
+			"offsets": {
+				"from": 1852960,
+				"to": 1860960
+			},
+			"text": " And as I thought about some obstacles that we might face in engaging people in spiritual conversations,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,960",
+				"to": "00:31:02,960"
+			},
+			"offsets": {
+				"from": 1860960,
+				"to": 1862960
+			},
+			"text": " I keep coming back to this point of emphasis."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,960",
+				"to": "00:31:04,960"
+			},
+			"offsets": {
+				"from": 1862960,
+				"to": 1864960
+			},
+			"text": " I think we need to just make space."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,960",
+				"to": "00:31:11,960"
+			},
+			"offsets": {
+				"from": 1864960,
+				"to": 1871960
+			},
+			"text": " We need to just make room for God to give us opportunities to have spiritual conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,960",
+				"to": "00:31:16,960"
+			},
+			"offsets": {
+				"from": 1871960,
+				"to": 1876960
+			},
+			"text": " We need to make room in our busy lives for spiritual conversations with those searching for hope."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,960",
+				"to": "00:31:20,960"
+			},
+			"offsets": {
+				"from": 1876960,
+				"to": 1880960
+			},
+			"text": " My group chat is going off again, you all."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,960",
+				"to": "00:31:22,960"
+			},
+			"offsets": {
+				"from": 1880960,
+				"to": 1882960
+			},
+			"text": " Do not disturb. We're good."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,960",
+				"to": "00:31:23,960"
+			},
+			"offsets": {
+				"from": 1882960,
+				"to": 1883960
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,960",
+				"to": "00:31:30,960"
+			},
+			"offsets": {
+				"from": 1883960,
+				"to": 1890960
+			},
+			"text": " They do this. They talk about my sermon while I'm preaching."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,960",
+				"to": "00:31:33,960"
+			},
+			"offsets": {
+				"from": 1891960,
+				"to": 1893960
+			},
+			"text": " I forget to put it on Do Not Disturb."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,960",
+				"to": "00:31:40,960"
+			},
+			"offsets": {
+				"from": 1893960,
+				"to": 1900960
+			},
+			"text": " Now my sister-in-law is texting me about me not knowing what degree she has."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,960",
+				"to": "00:31:41,960"
+			},
+			"offsets": {
+				"from": 1900960,
+				"to": 1901960
+			},
+			"text": " This is awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,960",
+				"to": "00:31:46,960"
+			},
+			"offsets": {
+				"from": 1901960,
+				"to": 1906960
+			},
+			"text": " Technology is a beautiful thing, which is a perfect segue into what I'm about to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,960",
+				"to": "00:31:52,960"
+			},
+			"offsets": {
+				"from": 1906960,
+				"to": 1912960
+			},
+			"text": " We need to make room in our busy lives for spiritual conversations with those who are seeking hope, meaning, and purpose."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,960",
+				"to": "00:31:55,960"
+			},
+			"offsets": {
+				"from": 1912960,
+				"to": 1915960
+			},
+			"text": " Most of us in this room, we're busy, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,960",
+				"to": "00:31:57,960"
+			},
+			"offsets": {
+				"from": 1915960,
+				"to": 1917960
+			},
+			"text": " We're moving from thing to thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,960",
+				"to": "00:31:58,960"
+			},
+			"offsets": {
+				"from": 1917960,
+				"to": 1918960
+			},
+			"text": " We've got to get our kids to this thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,960",
+				"to": "00:31:59,960"
+			},
+			"offsets": {
+				"from": 1918960,
+				"to": 1919960
+			},
+			"text": " We've got to pick up this thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,960",
+				"to": "00:32:01,960"
+			},
+			"offsets": {
+				"from": 1919960,
+				"to": 1921960
+			},
+			"text": " We've got to go to the store for this thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,960",
+				"to": "00:32:02,960"
+			},
+			"offsets": {
+				"from": 1921960,
+				"to": 1922960
+			},
+			"text": " We're busy."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,960",
+				"to": "00:32:08,960"
+			},
+			"offsets": {
+				"from": 1922960,
+				"to": 1928960
+			},
+			"text": " And when we aren't busy, we distract ourselves with a five-inch glowing square in our pockets."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,960",
+				"to": "00:32:13,960"
+			},
+			"offsets": {
+				"from": 1928960,
+				"to": 1933960
+			},
+			"text": " We aren't paying attention to what God is doing all around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,960",
+				"to": "00:32:25,960"
+			},
+			"offsets": {
+				"from": 1933960,
+				"to": 1945960
+			},
+			"text": " And if Jesus isn't a liar, which I don't think any of us in this room believe he is, there is a great harvest of people all around us waiting to be engaged with kingdom conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,960",
+				"to": "00:32:32,960"
+			},
+			"offsets": {
+				"from": 1946960,
+				"to": 1952960
+			},
+			"text": " What if we began to pray for and actively look for opportunities to engage people in conversations about Jesus?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,960",
+				"to": "00:32:41,960"
+			},
+			"offsets": {
+				"from": 1952960,
+				"to": 1961960
+			},
+			"text": " Because genuine love, genuine compassion, cares enough to risk awkwardness or rejection on behalf of another."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,960",
+				"to": "00:32:51,960"
+			},
+			"offsets": {
+				"from": 1961960,
+				"to": 1971960
+			},
+			"text": " Jesus saw these people and he had compassion on them, because they were lost without hope, without direction, without purpose."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:53,960",
+				"to": "00:33:01,960"
+			},
+			"offsets": {
+				"from": 1973960,
+				"to": 1981960
+			},
+			"text": " What if we looked for people in our lives who are struggling, who have no hope, who have no purpose, who have no thing to live for?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,960",
+				"to": "00:33:08,960"
+			},
+			"offsets": {
+				"from": 1981960,
+				"to": 1988960
+			},
+			"text": " And what if we looked for opportunities to have spiritual conversations with them, not being afraid of how they might respond,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,960",
+				"to": "00:33:12,960"
+			},
+			"offsets": {
+				"from": 1988960,
+				"to": 1992960
+			},
+			"text": " because genuine love cares enough to risk awkwardness or rejection?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,960",
+				"to": "00:33:21,960"
+			},
+			"offsets": {
+				"from": 1992960,
+				"to": 2001960
+			},
+			"text": " And here's another encouraging thing that I've found to be true in my life, is that rejection in the moment doesn't necessarily mean failure."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,960",
+				"to": "00:33:30,960"
+			},
+			"offsets": {
+				"from": 2003960,
+				"to": 2010960
+			},
+			"text": " God often uses our obedience to have spiritual conversations with people in the moment where they reject it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,960",
+				"to": "00:33:38,960"
+			},
+			"offsets": {
+				"from": 2010960,
+				"to": 2018960
+			},
+			"text": " And God, by His Spirit, will stir those conversations in the future, and then other people will come into their lives and have spiritual conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,960",
+				"to": "00:33:44,960"
+			},
+			"offsets": {
+				"from": 2018960,
+				"to": 2024960
+			},
+			"text": " And eventually, God will do a work that we might not ever see, that we might feel like we were rejected."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,960",
+				"to": "00:33:49,960"
+			},
+			"offsets": {
+				"from": 2024960,
+				"to": 2029960
+			},
+			"text": " We might feel like we missed the mark. We might feel like we stumbled over our words and didn't do anything of any value."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:49,960",
+				"to": "00:33:56,960"
+			},
+			"offsets": {
+				"from": 2029960,
+				"to": 2036960
+			},
+			"text": " And yet, one day when we enter the kingdom of God, we're going to see those people, and they're going to say, \"You had an impact on my life.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:33:56,960",
+				"to": "00:34:09,960"
+			},
+			"offsets": {
+				"from": 2036960,
+				"to": 2049960
+			},
+			"text": " Acts, chapter 8, verse 26 to 38. We'll read it fast."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,960",
+				"to": "00:34:15,960"
+			},
+			"offsets": {
+				"from": 2049960,
+				"to": 2055960
+			},
+			"text": " It's one of my favorite stories of things happening like this. And by the way, this stuff happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,960",
+				"to": "00:34:27,960"
+			},
+			"offsets": {
+				"from": 2056960,
+				"to": 2067960
+			},
+			"text": " I'm recalling now a story of a guy that comes to our church that I had been invited into a spiritual conversation with him."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:27,960",
+				"to": "00:34:34,960"
+			},
+			"offsets": {
+				"from": 2067960,
+				"to": 2074960
+			},
+			"text": " And he was making, he told me this later, I love it. He was making plans to cancel that spiritual conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,960",
+				"to": "00:34:43,960"
+			},
+			"offsets": {
+				"from": 2074960,
+				"to": 2083960
+			},
+			"text": " He's like, \"I do not want to talk to a pastor right now. I made a big mistake. I decided this in a moment of weakness. No longer do I want to talk to a pastor.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,960",
+				"to": "00:34:53,960"
+			},
+			"offsets": {
+				"from": 2084960,
+				"to": 2093960
+			},
+			"text": " And he was planning on texting to cancel and three, he happened to just accidentally run into like three different Christians the day that we were supposed to meet."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,960",
+				"to": "00:35:02,960"
+			},
+			"offsets": {
+				"from": 2093960,
+				"to": 2102960
+			},
+			"text": " Unbeknownst to them, was he having some spiritual questions and just things popped up and they just had small little elements of spiritual conversation."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,960",
+				"to": "00:35:09,960"
+			},
+			"offsets": {
+				"from": 2102960,
+				"to": 2109960
+			},
+			"text": " And the dude showed up to the meeting and he's like, \"I want it to cancel so bad. Apparently God does not want me to cancel so bad.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:35:10,960",
+				"to": "00:35:19,960"
+			},
+			"offsets": {
+				"from": 2110960,
+				"to": 2119960
+			},
+			"text": " And so you never know how God might use small little moments of spiritual conversations to move in people's lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:19,960",
+				"to": "00:35:28,960"
+			},
+			"offsets": {
+				"from": 2119960,
+				"to": 2128960
+			},
+			"text": " Yeah, we've got time. As for Philip, an angel of the Lord said to him, \"Go south down to the desert road that runs from Jerusalem to Gaza.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,960",
+				"to": "00:35:35,960"
+			},
+			"offsets": {
+				"from": 2128960,
+				"to": 2135960
+			},
+			"text": " So he started out and he met the treasure of Ethiopia, a eunuch of great authority under Kandyke, the queen of Ethiopia."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,960",
+				"to": "00:35:40,960"
+			},
+			"offsets": {
+				"from": 2135960,
+				"to": 2140960
+			},
+			"text": " The eunuch had gone to Jerusalem to worship. He's spiritually seeking."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:40,960",
+				"to": "00:35:45,960"
+			},
+			"offsets": {
+				"from": 2140960,
+				"to": 2145960
+			},
+			"text": " And he was now returning, seated in his carriage, and he was reading aloud from the book of the prophet Isaiah."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,960",
+				"to": "00:35:50,960"
+			},
+			"offsets": {
+				"from": 2145960,
+				"to": 2150960
+			},
+			"text": " So an angel of the Lord revealed to Philip that he should go to this place."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,960",
+				"to": "00:35:56,960"
+			},
+			"offsets": {
+				"from": 2150960,
+				"to": 2156960
+			},
+			"text": " And now the Holy Spirit is going to tell Philip, \"Go over and walk beside the carriage.\" Is that not awkward?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,960",
+				"to": "00:36:03,960"
+			},
+			"offsets": {
+				"from": 2156960,
+				"to": 2163960
+			},
+			"text": " Hey, you see that person who's obviously traveling from one place to another? Just go take a stroll right beside him."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,960",
+				"to": "00:36:09,960"
+			},
+			"offsets": {
+				"from": 2163960,
+				"to": 2169960
+			},
+			"text": " It won't be weird at all. Sometimes the Holy Spirit asks us to do weird things."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,960",
+				"to": "00:36:16,960"
+			},
+			"offsets": {
+				"from": 2169960,
+				"to": 2176960
+			},
+			"text": " But not if we're not available. Not if we're staring at a five-inch screen in front of our face nonstop."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:16,960",
+				"to": "00:36:20,960"
+			},
+			"offsets": {
+				"from": 2176960,
+				"to": 2180960
+			},
+			"text": " Not if we're not listening for the Holy Spirit to give us direction and guidance."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,960",
+				"to": "00:36:23,960"
+			},
+			"offsets": {
+				"from": 2180960,
+				"to": 2183960
+			},
+			"text": " Philip, available. Listens to the Holy Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:23,960",
+				"to": "00:36:28,960"
+			},
+			"offsets": {
+				"from": 2183960,
+				"to": 2188960
+			},
+			"text": " And it sounds like Philip would not be a guy that I would want to be friends with."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:28,960",
+				"to": "00:36:34,960"
+			},
+			"offsets": {
+				"from": 2188960,
+				"to": 2194960
+			},
+			"text": " Because it feels like Philip should be somebody that I probably should want to be friends with."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,960",
+				"to": "00:36:39,960"
+			},
+			"offsets": {
+				"from": 2194960,
+				"to": 2199960
+			},
+			"text": " Because he hears from the Holy Spirit and runs into an awkward situation."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,960",
+				"to": "00:36:43,960"
+			},
+			"offsets": {
+				"from": 2199960,
+				"to": 2203960
+			},
+			"text": " I'm the kind of person that hears from the Holy Spirit and I'm like, \"Are you sure? Do you really?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,960",
+				"to": "00:36:49,960"
+			},
+			"offsets": {
+				"from": 2203960,
+				"to": 2209960
+			},
+			"text": " Okay, begrudgingly. Philip's like, \"Holy Spirit told me I'm going to run into this awkward situation.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,960",
+				"to": "00:36:53,960"
+			},
+			"offsets": {
+				"from": 2209960,
+				"to": 2213960
+			},
+			"text": " And he overheard the man reading from the prophet Isaiah."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,960",
+				"to": "00:36:59,960"
+			},
+			"offsets": {
+				"from": 2213960,
+				"to": 2219960
+			},
+			"text": " All Philip did was ask a question. Do you understand what you are reading?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,960",
+				"to": "00:37:01,960"
+			},
+			"offsets": {
+				"from": 2219960,
+				"to": 2221960
+			},
+			"text": " How can I, unless someone instructs me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,960",
+				"to": "00:37:04,960"
+			},
+			"offsets": {
+				"from": 2221960,
+				"to": 2224960
+			},
+			"text": " He urged Philip to come up to the carriage and sit with him."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,960",
+				"to": "00:37:09,960"
+			},
+			"offsets": {
+				"from": 2224960,
+				"to": 2229960
+			},
+			"text": " The passage, listen to this, this is incredible. The passage of the scripture that he had been reading was this."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,960",
+				"to": "00:37:13,960"
+			},
+			"offsets": {
+				"from": 2229960,
+				"to": 2233960
+			},
+			"text": " He was led like a sheep to the slaughter."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,960",
+				"to": "00:37:17,960"
+			},
+			"offsets": {
+				"from": 2233960,
+				"to": 2237960
+			},
+			"text": " And as a lamb is silent before the shears, he did not open his mouth."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,960",
+				"to": "00:37:20,960"
+			},
+			"offsets": {
+				"from": 2237960,
+				"to": 2240960
+			},
+			"text": " He was humiliated and received no justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,960",
+				"to": "00:37:25,960"
+			},
+			"offsets": {
+				"from": 2240960,
+				"to": 2245960
+			},
+			"text": " Who can speak if his descendants from his life was taken from the earth?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,960",
+				"to": "00:37:30,960"
+			},
+			"offsets": {
+				"from": 2245960,
+				"to": 2250960
+			},
+			"text": " The eunuch asked Philip, \"Tell me, was the prophet talking about himself or someone else?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,960",
+				"to": "00:37:35,960"
+			},
+			"offsets": {
+				"from": 2250960,
+				"to": 2255960
+			},
+			"text": " So beginning with the same scripture, Philip told him the good news about Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,960",
+				"to": "00:37:39,960"
+			},
+			"offsets": {
+				"from": 2255960,
+				"to": 2259960
+			},
+			"text": " This is what the Holy Spirit can do when we are available."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,960",
+				"to": "00:37:45,960"
+			},
+			"offsets": {
+				"from": 2259960,
+				"to": 2265960
+			},
+			"text": " I mean, could you think of a more Christ-centered passage in the Old Testament than this passage from Isaiah"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,960",
+				"to": "00:37:52,960"
+			},
+			"offsets": {
+				"from": 2265960,
+				"to": 2272960
+			},
+			"text": " that this guy just happens to be reading when the Holy Spirit prompts Philip to go over and awkwardly walk beside him?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:52,960",
+				"to": "00:37:59,960"
+			},
+			"offsets": {
+				"from": 2272960,
+				"to": 2279960
+			},
+			"text": " What if we just made room for God to direct our paths, to give us direction and wisdom?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,960",
+				"to": "00:38:12,960"
+			},
+			"offsets": {
+				"from": 2279960,
+				"to": 2292960
+			},
+			"text": " What might God do with a group of people who are seeking to cultivate God's kingdom by proclaiming Jesus clearly?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:12,960",
+				"to": "00:38:17,960"
+			},
+			"offsets": {
+				"from": 2292960,
+				"to": 2297960
+			},
+			"text": " That proclamation, that gospel preaching should come with obedience."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,960",
+				"to": "00:38:22,960"
+			},
+			"offsets": {
+				"from": 2297960,
+				"to": 2302960
+			},
+			"text": " We shouldn't just tell others about what Jesus is like and not obey him, obeying Jesus boldly."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,960",
+				"to": "00:38:27,960"
+			},
+			"offsets": {
+				"from": 2302960,
+				"to": 2307960
+			},
+			"text": " We need to make room in our schedules to meet the needs of others."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:27,960",
+				"to": "00:38:30,960"
+			},
+			"offsets": {
+				"from": 2307960,
+				"to": 2310960
+			},
+			"text": " The Great Commission includes obedience to Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:30,960",
+				"to": "00:38:36,960"
+			},
+			"offsets": {
+				"from": 2310960,
+				"to": 2316960
+			},
+			"text": " If you're telling people about Jesus without doing what he commands, you're not a Great Commission person."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:38,960",
+				"to": "00:38:46,960"
+			},
+			"offsets": {
+				"from": 2318960,
+				"to": 2326960
+			},
+			"text": " And again, most of our lives are filled to the brims with meeting our own needs or our perceived needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,960",
+				"to": "00:38:56,960"
+			},
+			"offsets": {
+				"from": 2326960,
+				"to": 2336960
+			},
+			"text": " I think a lot of times we might be invited to meet the needs of others and we're too busy meeting our wants that we have perceived as needs, that we have transitioned from wants to needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,960",
+				"to": "00:38:59,960"
+			},
+			"offsets": {
+				"from": 2336960,
+				"to": 2339960
+			},
+			"text": " What if we just made room in our schedule?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:59,960",
+				"to": "00:39:03,960"
+			},
+			"offsets": {
+				"from": 2339960,
+				"to": 2343960
+			},
+			"text": " What if we didn't have something every night of the week?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,960",
+				"to": "00:39:08,960"
+			},
+			"offsets": {
+				"from": 2344960,
+				"to": 2348960
+			},
+			"text": " What if we didn't have something every day of the week?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,960",
+				"to": "00:39:11,960"
+			},
+			"offsets": {
+				"from": 2348960,
+				"to": 2351960
+			},
+			"text": " What if we had space in our lives to meet the needs of others?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:11,960",
+				"to": "00:39:17,960"
+			},
+			"offsets": {
+				"from": 2351960,
+				"to": 2357960
+			},
+			"text": " What if we put ourselves in situations and in relationships with people who are generally in need of things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:17,960",
+				"to": "00:39:25,960"
+			},
+			"offsets": {
+				"from": 2357960,
+				"to": 2365960
+			},
+			"text": " This is kingdom work. The kingdom of God is about sacrificially loving and serving those who cannot meet their own needs."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,960",
+				"to": "00:39:33,960"
+			},
+			"offsets": {
+				"from": 2365960,
+				"to": 2373960
+			},
+			"text": " James 1:26-27, \"If you claim to be religious, but don't control your tongue, you are fooling yourself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,960",
+				"to": "00:39:37,960"
+			},
+			"offsets": {
+				"from": 2373960,
+				"to": 2377960
+			},
+			"text": " and your religion is worthless. Pure and genuine religion in the sight of God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,960",
+				"to": "00:39:44,960"
+			},
+			"offsets": {
+				"from": 2377960,
+				"to": 2384960
+			},
+			"text": " the Father means caring for orphans and widows in their distress and refusing to let the world corrupt you.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:39:44,960",
+				"to": "00:39:49,960"
+			},
+			"offsets": {
+				"from": 2384960,
+				"to": 2389960
+			},
+			"text": " What if we made space in our lives to meet the needs of others?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,960",
+				"to": "00:39:53,960"
+			},
+			"offsets": {
+				"from": 2389960,
+				"to": 2393960
+			},
+			"text": " What if we built relationships with people who generally cannot take care of themselves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,960",
+				"to": "00:40:00,960"
+			},
+			"offsets": {
+				"from": 2393960,
+				"to": 2400960
+			},
+			"text": " who generally are struggling, and we found ways to be Jesus on their behalf?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,960",
+				"to": "00:40:07,960"
+			},
+			"offsets": {
+				"from": 2402960,
+				"to": 2407960
+			},
+			"text": " Again, this happens. You would be surprised."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,960",
+				"to": "00:40:13,960"
+			},
+			"offsets": {
+				"from": 2407960,
+				"to": 2413960
+			},
+			"text": " I'm reminded now of a story. Some friends of mine were,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:13,960",
+				"to": "00:40:18,960"
+			},
+			"offsets": {
+				"from": 2413960,
+				"to": 2418960
+			},
+			"text": " I think they put something out at the end of their driveway that they were trying to get rid of,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,960",
+				"to": "00:40:24,960"
+			},
+			"offsets": {
+				"from": 2418960,
+				"to": 2424960
+			},
+			"text": " like with the free sign, and somebody stopped by the house and needed it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:24,960",
+				"to": "00:40:31,960"
+			},
+			"offsets": {
+				"from": 2424960,
+				"to": 2431960
+			},
+			"text": " and turns out that person was in need of a lot of help. And if my friends weren't available,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,960",
+				"to": "00:40:36,960"
+			},
+			"offsets": {
+				"from": 2431960,
+				"to": 2436960
+			},
+			"text": " they didn't make space to have a conversation with somebody in their front yard."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,960",
+				"to": "00:40:41,960"
+			},
+			"offsets": {
+				"from": 2436960,
+				"to": 2441960
+			},
+			"text": " They were just like, \"Oh, close the blinds. Somebody weird is out there taking our free stuff.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:40:41,960",
+				"to": "00:40:46,960"
+			},
+			"offsets": {
+				"from": 2441960,
+				"to": 2446960
+			},
+			"text": " Right? They were available. They made space. They built a relationship with this person."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,960",
+				"to": "00:40:52,960"
+			},
+			"offsets": {
+				"from": 2446960,
+				"to": 2452960
+			},
+			"text": " They're meeting the needs of this person in other ways. What if we were a people that made space to,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,960",
+				"to": "00:40:57,960"
+			},
+			"offsets": {
+				"from": 2452960,
+				"to": 2457960
+			},
+			"text": " we made space in our lives to meet the needs of others? What if we had eyes to see the needs of others all around us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:57,960",
+				"to": "00:41:11,960"
+			},
+			"offsets": {
+				"from": 2457960,
+				"to": 2471960
+			},
+			"text": " What might God do to use those relationships, to bring about gospel conversations, to see people who are far from God come to know Jesus?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:11,960",
+				"to": "00:41:18,960"
+			},
+			"offsets": {
+				"from": 2471960,
+				"to": 2478960
+			},
+			"text": " Acts 16. I don't know if this is the best story to illustrate this idea, but it's the one that came to mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,960",
+				"to": "00:41:25,960"
+			},
+			"offsets": {
+				"from": 2478960,
+				"to": 2485960
+			},
+			"text": " And I think, notice this passage in the last passage I read, this is the early church doing the things that we're talking about doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,960",
+				"to": "00:41:36,960"
+			},
+			"offsets": {
+				"from": 2485960,
+				"to": 2496960
+			},
+			"text": " Notice how the early church went from 11 people in a room hiding to a billion, a couple billion."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,960",
+				"to": "00:41:41,960"
+			},
+			"offsets": {
+				"from": 2496960,
+				"to": 2501960
+			},
+			"text": " You and me are in this room because of their obedience. This stuff works."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:41,960",
+				"to": "00:41:48,960"
+			},
+			"offsets": {
+				"from": 2501960,
+				"to": 2508960
+			},
+			"text": " Acts chapter 16, verse 25."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:48,960",
+				"to": "00:41:53,960"
+			},
+			"offsets": {
+				"from": 2508960,
+				"to": 2513960
+			},
+			"text": " Around midnight, Paul and Silas were praying and singing hymns. So Paul and Silas are in jail."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,960",
+				"to": "00:41:58,960"
+			},
+			"offsets": {
+				"from": 2513960,
+				"to": 2518960
+			},
+			"text": " They're singing hymns to God, and the other prisoners were listening."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,960",
+				"to": "00:42:02,960"
+			},
+			"offsets": {
+				"from": 2518960,
+				"to": 2522960
+			},
+			"text": " Suddenly, there was a massive earthquake, and the prison was shaking to its foundations."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:02,960",
+				"to": "00:42:08,960"
+			},
+			"offsets": {
+				"from": 2522960,
+				"to": 2528960
+			},
+			"text": " All the doors immediately flew open, and the chains of every prisoner fell off."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:08,960",
+				"to": "00:42:16,960"
+			},
+			"offsets": {
+				"from": 2528960,
+				"to": 2536960
+			},
+			"text": " The jailer woke up to see the prison doors wide open. He assumed the prisoners had escaped, so he drew his sword to kill himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,960",
+				"to": "00:42:22,960"
+			},
+			"offsets": {
+				"from": 2536960,
+				"to": 2542960
+			},
+			"text": " But Paul shouted to him, \"Stop. Don't kill yourself. We are all here.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:42:22,960",
+				"to": "00:42:39,960"
+			},
+			"offsets": {
+				"from": 2542960,
+				"to": 2559960
+			},
+			"text": " I think I could make an argument that miraculously having the doors fling open and the chains fall off might have been a sign that God was meeting a need of Paul and Silas, and that need was to get out of jail."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,960",
+				"to": "00:42:51,960"
+			},
+			"offsets": {
+				"from": 2559960,
+				"to": 2571960
+			},
+			"text": " I think it would be fair enough to say that Paul and Silas needed to get out of jail, or at least desperately wanted to get out of jail, and it seems like God did a miraculous work to make that a possibility for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:51,960",
+				"to": "00:43:07,960"
+			},
+			"offsets": {
+				"from": 2571960,
+				"to": 2587960
+			},
+			"text": " If I was them, I wouldn't have looked left or looked right. I would have just bolted out of that cell. But they were available. They were aware of their surroundings. They saw a man who was in desperate need because of what God had done."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,960",
+				"to": "00:43:20,960"
+			},
+			"offsets": {
+				"from": 2587960,
+				"to": 2600960
+			},
+			"text": " It doesn't say the Holy Spirit told them, \"Don't go out of jail.\" Every sign of the Spirit is pointing to God is letting them out of jail."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:20,960",
+				"to": "00:43:29,960"
+			},
+			"offsets": {
+				"from": 2600960,
+				"to": 2609960
+			},
+			"text": " And yet something about their lives saw a person in need and said, \"That need is going to trump my need right now. I'm going to be obedient to Jesus.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:43:29,960",
+				"to": "00:43:34,960"
+			},
+			"offsets": {
+				"from": 2609960,
+				"to": 2614960
+			},
+			"text": " Even if it means I have to stay back in this prison cell and look what happened because of their obedience."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:34,960",
+				"to": "00:43:46,960"
+			},
+			"offsets": {
+				"from": 2614960,
+				"to": 2626960
+			},
+			"text": " The jailer called for the lights and ran to the dungeon and fell down trembling before Paul and Silas. Then he brought them out and asked, \"Sirs, what must I do to be saved?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:43:47,960",
+				"to": "00:43:51,960"
+			},
+			"offsets": {
+				"from": 2627960,
+				"to": 2631960
+			},
+			"text": " Because of this encounter, an entire family comes into the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,960",
+				"to": "00:43:56,960"
+			},
+			"offsets": {
+				"from": 2631960,
+				"to": 2636960
+			},
+			"text": " What if we made space for the needs of others around us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,960",
+				"to": "00:44:05,960"
+			},
+			"offsets": {
+				"from": 2636960,
+				"to": 2645960
+			},
+			"text": " What if we were people who made room to have eyes to see and hands to help those in need?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:05,960",
+				"to": "00:44:09,960"
+			},
+			"offsets": {
+				"from": 2645960,
+				"to": 2649960
+			},
+			"text": " How might God use our bold obedience to expand his kingdom on earth as it is in heaven?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,960",
+				"to": "00:44:16,960"
+			},
+			"offsets": {
+				"from": 2649960,
+				"to": 2656960
+			},
+			"text": " So, as we've established at the beginning of our time, most of us who are followers of Jesus know we are called to proclaim,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:16,960",
+				"to": "00:44:21,960"
+			},
+			"offsets": {
+				"from": 2656960,
+				"to": 2661960
+			},
+			"text": " Jesus to the world around us, but we often opt out of this responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:21,960",
+				"to": "00:44:25,960"
+			},
+			"offsets": {
+				"from": 2661960,
+				"to": 2665960
+			},
+			"text": " I think this is because many of us don't have a clear picture of what this should look like."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:25,960",
+				"to": "00:44:28,960"
+			},
+			"offsets": {
+				"from": 2665960,
+				"to": 2668960
+			},
+			"text": " We put too much pressure on ourselves to win converts."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:28,960",
+				"to": "00:44:31,960"
+			},
+			"offsets": {
+				"from": 2668960,
+				"to": 2671960
+			},
+			"text": " We're afraid of how we will be perceived. We don't feel equipped."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:31,960",
+				"to": "00:44:35,960"
+			},
+			"offsets": {
+				"from": 2671960,
+				"to": 2675960
+			},
+			"text": " My question is, what if we've made it too complicated?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,960",
+				"to": "00:44:43,960"
+			},
+			"offsets": {
+				"from": 2675960,
+				"to": 2683960
+			},
+			"text": " What if we stopped making evangelism a box that we check, a religious duty that we go out and do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:44,960",
+				"to": "00:44:49,960"
+			},
+			"offsets": {
+				"from": 2684960,
+				"to": 2689960
+			},
+			"text": " What if we stopped viewing it as recruitment into a heavenly pyramid scheme, which nobody wants to be a part of?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:49,960",
+				"to": "00:44:56,960"
+			},
+			"offsets": {
+				"from": 2689960,
+				"to": 2696960
+			},
+			"text": " And what if we just started making room in our lives to partner with what God is already doing in the lives of people around us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:56,960",
+				"to": "00:45:02,960"
+			},
+			"offsets": {
+				"from": 2696960,
+				"to": 2702960
+			},
+			"text": " What if we cultivated God's kingdom on earth by proclaiming him clearly and obeying him boldly?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:02,960",
+				"to": "00:45:08,960"
+			},
+			"offsets": {
+				"from": 2702960,
+				"to": 2708960
+			},
+			"text": " What if we weren't worried about the results and just enjoyed the process of becoming a person of God's kingdom?"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,960",
+				"to": "00:45:20,960"
+			},
+			"offsets": {
+				"from": 2711960,
+				"to": 2720960
+			},
+			"text": " As we come to a close, there's a phrase that Luke, the author of the Gospel of Luke, uses to describe Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:20,960",
+				"to": "00:45:25,960"
+			},
+			"offsets": {
+				"from": 2720960,
+				"to": 2725960
+			},
+			"text": " He uses it twice. And I want to bring this up as we transition to communion."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:25,960",
+				"to": "00:45:30,960"
+			},
+			"offsets": {
+				"from": 2725960,
+				"to": 2730960
+			},
+			"text": " We're going to take communion here at the end of service, because I think it connects these two ideas."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:30,960",
+				"to": "00:45:37,960"
+			},
+			"offsets": {
+				"from": 2730960,
+				"to": 2737960
+			},
+			"text": " Luke, in his Gospel, uses the phrase \"the Son of Man\" twice."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:38,960",
+				"to": "00:45:43,960"
+			},
+			"offsets": {
+				"from": 2738960,
+				"to": 2743960
+			},
+			"text": " He gives an explanation of what Jesus came to do, what was his purpose, what was his mission."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:43,960",
+				"to": "00:45:48,960"
+			},
+			"offsets": {
+				"from": 2743960,
+				"to": 2748960
+			},
+			"text": " He says, \"The Son of Man came to seek and save the lost.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:45:48,960",
+				"to": "00:45:52,960"
+			},
+			"offsets": {
+				"from": 2748960,
+				"to": 2752960
+			},
+			"text": " What Jesus was all about, he came to seek and save the lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:52,960",
+				"to": "00:45:55,960"
+			},
+			"offsets": {
+				"from": 2752960,
+				"to": 2755960
+			},
+			"text": " People without hope, people who were like sheep without a shepherd."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:55,960",
+				"to": "00:46:01,960"
+			},
+			"offsets": {
+				"from": 2755960,
+				"to": 2761960
+			},
+			"text": " Lost without hope, without purpose, without identity, just trying to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:01,960",
+				"to": "00:46:05,960"
+			},
+			"offsets": {
+				"from": 2761960,
+				"to": 2765960
+			},
+			"text": " How many of us know people all around us that are lost without hope, just trying to survive?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:05,960",
+				"to": "00:46:10,960"
+			},
+			"offsets": {
+				"from": 2765960,
+				"to": 2770960
+			},
+			"text": " Jesus saw them, he had compassion on them, he came to seek them and save them."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:10,960",
+				"to": "00:46:20,960"
+			},
+			"offsets": {
+				"from": 2770960,
+				"to": 2780960
+			},
+			"text": " How did Jesus go about this? The second time Luke uses the phrase, \"The Son of Man,\" it says, \"The Son of Man came eating and drinking.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:46:20,960",
+				"to": "00:46:31,960"
+			},
+			"offsets": {
+				"from": 2780960,
+				"to": 2791960
+			},
+			"text": " Jesus was so hospitable, he was so about making room and inviting people to the table that weren't invited to other tables,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,960",
+				"to": "00:46:36,960"
+			},
+			"offsets": {
+				"from": 2791960,
+				"to": 2796960
+			},
+			"text": " that the religious leaders and Pharisees saw him and they say, \"You're a glutton and a drunkard.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:46:36,960",
+				"to": "00:46:41,960"
+			},
+			"offsets": {
+				"from": 2796960,
+				"to": 2801960
+			},
+			"text": " This was how Jesus went about seeking and saving the lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:41,960",
+				"to": "00:46:45,960"
+			},
+			"offsets": {
+				"from": 2801960,
+				"to": 2805960
+			},
+			"text": " He invited people who did not have a table to go to, to come to."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,960",
+				"to": "00:46:50,960"
+			},
+			"offsets": {
+				"from": 2805960,
+				"to": 2810960
+			},
+			"text": " Not his table, because he also didn't have a table, he usually just hijacked other people's tables."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:50,960",
+				"to": "00:46:59,960"
+			},
+			"offsets": {
+				"from": 2810960,
+				"to": 2819960
+			},
+			"text": " Jesus came to seek and save the lost, he did so."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:00,960",
+				"to": "00:47:13,960"
+			},
+			"offsets": {
+				"from": 2820960,
+				"to": 2833960
+			},
+			"text": " Christ's radical hospitality, making space, inviting others around the table into a conversation about what life could look like if you lived towards the kingdom of God, rather than the kingdoms of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:13,960",
+				"to": "00:47:26,960"
+			},
+			"offsets": {
+				"from": 2833960,
+				"to": 2846960
+			},
+			"text": " Much of Christ's kingdom work was making room at a table for the people the world had rejected, had looked over."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:27,960",
+				"to": "00:47:42,960"
+			},
+			"offsets": {
+				"from": 2847960,
+				"to": 2862960
+			},
+			"text": " Christ's radical hospitality looked foolish to the world, didn't make any sense to the Romans why Jesus would have poor, powerless, persecuted, sick, prostitutes, tax collectors around his table."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,960",
+				"to": "00:47:51,960"
+			},
+			"offsets": {
+				"from": 2862960,
+				"to": 2871960
+			},
+			"text": " It made no cultural sense. There was no objective that he could have been trying to accomplish that would have brought him any power or prestige, which is what they were all about."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:51,960",
+				"to": "00:47:56,960"
+			},
+			"offsets": {
+				"from": 2871960,
+				"to": 2876960
+			},
+			"text": " Foolish to the world. And it was sinful to the religious. The people who thought they had it all together said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:56,960",
+				"to": "00:48:01,960"
+			},
+			"offsets": {
+				"from": 2876960,
+				"to": 2881960
+			},
+			"text": " \"If he really was a prophet of God, he'd never sit at those tables.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:48:01,960",
+				"to": "00:48:08,960"
+			},
+			"offsets": {
+				"from": 2881960,
+				"to": 2888960
+			},
+			"text": " But his radical hospitality changed the trajectory of human history, and the early church picked up on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:08,960",
+				"to": "00:48:15,960"
+			},
+			"offsets": {
+				"from": 2888960,
+				"to": 2895960
+			},
+			"text": " The early church's success, in my opinion, was mostly based on them being radically hospitable."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:15,960",
+				"to": "00:48:22,960"
+			},
+			"offsets": {
+				"from": 2895960,
+				"to": 2902960
+			},
+			"text": " The people of every language, nation, tribe, and tongue, every gender, every religious system, you're welcome at this table."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:22,960",
+				"to": "00:48:28,960"
+			},
+			"offsets": {
+				"from": 2902960,
+				"to": 2908960
+			},
+			"text": " Let's talk about the bread that we are breaking, and the wine that we are drinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:28,960",
+				"to": "00:48:32,960"
+			},
+			"offsets": {
+				"from": 2908960,
+				"to": 2912960
+			},
+			"text": " You're welcome to our table, but let us tell you why you're welcome at our table."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:32,960",
+				"to": "00:48:38,960"
+			},
+			"offsets": {
+				"from": 2912960,
+				"to": 2918960
+			},
+			"text": " You're welcome at our table because the king of the universe came, and his body was broken, and his blood was shed."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:38,960",
+				"to": "00:48:43,960"
+			},
+			"offsets": {
+				"from": 2918960,
+				"to": 2923960
+			},
+			"text": " And three days later, he rose from the dead, proving that he wasn't just a prophet or an itinerant preacher,"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:43,960",
+				"to": "00:48:49,960"
+			},
+			"offsets": {
+				"from": 2923960,
+				"to": 2929960
+			},
+			"text": " that he was the creator of the universe. And he wants you at his table."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:49,960",
+				"to": "00:48:50,960"
+			},
+			"offsets": {
+				"from": 2929960,
+				"to": 2930960
+			},
+			"text": " Thank you."
+		}
+	]
+}

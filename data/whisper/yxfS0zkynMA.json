@@ -1,0 +1,5554 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,140"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5140
+			},
+			"text": " Hello, hello, hello, hello, hello, hello, hello, hello, hello, hello, hello, hello, hello."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,140",
+				"to": "00:00:06,320"
+			},
+			"offsets": {
+				"from": 5140,
+				"to": 6320
+			},
+			"text": " Hi, well, good morning, everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,320",
+				"to": "00:00:14,160"
+			},
+			"offsets": {
+				"from": 6320,
+				"to": 14160
+			},
+			"text": " I knew, whatever I was talking about today would get humbled by my job worship, but I"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,160",
+				"to": "00:00:17,700"
+			},
+			"offsets": {
+				"from": 14160,
+				"to": 17700
+			},
+			"text": " stopped getting our worship feeling before us, that was so exciting."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,700",
+				"to": "00:00:21,000"
+			},
+			"offsets": {
+				"from": 17700,
+				"to": 21000
+			},
+			"text": " Well, good morning, everyone."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,000",
+				"to": "00:00:26,260"
+			},
+			"offsets": {
+				"from": 21000,
+				"to": 26260
+			},
+			"text": " For those of you that don't know me, my name is, of course, but I have a privilege that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,260",
+				"to": "00:00:29,080"
+			},
+			"offsets": {
+				"from": 26260,
+				"to": 29080
+			},
+			"text": " doing a part on the governance team here at the Spanish community."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,080",
+				"to": "00:00:33,220"
+			},
+			"offsets": {
+				"from": 29080,
+				"to": 33220
+			},
+			"text": " My introduction has become far more crucial than it used to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,220",
+				"to": "00:00:40,560"
+			},
+			"offsets": {
+				"from": 33220,
+				"to": 40560
+			},
+			"text": " I'm still learning a ton of names and faces, and I'm getting pretty good at it, but still"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,560",
+				"to": "00:00:42,820"
+			},
+			"offsets": {
+				"from": 40560,
+				"to": 42820
+			},
+			"text": " not quite where I want to be when you all get it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,820",
+				"to": "00:00:45,620"
+			},
+			"offsets": {
+				"from": 42820,
+				"to": 45620
+			},
+			"text": " And I, it's a confession time, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,620",
+				"to": "00:00:51,200"
+			},
+			"offsets": {
+				"from": 45620,
+				"to": 51200
+			},
+			"text": " If I hear your name and I repeat it and I try to remember it, I'm probably going to ask"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,200",
+				"to": "00:00:54,220"
+			},
+			"offsets": {
+				"from": 51200,
+				"to": 54220
+			},
+			"text": " you again until, like, five, six times a minute."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,000",
+				"to": "00:00:57,500"
+			},
+			"offsets": {
+				"from": 55000,
+				"to": 57500
+			},
+			"text": " So you guys have been gracious with me this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,500",
+				"to": "00:01:01,400"
+			},
+			"offsets": {
+				"from": 57500,
+				"to": 61400
+			},
+			"text": " This is my first time up there on this party and I was watching Ryan last week, and I'm"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,400",
+				"to": "00:01:05,820"
+			},
+			"offsets": {
+				"from": 61400,
+				"to": 65820
+			},
+			"text": " like, I don't know how spurning that thing is, but the board is supposed to be saying right"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,820",
+				"to": "00:01:08,620"
+			},
+			"offsets": {
+				"from": 65820,
+				"to": 68620
+			},
+			"text": " now, but it doesn't feel weak or anything, so I don't think you guys are going to get"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,620",
+				"to": "00:01:09,240"
+			},
+			"offsets": {
+				"from": 68620,
+				"to": 69240
+			},
+			"text": " a story this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,240",
+				"to": "00:01:13,220"
+			},
+			"offsets": {
+				"from": 69240,
+				"to": 73220
+			},
+			"text": " But the last time I talked, we were at the Alamo, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,220",
+				"to": "00:01:17,220"
+			},
+			"offsets": {
+				"from": 73220,
+				"to": 77220
+			},
+			"text": " And the Alamo kind of has this, you have to see themselves, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,220",
+				"to": "00:01:19,700"
+			},
+			"offsets": {
+				"from": 77220,
+				"to": 79700
+			},
+			"text": " It's the teachers down below and everybody's up."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,700",
+				"to": "00:01:29,260"
+			},
+			"offsets": {
+				"from": 79700,
+				"to": 89260
+			},
+			"text": " It's like, so you guys kind of looked down on me as I was teaching, like, as you worked"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,260",
+				"to": "00:01:33,360"
+			},
+			"offsets": {
+				"from": 89260,
+				"to": 93360
+			},
+			"text": " through the last year, and Ryan and Brandon is, and a ton of others look fake at the Alamo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,360",
+				"to": "00:01:38,520"
+			},
+			"offsets": {
+				"from": 93360,
+				"to": 98520
+			},
+			"text": " but so this dynamic of me looking down on you feels weird, so you, like, be gracious with"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,520",
+				"to": "00:01:43,040"
+			},
+			"offsets": {
+				"from": 98520,
+				"to": 103040
+			},
+			"text": " me and give me a little bit of grace in that, and I'm going to look straight at, like, Ryan"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,040",
+				"to": "00:01:46,620"
+			},
+			"offsets": {
+				"from": 103040,
+				"to": 106620
+			},
+			"text": " and Ryan and Matt gave me, like, corners and it's, like, to look back and not have the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,620",
+				"to": "00:01:52,600"
+			},
+			"offsets": {
+				"from": 106620,
+				"to": 112600
+			},
+			"text": " spotlight, so that could be good, but if I make awkward eye contact with you, it could"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,600",
+				"to": "00:01:58,600"
+			},
+			"offsets": {
+				"from": 112600,
+				"to": 118600
+			},
+			"text": " be me, it could be the Holy Spirit, like, I want you to tell facts for yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,600",
+				"to": "00:02:04,240"
+			},
+			"offsets": {
+				"from": 118600,
+				"to": 124240
+			},
+			"text": " So, we've spent some time walking through this concept of my heart matters, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,240",
+				"to": "00:02:08,920"
+			},
+			"offsets": {
+				"from": 124240,
+				"to": 128920
+			},
+			"text": " If this is your first service, first off, I'm going to be walking you past our church,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,920",
+				"to": "00:02:14,880"
+			},
+			"offsets": {
+				"from": 128920,
+				"to": 134880
+			},
+			"text": " which is, secondly, if you haven't gone back and listened to some of those others on our"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,880",
+				"to": "00:02:19,580"
+			},
+			"offsets": {
+				"from": 134880,
+				"to": 139580
+			},
+			"text": " YouTube, Facebook, I encourage you, they're going to be hugely beneficial for your time here"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,580",
+				"to": "00:02:25,540"
+			},
+			"offsets": {
+				"from": 139580,
+				"to": 145540
+			},
+			"text": " at Canvas, or just being an individual part of the church at large, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,540",
+				"to": "00:02:28,360"
+			},
+			"offsets": {
+				"from": 145540,
+				"to": 148360
+			},
+			"text": " Last, last week, Ryan made it super tactical for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,360",
+				"to": "00:02:30,940"
+			},
+			"offsets": {
+				"from": 148360,
+				"to": 150940
+			},
+			"text": " Who all remembers what runs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,940",
+				"to": "00:02:33,340"
+			},
+			"offsets": {
+				"from": 150940,
+				"to": 153340
+			},
+			"text": " That's not as good."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,340",
+				"to": "00:02:34,480"
+			},
+			"offsets": {
+				"from": 153340,
+				"to": 154480
+			},
+			"text": " I will do that to you guys."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,660",
+				"to": "00:02:39,280"
+			},
+			"offsets": {
+				"from": 154660,
+				"to": 159280
+			},
+			"text": " You know, I have to, you know, the point laid out for us in Romans 12, that we should"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,280",
+				"to": "00:02:41,580"
+			},
+			"offsets": {
+				"from": 159280,
+				"to": 161580
+			},
+			"text": " really love the people within our community."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,580",
+				"to": "00:02:47,200"
+			},
+			"offsets": {
+				"from": 161580,
+				"to": 167200
+			},
+			"text": " Not just fake it till we make it, or act like we love them, but actually do life together."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,200",
+				"to": "00:02:48,420"
+			},
+			"offsets": {
+				"from": 167200,
+				"to": 168420
+			},
+			"text": " Throw together."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,420",
+				"to": "00:02:53,240"
+			},
+			"offsets": {
+				"from": 168420,
+				"to": 173240
+			},
+			"text": " And with that comes actual, real depression."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,240",
+				"to": "00:02:59,200"
+			},
+			"offsets": {
+				"from": 173240,
+				"to": 179200
+			},
+			"text": " We're trying to, because we're trying my best to have a bow on this series."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,660",
+				"to": "00:03:04,940"
+			},
+			"offsets": {
+				"from": 179660,
+				"to": 184940
+			},
+			"text": " Or, the other ministry, we're going to need all the hard work, and now, like, everybody's"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,940",
+				"to": "00:03:06,340"
+			},
+			"offsets": {
+				"from": 184940,
+				"to": 186340
+			},
+			"text": " like, I can't even believe I want to go there."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,340",
+				"to": "00:03:13,580"
+			},
+			"offsets": {
+				"from": 186340,
+				"to": 193580
+			},
+			"text": " But, today, I've titled this conversation we're going to have, and it is, we're going to talk"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,580",
+				"to": "00:03:16,020"
+			},
+			"offsets": {
+				"from": 193580,
+				"to": 196020
+			},
+			"text": " about dedicated dependence on Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,020",
+				"to": "00:03:18,540"
+			},
+			"offsets": {
+				"from": 196020,
+				"to": 198540
+			},
+			"text": " Super practical last week."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,540",
+				"to": "00:03:20,220"
+			},
+			"offsets": {
+				"from": 198540,
+				"to": 200220
+			},
+			"text": " Now, big picture."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,220",
+				"to": "00:03:24,220"
+			},
+			"offsets": {
+				"from": 200220,
+				"to": 204220
+			},
+			"text": " And I like when I get to talk about big picture ideas, because it doesn't come with a checklist,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,220",
+				"to": "00:03:24,600"
+			},
+			"offsets": {
+				"from": 204220,
+				"to": 204600
+			},
+			"text": " right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,600",
+				"to": "00:03:29,320"
+			},
+			"offsets": {
+				"from": 204600,
+				"to": 209320
+			},
+			"text": " It doesn't come with a check, check, check, check, check, and he goes, we're good."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,320",
+				"to": "00:03:31,800"
+			},
+			"offsets": {
+				"from": 209320,
+				"to": 211800
+			},
+			"text": " My life is totally dependent on him."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,800",
+				"to": "00:03:37,400"
+			},
+			"offsets": {
+				"from": 211800,
+				"to": 217400
+			},
+			"text": " I like working in big picture ideas, because it gives the Holy Spirit room to moves, to wiggles,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,400",
+				"to": "00:03:42,480"
+			},
+			"offsets": {
+				"from": 217400,
+				"to": 222480
+			},
+			"text": " to mold and fizzles, and then to put each of us in the directions he would let us go."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,740",
+				"to": "00:03:47,420"
+			},
+			"offsets": {
+				"from": 223740,
+				"to": 227420
+			},
+			"text": " But, this is where I'll make it super practical for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,420",
+				"to": "00:03:54,780"
+			},
+			"offsets": {
+				"from": 227420,
+				"to": 234780
+			},
+			"text": " It's in this experiment that we've done in Winchester, in our city, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,780",
+				"to": "00:04:00,560"
+			},
+			"offsets": {
+				"from": 234780,
+				"to": 240560
+			},
+			"text": " Merging two congregations to hopefully serve a kingdom of God better in our cities and together,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,560",
+				"to": "00:04:02,420"
+			},
+			"offsets": {
+				"from": 240560,
+				"to": 242420
+			},
+			"text": " then we can do it first."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,420",
+				"to": "00:04:04,740"
+			},
+			"offsets": {
+				"from": 242420,
+				"to": 244740
+			},
+			"text": " Better together."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,780",
+				"to": "00:04:09,340"
+			},
+			"offsets": {
+				"from": 245780,
+				"to": 249340
+			},
+			"text": " So, we've used marriage language when we talk about this thing, because that's what"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,340",
+				"to": "00:04:10,040"
+			},
+			"offsets": {
+				"from": 249340,
+				"to": 250040
+			},
+			"text": " it felt like."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,040",
+				"to": "00:04:14,220"
+			},
+			"offsets": {
+				"from": 250040,
+				"to": 254220
+			},
+			"text": " A marriage between two bodies coming together to better serve the God we both worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,220",
+				"to": "00:04:18,080"
+			},
+			"offsets": {
+				"from": 254220,
+				"to": 258080
+			},
+			"text": " This is something I'm truly proud of."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,080",
+				"to": "00:04:21,220"
+			},
+			"offsets": {
+				"from": 258080,
+				"to": 261220
+			},
+			"text": " Everybody's super vulnerable with you guys real quick."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,220",
+				"to": "00:04:28,280"
+			},
+			"offsets": {
+				"from": 261220,
+				"to": 268280
+			},
+			"text": " But I got emotional for our first marriage service together, when this was actually something"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,280",
+				"to": "00:04:29,560"
+			},
+			"offsets": {
+				"from": 268280,
+				"to": 269560
+			},
+			"text": " we were considering."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,560",
+				"to": "00:04:32,780"
+			},
+			"offsets": {
+				"from": 269560,
+				"to": 272780
+			},
+			"text": " Not because the work for kids are rocking."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,780",
+				"to": "00:04:35,160"
+			},
+			"offsets": {
+				"from": 272780,
+				"to": 275160
+			},
+			"text": " Obviously, they were, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,780",
+				"to": "00:04:38,600"
+			},
+			"offsets": {
+				"from": 275780,
+				"to": 278600
+			},
+			"text": " Not because Matt and Ryan were dropping this all-star service."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,600",
+				"to": "00:04:42,520"
+			},
+			"offsets": {
+				"from": 278600,
+				"to": 282520
+			},
+			"text": " Not because I got to see all your smiling faces."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,520",
+				"to": "00:04:49,840"
+			},
+			"offsets": {
+				"from": 282520,
+				"to": 289840
+			},
+			"text": " But because I got to see the fruition of God's handiwork in our city, more specifically in"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,840",
+				"to": "00:04:50,260"
+			},
+			"offsets": {
+				"from": 289840,
+				"to": 290260
+			},
+			"text": " our church."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,260",
+				"to": "00:04:52,680"
+			},
+			"offsets": {
+				"from": 290260,
+				"to": 292680
+			},
+			"text": " And I've got me thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,680",
+				"to": "00:04:55,740"
+			},
+			"offsets": {
+				"from": 292680,
+				"to": 295740
+			},
+			"text": " The fruition of God's handiwork."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,740",
+				"to": "00:04:56,740"
+			},
+			"offsets": {
+				"from": 295740,
+				"to": 296740
+			},
+			"text": " Free us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,740",
+				"to": "00:04:58,240"
+			},
+			"offsets": {
+				"from": 296740,
+				"to": 298240
+			},
+			"text": " I love having Jason up there."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,240",
+				"to": "00:04:58,940"
+			},
+			"offsets": {
+				"from": 298240,
+				"to": 298940
+			},
+			"text": " I love the hype news."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,940",
+				"to": "00:05:01,400"
+			},
+			"offsets": {
+				"from": 298940,
+				"to": 301400
+			},
+			"text": " The fruition of God's handiwork."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,400",
+				"to": "00:05:03,020"
+			},
+			"offsets": {
+				"from": 301400,
+				"to": 303020
+			},
+			"text": " That's right."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,020",
+				"to": "00:05:04,960"
+			},
+			"offsets": {
+				"from": 303020,
+				"to": 304960
+			},
+			"text": " Free us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,140",
+				"to": "00:05:06,060"
+			},
+			"offsets": {
+				"from": 305140,
+				"to": 306060
+			},
+			"text": " Can we, can we close?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,060",
+				"to": "00:05:08,120"
+			},
+			"offsets": {
+				"from": 306060,
+				"to": 308120
+			},
+			"text": " Can we listen up on the side?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,120",
+				"to": "00:05:11,660"
+			},
+			"offsets": {
+				"from": 308120,
+				"to": 311660
+			},
+			"text": " Let's see about how the transition is."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,660",
+				"to": "00:05:12,740"
+			},
+			"offsets": {
+				"from": 311660,
+				"to": 312740
+			},
+			"text": " It is good."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,740",
+				"to": "00:05:13,480"
+			},
+			"offsets": {
+				"from": 312740,
+				"to": 313480
+			},
+			"text": " There we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,480",
+				"to": "00:05:16,280"
+			},
+			"offsets": {
+				"from": 313480,
+				"to": 316280
+			},
+			"text": " Let's see how that works out."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,280",
+				"to": "00:05:17,800"
+			},
+			"offsets": {
+				"from": 316280,
+				"to": 317800
+			},
+			"text": " Yep."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,800",
+				"to": "00:05:22,300"
+			},
+			"offsets": {
+				"from": 317800,
+				"to": 322300
+			},
+			"text": " Can we, can we listen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,300",
+				"to": "00:05:24,460"
+			},
+			"offsets": {
+				"from": 322300,
+				"to": 324460
+			},
+			"text": " There it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,460",
+				"to": "00:05:25,120"
+			},
+			"offsets": {
+				"from": 324460,
+				"to": 325120
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,120",
+				"to": "00:05:29,780"
+			},
+			"offsets": {
+				"from": 325120,
+				"to": 329780
+			},
+			"text": " The fruition will be defined as the point at which a plan or project is realized."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,260",
+				"to": "00:05:35,260"
+			},
+			"offsets": {
+				"from": 330260,
+				"to": 335260
+			},
+			"text": " The first, the faith or action of producing fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,260",
+				"to": "00:05:38,780"
+			},
+			"offsets": {
+				"from": 335260,
+				"to": 338780
+			},
+			"text": " What's the first five letters in that word of anything?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,780",
+				"to": "00:05:39,800"
+			},
+			"offsets": {
+				"from": 338780,
+				"to": 339800
+			},
+			"text": " Fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,800",
+				"to": "00:05:42,280"
+			},
+			"offsets": {
+				"from": 339800,
+				"to": 342280
+			},
+			"text": " That still happens when we grow up today."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,280",
+				"to": "00:05:47,480"
+			},
+			"offsets": {
+				"from": 342280,
+				"to": 347480
+			},
+			"text": " This idea is one that's just to be foreign to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,480",
+				"to": "00:05:53,720"
+			},
+			"offsets": {
+				"from": 347480,
+				"to": 353720
+			},
+			"text": " If you spend any time in church, the idea that we have the privilege to participate in this"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,720",
+				"to": "00:06:00,240"
+			},
+			"offsets": {
+				"from": 353720,
+				"to": 360240
+			},
+			"text": " thing that Jesus instituted here on earth, the church, not before we do it, but what we're"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,240",
+				"to": "00:06:03,360"
+			},
+			"offsets": {
+				"from": 360240,
+				"to": 363360
+			},
+			"text": " going to do today is try to expand on the idea."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,360",
+				"to": "00:06:05,920"
+			},
+			"offsets": {
+				"from": 363360,
+				"to": 365920
+			},
+			"text": " It's not perfect, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,920",
+				"to": "00:06:07,920"
+			},
+			"offsets": {
+				"from": 365920,
+				"to": 367920
+			},
+			"text": " Everybody, everybody."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,520",
+				"to": "00:06:11,520"
+			},
+			"offsets": {
+				"from": 369520,
+				"to": 371520
+			},
+			"text": " We mess this thing up all the time, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,520",
+				"to": "00:06:16,140"
+			},
+			"offsets": {
+				"from": 371520,
+				"to": 376140
+			},
+			"text": " On a church, we're stepping on people's toes or in church, Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,140",
+				"to": "00:06:20,380"
+			},
+			"offsets": {
+				"from": 376140,
+				"to": 380380
+			},
+			"text": " That's also for another time, but it happens."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,380",
+				"to": "00:06:22,000"
+			},
+			"offsets": {
+				"from": 380380,
+				"to": 382000
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,000",
+				"to": "00:06:23,260"
+			},
+			"offsets": {
+				"from": 382000,
+				"to": 383260
+			},
+			"text": " Because we're, we're messed up people."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,260",
+				"to": "00:06:24,620"
+			},
+			"offsets": {
+				"from": 383260,
+				"to": 384620
+			},
+			"text": " We're, we're not perfect people."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,620",
+				"to": "00:06:27,640"
+			},
+			"offsets": {
+				"from": 384620,
+				"to": 387640
+			},
+			"text": " We're coming together to do this thing so perfect, God."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,640",
+				"to": "00:06:36,500"
+			},
+			"offsets": {
+				"from": 387640,
+				"to": 396500
+			},
+			"text": " This idea that the creator, the savior of the universe allows us to participate with him"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,500",
+				"to": "00:06:38,340"
+			},
+			"offsets": {
+				"from": 396500,
+				"to": 398340
+			},
+			"text": " in this thing called the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,340",
+				"to": "00:06:43,420"
+			},
+			"offsets": {
+				"from": 398340,
+				"to": 403420
+			},
+			"text": " So I've always loved this analogy that God's like this rock star CEO, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,420",
+				"to": "00:06:45,640"
+			},
+			"offsets": {
+				"from": 403420,
+				"to": 405640
+			},
+			"text": " He's, he's built this amazing company."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,640",
+				"to": "00:06:48,940"
+			},
+			"offsets": {
+				"from": 405640,
+				"to": 408940
+			},
+			"text": " He's created this marvelous university."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,940",
+				"to": "00:06:54,380"
+			},
+			"offsets": {
+				"from": 408940,
+				"to": 414380
+			},
+			"text": " He takes this into his office and he's like, hi guys, I want you, I want you to run this"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,380",
+				"to": "00:06:54,640"
+			},
+			"offsets": {
+				"from": 414380,
+				"to": 414640
+			},
+			"text": " thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,640",
+				"to": "00:06:57,900"
+			},
+			"offsets": {
+				"from": 414640,
+				"to": 417900
+			},
+			"text": " And we're like, oh, whoa, whoa, whoa, whoa, whoa, whoa, whoa."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,900",
+				"to": "00:07:01,840"
+			},
+			"offsets": {
+				"from": 417900,
+				"to": 421840
+			},
+			"text": " I was like, shouldn't you be doing this thing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,040",
+				"to": "00:07:06,140"
+			},
+			"offsets": {
+				"from": 423040,
+				"to": 426140
+			},
+			"text": " And God's like, I will be for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,140",
+				"to": "00:07:09,240"
+			},
+			"offsets": {
+				"from": 426140,
+				"to": 429240
+			},
+			"text": " And y'all can't mess it up bad enough where I can't fix it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,240",
+				"to": "00:07:14,840"
+			},
+			"offsets": {
+				"from": 429240,
+				"to": 434840
+			},
+			"text": " See, some of us through church history have tried to put the limits, but I believe it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,840",
+				"to": "00:07:20,160"
+			},
+			"offsets": {
+				"from": 434840,
+				"to": 440160
+			},
+			"text": " first that is faithful and obedient to God cannot mess things up beyond its resolve, but acts"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,160",
+				"to": "00:07:23,080"
+			},
+			"offsets": {
+				"from": 440160,
+				"to": 443080
+			},
+			"text": " as a conduit for the world to see the God we serve."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,080",
+				"to": "00:07:25,500"
+			},
+			"offsets": {
+				"from": 443080,
+				"to": 445500
+			},
+			"text": " See, we've seen this."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,500",
+				"to": "00:07:28,080"
+			},
+			"offsets": {
+				"from": 445500,
+				"to": 448080
+			},
+			"text": " We've seen it from, from Genesis to Revelation."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,080",
+				"to": "00:07:33,920"
+			},
+			"offsets": {
+				"from": 448080,
+				"to": 453920
+			},
+			"text": " See, God chooses to be involved in this world, not by earth scattering moments."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,920",
+				"to": "00:07:39,160"
+			},
+			"offsets": {
+				"from": 453920,
+				"to": 459160
+			},
+			"text": " Sometimes they're earth scattering, sometimes they're delusions and we have other stuff, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,160",
+				"to": "00:07:44,180"
+			},
+			"offsets": {
+				"from": 459160,
+				"to": 464180
+			},
+			"text": " not all of us around by earth scattering moments, but primarily through his people."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,180",
+				"to": "00:07:53,480"
+			},
+			"offsets": {
+				"from": 464180,
+				"to": 473480
+			},
+			"text": " Keeping our eyes firmly focused on Jesus and his word keep us aligned, remaining connected"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,480",
+				"to": "00:07:54,820"
+			},
+			"offsets": {
+				"from": 473480,
+				"to": 474820
+			},
+			"text": " to the free volumes."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,020",
+				"to": "00:07:57,640"
+			},
+			"offsets": {
+				"from": 476020,
+				"to": 477640
+			},
+			"text": " See, we're, we're a testament to that, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,640",
+				"to": "00:08:05,840"
+			},
+			"offsets": {
+				"from": 477640,
+				"to": 485840
+			},
+			"text": " In 22, how many churches are tumbling, tumbling together to say, God, not our will, but yours."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,840",
+				"to": "00:08:12,200"
+			},
+			"offsets": {
+				"from": 485840,
+				"to": 492200
+			},
+			"text": " You know, I've titled my sermon today, Dedicated Dependents, because like Ryan says, any good teacher"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,200",
+				"to": "00:08:15,000"
+			},
+			"offsets": {
+				"from": 492200,
+				"to": 495000
+			},
+			"text": " uses two words, same letter, and that's yours."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,480",
+				"to": "00:08:17,600"
+			},
+			"offsets": {
+				"from": 496480,
+				"to": 497600
+			},
+			"text": " So, here I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,600",
+				"to": "00:08:23,280"
+			},
+			"offsets": {
+				"from": 497600,
+				"to": 503280
+			},
+			"text": " There's a worship theme, as I just said earlier, saying a song's verse before I entitled home."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,280",
+				"to": "00:08:27,980"
+			},
+			"offsets": {
+				"from": 503280,
+				"to": 507980
+			},
+			"text": " And it interrogated the context of this song, and I'm, I don't know, honestly, I'm just"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,980",
+				"to": "00:08:31,720"
+			},
+			"offsets": {
+				"from": 507980,
+				"to": 511720
+			},
+			"text": " going to go, like, give you my Bible, and you can just read, you can just read whatever"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,720",
+				"to": "00:08:32,860"
+			},
+			"offsets": {
+				"from": 511720,
+				"to": 512860
+			},
+			"text": " we got to talk about today."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,860",
+				"to": "00:08:36,880"
+			},
+			"offsets": {
+				"from": 512860,
+				"to": 516880
+			},
+			"text": " And at least I can say that this is about coincidence."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,880",
+				"to": "00:08:40,080"
+			},
+			"offsets": {
+				"from": 516880,
+				"to": 520080
+			},
+			"text": " If you know what they say about coincidence, it's nice."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,500",
+				"to": "00:08:46,400"
+			},
+			"offsets": {
+				"from": 520500,
+				"to": 526400
+			},
+			"text": " So, the question is, what does Dedicated Dependents look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,400",
+				"to": "00:08:52,020"
+			},
+			"offsets": {
+				"from": 526400,
+				"to": 532020
+			},
+			"text": " And more specifically, what does Dedicated Dependents in Jesus look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,020",
+				"to": "00:09:02,160"
+			},
+			"offsets": {
+				"from": 532020,
+				"to": 542160
+			},
+			"text": " For us, as individuals, our local church, and the global church as a whole."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,160",
+				"to": "00:09:09,000"
+			},
+			"offsets": {
+				"from": 542160,
+				"to": 549000
+			},
+			"text": " You see, John 15 jumps into what scholars have called the Farewell Discourse."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,000",
+				"to": "00:09:14,540"
+			},
+			"offsets": {
+				"from": 549000,
+				"to": 554540
+			},
+			"text": " The Farewell Discourse gets it to me because John's gospel, starting in chapter 14, has a"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,540",
+				"to": "00:09:18,040"
+			},
+			"offsets": {
+				"from": 554540,
+				"to": 558040
+			},
+			"text": " technical focus on Jesus' last week before his crucifixion."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,040",
+				"to": "00:09:24,780"
+			},
+			"offsets": {
+				"from": 558040,
+				"to": 564780
+			},
+			"text": " And what knowledge Jesus wants to instill in his disciples, the week before his crucifixion."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,780",
+				"to": "00:09:30,920"
+			},
+			"offsets": {
+				"from": 564780,
+				"to": 570920
+			},
+			"text": " For the canvasers, you guys know I love context, so I want to set the stage for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,920",
+				"to": "00:09:37,860"
+			},
+			"offsets": {
+				"from": 570920,
+				"to": 577860
+			},
+			"text": " In John 12, we're seeing Mary anointing Jesus through his feet with perfume, a prophetic exercise"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,860",
+				"to": "00:09:40,400"
+			},
+			"offsets": {
+				"from": 577860,
+				"to": 580400
+			},
+			"text": " in obedience that Jesus says will prepare for his burial."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:40,400",
+				"to": "00:09:46,620"
+			},
+			"offsets": {
+				"from": 580400,
+				"to": 586620
+			},
+			"text": " Then Jesus started, like, enters in Jerusalem in the back of the donkey, a fulfillment of Zechariah"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,620",
+				"to": "00:09:47,520"
+			},
+			"offsets": {
+				"from": 586620,
+				"to": 587520
+			},
+			"text": " 9-9."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,520",
+				"to": "00:09:49,520"
+			},
+			"offsets": {
+				"from": 587520,
+				"to": 589520
+			},
+			"text": " Rejoice, O people of Zion!"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,520",
+				"to": "00:09:51,840"
+			},
+			"offsets": {
+				"from": 589520,
+				"to": 591840
+			},
+			"text": " Shout and shout, trials!"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,840",
+				"to": "00:09:53,680"
+			},
+			"offsets": {
+				"from": 591840,
+				"to": 593680
+			},
+			"text": " O people of Jerusalem, look!"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,680",
+				"to": "00:09:58,580"
+			},
+			"offsets": {
+				"from": 593680,
+				"to": 598580
+			},
+			"text": " Your king is coming to you, and he is righteous and victorious, yet he is humble and riding"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,580",
+				"to": "00:09:59,320"
+			},
+			"offsets": {
+				"from": 598580,
+				"to": 599320
+			},
+			"text": " on a donkey."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,320",
+				"to": "00:10:06,640"
+			},
+			"offsets": {
+				"from": 599320,
+				"to": 606640
+			},
+			"text": " John chapter 13-17, and we'll kind of combine those and look for him, we'll recount Jesus last"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,640",
+				"to": "00:10:11,780"
+			},
+			"offsets": {
+				"from": 606640,
+				"to": 611780
+			},
+			"text": " week with his time with his disciples, training them, building them up, preparing them to build"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,780",
+				"to": "00:10:15,020"
+			},
+			"offsets": {
+				"from": 611780,
+				"to": 615020
+			},
+			"text": " a source of renewing that cross and resurrection time."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,440",
+				"to": "00:10:18,480"
+			},
+			"offsets": {
+				"from": 615440,
+				"to": 618480
+			},
+			"text": " John 13 sets the table for what's known as the last supper."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,480",
+				"to": "00:10:19,460"
+			},
+			"offsets": {
+				"from": 618480,
+				"to": 619460
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,460",
+				"to": "00:10:20,660"
+			},
+			"offsets": {
+				"from": 619460,
+				"to": 620660
+			},
+			"text": " Sets the table for the last supper."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,660",
+				"to": "00:10:23,900"
+			},
+			"offsets": {
+				"from": 620660,
+				"to": 623900
+			},
+			"text": " Where Jesus will watch the disciples see."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,900",
+				"to": "00:10:29,960"
+			},
+			"offsets": {
+				"from": 623900,
+				"to": 629960
+			},
+			"text": " Then in John 14, we'll see the beginning of the very world discourse, where Jesus makes the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,960",
+				"to": "00:10:33,260"
+			},
+			"offsets": {
+				"from": 629960,
+				"to": 633260
+			},
+			"text": " proclamation, I am the way that's going to live."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:33,260",
+				"to": "00:10:36,980"
+			},
+			"offsets": {
+				"from": 633260,
+				"to": 636980
+			},
+			"text": " If you've never done it, there's a, I encourage you to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,980",
+				"to": "00:10:40,120"
+			},
+			"offsets": {
+				"from": 636980,
+				"to": 640120
+			},
+			"text": " There's an interesting Bible study out there with a seven IOM statement from the book of"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,120",
+				"to": "00:10:46,160"
+			},
+			"offsets": {
+				"from": 640120,
+				"to": 646160
+			},
+			"text": " God, and what they do is they harken back to the Spirit of God introducing himself to Moses"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,160",
+				"to": "00:10:48,720"
+			},
+			"offsets": {
+				"from": 646160,
+				"to": 648720
+			},
+			"text": " in the burning bush in Exodus 3, verse 14."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,720",
+				"to": "00:10:54,060"
+			},
+			"offsets": {
+				"from": 648720,
+				"to": 654060
+			},
+			"text": " God said to Moses, I am who I am is what you are to say for the Israelites."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,060",
+				"to": "00:10:56,540"
+			},
+			"offsets": {
+				"from": 654060,
+				"to": 656540
+			},
+			"text": " I am constantly to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,540",
+				"to": "00:11:02,780"
+			},
+			"offsets": {
+				"from": 656540,
+				"to": 662780
+			},
+			"text": " Just reinforcing the idea that the God who created the universe chooses to work through"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:02,780",
+				"to": "00:11:03,620"
+			},
+			"offsets": {
+				"from": 662780,
+				"to": 663620
+			},
+			"text": " his creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,620",
+				"to": "00:11:07,600"
+			},
+			"offsets": {
+				"from": 663620,
+				"to": 667600
+			},
+			"text": " This is, it's a weird context, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,600",
+				"to": "00:11:16,940"
+			},
+			"offsets": {
+				"from": 667600,
+				"to": 676940
+			},
+			"text": " This is both exciting and humbling that God who created the universe chooses to work through"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,940",
+				"to": "00:11:17,780"
+			},
+			"offsets": {
+				"from": 676940,
+				"to": 677780
+			},
+			"text": " his creation."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,540",
+				"to": "00:11:26,280"
+			},
+			"offsets": {
+				"from": 679540,
+				"to": 686280
+			},
+			"text": " Now, now we'll pick up in John 16, where Jesus makes another of the seven IOM statements."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,280",
+				"to": "00:11:28,420"
+			},
+			"offsets": {
+				"from": 686280,
+				"to": 688420
+			},
+			"text": " And this is where we're going to spend the chunk of our time today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,420",
+				"to": "00:11:35,500"
+			},
+			"offsets": {
+				"from": 688420,
+				"to": 695500
+			},
+			"text": " But, let's read John 1, 15, 1 from 8."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,500",
+				"to": "00:11:37,020"
+			},
+			"offsets": {
+				"from": 695500,
+				"to": 697020
+			},
+			"text": " Sarah, if you could just read that for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,020",
+				"to": "00:11:38,280"
+			},
+			"offsets": {
+				"from": 697020,
+				"to": 698280
+			},
+			"text": " I'll do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,280",
+				"to": "00:11:39,240"
+			},
+			"offsets": {
+				"from": 698280,
+				"to": 699240
+			},
+			"text": " It's a very, very, very job."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,240",
+				"to": "00:11:41,800"
+			},
+			"offsets": {
+				"from": 699240,
+				"to": 701800
+			},
+			"text": " I am the true grapevine."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,800",
+				"to": "00:11:43,520"
+			},
+			"offsets": {
+				"from": 701800,
+				"to": 703520
+			},
+			"text": " My father is the gardener."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,520",
+				"to": "00:11:49,060"
+			},
+			"offsets": {
+				"from": 703520,
+				"to": 709060
+			},
+			"text": " He cuts off every branch of mine that doesn't produce fruit and imprims the branches that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,060",
+				"to": "00:11:51,960"
+			},
+			"offsets": {
+				"from": 709060,
+				"to": 711960
+			},
+			"text": " do build fruit so they will produce even more."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,960",
+				"to": "00:11:56,560"
+			},
+			"offsets": {
+				"from": 711960,
+				"to": 716560
+			},
+			"text": " You have already been primed and purified by the message I've given you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,560",
+				"to": "00:11:59,660"
+			},
+			"offsets": {
+				"from": 716560,
+				"to": 719660
+			},
+			"text": " Remain in me and I will remain in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,660",
+				"to": "00:12:04,220"
+			},
+			"offsets": {
+				"from": 719660,
+				"to": 724220
+			},
+			"text": " For a branch cannot produce fruit if it is severed in the vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,220",
+				"to": "00:12:09,160"
+			},
+			"offsets": {
+				"from": 724220,
+				"to": 729160
+			},
+			"text": " And you cannot produce, you cannot be fruitful unless you remain in me."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,160",
+				"to": "00:12:11,940"
+			},
+			"offsets": {
+				"from": 729160,
+				"to": 731940
+			},
+			"text": " Yes, I am the vine, you are the branches."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,480",
+				"to": "00:12:15,260"
+			},
+			"offsets": {
+				"from": 732480,
+				"to": 735260
+			},
+			"text": " Those who remain in me and I in them will produce much fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:15,260",
+				"to": "00:12:17,360"
+			},
+			"offsets": {
+				"from": 735260,
+				"to": 737360
+			},
+			"text": " For a branch of me, you can do nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,360",
+				"to": "00:12:21,420"
+			},
+			"offsets": {
+				"from": 737360,
+				"to": 741420
+			},
+			"text": " Anyone who does not remain in me in the same way, like a branch of branch and withers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,420",
+				"to": "00:12:23,880"
+			},
+			"offsets": {
+				"from": 741420,
+				"to": 743880
+			},
+			"text": " such branches or gatherings will probably bring."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,880",
+				"to": "00:12:29,360"
+			},
+			"offsets": {
+				"from": 743880,
+				"to": 749360
+			},
+			"text": " But if you remain in me and my words remain in you, you may ask for anything you want,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:29,360",
+				"to": "00:12:30,520"
+			},
+			"offsets": {
+				"from": 749360,
+				"to": 750520
+			},
+			"text": " and it will be granted."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,520",
+				"to": "00:12:35,780"
+			},
+			"offsets": {
+				"from": 750520,
+				"to": 755780
+			},
+			"text": " For you produce much fruit, you are my true disciple."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,780",
+				"to": "00:12:38,520"
+			},
+			"offsets": {
+				"from": 755780,
+				"to": 758520
+			},
+			"text": " This brings great glory to my father."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,640",
+				"to": "00:12:46,880"
+			},
+			"offsets": {
+				"from": 759640,
+				"to": 766880
+			},
+			"text": " So, I'm going to try my best to message Jesus' section of scripture here."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:46,880",
+				"to": "00:12:51,080"
+			},
+			"offsets": {
+				"from": 766880,
+				"to": 771080
+			},
+			"text": " Jesus, Jesus, it's a free vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,080",
+				"to": "00:12:52,980"
+			},
+			"offsets": {
+				"from": 771080,
+				"to": 772980
+			},
+			"text": " My role is contrast."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,980",
+				"to": "00:12:56,660"
+			},
+			"offsets": {
+				"from": 772980,
+				"to": 776660
+			},
+			"text": " There must be other vines in the last 16th vine, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,660",
+				"to": "00:12:57,980"
+			},
+			"offsets": {
+				"from": 776660,
+				"to": 777980
+			},
+			"text": " Jesus is the true one."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,980",
+				"to": "00:12:58,920"
+			},
+			"offsets": {
+				"from": 777980,
+				"to": 778920
+			},
+			"text": " There's other vines in the last 16th vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,800",
+				"to": "00:13:04,660"
+			},
+			"offsets": {
+				"from": 779800,
+				"to": 784660
+			},
+			"text": " So, this analogy of a grape vine would be something Israel would have understood from their scriptures."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:04,660",
+				"to": "00:13:06,300"
+			},
+			"offsets": {
+				"from": 784660,
+				"to": 786300
+			},
+			"text": " Like the Old Testament, the Hebrew scriptures."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,300",
+				"to": "00:13:12,880"
+			},
+			"offsets": {
+				"from": 786300,
+				"to": 792880
+			},
+			"text": " Throughout the Old Testament, you'll find references to a grape vine that referred to the nation and the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,880",
+				"to": "00:13:15,060"
+			},
+			"offsets": {
+				"from": 792880,
+				"to": 795060
+			},
+			"text": " Just a beautiful context."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,060",
+				"to": "00:13:16,740"
+			},
+			"offsets": {
+				"from": 795060,
+				"to": 796740
+			},
+			"text": " Jeremiah 2, 21."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,940",
+				"to": "00:13:18,360"
+			},
+			"offsets": {
+				"from": 796940,
+				"to": 798360
+			},
+			"text": " I didn't make slide forms."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,360",
+				"to": "00:13:20,420"
+			},
+			"offsets": {
+				"from": 798360,
+				"to": 800420
+			},
+			"text": " I'll say them both in front of my heart work this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,420",
+				"to": "00:13:26,080"
+			},
+			"offsets": {
+				"from": 800420,
+				"to": 806080
+			},
+			"text": " But I had planted you like a corrupt vine and found a reliable stock."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,080",
+				"to": "00:13:30,420"
+			},
+			"offsets": {
+				"from": 806080,
+				"to": 810420
+			},
+			"text": " How then did you turn against me into a corrupt, wild vine?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:30,420",
+				"to": "00:13:33,700"
+			},
+			"offsets": {
+				"from": 810420,
+				"to": 813700
+			},
+			"text": " That's read from Psalms 80."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,700",
+				"to": "00:13:34,680"
+			},
+			"offsets": {
+				"from": 813700,
+				"to": 814680
+			},
+			"text": " We'll start at verse 8."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,680",
+				"to": "00:13:37,320"
+			},
+			"offsets": {
+				"from": 814680,
+				"to": 817320
+			},
+			"text": " You transplanted a vine from Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,320",
+				"to": "00:13:40,660"
+			},
+			"offsets": {
+				"from": 817320,
+				"to": 820660
+			},
+			"text": " You drove out the nations and planted it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,720",
+				"to": "00:13:42,540"
+			},
+			"offsets": {
+				"from": 821720,
+				"to": 822540
+			},
+			"text": " Verse 14."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,540",
+				"to": "00:13:44,260"
+			},
+			"offsets": {
+				"from": 822540,
+				"to": 824260
+			},
+			"text": " Return to us, God Almighty."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:44,260",
+				"to": "00:13:46,120"
+			},
+			"offsets": {
+				"from": 824260,
+				"to": 826120
+			},
+			"text": " Look down from heaven and sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,120",
+				"to": "00:13:48,000"
+			},
+			"offsets": {
+				"from": 826120,
+				"to": 828000
+			},
+			"text": " Watch over this vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,000",
+				"to": "00:13:50,660"
+			},
+			"offsets": {
+				"from": 828000,
+				"to": 830660
+			},
+			"text": " Psalm 80, verse 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,660",
+				"to": "00:13:51,820"
+			},
+			"offsets": {
+				"from": 830660,
+				"to": 831820
+			},
+			"text": " Your vine is cut down."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,820",
+				"to": "00:13:53,320"
+			},
+			"offsets": {
+				"from": 831820,
+				"to": 833320
+			},
+			"text": " It is burned with fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,320",
+				"to": "00:13:54,240"
+			},
+			"offsets": {
+				"from": 833320,
+				"to": 834240
+			},
+			"text": " It's your rebuke."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:54,240",
+				"to": "00:13:55,440"
+			},
+			"offsets": {
+				"from": 834240,
+				"to": 835440
+			},
+			"text": " Your people's parents."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,440",
+				"to": "00:13:58,940"
+			},
+			"offsets": {
+				"from": 835440,
+				"to": 838940
+			},
+			"text": " Isaiah 10, 1 through 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,940",
+				"to": "00:14:00,760"
+			},
+			"offsets": {
+				"from": 838940,
+				"to": 840760
+			},
+			"text": " Israel was a spreading runner."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,760",
+				"to": "00:14:02,980"
+			},
+			"offsets": {
+				"from": 840760,
+				"to": 842980
+			},
+			"text": " He brought forth fruit for himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,980",
+				"to": "00:14:05,880"
+			},
+			"offsets": {
+				"from": 842980,
+				"to": 845880
+			},
+			"text": " As his fruit increased, he built more altars."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,880",
+				"to": "00:14:08,880"
+			},
+			"offsets": {
+				"from": 845880,
+				"to": 848880
+			},
+			"text": " As his lamb transferred, he abhorred his sacred stones."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,880",
+				"to": "00:14:10,760"
+			},
+			"offsets": {
+				"from": 848880,
+				"to": 850760
+			},
+			"text": " Their hearts are deceitful."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,000",
+				"to": "00:14:12,140"
+			},
+			"offsets": {
+				"from": 851000,
+				"to": 852140
+			},
+			"text": " And now they must bear their guilt."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,140",
+				"to": "00:14:15,760"
+			},
+			"offsets": {
+				"from": 852140,
+				"to": 855760
+			},
+			"text": " The Lord will demolish their altars and destroy their sacred stones."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,760",
+				"to": "00:14:18,460"
+			},
+			"offsets": {
+				"from": 855760,
+				"to": 858460
+			},
+			"text": " This is the picture of a vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,460",
+				"to": "00:14:20,520"
+			},
+			"offsets": {
+				"from": 858460,
+				"to": 860520
+			},
+			"text": " Saints planted, growing wild."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,520",
+				"to": "00:14:23,300"
+			},
+			"offsets": {
+				"from": 860520,
+				"to": 863300
+			},
+			"text": " Something apart from God's or examples of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,300",
+				"to": "00:14:26,320"
+			},
+			"offsets": {
+				"from": 863300,
+				"to": 866320
+			},
+			"text": " With something they said, Israel knew all too well."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,320",
+				"to": "00:14:29,180"
+			},
+			"offsets": {
+				"from": 866320,
+				"to": 869180
+			},
+			"text": " And this is this last section."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,180",
+				"to": "00:14:31,060"
+			},
+			"offsets": {
+				"from": 869180,
+				"to": 871060
+			},
+			"text": " And it's in Hebrews 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:31,060",
+				"to": "00:14:32,640"
+			},
+			"offsets": {
+				"from": 871060,
+				"to": 872640
+			},
+			"text": " It's when we reference it."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,640",
+				"to": "00:14:33,440"
+			},
+			"offsets": {
+				"from": 872640,
+				"to": 873440
+			},
+			"text": " It's John's 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,440",
+				"to": "00:14:35,140"
+			},
+			"offsets": {
+				"from": 873440,
+				"to": 875140
+			},
+			"text": " And I speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,140",
+				"to": "00:14:40,260"
+			},
+			"offsets": {
+				"from": 875140,
+				"to": 880260
+			},
+			"text": " This is the section of scriptures that Jesus had in mind when he was sharing those lessons and stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,320",
+				"to": "00:14:45,120"
+			},
+			"offsets": {
+				"from": 880320,
+				"to": 885120
+			},
+			"text": " The disciples and people that were listening to you would not have been ignorant through the Old Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:45,120",
+				"to": "00:14:46,820"
+			},
+			"offsets": {
+				"from": 885120,
+				"to": 886820
+			},
+			"text": " They would have known these references."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,820",
+				"to": "00:14:50,780"
+			},
+			"offsets": {
+				"from": 886820,
+				"to": 890780
+			},
+			"text": " So let's take a look, if you will, at Ezekiel's verse 20."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,780",
+				"to": "00:14:53,200"
+			},
+			"offsets": {
+				"from": 890780,
+				"to": 893200
+			},
+			"text": " I told Ryan, I put a book to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,200",
+				"to": "00:14:55,260"
+			},
+			"offsets": {
+				"from": 893200,
+				"to": 895260
+			},
+			"text": " And I'm like, I have a Ezekiel and John reference."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,260",
+				"to": "00:14:57,400"
+			},
+			"offsets": {
+				"from": 895260,
+				"to": 897400
+			},
+			"text": " And I'm like, can you find John pretty quick?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,400",
+				"to": "00:15:01,200"
+			},
+			"offsets": {
+				"from": 897400,
+				"to": 901200
+			},
+			"text": " He has seven pages in this Bible that are kind of retired to Ezekiel."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,200",
+				"to": "00:15:02,160"
+			},
+			"offsets": {
+				"from": 901200,
+				"to": 902160
+			},
+			"text": " So I'm going to save that one."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,160",
+				"to": "00:15:03,560"
+			},
+			"offsets": {
+				"from": 902160,
+				"to": 903560
+			},
+			"text": " Look at the top."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,780",
+				"to": "00:15:08,620"
+			},
+			"offsets": {
+				"from": 903780,
+				"to": 908620
+			},
+			"text": " The paragraph of your Bible is probably something along these lines."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,620",
+				"to": "00:15:12,660"
+			},
+			"offsets": {
+				"from": 908620,
+				"to": 912660
+			},
+			"text": " Jerusalem, a useless vine, or the parable of the worthless vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,660",
+				"to": "00:15:14,240"
+			},
+			"offsets": {
+				"from": 912660,
+				"to": 914240
+			},
+			"text": " Let's read this."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,780",
+				"to": "00:15:18,500"
+			},
+			"offsets": {
+				"from": 914780,
+				"to": 918500
+			},
+			"text": " This message came to me from the Lord, Son of Man."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,500",
+				"to": "00:15:21,000"
+			},
+			"offsets": {
+				"from": 918500,
+				"to": 921000
+			},
+			"text": " How does a grapevine can pull to a tree?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,000",
+				"to": "00:15:23,980"
+			},
+			"offsets": {
+				"from": 921000,
+				"to": 923980
+			},
+			"text": " Is a vine's wood as useful as the wood of a tree?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,980",
+				"to": "00:15:28,800"
+			},
+			"offsets": {
+				"from": 923980,
+				"to": 928800
+			},
+			"text": " And its wood be used for making things, like pigs, the hen, pots, and pans."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,800",
+				"to": "00:15:29,140"
+			},
+			"offsets": {
+				"from": 928800,
+				"to": 929140
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,140",
+				"to": "00:15:30,920"
+			},
+			"offsets": {
+				"from": 929140,
+				"to": 930920
+			},
+			"text": " It can only be used for fuel."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,920",
+				"to": "00:15:34,040"
+			},
+			"offsets": {
+				"from": 930920,
+				"to": 934040
+			},
+			"text": " And even as fuel, it burns too quickly."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,040",
+				"to": "00:15:39,380"
+			},
+			"offsets": {
+				"from": 934040,
+				"to": 939380
+			},
+			"text": " Vines are useless both before and after being put into the fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,780",
+				"to": "00:15:46,500"
+			},
+			"offsets": {
+				"from": 939780,
+				"to": 946500
+			},
+			"text": " And this is what the Sovereign Lord says, the people of Israel are like a grapevine, growing among the trees of the forest."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,500",
+				"to": "00:15:50,240"
+			},
+			"offsets": {
+				"from": 946500,
+				"to": 950240
+			},
+			"text": " Since they are useless, I've thrown them into the fire to be raised."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,240",
+				"to": "00:15:55,600"
+			},
+			"offsets": {
+				"from": 950240,
+				"to": 955600
+			},
+			"text": " And I will see if they escape from one side, they will fall into another."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,600",
+				"to": "00:15:58,280"
+			},
+			"offsets": {
+				"from": 955600,
+				"to": 958280
+			},
+			"text": " When I turn against them, you will know that I am the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,280",
+				"to": "00:16:03,120"
+			},
+			"offsets": {
+				"from": 958280,
+				"to": 963120
+			},
+			"text": " And I will make the land that's on because my people have been unfaithful to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,120",
+				"to": "00:16:06,420"
+			},
+			"offsets": {
+				"from": 963120,
+				"to": 966420
+			},
+			"text": " I, the Sovereign Lord, have spoken."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:07,960",
+				"to": "00:16:08,980"
+			},
+			"offsets": {
+				"from": 967960,
+				"to": 968980
+			},
+			"text": " I see this rule."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:08,980",
+				"to": "00:16:11,380"
+			},
+			"offsets": {
+				"from": 968980,
+				"to": 971380
+			},
+			"text": " This rule is contrasting to what we're going to go back to."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,380",
+				"to": "00:16:15,420"
+			},
+			"offsets": {
+				"from": 971380,
+				"to": 975420
+			},
+			"text": " Jesus, if Jesus equals the fruit vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,420",
+				"to": "00:16:18,760"
+			},
+			"offsets": {
+				"from": 975420,
+				"to": 978760
+			},
+			"text": " There we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:18,760",
+				"to": "00:16:24,740"
+			},
+			"offsets": {
+				"from": 978760,
+				"to": 984740
+			},
+			"text": " If Jesus equals the fruit vine, Israel Jerusalem equals the useless vine, the types of death."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,740",
+				"to": "00:16:29,340"
+			},
+			"offsets": {
+				"from": 984740,
+				"to": 989340
+			},
+			"text": " And I don't want you to think, let me get this context on there."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,340",
+				"to": "00:16:30,680"
+			},
+			"offsets": {
+				"from": 989340,
+				"to": 990680
+			},
+			"text": " I don't want you to think Israel Jerusalem."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:30,680",
+				"to": "00:16:33,200"
+			},
+			"offsets": {
+				"from": 990680,
+				"to": 993200
+			},
+			"text": " I want you to think Israel Jerusalem in the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,800",
+				"to": "00:16:38,680"
+			},
+			"offsets": {
+				"from": 993800,
+				"to": 998680
+			},
+			"text": " Like, that next, that addition to a useless vine apart from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,680",
+				"to": "00:16:47,160"
+			},
+			"offsets": {
+				"from": 998680,
+				"to": 1007160
+			},
+			"text": " So this idea of Jesus being the fruit vine starts all the air and self-righteousness out of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,160",
+				"to": "00:16:50,860"
+			},
+			"offsets": {
+				"from": 1007160,
+				"to": 1010860
+			},
+			"text": " And the church, they should start all the air out of our self-righteousness, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:50,860",
+				"to": "00:16:56,840"
+			},
+			"offsets": {
+				"from": 1010860,
+				"to": 1016840
+			},
+			"text": " If Jesus is the fruit vine, it's because he was faithful when Israel was not."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,640",
+				"to": "00:17:03,820"
+			},
+			"offsets": {
+				"from": 1017640,
+				"to": 1023820
+			},
+			"text": " If Jesus is the fruit vine because he was obedient even as a death when Israel was not."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,820",
+				"to": "00:17:11,900"
+			},
+			"offsets": {
+				"from": 1023820,
+				"to": 1031900
+			},
+			"text": " If Jesus is the fruit vine because he was God incarnate, taking all the flesh to do what the first Adam did not."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,460",
+				"to": "00:17:23,320"
+			},
+			"offsets": {
+				"from": 1033460,
+				"to": 1043320
+			},
+			"text": " How useless are we as a people, as individuals, as a community, if our dependents, our dedicated dependents, does not come from being connected to the true vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,320",
+				"to": "00:17:26,880"
+			},
+			"offsets": {
+				"from": 1043320,
+				"to": 1046880
+			},
+			"text": " So these were God's chosen people."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,880",
+				"to": "00:17:33,040"
+			},
+			"offsets": {
+				"from": 1046880,
+				"to": 1053040
+			},
+			"text": " They were descendants of Abraham, of people from whom God would show himself to the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,920",
+				"to": "00:17:36,540"
+			},
+			"offsets": {
+				"from": 1054920,
+				"to": 1056540
+			},
+			"text": " Deuteronomy 14, 2 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,540",
+				"to": "00:17:40,620"
+			},
+			"offsets": {
+				"from": 1056540,
+				"to": 1060620
+			},
+			"text": " You have been set apart as holy to the Lord your God."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,620",
+				"to": "00:17:44,500"
+			},
+			"offsets": {
+				"from": 1060620,
+				"to": 1064500
+			},
+			"text": " And he has chosen you from all the nations of the earth to be his own special treasure."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,500",
+				"to": "00:17:48,300"
+			},
+			"offsets": {
+				"from": 1064500,
+				"to": 1068300
+			},
+			"text": " Do you know that Abraham said that they were the vine?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,300",
+				"to": "00:17:49,940"
+			},
+			"offsets": {
+				"from": 1068300,
+				"to": 1069940
+			},
+			"text": " They were the chosen people."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,940",
+				"to": "00:17:52,080"
+			},
+			"offsets": {
+				"from": 1069940,
+				"to": 1072080
+			},
+			"text": " And they would be the kind that it comes to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,080",
+				"to": "00:17:55,940"
+			},
+			"offsets": {
+				"from": 1072080,
+				"to": 1075940
+			},
+			"text": " God would bring them aside to save them from the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,280",
+				"to": "00:18:02,940"
+			},
+			"offsets": {
+				"from": 1077280,
+				"to": 1082940
+			},
+			"text": " Rather, God showing his faithfulness to creation would save the world through Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,940",
+				"to": "00:18:08,360"
+			},
+			"offsets": {
+				"from": 1082940,
+				"to": 1088360
+			},
+			"text": " In the form of the Messiah, the Savior of the world, not just Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,360",
+				"to": "00:18:14,680"
+			},
+			"offsets": {
+				"from": 1088360,
+				"to": 1094680
+			},
+			"text": " Since we're so talented with this today, do we have an Israel mindset?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,680",
+				"to": "00:18:24,060"
+			},
+			"offsets": {
+				"from": 1094680,
+				"to": 1104060
+			},
+			"text": " Have we become a useless vine, unconnected to the true vine, where we rely on religion, moral checklist, our own self-righteousness to see fruit produce?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,360",
+				"to": "00:18:31,580"
+			},
+			"offsets": {
+				"from": 1105360,
+				"to": 1111580
+			},
+			"text": " Do we view ourselves as the treason people that God needs to save from this world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,580",
+				"to": "00:18:38,520"
+			},
+			"offsets": {
+				"from": 1111580,
+				"to": 1118520
+			},
+			"text": " Or do we have people connected to a Savior that plans our own faith in this world through us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,520",
+				"to": "00:18:43,480"
+			},
+			"offsets": {
+				"from": 1118520,
+				"to": 1123480
+			},
+			"text": " Dedicated dependence on Jesus, which proves others."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,480",
+				"to": "00:18:47,080"
+			},
+			"offsets": {
+				"from": 1123480,
+				"to": 1127080
+			},
+			"text": " So, I want to stay on this thread."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,080",
+				"to": "00:18:50,340"
+			},
+			"offsets": {
+				"from": 1127080,
+				"to": 1130340
+			},
+			"text": " Now, I'm their gardener."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,340",
+				"to": "00:18:50,960"
+			},
+			"offsets": {
+				"from": 1130340,
+				"to": 1130960
+			},
+			"text": " I'm a hundred."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,960",
+				"to": "00:18:52,020"
+			},
+			"offsets": {
+				"from": 1130960,
+				"to": 1132020
+			},
+			"text": " You need to stop this."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,020",
+				"to": "00:18:53,200"
+			},
+			"offsets": {
+				"from": 1132020,
+				"to": 1133200
+			},
+			"text": " I'm not supposed to be this."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,000",
+				"to": "00:18:55,460"
+			},
+			"offsets": {
+				"from": 1134000,
+				"to": 1135460
+			},
+			"text": " It's sometimes a portrait."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,460",
+				"to": "00:18:59,200"
+			},
+			"offsets": {
+				"from": 1135460,
+				"to": 1139200
+			},
+			"text": " But not a gardener, nonetheless."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,200",
+				"to": "00:19:03,200"
+			},
+			"offsets": {
+				"from": 1139200,
+				"to": 1143200
+			},
+			"text": " So, if you're not a gardener like me, we're in the gardens at."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,200",
+				"to": "00:19:05,780"
+			},
+			"offsets": {
+				"from": 1143200,
+				"to": 1145780
+			},
+			"text": " Gardens right here."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:05,780",
+				"to": "00:19:07,940"
+			},
+			"offsets": {
+				"from": 1145780,
+				"to": 1147940
+			},
+			"text": " And I've even put in notes for the windsets."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,940",
+				"to": "00:19:10,260"
+			},
+			"offsets": {
+				"from": 1147940,
+				"to": 1150260
+			},
+			"text": " Some of the gardens and windsets, I'll tell you, I'll tell you, I'll tell you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,260",
+				"to": "00:19:12,620"
+			},
+			"offsets": {
+				"from": 1150260,
+				"to": 1152620
+			},
+			"text": " Some of the gardeners are the third of the nations."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,620",
+				"to": "00:19:17,140"
+			},
+			"offsets": {
+				"from": 1152620,
+				"to": 1157140
+			},
+			"text": " But if you're not a gardener like me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,140",
+				"to": "00:19:24,780"
+			},
+			"offsets": {
+				"from": 1157140,
+				"to": 1164780
+			},
+			"text": " What they will tell you is that a fruitful plant that is pruned is a more fruitful plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,780",
+				"to": "00:19:28,080"
+			},
+			"offsets": {
+				"from": 1164780,
+				"to": 1168080
+			},
+			"text": " See, the pruning cuts off what is a waste."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:28,080",
+				"to": "00:19:32,340"
+			},
+			"offsets": {
+				"from": 1168080,
+				"to": 1172340
+			},
+			"text": " And so now there's more of the plant that is bearing fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,720",
+				"to": "00:19:40,740"
+			},
+			"offsets": {
+				"from": 1174720,
+				"to": 1180740
+			},
+			"text": " It's more of the sunlight, more oxygen, more nutrients that it can use to better produce."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,740",
+				"to": "00:19:46,700"
+			},
+			"offsets": {
+				"from": 1180740,
+				"to": 1186700
+			},
+			"text": " See, versus us holding on to things that is passing the job that we have at hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:46,700",
+				"to": "00:19:51,120"
+			},
+			"offsets": {
+				"from": 1186700,
+				"to": 1191120
+			},
+			"text": " I'm going to have a sincere question for you, and I want you to be honest with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,120",
+				"to": "00:19:53,100"
+			},
+			"offsets": {
+				"from": 1191120,
+				"to": 1193100
+			},
+			"text": " Because I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,100",
+				"to": "00:19:55,440"
+			},
+			"offsets": {
+				"from": 1193100,
+				"to": 1195440
+			},
+			"text": " I'll be the first one to confess that to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,440",
+				"to": "00:20:00,060"
+			},
+			"offsets": {
+				"from": 1195440,
+				"to": 1200060
+			},
+			"text": " How many of you, when I read John 15, 2 and 3, if you were focused on that verse,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,060",
+				"to": "00:20:03,920"
+			},
+			"offsets": {
+				"from": 1200060,
+				"to": 1203920
+			},
+			"text": " your mind instantly flooded with things you hope Jesus doesn't preach?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,920",
+				"to": "00:20:14,700"
+			},
+			"offsets": {
+				"from": 1203920,
+				"to": 1214700
+			},
+			"text": " Or better yet, do we dwell on the comfortableness of the here and now of these things?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,700",
+				"to": "00:20:20,320"
+			},
+			"offsets": {
+				"from": 1214700,
+				"to": 1220320
+			},
+			"text": " Because we can't imagine what Jesus has in store for us if he brings us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,320",
+				"to": "00:20:24,960"
+			},
+			"offsets": {
+				"from": 1220320,
+				"to": 1224960
+			},
+			"text": " So John has a problem with mediocrity."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,440",
+				"to": "00:20:27,540"
+			},
+			"offsets": {
+				"from": 1225440,
+				"to": 1227540
+			},
+			"text": " And I'm, I'll be the first one."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:27,540",
+				"to": "00:20:28,400"
+			},
+			"offsets": {
+				"from": 1227540,
+				"to": 1228400
+			},
+			"text": " I'm guilty of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,400",
+				"to": "00:20:29,120"
+			},
+			"offsets": {
+				"from": 1228400,
+				"to": 1229120
+			},
+			"text": " I'm kind of concerned."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,120",
+				"to": "00:20:33,300"
+			},
+			"offsets": {
+				"from": 1229120,
+				"to": 1233300
+			},
+			"text": " But how many of us are leaning into the calling that God has poured into our lives?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,300",
+				"to": "00:20:35,580"
+			},
+			"offsets": {
+				"from": 1233300,
+				"to": 1235580
+			},
+			"text": " How many can sincerely say that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,580",
+				"to": "00:20:40,520"
+			},
+			"offsets": {
+				"from": 1235580,
+				"to": 1240520
+			},
+			"text": " How many of us are willing to be friends to see the kingdom of God flourish?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,520",
+				"to": "00:20:46,220"
+			},
+			"offsets": {
+				"from": 1240520,
+				"to": 1246220
+			},
+			"text": " How many of us are comfortable for only what needs to be done to be called Christians?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,220",
+				"to": "00:20:50,260"
+			},
+			"offsets": {
+				"from": 1246220,
+				"to": 1250260
+			},
+			"text": " I'm going to stop there for a minute."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,260",
+				"to": "00:20:52,860"
+			},
+			"offsets": {
+				"from": 1250260,
+				"to": 1252860
+			},
+			"text": " That's Ryan at Taylor's community dot search."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,640",
+				"to": "00:21:02,500"
+			},
+			"offsets": {
+				"from": 1254640,
+				"to": 1262500
+			},
+			"text": " But I've told us in church, the comfortableness of the here and now does not compare to what God has in store for us when he comes to dwell with his people."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,500",
+				"to": "00:21:12,500"
+			},
+			"offsets": {
+				"from": 1262500,
+				"to": 1272500
+			},
+			"text": " Dedicated to praise on Jesus is a commitment and a vision to see things done for the kingdom of God through us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,500",
+				"to": "00:21:16,360"
+			},
+			"offsets": {
+				"from": 1272500,
+				"to": 1276360
+			},
+			"text": " not under our own power and authority, but Jesus' people."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,360",
+				"to": "00:21:21,580"
+			},
+			"offsets": {
+				"from": 1277360,
+				"to": 1281580
+			},
+			"text": " A people who work through God's love, not for God's love."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,580",
+				"to": "00:21:23,240"
+			},
+			"offsets": {
+				"from": 1281580,
+				"to": 1283240
+			},
+			"text": " And I do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,240",
+				"to": "00:21:27,760"
+			},
+			"offsets": {
+				"from": 1283240,
+				"to": 1287760
+			},
+			"text": " We as a people are the city on the hill, the salt of the earth, the light in the darkness."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,760",
+				"to": "00:21:35,000"
+			},
+			"offsets": {
+				"from": 1287760,
+				"to": 1295000
+			},
+			"text": " These are these barriers that represent our God to a world that desperately needs a saving knowledge of our King and Lord Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,060",
+				"to": "00:21:44,800"
+			},
+			"offsets": {
+				"from": 1296060,
+				"to": 1304800
+			},
+			"text": " But not, not only a saving knowledge, but hands that feed, feet that carry, hearts that love, the poor and without any illicit."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,220",
+				"to": "00:21:49,640"
+			},
+			"offsets": {
+				"from": 1306220,
+				"to": 1309640
+			},
+			"text": " So the kingdom of God isn't built within these walls."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,640",
+				"to": "00:21:52,980"
+			},
+			"offsets": {
+				"from": 1309640,
+				"to": 1312980
+			},
+			"text": " This is the ring corner."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,980",
+				"to": "00:21:55,240"
+			},
+			"offsets": {
+				"from": 1312980,
+				"to": 1315240
+			},
+			"text": " This is the locker room."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,240",
+				"to": "00:21:58,560"
+			},
+			"offsets": {
+				"from": 1315240,
+				"to": 1318560
+			},
+			"text": " This is the urgent care where we come to get pressed up with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,560",
+				"to": "00:22:02,700"
+			},
+			"offsets": {
+				"from": 1318560,
+				"to": 1322700
+			},
+			"text": " The real game, the real battlefield is about this."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,760",
+				"to": "00:22:12,780"
+			},
+			"offsets": {
+				"from": 1324760,
+				"to": 1332780
+			},
+			"text": " This is where we get iced down, take a drink, and get chisered up before getting sent back out there to throw some punches or to take some punches."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,780",
+				"to": "00:22:16,980"
+			},
+			"offsets": {
+				"from": 1332780,
+				"to": 1336980
+			},
+			"text": " I think Ryan wants us to take some punches."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:16,980",
+				"to": "00:22:23,180"
+			},
+			"offsets": {
+				"from": 1336980,
+				"to": 1343180
+			},
+			"text": " I'm not, I'm thinking about that as well on this."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,180",
+				"to": "00:22:24,880"
+			},
+			"offsets": {
+				"from": 1343180,
+				"to": 1344880
+			},
+			"text": " But we're going to come back to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,880",
+				"to": "00:22:26,580"
+			},
+			"offsets": {
+				"from": 1344880,
+				"to": 1346580
+			},
+			"text": " But let's jump back in for now."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:26,580",
+				"to": "00:22:29,900"
+			},
+			"offsets": {
+				"from": 1346580,
+				"to": 1349900
+			},
+			"text": " John 15, 9 through 17."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,900",
+				"to": "00:22:46,000"
+			},
+			"offsets": {
+				"from": 1352900,
+				"to": 1366000
+			},
+			"text": " I have loved you even as the Father has loved me."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,000",
+				"to": "00:22:47,700"
+			},
+			"offsets": {
+				"from": 1366000,
+				"to": 1367700
+			},
+			"text": " Remain in my love."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,700",
+				"to": "00:22:51,040"
+			},
+			"offsets": {
+				"from": 1367700,
+				"to": 1371040
+			},
+			"text": " When you obey my commandments, you remain in my love."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,040",
+				"to": "00:22:54,800"
+			},
+			"offsets": {
+				"from": 1371040,
+				"to": 1374800
+			},
+			"text": " Just as I obey my Father's commandments and remain in His love."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,800",
+				"to": "00:22:59,620"
+			},
+			"offsets": {
+				"from": 1374800,
+				"to": 1379620
+			},
+			"text": " I have told you these things so that you will be good with my joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,620",
+				"to": "00:23:00,920"
+			},
+			"offsets": {
+				"from": 1379620,
+				"to": 1380920
+			},
+			"text": " It's a very great job of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,920",
+				"to": "00:23:05,960"
+			},
+			"offsets": {
+				"from": 1380920,
+				"to": 1385960
+			},
+			"text": " There's, there's a little thing, I think there's no exclamation point."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,960",
+				"to": "00:23:07,680"
+			},
+			"offsets": {
+				"from": 1385960,
+				"to": 1387680
+			},
+			"text": " I get rude to it for using it all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,680",
+				"to": "00:23:09,120"
+			},
+			"offsets": {
+				"from": 1387680,
+				"to": 1389120
+			},
+			"text": " I'm just so excited."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,120",
+				"to": "00:23:11,940"
+			},
+			"offsets": {
+				"from": 1389120,
+				"to": 1391940
+			},
+			"text": " Have I lost my place?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,940",
+				"to": "00:23:14,940"
+			},
+			"offsets": {
+				"from": 1391940,
+				"to": 1394940
+			},
+			"text": " Yes, your joy will overflow."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,940",
+				"to": "00:23:17,200"
+			},
+			"offsets": {
+				"from": 1394940,
+				"to": 1397200
+			},
+			"text": " This is my commandment."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,200",
+				"to": "00:23:19,460"
+			},
+			"offsets": {
+				"from": 1397200,
+				"to": 1399460
+			},
+			"text": " Love each other the same way I've loved you."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,460",
+				"to": "00:23:22,700"
+			},
+			"offsets": {
+				"from": 1399460,
+				"to": 1402700
+			},
+			"text": " There's no greater love than to lay down one's life and one's promise."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,700",
+				"to": "00:23:26,380"
+			},
+			"offsets": {
+				"from": 1402700,
+				"to": 1406380
+			},
+			"text": " You are my friends if you do what I command."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:26,380",
+				"to": "00:23:31,860"
+			},
+			"offsets": {
+				"from": 1406380,
+				"to": 1411860
+			},
+			"text": " I no longer call you slaves because a master doesn't confide in a slave."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:31,860",
+				"to": "00:23:39,420"
+			},
+			"offsets": {
+				"from": 1411860,
+				"to": 1419420
+			},
+			"text": " I no longer call you slaves because a master doesn't confide in a slave."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,280",
+				"to": "00:23:44,500"
+			},
+			"offsets": {
+				"from": 1420280,
+				"to": 1424500
+			},
+			"text": " Now you are my friend since I have told you everything the Father told me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,500",
+				"to": "00:23:46,120"
+			},
+			"offsets": {
+				"from": 1424500,
+				"to": 1426120
+			},
+			"text": " You will be who sees me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,120",
+				"to": "00:23:47,420"
+			},
+			"offsets": {
+				"from": 1426120,
+				"to": 1427420
+			},
+			"text": " I have told you."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:47,420",
+				"to": "00:23:55,280"
+			},
+			"offsets": {
+				"from": 1427420,
+				"to": 1435280
+			},
+			"text": " I have told you to go and produce last things for you so that the Father will give you whatever you ask for using my name."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,860",
+				"to": "00:23:56,940"
+			},
+			"offsets": {
+				"from": 1435860,
+				"to": 1436940
+			},
+			"text": " This is my commandment."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,940",
+				"to": "00:23:59,240"
+			},
+			"offsets": {
+				"from": 1436940,
+				"to": 1439240
+			},
+			"text": " Love your life and knowledge."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,240",
+				"to": "00:24:06,220"
+			},
+			"offsets": {
+				"from": 1439240,
+				"to": 1446220
+			},
+			"text": " There's, there's two points I want to make on this last section of scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:06,220",
+				"to": "00:24:08,240"
+			},
+			"offsets": {
+				"from": 1446220,
+				"to": 1448240
+			},
+			"text": " Point one is this."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,240",
+				"to": "00:24:10,520"
+			},
+			"offsets": {
+				"from": 1448240,
+				"to": 1450520
+			},
+			"text": " Let's put Deuteronomy 14, 2 by the way."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:10,520",
+				"to": "00:24:12,380"
+			},
+			"offsets": {
+				"from": 1450520,
+				"to": 1452380
+			},
+			"text": " This is chosen people language."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,380",
+				"to": "00:24:16,400"
+			},
+			"offsets": {
+				"from": 1452380,
+				"to": 1456400
+			},
+			"text": " This is the renewing of the covenant that God has with the nation of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,400",
+				"to": "00:24:25,060"
+			},
+			"offsets": {
+				"from": 1456400,
+				"to": 1465060
+			},
+			"text": " You have been set apart as holy, the Lord your God, and he has taken you from all the nations of the earth in his own special pleasure."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,060",
+				"to": "00:24:27,220"
+			},
+			"offsets": {
+				"from": 1465060,
+				"to": 1467220
+			},
+			"text": " This is now church language, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,220",
+				"to": "00:24:30,280"
+			},
+			"offsets": {
+				"from": 1467220,
+				"to": 1470280
+			},
+			"text": " An idea that we are God's covenant people as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,280",
+				"to": "00:24:38,160"
+			},
+			"offsets": {
+				"from": 1470280,
+				"to": 1478160
+			},
+			"text": " Not going away with the nation of Israel, but in addition to, we've been grafted into the Bible."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,160",
+				"to": "00:24:40,760"
+			},
+			"offsets": {
+				"from": 1478160,
+				"to": 1480760
+			},
+			"text": " You have been set apart as holy."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,620",
+				"to": "00:24:44,660"
+			},
+			"offsets": {
+				"from": 1482620,
+				"to": 1484660
+			},
+			"text": " I'm going to ask that first question again."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,660",
+				"to": "00:24:51,560"
+			},
+			"offsets": {
+				"from": 1484660,
+				"to": 1491560
+			},
+			"text": " Do we view ourselves as the chosen people that God needs to save from this world?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,560",
+				"to": "00:24:53,960"
+			},
+			"offsets": {
+				"from": 1491560,
+				"to": 1493960
+			},
+			"text": " Are we the useless ones?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,960",
+				"to": "00:25:02,100"
+			},
+			"offsets": {
+				"from": 1493960,
+				"to": 1502100
+			},
+			"text": " Or, are we a people connected to the tree vine, to Jesus, who is reconciling all things to himself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,100",
+				"to": "00:25:04,500"
+			},
+			"offsets": {
+				"from": 1502100,
+				"to": 1504500
+			},
+			"text": " making his enemies a footstool under his feet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:04,500",
+				"to": "00:25:08,700"
+			},
+			"offsets": {
+				"from": 1504500,
+				"to": 1508700
+			},
+			"text": " and his chosen custody is representative to his creation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,320",
+				"to": "00:25:12,460"
+			},
+			"offsets": {
+				"from": 1509320,
+				"to": 1512460
+			},
+			"text": " willing to be clipped and claimed of the things that drag us down,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,460",
+				"to": "00:25:15,980"
+			},
+			"offsets": {
+				"from": 1512460,
+				"to": 1515980
+			},
+			"text": " so that the parts of our person that truly claims the things that Jesus can be pronounced?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,980",
+				"to": "00:25:19,600"
+			},
+			"offsets": {
+				"from": 1515980,
+				"to": 1519600
+			},
+			"text": " Point two is some words in the first."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,600",
+				"to": "00:25:21,920"
+			},
+			"offsets": {
+				"from": 1519600,
+				"to": 1521920
+			},
+			"text": " This is covenantal language."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,920",
+				"to": "00:25:25,020"
+			},
+			"offsets": {
+				"from": 1521920,
+				"to": 1525020
+			},
+			"text": " This is covenantal language."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,020",
+				"to": "00:25:26,940"
+			},
+			"offsets": {
+				"from": 1525020,
+				"to": 1526940
+			},
+			"text": " And I'll start again in verse nine."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,940",
+				"to": "00:25:30,320"
+			},
+			"offsets": {
+				"from": 1526940,
+				"to": 1530320
+			},
+			"text": " I have loved you, even as the Father loved me."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,320",
+				"to": "00:25:33,420"
+			},
+			"offsets": {
+				"from": 1530320,
+				"to": 1533420
+			},
+			"text": " Remain in my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,420",
+				"to": "00:25:36,320"
+			},
+			"offsets": {
+				"from": 1533420,
+				"to": 1536320
+			},
+			"text": " Jesus, how do we remain in your life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,120",
+				"to": "00:25:41,840"
+			},
+			"offsets": {
+				"from": 1537120,
+				"to": 1541840
+			},
+			"text": " Verse ten, when you obey my commandments, you remain in my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,840",
+				"to": "00:25:43,380"
+			},
+			"offsets": {
+				"from": 1541840,
+				"to": 1543380
+			},
+			"text": " For Jesus, what did you do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,380",
+				"to": "00:25:46,360"
+			},
+			"offsets": {
+				"from": 1543380,
+				"to": 1546360
+			},
+			"text": " Verse twelve, this is my commandment."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:46,360",
+				"to": "00:25:50,160"
+			},
+			"offsets": {
+				"from": 1546360,
+				"to": 1550160
+			},
+			"text": " Love each other the same way I have loved you."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,160",
+				"to": "00:25:54,820"
+			},
+			"offsets": {
+				"from": 1550160,
+				"to": 1554820
+			},
+			"text": " Verse seventeen, this is my command."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,820",
+				"to": "00:25:56,060"
+			},
+			"offsets": {
+				"from": 1554820,
+				"to": 1556060
+			},
+			"text": " Love each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,060",
+				"to": "00:26:02,540"
+			},
+			"offsets": {
+				"from": 1556060,
+				"to": 1562540
+			},
+			"text": " Verse twelve, a lesson near the end of our time at the Alamo on this month."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:02,800",
+				"to": "00:26:04,060"
+			},
+			"offsets": {
+				"from": 1562800,
+				"to": 1564060
+			},
+			"text": " I'm going to give her a split of this month."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,060",
+				"to": "00:26:05,200"
+			},
+			"offsets": {
+				"from": 1564060,
+				"to": 1565200
+			},
+			"text": " I'm going to give her a split of this month."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,200",
+				"to": "00:26:12,540"
+			},
+			"offsets": {
+				"from": 1565200,
+				"to": 1572540
+			},
+			"text": " So, the theme of much I'm awesome was that listening, real listening requires a response."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:12,540",
+				"to": "00:26:18,280"
+			},
+			"offsets": {
+				"from": 1572540,
+				"to": 1578280
+			},
+			"text": " When I ask my kids to clean the room, and they didn't do it, how many people know that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,280",
+				"to": "00:26:19,280"
+			},
+			"offsets": {
+				"from": 1578280,
+				"to": 1579280
+			},
+			"text": " Yes, probably."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,280",
+				"to": "00:26:23,700"
+			},
+			"offsets": {
+				"from": 1579280,
+				"to": 1583700
+			},
+			"text": " And they give you what I'll ask, why aren't you listening to me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,700",
+				"to": "00:26:26,020"
+			},
+			"offsets": {
+				"from": 1583700,
+				"to": 1586020
+			},
+			"text": " What am I really asking?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,260",
+				"to": "00:26:27,760"
+			},
+			"offsets": {
+				"from": 1586260,
+				"to": 1587760
+			},
+			"text": " What's kind of the root of my question?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,760",
+				"to": "00:26:36,360"
+			},
+			"offsets": {
+				"from": 1587760,
+				"to": 1596360
+			},
+			"text": " I'm not asking why your ears did not receive the waves that my voice was making."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,360",
+				"to": "00:26:41,800"
+			},
+			"offsets": {
+				"from": 1596360,
+				"to": 1601800
+			},
+			"text": " My question is, why didn't my command receive a response?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,800",
+				"to": "00:26:45,840"
+			},
+			"offsets": {
+				"from": 1601800,
+				"to": 1605840
+			},
+			"text": " This is what Jesus is asking of us here."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,660",
+				"to": "00:26:50,060"
+			},
+			"offsets": {
+				"from": 1606660,
+				"to": 1610060
+			},
+			"text": " Remain in me, and I'll remain in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:50,060",
+				"to": "00:26:54,220"
+			},
+			"offsets": {
+				"from": 1610060,
+				"to": 1614220
+			},
+			"text": " Remain in my love by following my commandments."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,220",
+				"to": "00:26:56,760"
+			},
+			"offsets": {
+				"from": 1614220,
+				"to": 1616760
+			},
+			"text": " My command is to love one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,760",
+				"to": "00:27:01,160"
+			},
+			"offsets": {
+				"from": 1616760,
+				"to": 1621160
+			},
+			"text": " How do we simplify listening to Jesus' command?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,160",
+				"to": "00:27:03,860"
+			},
+			"offsets": {
+				"from": 1621160,
+				"to": 1623860
+			},
+			"text": " By responding to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:03,860",
+				"to": "00:27:06,200"
+			},
+			"offsets": {
+				"from": 1623860,
+				"to": 1626200
+			},
+			"text": " What did he ask us to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,200",
+				"to": "00:27:09,880"
+			},
+			"offsets": {
+				"from": 1626200,
+				"to": 1629880
+			},
+			"text": " Love one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,880",
+				"to": "00:27:11,420"
+			},
+			"offsets": {
+				"from": 1629880,
+				"to": 1631420
+			},
+			"text": " Do we do a great job like this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,420",
+				"to": "00:27:12,240"
+			},
+			"offsets": {
+				"from": 1631420,
+				"to": 1632240
+			},
+			"text": " This is how old."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,240",
+				"to": "00:27:15,240"
+			},
+			"offsets": {
+				"from": 1632240,
+				"to": 1635240
+			},
+			"text": " Sometimes we get some outcomes to that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,360",
+				"to": "00:27:16,620"
+			},
+			"offsets": {
+				"from": 1635360,
+				"to": 1636620
+			},
+			"text": " James 1, 22 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,620",
+				"to": "00:27:18,740"
+			},
+			"offsets": {
+				"from": 1636620,
+				"to": 1638740
+			},
+			"text": " Don't just listen to God's word."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:18,740",
+				"to": "00:27:21,980"
+			},
+			"offsets": {
+				"from": 1638740,
+				"to": 1641980
+			},
+			"text": " You must do what it says, otherwise you are only fooling yourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,980",
+				"to": "00:27:25,780"
+			},
+			"offsets": {
+				"from": 1641980,
+				"to": 1645780
+			},
+			"text": " I am the thief among sinners when it comes to the first."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,780",
+				"to": "00:27:27,660"
+			},
+			"offsets": {
+				"from": 1645780,
+				"to": 1647660
+			},
+			"text": " I know it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:27,660",
+				"to": "00:27:28,580"
+			},
+			"offsets": {
+				"from": 1647660,
+				"to": 1648580
+			},
+			"text": " I know it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:28,580",
+				"to": "00:27:31,400"
+			},
+			"offsets": {
+				"from": 1648580,
+				"to": 1651400
+			},
+			"text": " You can talk Bible verses to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,400",
+				"to": "00:27:32,180"
+			},
+			"offsets": {
+				"from": 1651400,
+				"to": 1652180
+			},
+			"text": " I know it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,180",
+				"to": "00:27:33,380"
+			},
+			"offsets": {
+				"from": 1652180,
+				"to": 1653380
+			},
+			"text": " And I don't want it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,380",
+				"to": "00:27:35,180"
+			},
+			"offsets": {
+				"from": 1653380,
+				"to": 1655180
+			},
+			"text": " I'm only fooling myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,180",
+				"to": "00:27:38,740"
+			},
+			"offsets": {
+				"from": 1655180,
+				"to": 1658740
+			},
+			"text": " Daddy's taking dependence on Jesus is hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,740",
+				"to": "00:27:40,660"
+			},
+			"offsets": {
+				"from": 1658740,
+				"to": 1660660
+			},
+			"text": " We're still working on it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,660",
+				"to": "00:27:43,820"
+			},
+			"offsets": {
+				"from": 1660660,
+				"to": 1663820
+			},
+			"text": " But I have no doubt in my mind that it's fruitful."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,060",
+				"to": "00:27:48,520"
+			},
+			"offsets": {
+				"from": 1665060,
+				"to": 1668520
+			},
+			"text": " But how can I, how can I say it with confidence that it's fruitful?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,520",
+				"to": "00:27:51,020"
+			},
+			"offsets": {
+				"from": 1668520,
+				"to": 1671020
+			},
+			"text": " You can taste it."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,020",
+				"to": "00:27:55,940"
+			},
+			"offsets": {
+				"from": 1671020,
+				"to": 1675940
+			},
+			"text": " I've had thousands of moments where I've spent time with Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,940",
+				"to": "00:27:58,020"
+			},
+			"offsets": {
+				"from": 1675940,
+				"to": 1678020
+			},
+			"text": " I'm free of moments too."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,020",
+				"to": "00:28:05,140"
+			},
+			"offsets": {
+				"from": 1678020,
+				"to": 1685140
+			},
+			"text": " Where you, where you can taste, feel, bask in the fruitfulness of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,020",
+				"to": "00:28:10,160"
+			},
+			"offsets": {
+				"from": 1687020,
+				"to": 1690160
+			},
+			"text": " How long you'll be in that moment, every second, every day."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:10,160",
+				"to": "00:28:11,160"
+			},
+			"offsets": {
+				"from": 1690160,
+				"to": 1691160
+			},
+			"text": " How weak."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,160",
+				"to": "00:28:17,840"
+			},
+			"offsets": {
+				"from": 1691160,
+				"to": 1697840
+			},
+			"text": " My flesh and my desire is given away from the euphoria that is basking in the fruitfulness of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,840",
+				"to": "00:28:25,160"
+			},
+			"offsets": {
+				"from": 1697840,
+				"to": 1705160
+			},
+			"text": " See, church, today my hope and my prayer is that we are a people who are connected to the true vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,560",
+				"to": "00:28:29,320"
+			},
+			"offsets": {
+				"from": 1705560,
+				"to": 1709320
+			},
+			"text": " Not a useless vine in our own feeble comes to do things."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:29,320",
+				"to": "00:28:37,880"
+			},
+			"offsets": {
+				"from": 1709320,
+				"to": 1717880
+			},
+			"text": " But that the God who created us, saved us, and is redeeming his creation through us, can be seen in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:40,520",
+				"to": "00:28:42,380"
+			},
+			"offsets": {
+				"from": 1720520,
+				"to": 1722380
+			},
+			"text": " I'll finish with this part today."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,380",
+				"to": "00:28:45,600"
+			},
+			"offsets": {
+				"from": 1722380,
+				"to": 1725600
+			},
+			"text": " I'll finish with this part today."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,600",
+				"to": "00:28:51,960"
+			},
+			"offsets": {
+				"from": 1725600,
+				"to": 1731960
+			},
+			"text": " If your life isn't connected to the true vine, I encourage you to do so."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,960",
+				"to": "00:28:56,500"
+			},
+			"offsets": {
+				"from": 1731960,
+				"to": 1736500
+			},
+			"text": " Not because it's kind of structured and in foreign or fashion."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:56,500",
+				"to": "00:29:03,580"
+			},
+			"offsets": {
+				"from": 1736500,
+				"to": 1743580
+			},
+			"text": " But when I'm in awe of the majesty and beauty of the greater God, thanks to you guys as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:04,640",
+				"to": "00:29:07,480"
+			},
+			"offsets": {
+				"from": 1744640,
+				"to": 1747480
+			},
+			"text": " And I think anybody who knows Jesus will tell you the same thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,480",
+				"to": "00:29:16,660"
+			},
+			"offsets": {
+				"from": 1747480,
+				"to": 1756660
+			},
+			"text": " Find me, Ryan, Naomi, anybody, and talk to them what it looks like to commit your life to change in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,660",
+				"to": "00:29:20,080"
+			},
+			"offsets": {
+				"from": 1756660,
+				"to": 1760080
+			},
+			"text": " Because there is hope in the true vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:20,080",
+				"to": "00:29:22,760"
+			},
+			"offsets": {
+				"from": 1760080,
+				"to": 1762760
+			},
+			"text": " There is peace in the true vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:22,760",
+				"to": "00:29:24,720"
+			},
+			"offsets": {
+				"from": 1762760,
+				"to": 1764720
+			},
+			"text": " There is joy in the true vine."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,720",
+				"to": "00:29:30,020"
+			},
+			"offsets": {
+				"from": 1764720,
+				"to": 1770020
+			},
+			"text": " And I want to invite you into those things that Jesus offers to us, not as slaves for his friends."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,140",
+				"to": "00:29:34,340"
+			},
+			"offsets": {
+				"from": 1772140,
+				"to": 1774340
+			},
+			"text": " For this week, we're going to make things unbelievable."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,340",
+				"to": "00:29:37,120"
+			},
+			"offsets": {
+				"from": 1774340,
+				"to": 1777120
+			},
+			"text": " And we're going to, we're not going to do for the community."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,120",
+				"to": "00:29:45,840"
+			},
+			"offsets": {
+				"from": 1777120,
+				"to": 1785840
+			},
+			"text": " Now, a lot of you've heard that and you've got to, okay, no, that's just not excusing from finding somebody, breaking bread with somebody, and talking about Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:45,840",
+				"to": "00:29:52,120"
+			},
+			"offsets": {
+				"from": 1785840,
+				"to": 1792120
+			},
+			"text": " But, but what we're going to do is, we're just going to sit together."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:52,120",
+				"to": "00:29:53,220"
+			},
+			"offsets": {
+				"from": 1792120,
+				"to": 1793220
+			},
+			"text": " We're going to reflect on excuses."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,220",
+				"to": "00:29:57,200"
+			},
+			"offsets": {
+				"from": 1793220,
+				"to": 1797200
+			},
+			"text": " It's got to take into us, even when our assault court."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,000",
+				"to": "00:30:03,920"
+			},
+			"offsets": {
+				"from": 1799000,
+				"to": 1803920
+			},
+			"text": " Because the things who, through our allegiance belongs, is faithful."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,920",
+				"to": "00:30:09,360"
+			},
+			"offsets": {
+				"from": 1803920,
+				"to": 1809360
+			},
+			"text": " The worship team is going to sing a song entitled, What if Jesus?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,360",
+				"to": "00:30:10,800"
+			},
+			"offsets": {
+				"from": 1809360,
+				"to": 1810800
+			},
+			"text": " Because you haven't heard it."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,800",
+				"to": "00:30:16,300"
+			},
+			"offsets": {
+				"from": 1810800,
+				"to": 1816300
+			},
+			"text": " But if you haven't heard it, I encourage you to just, the words are going to be on the screen."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,300",
+				"to": "00:30:19,200"
+			},
+			"offsets": {
+				"from": 1816300,
+				"to": 1819200
+			},
+			"text": " Know in the heart of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:19,200",
+				"to": "00:30:22,440"
+			},
+			"offsets": {
+				"from": 1819200,
+				"to": 1822440
+			},
+			"text": " And I'm going to come back up and give them a new picture."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:22,440",
+				"to": "00:30:26,260"
+			},
+			"offsets": {
+				"from": 1822440,
+				"to": 1826260
+			},
+			"text": " Just place them down the line with each other, with Jesus, be in prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:26,840",
+				"to": "00:30:29,920"
+			},
+			"offsets": {
+				"from": 1826840,
+				"to": 1829920
+			},
+			"text": " I'm going to let you, let's just remember the coming three."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,920",
+				"to": "00:30:29,960"
+			},
+			"offsets": {
+				"from": 1829920,
+				"to": 1829960
+			},
+			"text": " Let's just remember the coming three."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:29,960",
+				"to": "00:30:41,920"
+			},
+			"offsets": {
+				"from": 1829960,
+				"to": 1841920
+			},
+			"text": " Let's just remember the coming three."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,920",
+				"to": "00:30:57,000"
+			},
+			"offsets": {
+				"from": 1841920,
+				"to": 1857000
+			},
+			"text": " Let it, let's just remember the coming three."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,000",
+				"to": "00:31:00,200"
+			},
+			"offsets": {
+				"from": 1857000,
+				"to": 1860200
+			},
+			"text": " Let it, let's just remember the coming three."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,200",
+				"to": "00:31:17,060"
+			},
+			"offsets": {
+				"from": 1860200,
+				"to": 1877060
+			},
+			"text": " Jesus, I, when you think that I'm here, I'm similar with you, but if not you stop, I'd like to swallow you."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,060",
+				"to": "00:31:38,060"
+			},
+			"offsets": {
+				"from": 1877060,
+				"to": 1898060
+			},
+			"text": " Jesus, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,060",
+				"to": "00:32:17,040"
+			},
+			"offsets": {
+				"from": 1907060,
+				"to": 1937040
+			},
+			"text": " I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,060",
+				"to": "00:32:47,040"
+			},
+			"offsets": {
+				"from": 1937060,
+				"to": 1967040
+			},
+			"text": " I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,060",
+				"to": "00:33:17,040"
+			},
+			"offsets": {
+				"from": 1967060,
+				"to": 1997040
+			},
+			"text": " I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're doing, but if not you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,060",
+				"to": "00:33:39,060"
+			},
+			"offsets": {
+				"from": 1997060,
+				"to": 2019060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,060",
+				"to": "00:33:59,060"
+			},
+			"offsets": {
+				"from": 2019060,
+				"to": 2039060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,060",
+				"to": "00:34:17,060"
+			},
+			"offsets": {
+				"from": 2039060,
+				"to": 2057060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:17,060",
+				"to": "00:34:33,060"
+			},
+			"offsets": {
+				"from": 2057060,
+				"to": 2073060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,060",
+				"to": "00:34:49,060"
+			},
+			"offsets": {
+				"from": 2073060,
+				"to": 2089060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:49,060",
+				"to": "00:35:09,060"
+			},
+			"offsets": {
+				"from": 2089060,
+				"to": 2109060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,060",
+				"to": "00:35:29,060"
+			},
+			"offsets": {
+				"from": 2109060,
+				"to": 2129060
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me today."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,060",
+				"to": "00:35:48,560"
+			},
+			"offsets": {
+				"from": 2129060,
+				"to": 2148560
+			},
+			"text": " I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me, I'm not sure what you're listening to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:48,560",
+				"to": "00:35:58,140"
+			},
+			"offsets": {
+				"from": 2148560,
+				"to": 2158140
+			},
+			"text": " Thanks for yourself, and God our Father, who loved us and by His grace gave us eternal comfort and wonderful hope, comfort you and strengthen you in every good thing we do instead of you."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:58,140",
+				"to": "00:35:59,940"
+			},
+			"offsets": {
+				"from": 2158140,
+				"to": 2159940
+			},
+			"text": " Thanks for listening."
+		}
+	]
+}

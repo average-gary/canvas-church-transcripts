@@ -1,0 +1,5818 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,360",
+				"to": "00:00:05,580"
+			},
+			"offsets": {
+				"from": 360,
+				"to": 5580
+			},
+			"text": " Good morning, everyone. Good morning, Canvas. Good morning, Grace. My name is Michelle Meeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,580",
+				"to": "00:00:12,480"
+			},
+			"offsets": {
+				"from": 5580,
+				"to": 12480
+			},
+			"text": " I'm the Children's Director for Canvas, but I have a little bit of a backstory. Some of"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,480",
+				"to": "00:00:17,900"
+			},
+			"offsets": {
+				"from": 12480,
+				"to": 17900
+			},
+			"text": " you know, some of you don't know. I came to Grace originally when I lived in Winchester."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,900",
+				"to": "00:00:23,120"
+			},
+			"offsets": {
+				"from": 17900,
+				"to": 23120
+			},
+			"text": " Fresh out of college, I got a teaching job for Frederick County, and I actually lived"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,120",
+				"to": "00:00:26,960"
+			},
+			"offsets": {
+				"from": 23120,
+				"to": 26960
+			},
+			"text": " in a little apartment right down the street with my brother, and so we would walk here"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,960",
+				"to": "00:00:33,560"
+			},
+			"offsets": {
+				"from": 26960,
+				"to": 33560
+			},
+			"text": " every Sunday to go to church. Eventually, I moved to Lynchburg to go to Liberty University"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,560",
+				"to": "00:00:41,080"
+			},
+			"offsets": {
+				"from": 33560,
+				"to": 41080
+			},
+			"text": " and met my husband. We had a couple kids, and we moved back to Winchester, and we immediately"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,080",
+				"to": "00:00:46,300"
+			},
+			"offsets": {
+				"from": 41080,
+				"to": 46300
+			},
+			"text": " came back to Grace Church. Our kids were part of it. I actually served on the worship team"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,300",
+				"to": "00:00:50,640"
+			},
+			"offsets": {
+				"from": 46300,
+				"to": 50640
+			},
+			"text": " for a little while, so I have a history with both churches. Went to Canvas, got the job"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,640",
+				"to": "00:00:56,300"
+			},
+			"offsets": {
+				"from": 50640,
+				"to": 56300
+			},
+			"text": " of the School Directors, so it's super cool for me to be here this morning and get to see"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,300",
+				"to": "00:01:03,300"
+			},
+			"offsets": {
+				"from": 56300,
+				"to": 63300
+			},
+			"text": " the amazing things that God is doing. I've said so many times, I am beyond humbled to get"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,300",
+				"to": "00:01:09,600"
+			},
+			"offsets": {
+				"from": 63300,
+				"to": 69600
+			},
+			"text": " to be a part of the way that I've seen God move. It's been nuts. We've both gone through"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,600",
+				"to": "00:01:17,200"
+			},
+			"offsets": {
+				"from": 69600,
+				"to": 77200
+			},
+			"text": " so much, and to see his hand in all of it, to be totally honest, I don't know for sure what"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,200",
+				"to": "00:01:22,340"
+			},
+			"offsets": {
+				"from": 77200,
+				"to": 82340
+			},
+			"text": " will happen, but I'm also not worried at all. If you would ask me three years ago, I was a"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,340",
+				"to": "00:01:26,300"
+			},
+			"offsets": {
+				"from": 82340,
+				"to": 86300
+			},
+			"text": " nervous wreck. I was like, we've got to find a building. Now, I'm like, we're good. God's"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,300",
+				"to": "00:01:30,140"
+			},
+			"offsets": {
+				"from": 86300,
+				"to": 90140
+			},
+			"text": " got Grace in the center of his hands, and God's got Canvas in the center of his hands, and if"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,140",
+				"to": "00:01:34,300"
+			},
+			"offsets": {
+				"from": 90140,
+				"to": 94300
+			},
+			"text": " we're supposed to be together, then you will lay that on all of your hearts, so I'm not worried."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,300",
+				"to": "00:01:42,840"
+			},
+			"offsets": {
+				"from": 94300,
+				"to": 102840
+			},
+			"text": " It's super abnormal for me. Yeah. So, I'm really excited about that. So, Ryan asked me a while"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,840",
+				"to": "00:01:49,840"
+			},
+			"offsets": {
+				"from": 102840,
+				"to": 109840
+			},
+			"text": " back to share one of my favorite memory verses with you. So, immediately one came to mind because"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,840",
+				"to": "00:01:54,600"
+			},
+			"offsets": {
+				"from": 109840,
+				"to": 114600
+			},
+			"text": " of the irony of this verse in my life. So, the verse that I'm going to talk to you about this"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,600",
+				"to": "00:02:02,720"
+			},
+			"offsets": {
+				"from": 114600,
+				"to": 122720
+			},
+			"text": " morning is 2 Timothy 1-7, very popular verse, for God has not given us a spirit of fear, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,720",
+				"to": "00:02:08,420"
+			},
+			"offsets": {
+				"from": 122720,
+				"to": 128420
+			},
+			"text": " of power and of love and of a sound mind. This has always been one of my favorite memory verses,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,420",
+				"to": "00:02:16,120"
+			},
+			"offsets": {
+				"from": 128420,
+				"to": 136120
+			},
+			"text": " super important one. There was a time in my life that I really wanted to get a tattoo of"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,120",
+				"to": "00:02:21,760"
+			},
+			"offsets": {
+				"from": 136120,
+				"to": 141760
+			},
+			"text": " a memory verse, like something like on my foot or potentially on my wrist, for two reasons. One,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,760",
+				"to": "00:02:25,580"
+			},
+			"offsets": {
+				"from": 141760,
+				"to": 145580
+			},
+			"text": " I thought it'd be really cool to have a memory verse that God has laid on my heart that every"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,580",
+				"to": "00:02:30,260"
+			},
+			"offsets": {
+				"from": 145580,
+				"to": 150260
+			},
+			"text": " time I look down, I'm like, oh, remember that, remember that, and it's visible all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,260",
+				"to": "00:02:34,000"
+			},
+			"offsets": {
+				"from": 150260,
+				"to": 154000
+			},
+			"text": " I also thought it would be a really cool conversation starter, like what's on your wrist or what's on"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,000",
+				"to": "00:02:37,820"
+			},
+			"offsets": {
+				"from": 154000,
+				"to": 157820
+			},
+			"text": " your foot, and then it gives you a witnessing opportunity. And this is the one that God kept"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,820",
+				"to": "00:02:44,880"
+			},
+			"offsets": {
+				"from": 157820,
+				"to": 164880
+			},
+			"text": " laying on my mind. As you will notice, I have no tattoo because I was scared."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,880",
+				"to": "00:02:52,600"
+			},
+			"offsets": {
+				"from": 164880,
+				"to": 172600
+			},
+			"text": " So, I was scared for two reasons. I was scared. One, because I don't usually like to inflict pain"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,600",
+				"to": "00:02:56,960"
+			},
+			"offsets": {
+				"from": 172600,
+				"to": 176960
+			},
+			"text": " on myself purposely. I've never had a tattoo. It doesn't look like it would be fun. They literally"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,960",
+				"to": "00:03:02,160"
+			},
+			"offsets": {
+				"from": 176960,
+				"to": 182160
+			},
+			"text": " draw on you with a needle. So, that was one, that type of fear. But then I was also scared. This is"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,160",
+				"to": "00:03:07,280"
+			},
+			"offsets": {
+				"from": 182160,
+				"to": 187280
+			},
+			"text": " the extra irony. I was afraid that God wanted me to get this verse on me because I was going"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,280",
+				"to": "00:03:15,420"
+			},
+			"offsets": {
+				"from": 187280,
+				"to": 195420
+			},
+			"text": " to endorse some terrible, scary situation. And so, I would need this reminder right there"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,420",
+				"to": "00:03:19,980"
+			},
+			"offsets": {
+				"from": 195420,
+				"to": 199980
+			},
+			"text": " all the time because, I mean, my mind wasn't healthy, but I was like, something really scary"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,980",
+				"to": "00:03:24,060"
+			},
+			"offsets": {
+				"from": 199980,
+				"to": 204060
+			},
+			"text": " is going to happen. And God knows that I need this verse to remember that the fear that I'm"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,060",
+				"to": "00:03:28,360"
+			},
+			"offsets": {
+				"from": 204060,
+				"to": 208360
+			},
+			"text": " experiencing during this scary thing is not of God and that I should have power and love"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,360",
+				"to": "00:03:33,120"
+			},
+			"offsets": {
+				"from": 208360,
+				"to": 213120
+			},
+			"text": " going to sound nice. So, my super spiritual self thought, the longer I wait to get this"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,120",
+				"to": "00:03:37,040"
+			},
+			"offsets": {
+				"from": 213120,
+				"to": 217040
+			},
+			"text": " verse tattooed on me, the longer God will have to wait to put me through this scary thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,040",
+				"to": "00:03:42,160"
+			},
+			"offsets": {
+				"from": 217040,
+				"to": 222160
+			},
+			"text": " So, I'm just not going to do it. And then I won't have that reminder. That's not biblically"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,160",
+				"to": "00:03:50,040"
+			},
+			"offsets": {
+				"from": 222160,
+				"to": 230040
+			},
+			"text": " sound at all. But, this verse has walked with me through a lot. And I can say now, I have"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,040",
+				"to": "00:03:55,340"
+			},
+			"offsets": {
+				"from": 230040,
+				"to": 235340
+			},
+			"text": " such a deeper understanding of what is meant by this verse. And so, I really felt like God"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,340",
+				"to": "00:04:01,620"
+			},
+			"offsets": {
+				"from": 235340,
+				"to": 241620
+			},
+			"text": " was speaking to me saying, I've been teaching you some things. Now, go share what I've been"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,620",
+				"to": "00:04:10,220"
+			},
+			"offsets": {
+				"from": 241620,
+				"to": 250220
+			},
+			"text": " teaching. So, here we are. A little background. Timothy is written by Paul. It is, he writes"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,220",
+				"to": "00:04:17,540"
+			},
+			"offsets": {
+				"from": 250220,
+				"to": 257540
+			},
+			"text": " this from his second prison sentence. And this is not a prison with like a nice bed and spring"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,540",
+				"to": "00:04:25,460"
+			},
+			"offsets": {
+				"from": 257540,
+				"to": 265460
+			},
+			"text": " time and outdoor wait time to get sun. This is the dungeon. He is probably chained. He is"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,460",
+				"to": "00:04:31,660"
+			},
+			"offsets": {
+				"from": 265460,
+				"to": 271660
+			},
+			"text": " being tortured. And he knows that his life is probably coming to an end. Paul's life takes"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,660",
+				"to": "00:04:36,980"
+			},
+			"offsets": {
+				"from": 271660,
+				"to": 276980
+			},
+			"text": " all kinds of twists and turns. So, who knows? But he is awaiting execution in this dungeon."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,980",
+				"to": "00:04:43,880"
+			},
+			"offsets": {
+				"from": 276980,
+				"to": 283880
+			},
+			"text": " And he is writing this letter to Timothy, who has been, he's kind of in charge of the church"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,880",
+				"to": "00:04:50,100"
+			},
+			"offsets": {
+				"from": 283880,
+				"to": 290100
+			},
+			"text": " of Ephesus. And so, he's writing to Timothy and he's saying, he's realizing that he might"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,100",
+				"to": "00:04:54,420"
+			},
+			"offsets": {
+				"from": 290100,
+				"to": 294420
+			},
+			"text": " not come back. Timothy is kind of the leader over Ephesus while Paul is gone. Paul planned"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,420",
+				"to": "00:04:59,180"
+			},
+			"offsets": {
+				"from": 294420,
+				"to": 299180
+			},
+			"text": " to come back. But he's realizing that might not be what happens. So, I need you to know"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,180",
+				"to": "00:05:05,100"
+			},
+			"offsets": {
+				"from": 299180,
+				"to": 305100
+			},
+			"text": " some things that God has taught me. So, for Paul to tell Timothy, God did not give us a spirit"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,100",
+				"to": "00:05:09,600"
+			},
+			"offsets": {
+				"from": 305100,
+				"to": 309600
+			},
+			"text": " of fear. But of power and love and a sound mind. When he is in a dungeon chain being tortured"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,600",
+				"to": "00:05:17,080"
+			},
+			"offsets": {
+				"from": 309600,
+				"to": 317080
+			},
+			"text": " or awaiting execution, we are not called to have a spirit of fear. If he can have a spirit"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,080",
+				"to": "00:05:22,480"
+			},
+			"offsets": {
+				"from": 317080,
+				"to": 322480
+			},
+			"text": " of power, love, and a sound mind in that circumstance, we can have a spirit of power and love and a"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,480",
+				"to": "00:05:27,960"
+			},
+			"offsets": {
+				"from": 322480,
+				"to": 327960
+			},
+			"text": " sound mind in whatever we are going through right now. So, when you look at the word fear,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,840",
+				"to": "00:05:35,080"
+			},
+			"offsets": {
+				"from": 328840,
+				"to": 335080
+			},
+			"text": " there's a couple different ways to think about it, right? Fear can be something like, you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,080",
+				"to": "00:05:39,240"
+			},
+			"offsets": {
+				"from": 335080,
+				"to": 339240
+			},
+			"text": " standing on the road, there's a car coming at you 90 miles an hour, and it's going to hit you."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,240",
+				"to": "00:05:44,960"
+			},
+			"offsets": {
+				"from": 339240,
+				"to": 344960
+			},
+			"text": " That's fear. Fear can also be, my kid starts kindergarten and I'm terrified of them being"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,960",
+				"to": "00:05:50,100"
+			},
+			"offsets": {
+				"from": 344960,
+				"to": 350100
+			},
+			"text": " out of my sight. And I, it's not an actual, although with today's society, so you can have fear of that"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,100",
+				"to": "00:05:58,880"
+			},
+			"offsets": {
+				"from": 350100,
+				"to": 358880
+			},
+			"text": " too. But it's not a dangerous situation, it's more of an anxious situation. Fear is mentioned in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,880",
+				"to": "00:06:08,440"
+			},
+			"offsets": {
+				"from": 358880,
+				"to": 368440
+			},
+			"text": " Bible over 500 times. The Greek word for this specific word fear is delia, and it means little"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,440",
+				"to": "00:06:14,780"
+			},
+			"offsets": {
+				"from": 368440,
+				"to": 374780
+			},
+			"text": " faith, worrying, lacking in courage, a timid person. So, this is not the type of fear that a car is"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,780",
+				"to": "00:06:18,880"
+			},
+			"offsets": {
+				"from": 374780,
+				"to": 378880
+			},
+			"text": " coming to hit you. This is the type of fear like, my five-year-old's going to kindergarten and I am"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,880",
+				"to": "00:06:25,200"
+			},
+			"offsets": {
+				"from": 378880,
+				"to": 385200
+			},
+			"text": " real scared about what's going to happen. So, there's a healthy type of fear, and there's a deeper"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,200",
+				"to": "00:06:31,580"
+			},
+			"offsets": {
+				"from": 385200,
+				"to": 391580
+			},
+			"text": " debilitating type of fear. The healthy type of fear is actually a gift from God. If you've ever been in"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,580",
+				"to": "00:06:38,020"
+			},
+			"offsets": {
+				"from": 391580,
+				"to": 398020
+			},
+			"text": " a real dangerous situation where your life is on the line, then you would have experienced what they"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,020",
+				"to": "00:06:45,060"
+			},
+			"offsets": {
+				"from": 398020,
+				"to": 405060
+			},
+			"text": " call the flight, fight or flight response. This is literally a gift from God. It's the coolest, it's pretty"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,060",
+				"to": "00:06:50,620"
+			},
+			"offsets": {
+				"from": 405060,
+				"to": 410620
+			},
+			"text": " cool. Because he gives us the ability for everything in our body to work together to get us out of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,620",
+				"to": "00:06:54,500"
+			},
+			"offsets": {
+				"from": 410620,
+				"to": 414500
+			},
+			"text": " dangerous situation. So, if you're standing in the road, car's coming at you at 90 miles an hour,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,500",
+				"to": "00:07:00,340"
+			},
+			"offsets": {
+				"from": 414500,
+				"to": 420340
+			},
+			"text": " several things happen in your body. First of all, your heart rate and blood pressure increase to help"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,340",
+				"to": "00:07:08,080"
+			},
+			"offsets": {
+				"from": 420340,
+				"to": 428080
+			},
+			"text": " move nutrients and oxygen to the major muscle groups. So, where everything gets redirected to the most"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,080",
+				"to": "00:07:13,940"
+			},
+			"offsets": {
+				"from": 428080,
+				"to": 433940
+			},
+			"text": " important things that it needs to go to, to give you more nutrients, more blood, so that you can move"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,940",
+				"to": "00:07:20,400"
+			},
+			"offsets": {
+				"from": 433940,
+				"to": 440400
+			},
+			"text": " fast. You've heard of people lifting cars because their child is under it. Or, uh, Tim Keller tells the story that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,400",
+				"to": "00:07:25,900"
+			},
+			"offsets": {
+				"from": 440400,
+				"to": 445900
+			},
+			"text": " he, he, he had a three-year-old son and he was a super smart dad. And so, there's this really long slide, like"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,900",
+				"to": "00:07:31,680"
+			},
+			"offsets": {
+				"from": 445900,
+				"to": 451680
+			},
+			"text": " 12-foot long metal slide, nine feet up in the air. And he takes his son and he puts him at the top of the slide and"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,680",
+				"to": "00:07:37,000"
+			},
+			"offsets": {
+				"from": 451680,
+				"to": 457000
+			},
+			"text": " then he goes to catch him at the bottom of the slide. And as soon as he gets all the way to the bottom of the slide, his son"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,000",
+				"to": "00:07:45,420"
+			},
+			"offsets": {
+				"from": 457000,
+				"to": 465420
+			},
+			"text": " pitches backwards. And he, fear, gave him the ability, he says, I have no idea how. He wasn't just flying backwards,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,420",
+				"to": "00:07:51,740"
+			},
+			"offsets": {
+				"from": 465420,
+				"to": 471740
+			},
+			"text": " there was concrete underneath this nine-foot high slide. He makes it from where he is and catches his son."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,740",
+				"to": "00:07:56,500"
+			},
+			"offsets": {
+				"from": 471740,
+				"to": 476500
+			},
+			"text": " And he's like, if you ask me to do it again, never in a million years. I don't know how I got from here to here."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,460",
+				"to": "00:08:03,900"
+			},
+			"offsets": {
+				"from": 477460,
+				"to": 483900
+			},
+			"text": " The fear response, the fight versus flight, everything in his body was working together to stop his son from"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,900",
+				"to": "00:08:11,080"
+			},
+			"offsets": {
+				"from": 483900,
+				"to": 491080
+			},
+			"text": " falling very painfully. Um, another thing that happens, which is my personal favorite thing, is the blunt pain"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,080",
+				"to": "00:08:17,920"
+			},
+			"offsets": {
+				"from": 491080,
+				"to": 497920
+			},
+			"text": " response is compromised. What that means is, if you are in a situation and something awful happens for you, so"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,920",
+				"to": "00:08:22,920"
+			},
+			"offsets": {
+				"from": 497920,
+				"to": 502920
+			},
+			"text": " you're in a car accident and you get injured or you get shot or, I know this is real, this is taking a turn, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,920",
+				"to": "00:08:32,700"
+			},
+			"offsets": {
+				"from": 502920,
+				"to": 512700
+			},
+			"text": " sorry. Um, yeah, you don't, you often, yeah, super encouraging, you often don't feel the pain that you should feel."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,700",
+				"to": "00:08:38,900"
+			},
+			"offsets": {
+				"from": 512700,
+				"to": 518900
+			},
+			"text": " Side story, um, my husband and I were driving back, some of you have taken this, we were coming back from"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,900",
+				"to": "00:08:44,700"
+			},
+			"offsets": {
+				"from": 518900,
+				"to": 524700
+			},
+			"text": " Pennsylvania, getting off the turnpike, going to the Breezewood area, um, so we were on Route 70 and it started,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:44,700",
+				"to": "00:08:50,640"
+			},
+			"offsets": {
+				"from": 524700,
+				"to": 530640
+			},
+			"text": " it was freezing rain and it was below 32 degrees, so the road froze like that. And the sports car"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,640",
+				"to": "00:08:56,540"
+			},
+			"offsets": {
+				"from": 530640,
+				"to": 536540
+			},
+			"text": " had probably been going 90 miles an hour and he can't slow down at this point, so he clips the back"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,540",
+				"to": "00:09:03,520"
+			},
+			"offsets": {
+				"from": 536540,
+				"to": 543520
+			},
+			"text": " of our car. We pull over and we see him hit the car in front of us, um, and so we start walking, and then"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,520",
+				"to": "00:09:07,660"
+			},
+			"offsets": {
+				"from": 543520,
+				"to": 547660
+			},
+			"text": " he goes and flips a couple times and then the roller road, it was really bad. So when we came back, we found"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,660",
+				"to": "00:09:13,760"
+			},
+			"offsets": {
+				"from": 547660,
+				"to": 553760
+			},
+			"text": " out what happened. When he clipped us, it, it made him hit this other car. There was a car here and a car here"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,760",
+				"to": "00:09:18,720"
+			},
+			"offsets": {
+				"from": 553760,
+				"to": 558720
+			},
+			"text": " were both on the side of the road. The car here was full of like teenage girls who had pulled over"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,720",
+				"to": "00:09:23,840"
+			},
+			"offsets": {
+				"from": 558720,
+				"to": 563840
+			},
+			"text": " because they were scared. The car here was full, was an, um, or a couple. The guy had gotten out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,840",
+				"to": "00:09:29,020"
+			},
+			"offsets": {
+				"from": 563840,
+				"to": 569020
+			},
+			"text": " the car and he was trying to help these teenage girls get out of their car because he knew they"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,020",
+				"to": "00:09:32,220"
+			},
+			"offsets": {
+				"from": 569020,
+				"to": 572220
+			},
+			"text": " needed to get on the other side of that guardrail because people were flying all over the place."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,700",
+				"to": "00:09:38,720"
+			},
+			"offsets": {
+				"from": 572700,
+				"to": 578720
+			},
+			"text": " And so he goes and he's opening up their door for them to come out. Thankfully, they hadn't taken that"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,720",
+				"to": "00:09:44,300"
+			},
+			"offsets": {
+				"from": 578720,
+				"to": 584300
+			},
+			"text": " first step out because as soon as he opens the door, that sports car hits right here. And the door"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,300",
+				"to": "00:09:50,780"
+			},
+			"offsets": {
+				"from": 584300,
+				"to": 590780
+			},
+			"text": " probably saved this guy's life. But what unfortunately happened is that his feet were exposed, so the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,780",
+				"to": "00:09:55,320"
+			},
+			"offsets": {
+				"from": 590780,
+				"to": 595320
+			},
+			"text": " sports car ran over one of his feet. And so when my husband and I had gotten out of our car,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,580",
+				"to": "00:10:01,900"
+			},
+			"offsets": {
+				"from": 595580,
+				"to": 601900
+			},
+			"text": " he's laying on the ground basically with an amputated foot and he felt nothing. He was,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,900",
+				"to": "00:10:07,300"
+			},
+			"offsets": {
+				"from": 601900,
+				"to": 607300
+			},
+			"text": " his body was in shock, but his blood pain response was compromised. He was talking to us like nothing"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,300",
+				"to": "00:10:14,380"
+			},
+			"offsets": {
+				"from": 607300,
+				"to": 614380
+			},
+			"text": " happened with his foot off. It was insane. He didn't start to feel it until like the paramedics"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,380",
+				"to": "00:10:20,140"
+			},
+			"offsets": {
+				"from": 614380,
+				"to": 620140
+			},
+			"text": " arrived and they start lifting him. And then he like, what, what they say is once you are out of danger"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,140",
+				"to": "00:10:25,280"
+			},
+			"offsets": {
+				"from": 620140,
+				"to": 625280
+			},
+			"text": " and things start to calm down, then you can feel the pain. That is a way to help you survive. If you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,280",
+				"to": "00:10:29,140"
+			},
+			"offsets": {
+				"from": 625280,
+				"to": 629140
+			},
+			"text": " shot and you feel everything, you're not going to have the energy to get out of whatever situation"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,140",
+				"to": "00:10:36,140"
+			},
+			"offsets": {
+				"from": 629140,
+				"to": 636140
+			},
+			"text": " it is. If you don't know it and you don't feel it, you can. So this is the gift from God that I talk"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,140",
+				"to": "00:10:40,380"
+			},
+			"offsets": {
+				"from": 636140,
+				"to": 640380
+			},
+			"text": " about. Your pupils even dilate, which makes you take in more light. So if you're in an alleyway,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,380",
+				"to": "00:10:49,200"
+			},
+			"offsets": {
+				"from": 640380,
+				"to": 649200
+			},
+			"text": " you can see better than you normally would. This is the type of fear that should end about 20 to 30"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,200",
+				"to": "00:10:57,040"
+			},
+			"offsets": {
+				"from": 649200,
+				"to": 657040
+			},
+			"text": " minutes after you're in a safe environment. If however, 24 hours, 48 hours goes by and you are"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,040",
+				"to": "00:11:06,280"
+			},
+			"offsets": {
+				"from": 657040,
+				"to": 666280
+			},
+			"text": " still feeling that fight or flight response, if you haven't been able to calm down and you find that"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,280",
+				"to": "00:11:12,840"
+			},
+			"offsets": {
+				"from": 666280,
+				"to": 672840
+			},
+			"text": " you have an abiding sense of hollowness, that you are fragile, that your life is still in danger,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,320",
+				"to": "00:11:21,160"
+			},
+			"offsets": {
+				"from": 673320,
+				"to": 681160
+			},
+			"text": " this is no longer the healthy type of fear. This is anxiety. See, fear is specific. There's a threat."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,160",
+				"to": "00:11:26,680"
+			},
+			"offsets": {
+				"from": 681160,
+				"to": 686680
+			},
+			"text": " I have to get out of the car. I have to get out of the car. With fear, you know. You know exactly what's"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,680",
+				"to": "00:11:35,760"
+			},
+			"offsets": {
+				"from": 686680,
+				"to": 695760
+			},
+			"text": " causing you. Anxiety, unlike fear, is not specific. It is generalized. It's diffused and it's undefined."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,760",
+				"to": "00:11:42,560"
+			},
+			"offsets": {
+				"from": 695760,
+				"to": 702560
+			},
+			"text": " You don't know what it is attached to. Have you ever felt that? That feeling of like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,720",
+				"to": "00:11:50,100"
+			},
+			"offsets": {
+				"from": 702720,
+				"to": 710100
+			},
+			"text": " ah, I'm just, I'm just, I can't put my finger on it, but I am anxious and I can't. That's anxiety."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,100",
+				"to": "00:11:56,800"
+			},
+			"offsets": {
+				"from": 710100,
+				"to": 716800
+			},
+			"text": " That's the type of fear that Paul is talking about when he writes this. The Greek word for anxiety is"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,800",
+				"to": "00:12:05,960"
+			},
+			"offsets": {
+				"from": 716800,
+				"to": 725960
+			},
+			"text": " marimna, and it literally means in pieces. When you have anxiety, you are not able to act in the way"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,960",
+				"to": "00:12:10,800"
+			},
+			"offsets": {
+				"from": 725960,
+				"to": 730800
+			},
+			"text": " that God wants you to act because you are in pieces. You're torn in multiple different directions."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,800",
+				"to": "00:12:17,280"
+			},
+			"offsets": {
+				"from": 730800,
+				"to": 737280
+			},
+			"text": " Fear, the fear that we talked about with the car about to hit you, that galvanizes you for action."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,280",
+				"to": "00:12:23,220"
+			},
+			"offsets": {
+				"from": 737280,
+				"to": 743220
+			},
+			"text": " You are ready to go. That puts everything in the same spot so that you can fight whatever you need to"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,220",
+				"to": "00:12:30,760"
+			},
+			"offsets": {
+				"from": 743220,
+				"to": 750760
+			},
+			"text": " fight. Anxiety debilitates you and paralyzes you, and it makes you unable to act. So while they seem"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,760",
+				"to": "00:12:35,680"
+			},
+			"offsets": {
+				"from": 750760,
+				"to": 755680
+			},
+			"text": " to be very similar, they're completely different. One gets you ready for action, the other paralyzes"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,680",
+				"to": "00:12:42,340"
+			},
+			"offsets": {
+				"from": 755680,
+				"to": 762340
+			},
+			"text": " you, and you are unable to act, or you are unable to act in a way that would be the most beneficial"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:42,340",
+				"to": "00:12:47,840"
+			},
+			"offsets": {
+				"from": 762340,
+				"to": 767840
+			},
+			"text": " way for you to act. If you don't get anything else in this whole message, I want you to get this next"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,840",
+				"to": "00:13:00,460"
+			},
+			"offsets": {
+				"from": 767840,
+				"to": 780460
+			},
+			"text": " phrase. Anxiety is when our existence as selves is threatened. Um, what that means is if you define"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:00,460",
+				"to": "00:13:08,920"
+			},
+			"offsets": {
+				"from": 780460,
+				"to": 788920
+			},
+			"text": " yourself with something finite, something that this earth gives you, and it's threatened, then you have"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:08,920",
+				"to": "00:13:15,480"
+			},
+			"offsets": {
+				"from": 788920,
+				"to": 795480
+			},
+			"text": " anxiety. So let's say that you find your, you find your existence in your mom. You love your kids,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,480",
+				"to": "00:13:19,740"
+			},
+			"offsets": {
+				"from": 795480,
+				"to": 799740
+			},
+			"text": " and they mean the world to you, and you want everyone to know that you are a really good mom,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,740",
+				"to": "00:13:26,500"
+			},
+			"offsets": {
+				"from": 799740,
+				"to": 806500
+			},
+			"text": " and then your child acts up. I would not know what this is like, because, uh, my kids never act"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,500",
+				"to": "00:13:34,660"
+			},
+			"offsets": {
+				"from": 806500,
+				"to": 814660
+			},
+			"text": " up, especially my eight-year-old son. Um, so if he acts up, and my identity is in the fact that I'm a"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,660",
+				"to": "00:13:39,820"
+			},
+			"offsets": {
+				"from": 814660,
+				"to": 819820
+			},
+			"text": " good mom with well-behaved children, I'm going to get anxiety, because he's going to act up, because my"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:39,820",
+				"to": "00:13:45,300"
+			},
+			"offsets": {
+				"from": 819820,
+				"to": 825300
+			},
+			"text": " existence as a self is threatened. I am worried that all of you are going to judge me, because my son is"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,300",
+				"to": "00:13:52,560"
+			},
+			"offsets": {
+				"from": 825300,
+				"to": 832560
+			},
+			"text": " acting like a lunatic. That has maybe happened before, but that is not, that is not what God tells"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:52,560",
+				"to": "00:13:58,380"
+			},
+			"offsets": {
+				"from": 832560,
+				"to": 838380
+			},
+			"text": " us to place our, um, identity in, because it's finite. If you're existing, if your identity is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,380",
+				"to": "00:14:04,120"
+			},
+			"offsets": {
+				"from": 838380,
+				"to": 844120
+			},
+			"text": " money, is in the money that you have, or beauty, or anything, the job that you have, if that's where"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,120",
+				"to": "00:14:09,740"
+			},
+			"offsets": {
+				"from": 844120,
+				"to": 849740
+			},
+			"text": " you find your identity, all of those things are finite, and you will find yourself living in a state"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,740",
+				"to": "00:14:16,880"
+			},
+			"offsets": {
+				"from": 849740,
+				"to": 856880
+			},
+			"text": " of anxiety, because it's going to fall away. None of those things are going to stay. Paul is telling us"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,880",
+				"to": "00:14:25,120"
+			},
+			"offsets": {
+				"from": 856880,
+				"to": 865120
+			},
+			"text": " those things are not of God. Putting your existence or identity in finite things is not what God wants"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,120",
+				"to": "00:14:29,220"
+			},
+			"offsets": {
+				"from": 865120,
+				"to": 869220
+			},
+			"text": " you to do. He doesn't want you to live in that fear. He wants you to live in the eternity that he has"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,220",
+				"to": "00:14:36,420"
+			},
+			"offsets": {
+				"from": 869220,
+				"to": 876420
+			},
+			"text": " offered us, and to trust in him, and that will give you a spirit of power and love, and a sound mind, no matter"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:36,420",
+				"to": "00:14:44,640"
+			},
+			"offsets": {
+				"from": 876420,
+				"to": 884640
+			},
+			"text": " what you are enduring. See, fear is like a thunderstorm. Fear, when you are avoiding a danger, is like a"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,640",
+				"to": "00:14:52,680"
+			},
+			"offsets": {
+				"from": 884640,
+				"to": 892680
+			},
+			"text": " thunderstorm. It comes in loud, and scary, and lightning, and everything crashes all at once, but when it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:52,680",
+				"to": "00:14:59,360"
+			},
+			"offsets": {
+				"from": 892680,
+				"to": 899360
+			},
+			"text": " over, there's a rainbow, and the flowers bloom, and the grass is greener, because it's a positive thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,360",
+				"to": "00:15:04,780"
+			},
+			"offsets": {
+				"from": 899360,
+				"to": 904780
+			},
+			"text": " When you have anxiety, it's more like Seattle, Washington, and the rainy season. It is just,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:04,780",
+				"to": "00:15:11,720"
+			},
+			"offsets": {
+				"from": 904780,
+				"to": 911720
+			},
+			"text": " after a while, your soul starts to mill you, because you cannot take the miserableness. You love Seattle,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,720",
+				"to": "00:15:17,860"
+			},
+			"offsets": {
+				"from": 911720,
+				"to": 917860
+			},
+			"text": " Washington. Sorry. Sorry. I've never been there. I'm sure it's beautiful. So, what I want to talk about"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,860",
+				"to": "00:15:26,060"
+			},
+			"offsets": {
+				"from": 917860,
+				"to": 926060
+			},
+			"text": " is, how does Paul accept us to get away from the anxiety and live a life that is full of power and love"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,060",
+				"to": "00:15:31,780"
+			},
+			"offsets": {
+				"from": 926060,
+				"to": 931780
+			},
+			"text": " and a sound mind? So, we're going to look at four things that you can do towards the end, but before we do"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,780",
+				"to": "00:15:37,480"
+			},
+			"offsets": {
+				"from": 931780,
+				"to": 937480
+			},
+			"text": " that, there's something that we need to accomplish before we can even start to pull ourselves out of that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,480",
+				"to": "00:15:47,020"
+			},
+			"offsets": {
+				"from": 937480,
+				"to": 947020
+			},
+			"text": " and that is, what are your expectations while you are on earth? See, expectations are the filter by which you view"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,020",
+				"to": "00:15:54,200"
+			},
+			"offsets": {
+				"from": 947020,
+				"to": 954200
+			},
+			"text": " your life. What do you expect to happen while you are here on earth? C.S. Lewis talks about the importance"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,200",
+				"to": "00:16:00,440"
+			},
+			"offsets": {
+				"from": 954200,
+				"to": 960440
+			},
+			"text": " of our expectations by saying, let's say I took a group of people, and I took them, and I put them in"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,440",
+				"to": "00:16:05,660"
+			},
+			"offsets": {
+				"from": 960440,
+				"to": 965660
+			},
+			"text": " front of a hotel room, and I told them before we went into that hotel room, doors closed, they don't know"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,660",
+				"to": "00:16:10,460"
+			},
+			"offsets": {
+				"from": 965660,
+				"to": 970460
+			},
+			"text": " what they're going to see, and I say, this is our honeymoon suite. It is the nicest room that we offer here at"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,460",
+				"to": "00:16:16,680"
+			},
+			"offsets": {
+				"from": 970460,
+				"to": 976680
+			},
+			"text": " this hotel, and they open the door, and they're like, oh, this place is, oh, will you, this is your"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,680",
+				"to": "00:16:22,080"
+			},
+			"offsets": {
+				"from": 976680,
+				"to": 982080
+			},
+			"text": " honeymoon suite? This is, and I'm not sleeping here. This is gross. It's not a honeymoon suite."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,080",
+				"to": "00:16:28,020"
+			},
+			"offsets": {
+				"from": 982080,
+				"to": 988020
+			},
+			"text": " If, however, we took the exact same group of people, and we put them in front of the exact same hotel"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,020",
+				"to": "00:16:33,540"
+			},
+			"offsets": {
+				"from": 988020,
+				"to": 993540
+			},
+			"text": " room, and we told them, I just need you to know this is a prison cell, okay? So, what you're going to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,540",
+				"to": "00:16:40,020"
+			},
+			"offsets": {
+				"from": 993540,
+				"to": 1000020
+			},
+			"text": " sleeping in tonight is reserved for prisoners, and so, you know, don't expect much, and you open the door,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:40,020",
+				"to": "00:16:44,660"
+			},
+			"offsets": {
+				"from": 1000020,
+				"to": 1004660
+			},
+			"text": " and you'd be like, hmm, it's not too bad. I can sleep here. This is better than I thought it was"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,660",
+				"to": "00:16:50,480"
+			},
+			"offsets": {
+				"from": 1004660,
+				"to": 1010480
+			},
+			"text": " going to be. All right, thanks. I'm happy. Same people, same door, different expectations. That is"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:50,480",
+				"to": "00:16:57,340"
+			},
+			"offsets": {
+				"from": 1010480,
+				"to": 1017340
+			},
+			"text": " how important expectations are in our life. A lot of Christians are losing their peace and joy because"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,340",
+				"to": "00:17:05,980"
+			},
+			"offsets": {
+				"from": 1017340,
+				"to": 1025980
+			},
+			"text": " they don't expect the attacks that are inevitable. The reality is, when you became a Christian,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:05,980",
+				"to": "00:17:11,240"
+			},
+			"offsets": {
+				"from": 1025980,
+				"to": 1031240
+			},
+			"text": " well, before you became a Christian, you may not have thought about this like this, but you had one"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,240",
+				"to": "00:17:17,880"
+			},
+			"offsets": {
+				"from": 1031240,
+				"to": 1037880
+			},
+			"text": " enemy, and that enemy was God. It's not that God wanted to be your enemy or that he was mean or nasty"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,880",
+				"to": "00:17:22,200"
+			},
+			"offsets": {
+				"from": 1037880,
+				"to": 1042200
+			},
+			"text": " because you weren't a Christian. He was your enemy because you were at war with him. You were"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,200",
+				"to": "00:17:27,500"
+			},
+			"offsets": {
+				"from": 1042200,
+				"to": 1047500
+			},
+			"text": " constantly pushing him away. I was with my mom. She actually said, you should make a sermon"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,500",
+				"to": "00:17:30,680"
+			},
+			"offsets": {
+				"from": 1047500,
+				"to": 1050680
+			},
+			"text": " illustration out of this because we were doing something on Thursday, and I was like, I need to"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,680",
+				"to": "00:17:36,840"
+			},
+			"offsets": {
+				"from": 1050680,
+				"to": 1056840
+			},
+			"text": " be working on my message, and she's like, it's a sermon illustration. Actually, it is. I got a call"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,840",
+				"to": "00:17:42,640"
+			},
+			"offsets": {
+				"from": 1056840,
+				"to": 1062640
+			},
+			"text": " from my friend, and she said, there's a cat that I'm positive is somebody dunked this cat because it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,640",
+				"to": "00:17:46,760"
+			},
+			"offsets": {
+				"from": 1062640,
+				"to": 1066760
+			},
+			"text": " super friendly, but it's really scared. It hasn't hurt paw. It turned out it's little, it's one of its"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,760",
+				"to": "00:17:52,180"
+			},
+			"offsets": {
+				"from": 1066760,
+				"to": 1072180
+			},
+			"text": " claws had been ripped out, and so it was real sad. It was swollen, super sweet cat. She said, but I can't"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,180",
+				"to": "00:17:57,380"
+			},
+			"offsets": {
+				"from": 1072180,
+				"to": 1077380
+			},
+			"text": " catch it because every time I get close, it freaks out and runs. She called my mom and I over. I love"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,380",
+				"to": "00:18:02,640"
+			},
+			"offsets": {
+				"from": 1077380,
+				"to": 1082640
+			},
+			"text": " animals. You know me. I love animals. So long story short, we tried everything to get this cat in"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,640",
+				"to": "00:18:07,080"
+			},
+			"offsets": {
+				"from": 1082640,
+				"to": 1087080
+			},
+			"text": " gracefully to this box so that we could take it to the human society, get the medical attention it"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,080",
+				"to": "00:18:11,640"
+			},
+			"offsets": {
+				"from": 1087080,
+				"to": 1091640
+			},
+			"text": " needed, all that sort of stuff, and eventually they were trying all these things, and I was like, forget"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,640",
+				"to": "00:18:17,240"
+			},
+			"offsets": {
+				"from": 1091640,
+				"to": 1097240
+			},
+			"text": " it. I'm just beating the cat up. So I picked the cat up, and I held on to that cat, and it bit me, and it"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,240",
+				"to": "00:18:22,160"
+			},
+			"offsets": {
+				"from": 1097240,
+				"to": 1102160
+			},
+			"text": " scratched me, and it did everything that it could do, and I did not let go because that cat was getting in"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:22,160",
+				"to": "00:18:27,260"
+			},
+			"offsets": {
+				"from": 1102160,
+				"to": 1107260
+			},
+			"text": " that car, and we were going to get it to the inside. If I didn't, we were right next to Route 80. It was going to get"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,260",
+				"to": "00:18:33,640"
+			},
+			"offsets": {
+				"from": 1107260,
+				"to": 1113640
+			},
+			"text": " 81. 81, sorry. I went back to my Pennsylvania days. That's a different turnpike, or different road. So we were"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,640",
+				"to": "00:18:39,740"
+			},
+			"offsets": {
+				"from": 1113640,
+				"to": 1119740
+			},
+			"text": " right next to Route 81. It was going to get hit by a car. I was living in a bush. It was super skinny. I knew that it"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,740",
+				"to": "00:18:45,800"
+			},
+			"offsets": {
+				"from": 1119740,
+				"to": 1125800
+			},
+			"text": " needed to get in the car so that we could get it the help that it needed. It didn't know that, though. All it knew was I"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,800",
+				"to": "00:18:52,140"
+			},
+			"offsets": {
+				"from": 1125800,
+				"to": 1132140
+			},
+			"text": " wanted to pick that thing up, and it wanted to get down. That is a perfect illustration of how we are with God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,140",
+				"to": "00:19:00,020"
+			},
+			"offsets": {
+				"from": 1132140,
+				"to": 1140020
+			},
+			"text": " before we know Him. Sometimes even when we do know Him. He has something so much better for us. He wants us to get out of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,020",
+				"to": "00:19:08,480"
+			},
+			"offsets": {
+				"from": 1140020,
+				"to": 1148480
+			},
+			"text": " bush that we are living in and to go into a safe place where we can get the help that we need, and He can comfort us. The cat"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,480",
+				"to": "00:19:16,140"
+			},
+			"offsets": {
+				"from": 1148480,
+				"to": 1156140
+			},
+			"text": " didn't know this, so the cat was fighting me. Oftentimes, we were fighting God when He is our enemy. However, once you become a"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,140",
+				"to": "00:19:24,020"
+			},
+			"offsets": {
+				"from": 1156140,
+				"to": 1164020
+			},
+			"text": " Christian, you become a Christian and you have this walk with God, now all of God's enemies are at war with"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,020",
+				"to": "00:19:31,740"
+			},
+			"offsets": {
+				"from": 1164020,
+				"to": 1171740
+			},
+			"text": " you. And that is the expectation that I think a lot of us oftentimes forget. These are not loving enemies that"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,740",
+				"to": "00:19:38,140"
+			},
+			"offsets": {
+				"from": 1171740,
+				"to": 1178140
+			},
+			"text": " want to want to take you to the human society to get your paw fixed. These are terrifying enemies that want"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,140",
+				"to": "00:19:47,080"
+			},
+			"offsets": {
+				"from": 1178140,
+				"to": 1187080
+			},
+			"text": " nothing but to steal, kill, and destroy because you are representing God. And if the enemies can keep you"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,080",
+				"to": "00:19:53,520"
+			},
+			"offsets": {
+				"from": 1187080,
+				"to": 1193520
+			},
+			"text": " quiet and unproductive, then they've done their job. Because the more you're quiet and the more"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,620",
+				"to": "00:19:58,400"
+			},
+			"offsets": {
+				"from": 1193620,
+				"to": 1198400
+			},
+			"text": " productive you are, the better off they are because less and less people come to God. So that's their"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,400",
+				"to": "00:20:04,900"
+			},
+			"offsets": {
+				"from": 1198400,
+				"to": 1204900
+			},
+			"text": " goal. So you have three main enemies once you become a Christian. Keep in mind these enemies are not"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,900",
+				"to": "00:20:11,120"
+			},
+			"offsets": {
+				"from": 1204900,
+				"to": 1211120
+			},
+			"text": " stronger than God. They will not win. So they do not have the power over us that they think that they"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:11,120",
+				"to": "00:20:16,540"
+			},
+			"offsets": {
+				"from": 1211120,
+				"to": 1216540
+			},
+			"text": " have or they shouldn't. These enemies are the devil, the flesh, and the world. It's important to keep in"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,540",
+				"to": "00:20:24,060"
+			},
+			"offsets": {
+				"from": 1216540,
+				"to": 1224060
+			},
+			"text": " mind that these enemies are real and they want to destroy your peace and joy. The Bible says, however,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,060",
+				"to": "00:20:31,740"
+			},
+			"offsets": {
+				"from": 1224060,
+				"to": 1231740
+			},
+			"text": " no one can pluck them out of my hands. So they can't steal your salvation, but they can destroy your"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:31,740",
+				"to": "00:20:37,840"
+			},
+			"offsets": {
+				"from": 1231740,
+				"to": 1237840
+			},
+			"text": " peace and joy. So the devil, as you guys know, is a supernatural being that has thousands of demons"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:37,840",
+				"to": "00:20:42,640"
+			},
+			"offsets": {
+				"from": 1237840,
+				"to": 1242640
+			},
+			"text": " under its control. The Bible says that the devil comes to steal, kill, and destroy, and that is what"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,640",
+				"to": "00:20:49,500"
+			},
+			"offsets": {
+				"from": 1242640,
+				"to": 1249500
+			},
+			"text": " he's going to try to do. He wants us to look more at our sin than on our Savior. It's one of his biggest"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,500",
+				"to": "00:20:54,360"
+			},
+			"offsets": {
+				"from": 1249500,
+				"to": 1254360
+			},
+			"text": " tactics. What have you done wrong? Where have you failed? You're never going to be good enough. If he"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,360",
+				"to": "00:21:00,340"
+			},
+			"offsets": {
+				"from": 1254360,
+				"to": 1260340
+			},
+			"text": " can get us to focus on our sin, not the Savior that already took our sins to the cross and died, because"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,340",
+				"to": "00:21:05,320"
+			},
+			"offsets": {
+				"from": 1260340,
+				"to": 1265320
+			},
+			"text": " that sin means nothing anymore. It's already been taken care of. God will work with you through your sin,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,320",
+				"to": "00:21:12,480"
+			},
+			"offsets": {
+				"from": 1265320,
+				"to": 1272480
+			},
+			"text": " but if you focus on it, you're unable to do anything to further the kingdom of God. The book Pilgrim's Progress,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,480",
+				"to": "00:21:18,680"
+			},
+			"offsets": {
+				"from": 1272480,
+				"to": 1278680
+			},
+			"text": " has a really cool illustration of the devil. So there's a character in this book called Mr. Conscience,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,680",
+				"to": "00:21:25,600"
+			},
+			"offsets": {
+				"from": 1278680,
+				"to": 1285600
+			},
+			"text": " and he's the watchman of the city. That's why we call him Mr. Conscience. So his job is to roam"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,600",
+				"to": "00:21:32,280"
+			},
+			"offsets": {
+				"from": 1285600,
+				"to": 1292280
+			},
+			"text": " around the city, and anytime there's a dangerous situation at hand, he screams, awake, awake, awake,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,280",
+				"to": "00:21:37,400"
+			},
+			"offsets": {
+				"from": 1292280,
+				"to": 1297400
+			},
+			"text": " so that everybody in the town gets up, and they can fight this dangerous situation and keep it out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,400",
+				"to": "00:21:44,700"
+			},
+			"offsets": {
+				"from": 1297400,
+				"to": 1304700
+			},
+			"text": " the city. So what Satan does is he poisons Mr. Conscience. He doesn't poison him to kill him."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,700",
+				"to": "00:21:52,500"
+			},
+			"offsets": {
+				"from": 1304700,
+				"to": 1312500
+			},
+			"text": " He poisons him to make him go insane. And what Mr. Conscience does is when there is not a real"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,500",
+				"to": "00:21:59,340"
+			},
+			"offsets": {
+				"from": 1312500,
+				"to": 1319340
+			},
+			"text": " danger, but a fake danger, trying to enter in the city or no danger at all, he screams, awake, awake,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,420",
+				"to": "00:22:05,180"
+			},
+			"offsets": {
+				"from": 1319420,
+				"to": 1325180
+			},
+			"text": " awake. So everybody gets up, and they get on guard, and they're protecting this city from this not"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,180",
+				"to": "00:22:11,700"
+			},
+			"offsets": {
+				"from": 1325180,
+				"to": 1331700
+			},
+			"text": " actual danger. And then when the real danger comes, he sleeps. Have you ever thought about that in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,700",
+				"to": "00:22:18,020"
+			},
+			"offsets": {
+				"from": 1331700,
+				"to": 1338020
+			},
+			"text": " life? Think about the things that we scream, awake, awake, awake. You're not liked by the other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,020",
+				"to": "00:22:22,300"
+			},
+			"offsets": {
+				"from": 1338020,
+				"to": 1342300
+			},
+			"text": " Maybe you're not going to get the promotion you want. Your children aren't acting the way that they"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,300",
+				"to": "00:22:27,020"
+			},
+			"offsets": {
+				"from": 1342300,
+				"to": 1347020
+			},
+			"text": " should. You are aging, and you're not looking the way that you're gaining. Whatever it is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,020",
+				"to": "00:22:34,480"
+			},
+			"offsets": {
+				"from": 1347020,
+				"to": 1354480
+			},
+			"text": " we scream, awake, danger, fix this, have anxiety. We have to do something about the situation. When"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,480",
+				"to": "00:22:40,760"
+			},
+			"offsets": {
+				"from": 1354480,
+				"to": 1360760
+			},
+			"text": " the real dangers are, are you reading your Bible? How do you walk with God? Have you shared Christ with"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,760",
+				"to": "00:22:47,060"
+			},
+			"offsets": {
+				"from": 1360760,
+				"to": 1367060
+			},
+			"text": " anybody? Are you really close with him enough to hear what he wants to speak into your life? Those are"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,060",
+				"to": "00:22:52,480"
+			},
+			"offsets": {
+				"from": 1367060,
+				"to": 1372480
+			},
+			"text": " the real dangers, and we sleep, right? We just focus on the here and the now. We focus on the finite."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,480",
+				"to": "00:23:01,040"
+			},
+			"offsets": {
+				"from": 1372480,
+				"to": 1381040
+			},
+			"text": " Whenever God is screaming at us, that doesn't matter. You will have eternity with me. None of this"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,040",
+				"to": "00:23:07,160"
+			},
+			"offsets": {
+				"from": 1381040,
+				"to": 1387160
+			},
+			"text": " matters. This is temporary. Listen to me so that I can speak to you so that we can do this together."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,160",
+				"to": "00:23:14,800"
+			},
+			"offsets": {
+				"from": 1387160,
+				"to": 1394800
+			},
+			"text": " And yet, we focus on the finite, and it gives us the inability to not have fear, to not have power and"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:14,800",
+				"to": "00:23:19,960"
+			},
+			"offsets": {
+				"from": 1394800,
+				"to": 1399960
+			},
+			"text": " love and a sound mind. You can't have a sound mind if all these finite things are the forefront of your"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,960",
+				"to": "00:23:27,520"
+			},
+			"offsets": {
+				"from": 1399960,
+				"to": 1407520
+			},
+			"text": " mind at all times. And so Satan wins. He poisons us so that we focus on what's not important."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,520",
+				"to": "00:23:34,340"
+			},
+			"offsets": {
+				"from": 1407520,
+				"to": 1414340
+			},
+			"text": " The other two enemies that we're battling with are the flesh and the world. The flesh is our desire"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,340",
+				"to": "00:23:38,440"
+			},
+			"offsets": {
+				"from": 1414340,
+				"to": 1418440
+			},
+			"text": " to be God. That's probably one of the biggest things that keeps people away from Christianity."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,440",
+				"to": "00:23:42,780"
+			},
+			"offsets": {
+				"from": 1418440,
+				"to": 1422780
+			},
+			"text": " I want to call my own shots. I don't want to do what I want to do. I don't want anybody else to tell"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,780",
+				"to": "00:23:48,040"
+			},
+			"offsets": {
+				"from": 1422780,
+				"to": 1428040
+			},
+			"text": " me what I want to do. I'm a good person. I don't need a savior that gives his life for"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:48,040",
+				"to": "00:23:54,780"
+			},
+			"offsets": {
+				"from": 1428040,
+				"to": 1434780
+			},
+			"text": " me. I want to do things my way. That's the flesh. The world is that now mindset. Whatever"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,780",
+				"to": "00:24:00,800"
+			},
+			"offsets": {
+				"from": 1434780,
+				"to": 1440800
+			},
+			"text": " I have going on now, that's what's important. The finite stuff that we can't take with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:00,800",
+				"to": "00:24:11,220"
+			},
+			"offsets": {
+				"from": 1440800,
+				"to": 1451220
+			},
+			"text": " Those three things are at war with us every single day. If we can identify what it is and what"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,220",
+				"to": "00:24:16,580"
+			},
+			"offsets": {
+				"from": 1451220,
+				"to": 1456580
+			},
+			"text": " it's doing to us, it's easier to overcome it. That's why your expectations are so important."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,580",
+				"to": "00:24:20,720"
+			},
+			"offsets": {
+				"from": 1456580,
+				"to": 1460720
+			},
+			"text": " If you don't know why you're feeling the way that you're feeling and you can't identify it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,720",
+				"to": "00:24:29,320"
+			},
+			"offsets": {
+				"from": 1460720,
+				"to": 1469320
+			},
+			"text": " you can't fight it. God wants you to know these are big enemies and they have the strong desire to make"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,320",
+				"to": "00:24:38,360"
+			},
+			"offsets": {
+				"from": 1469320,
+				"to": 1478360
+			},
+			"text": " you quiet, scared, defeated, anxious. If you can get all of those things in, we don't do anything for the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,360",
+				"to": "00:24:45,300"
+			},
+			"offsets": {
+				"from": 1478360,
+				"to": 1485300
+			},
+			"text": " kingdom of God. We have no joy, no peace, and definitely no power. So I want to look at somebody in the Bible"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,300",
+				"to": "00:24:53,460"
+			},
+			"offsets": {
+				"from": 1485300,
+				"to": 1493460
+			},
+			"text": " who had to face both real fear, his life is in danger, and he's anxious because his existence itself"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,460",
+				"to": "00:25:01,620"
+			},
+			"offsets": {
+				"from": 1493460,
+				"to": 1501620
+			},
+			"text": " is definitely being threatened. We're going to talk about David in Psalm 3. This is when he is fleeing from"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,620",
+				"to": "00:25:09,400"
+			},
+			"offsets": {
+				"from": 1501620,
+				"to": 1509400
+			},
+			"text": " his son Absalom. So Absalom, ironically, is David's favorite son. He loves this kid. And Absalom starts to"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,400",
+				"to": "00:25:16,240"
+			},
+			"offsets": {
+				"from": 1509400,
+				"to": 1516240
+			},
+			"text": " focus on the finite. He wants power. He wants kingship. He doesn't care that his dad loves him. He wants to"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,240",
+				"to": "00:25:21,580"
+			},
+			"offsets": {
+				"from": 1516240,
+				"to": 1521580
+			},
+			"text": " take the throne. So he, behind his dad's back, gets all these armies together to take over David's throne."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,580",
+				"to": "00:25:29,600"
+			},
+			"offsets": {
+				"from": 1521580,
+				"to": 1529600
+			},
+			"text": " So David is running for his life. He literally has armies of people after him. So he's got real fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,600",
+				"to": "00:25:36,480"
+			},
+			"offsets": {
+				"from": 1529600,
+				"to": 1536480
+			},
+			"text": " But then he also has the fact that everything that he knew is no longer. So let's look at Psalm 3."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,480",
+				"to": "00:26:06,460"
+			},
+			"offsets": {
+				"from": 1536480,
+				"to": 1566460
+			},
+			"text": " It says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,480",
+				"to": "00:26:20,560"
+			},
+			"offsets": {
+				"from": 1566480,
+				"to": 1580560
+			},
+			"text": " I need to cringe a little bit. The, uh, strike all of my enemies on the jaw and break the teeth"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,560",
+				"to": "00:26:25,960"
+			},
+			"offsets": {
+				"from": 1580560,
+				"to": 1585960
+			},
+			"text": " of the wicked. I feel like in today's society, we like to think that we're real on our emotions. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,960",
+				"to": "00:26:31,980"
+			},
+			"offsets": {
+				"from": 1585960,
+				"to": 1591980
+			},
+			"text": " I would say Psalms has us beat because he's very specific about what he would like his enemies to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,980",
+				"to": "00:26:37,660"
+			},
+			"offsets": {
+				"from": 1591980,
+				"to": 1597660
+			},
+			"text": " But this does remind us that we are not called to stuff our emotions or to put them in some"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,660",
+				"to": "00:26:44,660"
+			},
+			"offsets": {
+				"from": 1597660,
+				"to": 1604660
+			},
+			"text": " manicured prayer that we say out loud. Pray your emotions. If you are struggling, you can tell God"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,660",
+				"to": "00:26:50,640"
+			},
+			"offsets": {
+				"from": 1604660,
+				"to": 1610640
+			},
+			"text": " exactly how you feel. He can handle it. Psalms is all about telling God exactly how we feel. Like"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:50,640",
+				"to": "00:26:55,540"
+			},
+			"offsets": {
+				"from": 1610640,
+				"to": 1615540
+			},
+			"text": " it's up and down. And I love you so much and kill my enemies. And why have you forsaken me? And it's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,780",
+				"to": "00:27:01,840"
+			},
+			"offsets": {
+				"from": 1615780,
+				"to": 1621840
+			},
+			"text": " but it's a pain. It's a Bible for us to know. Don't stop your emotions. If you're struggling,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,840",
+				"to": "00:27:08,460"
+			},
+			"offsets": {
+				"from": 1621840,
+				"to": 1628460
+			},
+			"text": " pray. Tell it to God. He's ready to listen. So we look at verse one. It says, Lord, how many are my"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,460",
+				"to": "00:27:14,860"
+			},
+			"offsets": {
+				"from": 1628460,
+				"to": 1634860
+			},
+			"text": " foes? How many rise up against me? Like I said, David has a reason for real fear. He's got an army of"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,860",
+				"to": "00:27:21,120"
+			},
+			"offsets": {
+				"from": 1634860,
+				"to": 1641120
+			},
+			"text": " people ready to attack him. So he's struggling with that. Verse two says, many are saying of him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,460",
+				"to": "00:27:25,900"
+			},
+			"offsets": {
+				"from": 1641460,
+				"to": 1645900
+			},
+			"text": " God will not deliver me. And this is how we know he's struggling with the other type of fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,900",
+				"to": "00:27:32,840"
+			},
+			"offsets": {
+				"from": 1645900,
+				"to": 1652840
+			},
+			"text": " He's struggling with anxiety because what they're attacking here, what he is, what these people are"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,840",
+				"to": "00:27:39,060"
+			},
+			"offsets": {
+				"from": 1652840,
+				"to": 1659060
+			},
+			"text": " saying is that his identity as a self is being threatened. They're referring back to King Saul."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,060",
+				"to": "00:27:46,460"
+			},
+			"offsets": {
+				"from": 1659060,
+				"to": 1666460
+			},
+			"text": " Remember before David was King, King Saul was King and he had all kinds of moral failures and he messed"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,460",
+				"to": "00:27:53,000"
+			},
+			"offsets": {
+				"from": 1666460,
+				"to": 1673000
+			},
+			"text": " up. And so God took him off of the throne and put King David in. What has David done before he ran from"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,000",
+				"to": "00:28:01,160"
+			},
+			"offsets": {
+				"from": 1673000,
+				"to": 1681160
+			},
+			"text": " his son? He had committed adultery. He had had Bathsheba's husband killed. So they're saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,160",
+				"to": "00:28:05,980"
+			},
+			"offsets": {
+				"from": 1681160,
+				"to": 1685980
+			},
+			"text": " you're no better than King Saul. God is not going to deliver you just like he didn't deliver King Saul."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,980",
+				"to": "00:28:11,860"
+			},
+			"offsets": {
+				"from": 1685980,
+				"to": 1691860
+			},
+			"text": " So your identity is threatened. We don't think you deserve to be king anymore. And God has abandoned you."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,260",
+				"to": "00:28:18,020"
+			},
+			"offsets": {
+				"from": 1692260,
+				"to": 1698020
+			},
+			"text": " If there's anything to be afraid of, it's the fact that these people are saying, you are not worthy of God"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,020",
+				"to": "00:28:30,120"
+			},
+			"offsets": {
+				"from": 1698020,
+				"to": 1710120
+			},
+			"text": " to be part of you. The next word in this scripture is real small, super important. The word, but he is"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:30,120",
+				"to": "00:28:34,740"
+			},
+			"offsets": {
+				"from": 1710120,
+				"to": 1714740
+			},
+			"text": " refocusing. So he's feeling all these things that everyone's attacking me. Everyone's saying that you've"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,740",
+				"to": "00:28:43,400"
+			},
+			"offsets": {
+				"from": 1714740,
+				"to": 1723400
+			},
+			"text": " left me. But this is what all of us need to do when we are struggling with anxiety. We say, hold on a"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:43,400",
+				"to": "00:28:50,420"
+			},
+			"offsets": {
+				"from": 1723400,
+				"to": 1730420
+			},
+			"text": " second. There's another side to this story. And I'm going to remember exactly what you are telling me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,420",
+				"to": "00:28:58,020"
+			},
+			"offsets": {
+				"from": 1730420,
+				"to": 1738020
+			},
+			"text": " But God says I should have a spirit of power and of love and a sound mind. So we have four steps. I've"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,020",
+				"to": "00:29:02,440"
+			},
+			"offsets": {
+				"from": 1738020,
+				"to": 1742440
+			},
+			"text": " always struggled with messages when somebody says you should feel this, but they don't give you concrete"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,440",
+				"to": "00:29:12,240"
+			},
+			"offsets": {
+				"from": 1742440,
+				"to": 1752240
+			},
+			"text": " ways to feel this. So I need concrete ways. So I'm hoping these four steps can help you go from,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,240",
+				"to": "00:29:19,040"
+			},
+			"offsets": {
+				"from": 1752240,
+				"to": 1759040
+			},
+			"text": " I'm anxious, but I'm going to remember these things that God has told me. So there's four steps. I'm"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,040",
+				"to": "00:29:23,140"
+			},
+			"offsets": {
+				"from": 1759040,
+				"to": 1763140
+			},
+			"text": " going to tell you the four steps. Oh, they're on there. Um, these are the four steps and then we'll"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:23,140",
+				"to": "00:29:29,380"
+			},
+			"offsets": {
+				"from": 1763140,
+				"to": 1769380
+			},
+			"text": " break them down. The first one is follow your thread. Step two, relocate your glory. Step three,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:29,380",
+				"to": "00:29:37,680"
+			},
+			"offsets": {
+				"from": 1769380,
+				"to": 1777680
+			},
+			"text": " see the substitute. And step four, remember the people. So step one, follow your thread. He says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,680",
+				"to": "00:29:47,160"
+			},
+			"offsets": {
+				"from": 1777680,
+				"to": 1787160
+			},
+			"text": " but you Lord are a shield around me. He does not say you are a shield for me. You are a shield to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:47,160",
+				"to": "00:29:55,460"
+			},
+			"offsets": {
+				"from": 1787160,
+				"to": 1795460
+			},
+			"text": " He says a shield around me. He's not talking about these little handholds, shields, shields that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,460",
+				"to": "00:29:59,500"
+			},
+			"offsets": {
+				"from": 1795460,
+				"to": 1799500
+			},
+			"text": " hold and you can sword fight with the other hand. He's talking about a completely different type"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,500",
+				"to": "00:30:07,500"
+			},
+			"offsets": {
+				"from": 1799500,
+				"to": 1807500
+			},
+			"text": " of shield. I have, um, a picture of these shields. Now I have no idea if this is exactly what the"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,500",
+				"to": "00:30:12,360"
+			},
+			"offsets": {
+				"from": 1807500,
+				"to": 1812360
+			},
+			"text": " shields look like back then, but this is as ancient of a shield as I could find. So we're talking about"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,360",
+				"to": "00:30:20,000"
+			},
+			"offsets": {
+				"from": 1812360,
+				"to": 1820000
+			},
+			"text": " a shield that encompasses you. You only take a shield like this into the greatest of danger. And what he is"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,000",
+				"to": "00:30:26,400"
+			},
+			"offsets": {
+				"from": 1820000,
+				"to": 1826400
+			},
+			"text": " saying is, I know that you are before me, you are beside me, you are beneath me, you are within me,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:26,400",
+				"to": "00:30:35,300"
+			},
+			"offsets": {
+				"from": 1826400,
+				"to": 1835300
+			},
+			"text": " you are all around me and you have my back. He is talking about the type of shield that you only"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,300",
+				"to": "00:30:40,920"
+			},
+			"offsets": {
+				"from": 1835300,
+				"to": 1840920
+			},
+			"text": " take into great danger. And if anybody knows what it's like to be in great danger, it's David in this"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,920",
+				"to": "00:30:48,160"
+			},
+			"offsets": {
+				"from": 1840920,
+				"to": 1848160
+			},
+			"text": " moment. He's also not saying that God doesn't let bad things happen to you. We live in a fallen"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,160",
+				"to": "00:30:58,420"
+			},
+			"offsets": {
+				"from": 1848160,
+				"to": 1858420
+			},
+			"text": " world. You're going to need this shield a lot. Sometimes God allows us to go into danger or go"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:58,420",
+				"to": "00:31:05,740"
+			},
+			"offsets": {
+				"from": 1858420,
+				"to": 1865740
+			},
+			"text": " into a hard situation because he is helping us avoid the situation that's coming. Both congregations"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,740",
+				"to": "00:31:11,860"
+			},
+			"offsets": {
+				"from": 1865740,
+				"to": 1871860
+			},
+			"text": " that are here this morning know exactly what that feels like. We all went into a situation that"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,860",
+				"to": "00:31:20,240"
+			},
+			"offsets": {
+				"from": 1871860,
+				"to": 1880240
+			},
+			"text": " we did not expect. We were not prepared for. We were following God. Yet we ended up in a scary"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,240",
+				"to": "00:31:26,720"
+			},
+			"offsets": {
+				"from": 1880240,
+				"to": 1886720
+			},
+			"text": " situation that we weren't sure what God's plan was. But if he hadn't gotten us in those situations"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:26,720",
+				"to": "00:31:32,740"
+			},
+			"offsets": {
+				"from": 1886720,
+				"to": 1892740
+			},
+			"text": " or used those situations, we wouldn't be sitting here where we are today. The wisdom that I gained"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,740",
+				"to": "00:31:38,560"
+			},
+			"offsets": {
+				"from": 1892740,
+				"to": 1898560
+			},
+			"text": " watching our church go through the struggles, the same thing that you guys, Grace's watch,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,560",
+				"to": "00:31:46,020"
+			},
+			"offsets": {
+				"from": 1898560,
+				"to": 1906020
+			},
+			"text": " the wisdom that you gained in that is, it's amazing. You can't ever put a, put a number on"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,020",
+				"to": "00:31:51,340"
+			},
+			"offsets": {
+				"from": 1906020,
+				"to": 1911340
+			},
+			"text": " that. I would go through it all over again to gain the wisdom and the trust to know that God's got us"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:51,340",
+				"to": "00:31:55,660"
+			},
+			"offsets": {
+				"from": 1911340,
+				"to": 1915660
+			},
+			"text": " and he has a plan that's bigger than our plan that doesn't make any sense to us because he knows"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,660",
+				"to": "00:32:02,080"
+			},
+			"offsets": {
+				"from": 1915660,
+				"to": 1922080
+			},
+			"text": " what we don't know. He's saying, I'm scared, but I know you often take me into danger and that no"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,080",
+				"to": "00:32:09,380"
+			},
+			"offsets": {
+				"from": 1922080,
+				"to": 1929380
+			},
+			"text": " matter how bad things get, you're there and you're a shield around me. He's trying to wake"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,380",
+				"to": "00:32:18,380"
+			},
+			"offsets": {
+				"from": 1929380,
+				"to": 1938380
+			},
+			"text": " us up now to keep you from a greater loss later. He woke us all up a while ago to keep us from a"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,380",
+				"to": "00:32:23,680"
+			},
+			"offsets": {
+				"from": 1938380,
+				"to": 1943680
+			},
+			"text": " greater loss that could have ensued had things continued the way that they were going. He has a plan for"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,680",
+				"to": "00:32:30,820"
+			},
+			"offsets": {
+				"from": 1943680,
+				"to": 1950820
+			},
+			"text": " us and it's not always easy to see, but he's always in it. So I'm going to go a little elementary on you."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,820",
+				"to": "00:32:37,840"
+			},
+			"offsets": {
+				"from": 1950820,
+				"to": 1957840
+			},
+			"text": " I want to read a little bit of a fairy tale that is why this is called Follow Your Friend. I haven't"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,840",
+				"to": "00:32:43,740"
+			},
+			"offsets": {
+				"from": 1957840,
+				"to": 1963740
+			},
+			"text": " really explained that yet. So there's a fairy tale by George McDonald and it's a great name, super kid"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,740",
+				"to": "00:32:48,320"
+			},
+			"offsets": {
+				"from": 1963740,
+				"to": 1968320
+			},
+			"text": " friendly. It's called The Princess and the Goblins. Not one that you probably want to read to your kid."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,320",
+				"to": "00:32:55,040"
+			},
+			"offsets": {
+				"from": 1968320,
+				"to": 1975040
+			},
+			"text": " So there's this princess. Her name's Irina and she lives in a castle and the castle is surrounded by"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,040",
+				"to": "00:33:03,760"
+			},
+			"offsets": {
+				"from": 1975040,
+				"to": 1983760
+			},
+			"text": " goblins. Shocking, right? So one day she travels up and she's exploring this castle and she meets"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,760",
+				"to": "00:33:10,100"
+			},
+			"offsets": {
+				"from": 1983760,
+				"to": 1990100
+			},
+			"text": " her fairy grandmother, not godmother, grandmother. It's okay. And she realizes this lady has been there"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,100",
+				"to": "00:33:15,680"
+			},
+			"offsets": {
+				"from": 1990100,
+				"to": 1995680
+			},
+			"text": " all along and she's been protecting her and she's lovely and she's beautiful and she's kind and she has"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:15,680",
+				"to": "00:33:22,160"
+			},
+			"offsets": {
+				"from": 1995680,
+				"to": 2002160
+			},
+			"text": " like mythical powers. And so she says to her grandmother, if I am ever in danger, I know if I"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:22,160",
+				"to": "00:33:30,220"
+			},
+			"offsets": {
+				"from": 2002160,
+				"to": 2010220
+			},
+			"text": " can just find you, I will be okay. But how can I do that? And the grandmother says, take this ring."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,220",
+				"to": "00:33:38,240"
+			},
+			"offsets": {
+				"from": 2010220,
+				"to": 2018240
+			},
+			"text": " On this ring is a thread. This thread is tied to my ring. If ever you are in danger, take this ring,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,240",
+				"to": "00:33:42,940"
+			},
+			"offsets": {
+				"from": 2018240,
+				"to": 2022940
+			},
+			"text": " put it on you and keep it wherever you are. If ever you're in danger, put this ring somewhere safe"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,940",
+				"to": "00:33:49,820"
+			},
+			"offsets": {
+				"from": 2022940,
+				"to": 2029820
+			},
+			"text": " and follow the thread and the thread will lead you right back to me. But I need you to realize"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:49,820",
+				"to": "00:33:55,980"
+			},
+			"offsets": {
+				"from": 2029820,
+				"to": 2035980
+			},
+			"text": " the thread doesn't always take you in the way you expect it to take you. Often it takes you in a"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,980",
+				"to": "00:34:02,780"
+			},
+			"offsets": {
+				"from": 2035980,
+				"to": 2042780
+			},
+			"text": " roundabout way to get to me. You've got to remember though, I love you. I have a plan for you. And if"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,780",
+				"to": "00:34:08,260"
+			},
+			"offsets": {
+				"from": 2042780,
+				"to": 2048260
+			},
+			"text": " you just follow the thread, it will lead you back to me. So I'm going to read an excerpt directly from"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,260",
+				"to": "00:34:15,700"
+			},
+			"offsets": {
+				"from": 2048260,
+				"to": 2055700
+			},
+			"text": " that same morning early, the princess woke up in a terrible fright. There was a hideous noise in her"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:15,700",
+				"to": "00:34:21,300"
+			},
+			"offsets": {
+				"from": 2055700,
+				"to": 2061300
+			},
+			"text": " room, creatures snarling and hissing and rocketing about as if they were fighting. The moment she came"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,300",
+				"to": "00:34:24,840"
+			},
+			"offsets": {
+				"from": 2061300,
+				"to": 2064840
+			},
+			"text": " to herself, she remembered something, what her grandma had told her to do when she was frightened."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,840",
+				"to": "00:34:30,300"
+			},
+			"offsets": {
+				"from": 2064840,
+				"to": 2070300
+			},
+			"text": " She immediately took her ring off and put it under her pillow. Soon she found her grandmother's thread,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:30,540",
+				"to": "00:34:35,420"
+			},
+			"offsets": {
+				"from": 2070540,
+				"to": 2075420
+			},
+			"text": " which she proceeded to follow at once, expecting it would lead her straight up the old stairs."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,420",
+				"to": "00:34:40,860"
+			},
+			"offsets": {
+				"from": 2075420,
+				"to": 2080860
+			},
+			"text": " Then, to her surprise and somewhat to her dismay, she found that instead of leading her towards the"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,860",
+				"to": "00:34:47,100"
+			},
+			"offsets": {
+				"from": 2080860,
+				"to": 2087100
+			},
+			"text": " stairs, it turned in quite the opposite direction and it led her through a certain narrow passage towards"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,100",
+				"to": "00:34:53,740"
+			},
+			"offsets": {
+				"from": 2087100,
+				"to": 2093740
+			},
+			"text": " the kitchen and into the backyard. Down and down the path it went, then up and then down and then up again,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,740",
+				"to": "00:34:58,780"
+			},
+			"offsets": {
+				"from": 2093740,
+				"to": 2098780
+			},
+			"text": " getting rugged and more rugged as it went. And still along the path went the silvery thread,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,780",
+				"to": "00:35:05,020"
+			},
+			"offsets": {
+				"from": 2098780,
+				"to": 2105020
+			},
+			"text": " and still along the thread went Irina's little rosy-tipped forefinger. And as still the path grew"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,020",
+				"to": "00:35:11,900"
+			},
+			"offsets": {
+				"from": 2105020,
+				"to": 2111900
+			},
+			"text": " rougher and steeper, and the mountain grew wider, and then she turned to look back and she saw that the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,900",
+				"to": "00:35:17,260"
+			},
+			"offsets": {
+				"from": 2111900,
+				"to": 2117260
+			},
+			"text": " level country had vanished, and the rough bear mountain had closed in about her, but still"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,260",
+				"to": "00:35:23,980"
+			},
+			"offsets": {
+				"from": 2117260,
+				"to": 2123980
+			},
+			"text": " went on the thread, and still on went the princess. Before she had gone many paces, she was in total"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:23,980",
+				"to": "00:35:29,340"
+			},
+			"offsets": {
+				"from": 2123980,
+				"to": 2129340
+			},
+			"text": " darkness. Then she began to be more frightened indeed, but she kept thinking more and more about"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,340",
+				"to": "00:35:33,820"
+			},
+			"offsets": {
+				"from": 2129340,
+				"to": 2133820
+			},
+			"text": " her grandmother, and all the things she had said to her, and how kind she had been, and how beautiful"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:33,820",
+				"to": "00:35:39,660"
+			},
+			"offsets": {
+				"from": 2133820,
+				"to": 2139660
+			},
+			"text": " she was, and how she became more and more sure that the thread could not have gone there by itself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,660",
+				"to": "00:35:45,020"
+			},
+			"offsets": {
+				"from": 2139660,
+				"to": 2145020
+			},
+			"text": " but that her grandmother must have sent it. But it tried her dreadfully when the path went down"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,020",
+				"to": "00:35:51,100"
+			},
+			"offsets": {
+				"from": 2145020,
+				"to": 2151100
+			},
+			"text": " very, very steep. She came to a huge heap of stones piled in the slope against the wall of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,100",
+				"to": "00:35:57,260"
+			},
+			"offsets": {
+				"from": 2151100,
+				"to": 2157260
+			},
+			"text": " cavern. On these she climbed and soon recovered the level of the thread, only to find the next moment"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,260",
+				"to": "00:36:03,500"
+			},
+			"offsets": {
+				"from": 2157260,
+				"to": 2163500
+			},
+			"text": " that it vanished through the heap of stones, and it left her standing on it with her face to solid rock."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:03,500",
+				"to": "00:36:08,860"
+			},
+			"offsets": {
+				"from": 2163500,
+				"to": 2168860
+			},
+			"text": " For one terrible moment, she felt as if her grandmother had forsaken her. The thread had"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,860",
+				"to": "00:36:14,940"
+			},
+			"offsets": {
+				"from": 2168860,
+				"to": 2174940
+			},
+			"text": " brought her into a horrible cavern, and there it had left her. She was forsaken indeed. She threw"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:14,940",
+				"to": "00:36:22,300"
+			},
+			"offsets": {
+				"from": 2174940,
+				"to": 2182300
+			},
+			"text": " herself on the heap of stones and burst into a wailing cry. Don't worry, it's not over. But this is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,300",
+				"to": "00:36:28,860"
+			},
+			"offsets": {
+				"from": 2182300,
+				"to": 2188860
+			},
+			"text": " this isn't a picture of what it's like sometimes to follow Jesus. I don't know what is. You ever felt like"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:28,860",
+				"to": "00:36:34,700"
+			},
+			"offsets": {
+				"from": 2188860,
+				"to": 2194700
+			},
+			"text": " you followed him, and you trusted him, and you feel like you are up against a brick wall,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,700",
+				"to": "00:36:41,500"
+			},
+			"offsets": {
+				"from": 2194700,
+				"to": 2201500
+			},
+			"text": " and that there is nowhere else to go, and you are just, you know, you're sure you've been forsaken."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:41,500",
+				"to": "00:36:46,780"
+			},
+			"offsets": {
+				"from": 2201500,
+				"to": 2206780
+			},
+			"text": " You sure you misunderstood him, and you did something wrong. Whatever it is, you are scared and terrified."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,780",
+				"to": "00:36:56,220"
+			},
+			"offsets": {
+				"from": 2206780,
+				"to": 2216220
+			},
+			"text": " Jesus himself had that moment in the garden where he knew he was about to endure incredible pain,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,220",
+				"to": "00:37:04,620"
+			},
+			"offsets": {
+				"from": 2216220,
+				"to": 2224620
+			},
+			"text": " and he sweat blood because of the fear. It seemed as if he was up against a brick wall. Yet Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,620",
+				"to": "00:37:09,900"
+			},
+			"offsets": {
+				"from": 2224620,
+				"to": 2229900
+			},
+			"text": " followed his thread directly into the tomb. Surely that's the end, right? You follow the thread into"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,900",
+				"to": "00:37:14,460"
+			},
+			"offsets": {
+				"from": 2229900,
+				"to": 2234460
+			},
+			"text": " the tomb, but we know, we have the benefit of knowing that three days later he rose again, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,460",
+				"to": "00:37:24,140"
+			},
+			"offsets": {
+				"from": 2234460,
+				"to": 2244140
+			},
+			"text": " everything was part of God's big plan to save you and us. Oftentimes you, you will be led to what"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:24,140",
+				"to": "00:37:29,980"
+			},
+			"offsets": {
+				"from": 2244140,
+				"to": 2249980
+			},
+			"text": " seems like a walk wall. Both churches were led to what seemed like a stone wall, and there was no"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:29,980",
+				"to": "00:37:37,500"
+			},
+			"offsets": {
+				"from": 2249980,
+				"to": 2257500
+			},
+			"text": " getting past it. Yet it was all part of God's plan. Listen what happens in our story. At once it came to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:37,500",
+				"to": "00:37:43,100"
+			},
+			"offsets": {
+				"from": 2257500,
+				"to": 2263100
+			},
+			"text": " her head that she might remove some of the stones and see where the thread went next. Almost laughing"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:43,100",
+				"to": "00:37:49,100"
+			},
+			"offsets": {
+				"from": 2263100,
+				"to": 2269100
+			},
+			"text": " at herself for never thinking of this, she jumps to her feet and her fear vanishes. Once more, she is"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:49,100",
+				"to": "00:37:54,060"
+			},
+			"offsets": {
+				"from": 2269100,
+				"to": 2274060
+			},
+			"text": " certain her grandmother's thread could not have brought her there just to leave her there. And she begins to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,060",
+				"to": "00:37:59,020"
+			},
+			"offsets": {
+				"from": 2274060,
+				"to": 2279020
+			},
+			"text": " throw away the stones from the top as fast as she could, sometimes two or three to handle, sometimes"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,020",
+				"to": "00:38:06,780"
+			},
+			"offsets": {
+				"from": 2279020,
+				"to": 2286780
+			},
+			"text": " taking both hands to lift one. So she starts, she's realizing, wait, maybe God didn't bring me to this rock wall"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:06,780",
+				"to": "00:38:12,060"
+			},
+			"offsets": {
+				"from": 2286780,
+				"to": 2292060
+			},
+			"text": " because he's going to abandon me. I want you to start moving some stones. Maybe God brought you to where you are"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:12,060",
+				"to": "00:38:17,980"
+			},
+			"offsets": {
+				"from": 2292060,
+				"to": 2297980
+			},
+			"text": " right now to grow you, and it's going to be heavy, and you might need to use two hands to lift one thing that is in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,980",
+				"to": "00:38:25,020"
+			},
+			"offsets": {
+				"from": 2297980,
+				"to": 2305020
+			},
+			"text": " way. But he wants you to go through this because there's something on the other side. So what happens in the fairy tale is she starts"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,020",
+				"to": "00:38:31,420"
+			},
+			"offsets": {
+				"from": 2305020,
+				"to": 2311420
+			},
+			"text": " throwing stones. And she hears her cousin singing. So her cousin had gone missing. He apparently gets"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:31,420",
+				"to": "00:38:38,620"
+			},
+			"offsets": {
+				"from": 2311420,
+				"to": 2318620
+			},
+			"text": " abducted by goblins. And they're storing him in this cave. But she doesn't know. So when she hears him"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:38,620",
+				"to": "00:38:47,900"
+			},
+			"offsets": {
+				"from": 2318620,
+				"to": 2327900
+			},
+			"text": " singing, his name's Curtie. And she says, Curtie, is that you? And he's like, how on earth did you find me? I am so..."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,900",
+				"to": "00:38:53,980"
+			},
+			"offsets": {
+				"from": 2327900,
+				"to": 2333980
+			},
+			"text": " Remember, she goes down state mountains and up and down and over and out in the darkness. And he's like, how in the world"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:53,980",
+				"to": "00:39:00,620"
+			},
+			"offsets": {
+				"from": 2333980,
+				"to": 2340620
+			},
+			"text": " did you get here? He says, I can't think of how you got here, though. And she says, my grandmother sent me here"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:00,620",
+				"to": "00:39:07,020"
+			},
+			"offsets": {
+				"from": 2340620,
+				"to": 2347020
+			},
+			"text": " after her thread. He's like, what? I don't know what you mean, said Curtie, but so you're here and it doesn't matter"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:07,020",
+				"to": "00:39:13,740"
+			},
+			"offsets": {
+				"from": 2347020,
+				"to": 2353740
+			},
+			"text": " much. And she said, oh yes, it does, returned Irene. I would never have been here but for her. I must follow my thread,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:13,900",
+				"to": "00:39:22,540"
+			},
+			"offsets": {
+				"from": 2353900,
+				"to": 2362540
+			},
+			"text": " returned Irene, whatever I do. It's in these moments. God has brought you out of something big. When you"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,540",
+				"to": "00:39:28,060"
+			},
+			"offsets": {
+				"from": 2362540,
+				"to": 2368060
+			},
+			"text": " thought, I'm at a rock wall and not getting past this. And he brings you out of it. It's in these moments"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,060",
+				"to": "00:39:32,140"
+			},
+			"offsets": {
+				"from": 2368060,
+				"to": 2372140
+			},
+			"text": " that you need to look back. That's where wisdom comes from. Where we look back and we say, you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,140",
+				"to": "00:39:37,260"
+			},
+			"offsets": {
+				"from": 2372140,
+				"to": 2377260
+			},
+			"text": " what? I pulled my thread and he got me out of that. He's going to get me out of this too. No matter how crazy it"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,260",
+				"to": "00:39:42,860"
+			},
+			"offsets": {
+				"from": 2377260,
+				"to": 2382860
+			},
+			"text": " looks, no matter how many rocks I have to move, I know that you can do it because you've done it so many"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:42,860",
+				"to": "00:39:49,100"
+			},
+			"offsets": {
+				"from": 2382860,
+				"to": 2389100
+			},
+			"text": " times before. And that's why I wanted to share you this story. Irina would not have found her cousin"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:49,100",
+				"to": "00:39:53,580"
+			},
+			"offsets": {
+				"from": 2389100,
+				"to": 2393580
+			},
+			"text": " had she not followed God's thread. It didn't take her where she thought it was. She wanted to go up to"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,580",
+				"to": "00:39:58,560"
+			},
+			"offsets": {
+				"from": 2393580,
+				"to": 2398560
+			},
+			"text": " the attic immediately. How many times have you not been able to buy the house that you wanted to buy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:58,560",
+				"to": "00:40:01,980"
+			},
+			"offsets": {
+				"from": 2398560,
+				"to": 2401980
+			},
+			"text": " And so you were stuck in the neighborhood that you didn't want to be stuck in. And then your neighbor"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:01,980",
+				"to": "00:40:07,020"
+			},
+			"offsets": {
+				"from": 2401980,
+				"to": 2407020
+			},
+			"text": " says, hey, can you tell me what you know about God? And you end up witnessing to them. And had you not"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,020",
+				"to": "00:40:11,280"
+			},
+			"offsets": {
+				"from": 2407020,
+				"to": 2411280
+			},
+			"text": " been in that neighborhood, you wouldn't have had that opportunity. Or you don't get the promotion that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,280",
+				"to": "00:40:16,800"
+			},
+			"offsets": {
+				"from": 2411280,
+				"to": 2416800
+			},
+			"text": " think that you're supposed to get. And someone sitting next to you in the non-provoted section"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,800",
+				"to": "00:40:21,580"
+			},
+			"offsets": {
+				"from": 2416800,
+				"to": 2421580
+			},
+			"text": " says, what church do you go to? I feel like, I don't know, I feel like I've heard you talk about"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,580",
+				"to": "00:40:26,260"
+			},
+			"offsets": {
+				"from": 2421580,
+				"to": 2426260
+			},
+			"text": " your church. Like, he's going to put us in situations that we don't think we should be in"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,260",
+				"to": "00:40:32,660"
+			},
+			"offsets": {
+				"from": 2426260,
+				"to": 2432660
+			},
+			"text": " because he knows someone there needs us. Had she stopped and given up and just cowered,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,660",
+				"to": "00:40:37,740"
+			},
+			"offsets": {
+				"from": 2432660,
+				"to": 2437740
+			},
+			"text": " she never would have found her cousin. If we stop when times get hard and give up,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,740",
+				"to": "00:40:43,720"
+			},
+			"offsets": {
+				"from": 2437740,
+				"to": 2443720
+			},
+			"text": " we don't know what amazing things God has prepared for us. That's why we need the spirit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,720",
+				"to": "00:40:47,860"
+			},
+			"offsets": {
+				"from": 2443720,
+				"to": 2447860
+			},
+			"text": " not of fear, but of power and love and a sound mind. If we have a spirit of fear, we give up."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:47,860",
+				"to": "00:40:54,340"
+			},
+			"offsets": {
+				"from": 2447860,
+				"to": 2454340
+			},
+			"text": " We're debilitated. We can't move. If we have a spirit of power and love and a sound mind,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:54,340",
+				"to": "00:40:59,800"
+			},
+			"offsets": {
+				"from": 2454340,
+				"to": 2459800
+			},
+			"text": " we will move those stones to see what God has for us. So that's step one. Follow your thread"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,800",
+				"to": "00:41:05,280"
+			},
+			"offsets": {
+				"from": 2459800,
+				"to": 2465280
+			},
+			"text": " back to God. No matter where you are, remember, it's always going to lay me back to him if I keep"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:05,280",
+				"to": "00:41:16,680"
+			},
+			"offsets": {
+				"from": 2465280,
+				"to": 2476680
+			},
+			"text": " going in the right path. Step two is relocate your glory. He says, but you are my glory in verse two."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:16,680",
+				"to": "00:41:23,920"
+			},
+			"offsets": {
+				"from": 2476680,
+				"to": 2483920
+			},
+			"text": " You are my glory. He would not have said that unless something else had been. So we have David. He's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:23,920",
+				"to": "00:41:30,120"
+			},
+			"offsets": {
+				"from": 2483920,
+				"to": 2490120
+			},
+			"text": " king, right? He had built his identity. David started as a little shepherd boy when all he had was"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:30,120",
+				"to": "00:41:39,240"
+			},
+			"offsets": {
+				"from": 2490120,
+				"to": 2499240
+			},
+			"text": " Jesus. But over time, he's gotten power, kingship, loyalty, lots of wives. He's gotten a little bit"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:39,240",
+				"to": "00:41:45,440"
+			},
+			"offsets": {
+				"from": 2499240,
+				"to": 2505440
+			},
+			"text": " too confident in who he is. His glory is no longer in God. It's no longer the shepherd boy fighting"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,440",
+				"to": "00:41:53,860"
+			},
+			"offsets": {
+				"from": 2505440,
+				"to": 2513860
+			},
+			"text": " Goliath. His glory is now in a lot of his identity. He's a popular king, right? Not anymore. He is hiding"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,860",
+				"to": "00:41:59,720"
+			},
+			"offsets": {
+				"from": 2513860,
+				"to": 2519720
+			},
+			"text": " in a cave with armies after him. That doesn't sound like a popular king to me. He's a good father."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:59,720",
+				"to": "00:42:07,400"
+			},
+			"offsets": {
+				"from": 2519720,
+				"to": 2527400
+			},
+			"text": " Not anymore. His son, his favorite son, is trying to kill him. So he can't rest his identity on the"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,400",
+				"to": "00:42:12,400"
+			},
+			"offsets": {
+				"from": 2527400,
+				"to": 2532400
+			},
+			"text": " fact that he's the king. He can't rest his identity on the fact that he's a good dad. He has a great"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:12,400",
+				"to": "00:42:20,520"
+			},
+			"offsets": {
+				"from": 2532400,
+				"to": 2540520
+			},
+			"text": " moral record, right? Not anymore. He had an affair. He had her husband killed. Everybody knows this. He can't"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,520",
+				"to": "00:42:26,920"
+			},
+			"offsets": {
+				"from": 2540520,
+				"to": 2546920
+			},
+			"text": " bank his identity on the fact that he has a good moral record. He has power. Not anymore. He's hiding"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,920",
+				"to": "00:42:33,420"
+			},
+			"offsets": {
+				"from": 2546920,
+				"to": 2553420
+			},
+			"text": " in a cave. He's got armies after him, not fighting for him. So he has to face the fact that even though"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,420",
+				"to": "00:42:41,100"
+			},
+			"offsets": {
+				"from": 2553420,
+				"to": 2561100
+			},
+			"text": " he's messed up, he can still find his glory in God. Sometimes God gets us down, or he doesn't make us get"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:41,100",
+				"to": "00:42:46,460"
+			},
+			"offsets": {
+				"from": 2561100,
+				"to": 2566460
+			},
+			"text": " down, but sometimes when we are in the lowest of low because of things we've done, honestly, to our"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,460",
+				"to": "00:42:52,580"
+			},
+			"offsets": {
+				"from": 2566460,
+				"to": 2572580
+			},
+			"text": " own selves, God's down there saying, it's okay. I still love you despite of all the things you did,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:52,580",
+				"to": "00:42:58,860"
+			},
+			"offsets": {
+				"from": 2572580,
+				"to": 2578860
+			},
+			"text": " and I still want to be your glory. Because if you find your glory in me, you can never lose it. If"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:58,860",
+				"to": "00:43:05,960"
+			},
+			"offsets": {
+				"from": 2578860,
+				"to": 2585960
+			},
+			"text": " you're experiencing debilitating anxiety, ask yourself where your significance comes from."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:06,720",
+				"to": "00:43:13,020"
+			},
+			"offsets": {
+				"from": 2586720,
+				"to": 2593020
+			},
+			"text": " Does your significance come from God, or does it come from finite things that are going to end?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:13,020",
+				"to": "00:43:17,460"
+			},
+			"offsets": {
+				"from": 2593020,
+				"to": 2597460
+			},
+			"text": " If it comes from finite things, if it comes from your identity, if it comes from people liking you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:17,460",
+				"to": "00:43:25,200"
+			},
+			"offsets": {
+				"from": 2597460,
+				"to": 2605200
+			},
+			"text": " that anxiety is only going to lead you to anxiety. God, if you find your significance in God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:25,200",
+				"to": "00:43:31,340"
+			},
+			"offsets": {
+				"from": 2605200,
+				"to": 2611340
+			},
+			"text": " then you can never not have power and love online. It's a good thing to have a good relationship with"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:31,340",
+				"to": "00:43:36,400"
+			},
+			"offsets": {
+				"from": 2611340,
+				"to": 2616400
+			},
+			"text": " your kids. There's nothing wrong with that. It's a good thing to have a good marriage and depend on your"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:36,400",
+				"to": "00:43:41,580"
+			},
+			"offsets": {
+				"from": 2616400,
+				"to": 2621580
+			},
+			"text": " spouse. All of these things are good things. But C.S. Lewis says, when you're a Christian, you have to"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,580",
+				"to": "00:43:46,600"
+			},
+			"offsets": {
+				"from": 2621580,
+				"to": 2626600
+			},
+			"text": " remember to follow the sunbeam to the sun. So if you have something good on earth, that's a sunbeam."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:46,600",
+				"to": "00:43:51,800"
+			},
+			"offsets": {
+				"from": 2626600,
+				"to": 2631800
+			},
+			"text": " Follow it up to the sun. Follow it up to the Savior. That's where we give our thanks. We say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:52,280",
+				"to": "00:43:56,360"
+			},
+			"offsets": {
+				"from": 2632280,
+				"to": 2636360
+			},
+			"text": " thank you for the children that you've given me. I know they came from you. Thank you for this job."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:56,360",
+				"to": "00:44:00,700"
+			},
+			"offsets": {
+				"from": 2636360,
+				"to": 2640700
+			},
+			"text": " I know it came from you. And I know that if you take me out of this position, it's because you want"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,700",
+				"to": "00:44:07,200"
+			},
+			"offsets": {
+				"from": 2640700,
+				"to": 2647200
+			},
+			"text": " me to go somewhere up. Just like following the good things in life to the sun, you can also follow"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:07,200",
+				"to": "00:44:13,020"
+			},
+			"offsets": {
+				"from": 2647200,
+				"to": 2653020
+			},
+			"text": " your anxiety. Tim Keller says that your anxiety is like smoke. And if you follow it, it will take you to"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:13,020",
+				"to": "00:44:20,120"
+			},
+			"offsets": {
+				"from": 2653020,
+				"to": 2660120
+			},
+			"text": " the fire. The fire is something that has become way too important to you. And it's causing you to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:20,120",
+				"to": "00:44:29,680"
+			},
+			"offsets": {
+				"from": 2660120,
+				"to": 2669680
+			},
+			"text": " debilitating anxiety. The third thing that you need to remember is remember the substitute. Like I said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:29,680",
+				"to": "00:44:35,300"
+			},
+			"offsets": {
+				"from": 2669680,
+				"to": 2675300
+			},
+			"text": " Satan wants you to focus on your sin, not the Savior. But you have a substitute. You have someone that took"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,300",
+				"to": "00:44:45,120"
+			},
+			"offsets": {
+				"from": 2675300,
+				"to": 2685120
+			},
+			"text": " your sins already to the cross. If we remember that, he can't use our sins against you. In verse 3,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:45,120",
+				"to": "00:44:51,920"
+			},
+			"offsets": {
+				"from": 2685120,
+				"to": 2691920
+			},
+			"text": " it says, you are my glory, the one who lifts my head high. A lifter of your head is someone who is proud"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:51,920",
+				"to": "00:44:59,000"
+			},
+			"offsets": {
+				"from": 2691920,
+				"to": 2699000
+			},
+			"text": " of you. How does David know that God is proud of him even after he's messed up so many times? He knows"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:59,000",
+				"to": "00:45:07,400"
+			},
+			"offsets": {
+				"from": 2699000,
+				"to": 2707400
+			},
+			"text": " this because he is thinking back to potentially, scholars believe that he is referencing Genesis 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:08,380",
+				"to": "00:45:14,900"
+			},
+			"offsets": {
+				"from": 2708380,
+				"to": 2714900
+			},
+			"text": " In Genesis 15, we have Abram and he's scared. God is speaking to Abram. He's telling us things to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:14,900",
+				"to": "00:45:21,940"
+			},
+			"offsets": {
+				"from": 2714900,
+				"to": 2721940
+			},
+			"text": " and he's scared. This is a super important passage in the Old Testament because it foretells the Savior's"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:21,940",
+				"to": "00:45:29,000"
+			},
+			"offsets": {
+				"from": 2721940,
+				"to": 2729000
+			},
+			"text": " coming. So he's scared and he says, God says, do not be afraid, Abram. I am your shield and your very"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:29,000",
+				"to": "00:45:36,780"
+			},
+			"offsets": {
+				"from": 2729000,
+				"to": 2736780
+			},
+			"text": " great reward. Sounds similar to what David is saying. But Abram says, but how do I know? And God says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:36,780",
+				"to": "00:45:41,640"
+			},
+			"offsets": {
+				"from": 2736780,
+				"to": 2741640
+			},
+			"text": " okay, I'll help you. Take a bunch of animals, take a heifer, a goat, a ram, a dove, a young pigeon,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,640",
+				"to": "00:45:47,500"
+			},
+			"offsets": {
+				"from": 2741640,
+				"to": 2747500
+			},
+			"text": " and cut them up. Abram knew what this meant. He thought, I'm going to make a vow. Okay, so back"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,500",
+				"to": "00:45:52,720"
+			},
+			"offsets": {
+				"from": 2747500,
+				"to": 2752720
+			},
+			"text": " then when you made a vow, you cut up an animal and you walked in between. So you got half here,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:52,720",
+				"to": "00:45:58,340"
+			},
+			"offsets": {
+				"from": 2752720,
+				"to": 2758340
+			},
+			"text": " half here, and you walk in between. And what you're saying is, is if I break this vow, let me be as"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:58,340",
+				"to": "00:46:04,820"
+			},
+			"offsets": {
+				"from": 2758340,
+				"to": 2764820
+			},
+			"text": " this animal is. Can you imagine if vows were, when we have like people like signing things and that's it."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:04,820",
+				"to": "00:46:10,120"
+			},
+			"offsets": {
+				"from": 2764820,
+				"to": 2770120
+			},
+			"text": " If we broke up an animal and said, if I don't pay this car loan, may I be of these animals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:10,120",
+				"to": "00:46:16,440"
+			},
+			"offsets": {
+				"from": 2770120,
+				"to": 2776440
+			},
+			"text": " things would be much different today. But he, he knows that God, he thinks God is going to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:16,440",
+				"to": "00:46:20,620"
+			},
+			"offsets": {
+				"from": 2776440,
+				"to": 2780620
+			},
+			"text": " him make a vow. So he's waiting around until nighttime. The Bible says he's actually like"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:20,620",
+				"to": "00:46:25,740"
+			},
+			"offsets": {
+				"from": 2780620,
+				"to": 2785740
+			},
+			"text": " chewing crows off and stuff with these dead carcasses. He's got these carcasses on either"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:25,740",
+				"to": "00:46:31,320"
+			},
+			"offsets": {
+				"from": 2785740,
+				"to": 2791320
+			},
+			"text": " side and he's waiting. What vow do you want me to take? What the Bible says is that what happens is that"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,320",
+				"to": "00:46:39,800"
+			},
+			"offsets": {
+				"from": 2791320,
+				"to": 2799800
+			},
+			"text": " that night a great darkness came and Abraham fell into a deep sleep. He saw a smoking torch. He passed"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:39,800",
+				"to": "00:46:45,100"
+			},
+			"offsets": {
+				"from": 2799800,
+				"to": 2805100
+			},
+			"text": " through the pieces and he realized that it was God who was taking a nose, saying that even if I could"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:45,100",
+				"to": "00:46:52,560"
+			},
+			"offsets": {
+				"from": 2805100,
+				"to": 2812560
+			},
+			"text": " pay for your sins, I will never leave you. Centuries later, a deep darkness falls over all the earth and"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:52,560",
+				"to": "00:47:00,860"
+			},
+			"offsets": {
+				"from": 2812560,
+				"to": 2820860
+			},
+			"text": " Jesus gives his life so that you and I can spend eternity with him in heaven. He kept his promise and we need to"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:00,860",
+				"to": "00:47:07,880"
+			},
+			"offsets": {
+				"from": 2820860,
+				"to": 2827880
+			},
+			"text": " remember we have a substitute. No matter what you've done, no matter what you're going through, Jesus gave his"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:07,880",
+				"to": "00:47:15,980"
+			},
+			"offsets": {
+				"from": 2827880,
+				"to": 2835980
+			},
+			"text": " life for you and he is proud of you. I don't care what your history is. He doesn't want Satan to use your"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:15,980",
+				"to": "00:47:20,180"
+			},
+			"offsets": {
+				"from": 2835980,
+				"to": 2840180
+			},
+			"text": " sin to keep you from the Savior. He wants you to remember, I gave my life that day and I'll do it all"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:20,180",
+				"to": "00:47:26,500"
+			},
+			"offsets": {
+				"from": 2840180,
+				"to": 2846500
+			},
+			"text": " over again because I love you and I'm proud of you and I have eternity waiting for you. And the final"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:26,500",
+				"to": "00:47:31,700"
+			},
+			"offsets": {
+				"from": 2846500,
+				"to": 2851700
+			},
+			"text": " step is remember the people. So those verses that we talked about where he says, strike my enemies and"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:31,700",
+				"to": "00:47:39,300"
+			},
+			"offsets": {
+				"from": 2851700,
+				"to": 2859300
+			},
+			"text": " break the teeth of the wicked, sounds like he's just vimping. He's not. He's actually, he's refocused and now he's"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:39,300",
+				"to": "00:47:44,840"
+			},
+			"offsets": {
+				"from": 2859300,
+				"to": 2864840
+			},
+			"text": " thinking about the fact that Absalom is not a godly leader. He is not who God put on"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:44,840",
+				"to": "00:47:51,480"
+			},
+			"offsets": {
+				"from": 2864840,
+				"to": 2871480
+			},
+			"text": " that throne. Yeah, I messed up. Yes, I did things wrong and I probably deserve to be in a cave right now. But I know that"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:51,480",
+				"to": "00:47:59,740"
+			},
+			"offsets": {
+				"from": 2871480,
+				"to": 2879740
+			},
+			"text": " Absalom is not going to lead these people to you. I've got my glory back. I remember the substitute. I've followed my"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:59,740",
+				"to": "00:48:06,840"
+			},
+			"offsets": {
+				"from": 2879740,
+				"to": 2886840
+			},
+			"text": " thread back to God and now I'm going to remember the people. I have to get back up there on the throne so that I can be the"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:06,840",
+				"to": "00:48:15,240"
+			},
+			"offsets": {
+				"from": 2886840,
+				"to": 2895240
+			},
+			"text": " leader that I should have been. So he's remembering that God is going to act on what he promised him. He's"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:15,240",
+				"to": "00:48:20,180"
+			},
+			"offsets": {
+				"from": 2895240,
+				"to": 2900180
+			},
+			"text": " remembering, I've given you these people now. Lead them the way that I told you to lead them. Because"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:20,180",
+				"to": "00:48:27,300"
+			},
+			"offsets": {
+				"from": 2900180,
+				"to": 2907300
+			},
+			"text": " oftentimes that's not what we do. If we're so focused on our sin and our anxiety and our finite things like"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:27,300",
+				"to": "00:48:32,540"
+			},
+			"offsets": {
+				"from": 2907300,
+				"to": 2912540
+			},
+			"text": " our job and everything else, then we can't focus on God and we're not leading people well. Abram's remembering"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:32,540",
+				"to": "00:48:39,160"
+			},
+			"offsets": {
+				"from": 2912540,
+				"to": 2919160
+			},
+			"text": " in this moment that God, David, sorry, is remembering in this moment that God has him there for a reason."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:39,160",
+				"to": "00:48:49,340"
+			},
+			"offsets": {
+				"from": 2919160,
+				"to": 2929340
+			},
+			"text": " Get back up there and lead those people to God. So to end, I want to remind you that 1 John 4 18 says"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:49,340",
+				"to": "00:48:56,980"
+			},
+			"offsets": {
+				"from": 2929340,
+				"to": 2936980
+			},
+			"text": " that there is no fear in love, but perfect love drives out all fear. You're never really going to deal"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:56,980",
+				"to": "00:49:02,600"
+			},
+			"offsets": {
+				"from": 2936980,
+				"to": 2942600
+			},
+			"text": " with the fear that you have by yourself. You have to stop looking at your own needs and follow the"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:02,600",
+				"to": "00:49:08,000"
+			},
+			"offsets": {
+				"from": 2942600,
+				"to": 2948000
+			},
+			"text": " thread back to God. Relocate your glory in God. Remember the one who took your sins with him to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:08,000",
+				"to": "00:49:15,180"
+			},
+			"offsets": {
+				"from": 2948000,
+				"to": 2955180
+			},
+			"text": " cross and don't let the devil paralyze you. Use the strength that God has to bring God's kingdom back."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:16,300",
+				"to": "00:49:44,420"
+			},
+			"offsets": {
+				"from": 2956300,
+				"to": 2984420
+			},
+			"text": " I asked, um, April if she would, there's someone, is April here? If she is a founder. If she would, um, sing a song that as soon as I was talking to Ryan about what I wanted to, um, share with you, he said, oh, you have to listen to this song. This song is literally perfect for this message. And so I've listened to it so many times. I was like, April, you want to sing it for me? I really want you to, and Lisa, thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:44,420",
+				"to": "00:50:04,380"
+			},
+			"offsets": {
+				"from": 2984420,
+				"to": 3004380
+			},
+			"text": " I really want you guys to listen to the words of this song and let it sink in as I know that this is God's desire for all of this. So after the song, I'll come up and end in prayer, but just take a moment, pray through what God is talking to you in this moment and take in the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:04,380",
+				"to": "00:50:34,360"
+			},
+			"offsets": {
+				"from": 3004380,
+				"to": 3034360
+			},
+			"text": " I really want you to listen to this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:34,380",
+				"to": "00:50:39,380"
+			},
+			"offsets": {
+				"from": 3034380,
+				"to": 3039380
+			},
+			"text": " I really want you to listen to this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:39,380",
+				"to": "00:50:42,380"
+			},
+			"offsets": {
+				"from": 3039380,
+				"to": 3042380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:42,380",
+				"to": "00:50:44,380"
+			},
+			"offsets": {
+				"from": 3042380,
+				"to": 3044380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:44,380",
+				"to": "00:50:46,380"
+			},
+			"offsets": {
+				"from": 3044380,
+				"to": 3046380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:46,380",
+				"to": "00:50:48,380"
+			},
+			"offsets": {
+				"from": 3046380,
+				"to": 3048380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:48,380",
+				"to": "00:50:50,380"
+			},
+			"offsets": {
+				"from": 3048380,
+				"to": 3050380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:50,380",
+				"to": "00:50:53,380"
+			},
+			"offsets": {
+				"from": 3050380,
+				"to": 3053380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:53,380",
+				"to": "00:50:57,380"
+			},
+			"offsets": {
+				"from": 3053380,
+				"to": 3057380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:57,380",
+				"to": "00:50:59,380"
+			},
+			"offsets": {
+				"from": 3057380,
+				"to": 3059380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:59,380",
+				"to": "00:51:03,380"
+			},
+			"offsets": {
+				"from": 3059380,
+				"to": 3063380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:03,380",
+				"to": "00:51:05,380"
+			},
+			"offsets": {
+				"from": 3063380,
+				"to": 3065380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:05,380",
+				"to": "00:51:06,380"
+			},
+			"offsets": {
+				"from": 3065380,
+				"to": 3066380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:06,380",
+				"to": "00:51:07,380"
+			},
+			"offsets": {
+				"from": 3066380,
+				"to": 3067380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:07,380",
+				"to": "00:51:08,380"
+			},
+			"offsets": {
+				"from": 3067380,
+				"to": 3068380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:08,380",
+				"to": "00:51:09,380"
+			},
+			"offsets": {
+				"from": 3068380,
+				"to": 3069380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:09,380",
+				"to": "00:51:10,380"
+			},
+			"offsets": {
+				"from": 3069380,
+				"to": 3070380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:10,380",
+				"to": "00:51:11,380"
+			},
+			"offsets": {
+				"from": 3070380,
+				"to": 3071380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:11,380",
+				"to": "00:51:12,380"
+			},
+			"offsets": {
+				"from": 3071380,
+				"to": 3072380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:12,380",
+				"to": "00:51:13,380"
+			},
+			"offsets": {
+				"from": 3072380,
+				"to": 3073380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:13,380",
+				"to": "00:51:14,380"
+			},
+			"offsets": {
+				"from": 3073380,
+				"to": 3074380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:14,380",
+				"to": "00:51:15,380"
+			},
+			"offsets": {
+				"from": 3074380,
+				"to": 3075380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:15,380",
+				"to": "00:51:16,380"
+			},
+			"offsets": {
+				"from": 3075380,
+				"to": 3076380
+			},
+			"text": " I really want you to listen to the words of this song."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:16,380",
+				"to": "00:51:20,380"
+			},
+			"offsets": {
+				"from": 3076380,
+				"to": 3080380
+			},
+			"text": " A sound light for the spirit of me."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:20,380",
+				"to": "00:51:25,380"
+			},
+			"offsets": {
+				"from": 3080380,
+				"to": 3085380
+			},
+			"text": " A sound light so that I can see clearly."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:25,380",
+				"to": "00:51:29,380"
+			},
+			"offsets": {
+				"from": 3085380,
+				"to": 3089380
+			},
+			"text": " A sound light, your spirit is here."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:29,380",
+				"to": "00:51:34,380"
+			},
+			"offsets": {
+				"from": 3089380,
+				"to": 3094380
+			},
+			"text": " A sound light, a sound light."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:34,380",
+				"to": "00:51:53,380"
+			},
+			"offsets": {
+				"from": 3094380,
+				"to": 3113380
+			},
+			"text": " A sound light, a sound light."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:53,380",
+				"to": "00:51:56,380"
+			},
+			"offsets": {
+				"from": 3113380,
+				"to": 3116380
+			},
+			"text": " A sound light, a sound light."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:56,380",
+				"to": "00:52:01,380"
+			},
+			"offsets": {
+				"from": 3116380,
+				"to": 3121380
+			},
+			"text": " A sound light, a sound light."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:01,380",
+				"to": "00:52:10,440"
+			},
+			"offsets": {
+				"from": 3121380,
+				"to": 3130440
+			},
+			"text": " I will listen, I will listen, and every word you're speaking to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:10,440",
+				"to": "00:52:19,440"
+			},
+			"offsets": {
+				"from": 3130440,
+				"to": 3139440
+			},
+			"text": " I remember who you are, you're my first witness and my God."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:19,440",
+				"to": "00:52:28,960"
+			},
+			"offsets": {
+				"from": 3139440,
+				"to": 3148960
+			},
+			"text": " I will stand in authority, Jesus' name all this darkness will breathe."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:29,800",
+				"to": "00:52:43,220"
+			},
+			"offsets": {
+				"from": 3149800,
+				"to": 3163220
+			},
+			"text": " A soundbind for the spirit of fear, a soundbind so that I can see clearly, a soundbind your spirit is here."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:43,220",
+				"to": "00:52:56,880"
+			},
+			"offsets": {
+				"from": 3163220,
+				"to": 3176880
+			},
+			"text": " A soundbind, a soundbind, a soundbind for the spirit of fear, a soundbind so that I can see clearly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:57,680",
+				"to": "00:53:01,640"
+			},
+			"offsets": {
+				"from": 3177680,
+				"to": 3181640
+			},
+			"text": " a soundbind your spirit is here."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:01,640",
+				"to": "00:53:07,700"
+			},
+			"offsets": {
+				"from": 3181640,
+				"to": 3187700
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:09,700",
+				"to": "00:53:23,660"
+			},
+			"offsets": {
+				"from": 3189700,
+				"to": 3203660
+			},
+			"text": " A soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:23,660",
+				"to": "00:53:27,620"
+			},
+			"offsets": {
+				"from": 3203660,
+				"to": 3207620
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:27,620",
+				"to": "00:53:31,580"
+			},
+			"offsets": {
+				"from": 3207620,
+				"to": 3211580
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:31,580",
+				"to": "00:53:35,540"
+			},
+			"offsets": {
+				"from": 3211580,
+				"to": 3215540
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:35,540",
+				"to": "00:53:39,500"
+			},
+			"offsets": {
+				"from": 3215540,
+				"to": 3219500
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:39,500",
+				"to": "00:53:43,460"
+			},
+			"offsets": {
+				"from": 3219500,
+				"to": 3223460
+			},
+			"text": " A soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:43,460",
+				"to": "00:53:47,420"
+			},
+			"offsets": {
+				"from": 3223460,
+				"to": 3227420
+			},
+			"text": " A soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:47,420",
+				"to": "00:53:51,380"
+			},
+			"offsets": {
+				"from": 3227420,
+				"to": 3231380
+			},
+			"text": " A soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:51,380",
+				"to": "00:53:55,340"
+			},
+			"offsets": {
+				"from": 3231380,
+				"to": 3235340
+			},
+			"text": " A soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:55,340",
+				"to": "00:53:59,300"
+			},
+			"offsets": {
+				"from": 3235340,
+				"to": 3239300
+			},
+			"text": " A soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:59,300",
+				"to": "00:54:03,260"
+			},
+			"offsets": {
+				"from": 3239300,
+				"to": 3243260
+			},
+			"text": " A soundbind, a soundbind, a soundbind, a soundbind."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:03,260",
+				"to": "00:54:16,200"
+			},
+			"offsets": {
+				"from": 3243260,
+				"to": 3256200
+			},
+			"text": " me. Jesus' blood washed over me. And my soul, it could I hear these breaths to testify. I testify."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:18,340",
+				"to": "00:54:48,320"
+			},
+			"offsets": {
+				"from": 3258340,
+				"to": 3288320
+			},
+			"text": " A soundbite for the spirit of fear. A soundbite for the spirit of fear. A soundbite for the spirit of fear. A soundbite for the spirit of fear. A soundbite for the spirit of fear. A soundbite for that I can see clearly. A soundbite for the spirit of fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:48,340",
+				"to": "00:54:53,480"
+			},
+			"offsets": {
+				"from": 3288340,
+				"to": 3293480
+			},
+			"text": " A soundbite for the spirit of fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:15,360",
+				"to": "00:55:16,660"
+			},
+			"offsets": {
+				"from": 3315360,
+				"to": 3316660
+			},
+			"text": " Okay, let's pray together."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:16,660",
+				"to": "00:55:32,740"
+			},
+			"offsets": {
+				"from": 3316660,
+				"to": 3332740
+			},
+			"text": " Holy Father, thank you so much for the words that you are teaching us this morning. I pray that above all else, no matter what we're experiencing, no matter what rock wall we feel that we are up against, you will give us that sound mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:33,320",
+				"to": "00:55:49,740"
+			},
+			"offsets": {
+				"from": 3333320,
+				"to": 3349740
+			},
+			"text": " Help us to know the direction you want us to go. Remind us of the sacrifice you made and the pride that you have in each person that loves you, God. Allow us to have that sound mind, that power, and that love in all circumstances."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:49,740",
+				"to": "00:55:57,200"
+			},
+			"offsets": {
+				"from": 3349740,
+				"to": 3357200
+			},
+			"text": " And allow us to allow us to allow us to allow us to put our hope and our glory in eternal things, not in the finite things of this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:57,200",
+				"to": "00:56:09,060"
+			},
+			"offsets": {
+				"from": 3357200,
+				"to": 3369060
+			},
+			"text": " Take away the power of the enemies that come to stifle us and make us unproductive. Lead us into your loving arms, no matter what situation you are dealing with, God."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:09,060",
+				"to": "00:56:24,300"
+			},
+			"offsets": {
+				"from": 3369060,
+				"to": 3384300
+			},
+			"text": " I pray that you will be with each person in this room as they leave, as they go out into this town, say, God, and remind them that you are there in all circumstances, and that you are always ready to take us back, no matter what we have done."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:24,300",
+				"to": "00:56:26,360"
+			},
+			"offsets": {
+				"from": 3384300,
+				"to": 3386360
+			},
+			"text": " In Jesus' name I pray. Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:29,260",
+				"to": "00:56:32,040"
+			},
+			"offsets": {
+				"from": 3389260,
+				"to": 3392040
+			},
+			"text": " I don't know how it works here, but thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:32,040",
+				"to": "00:56:32,840"
+			},
+			"offsets": {
+				"from": 3392040,
+				"to": 3392840
+			},
+			"text": " You want to dismiss?"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:32,840",
+				"to": "00:56:36,380"
+			},
+			"offsets": {
+				"from": 3392840,
+				"to": 3396380
+			},
+			"text": " At least that's what I say to the kids, but that's all."
+		}
+	]
+}

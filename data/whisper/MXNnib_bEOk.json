@@ -1,0 +1,7402 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,840",
+				"to": "00:00:06,220"
+			},
+			"offsets": {
+				"from": 840,
+				"to": 6220
+			},
+			"text": " I am thrilled to be up here with you today to open up this new series on parables of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,220",
+				"to": "00:00:09,780"
+			},
+			"offsets": {
+				"from": 6220,
+				"to": 9780
+			},
+			"text": " We're going to cover eight weeks of parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,780",
+				"to": "00:00:16,380"
+			},
+			"offsets": {
+				"from": 9780,
+				"to": 16380
+			},
+			"text": " That means we're going to cover some that you probably have heard of and know very well by their current culture even,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,380",
+				"to": "00:00:18,980"
+			},
+			"offsets": {
+				"from": 16380,
+				"to": 18980
+			},
+			"text": " and probably some that you don't know that well."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,980",
+				"to": "00:00:25,100"
+			},
+			"offsets": {
+				"from": 18980,
+				"to": 25100
+			},
+			"text": " And along these eight weeks, we're going to be focused on how to understand the parables of Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,100",
+				"to": "00:00:27,460"
+			},
+			"offsets": {
+				"from": 25100,
+				"to": 27460
+			},
+			"text": " and how to respond to them appropriately, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,960",
+				"to": "00:00:34,100"
+			},
+			"offsets": {
+				"from": 28960,
+				"to": 34100
+			},
+			"text": " Which gives me the opportunity that I love to stand up on a church stage and say the following."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,100",
+				"to": "00:00:37,640"
+			},
+			"offsets": {
+				"from": 34100,
+				"to": 37640
+			},
+			"text": " A pastor, a priest, and a rabbi walked into a barn."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,640",
+				"to": "00:00:40,820"
+			},
+			"offsets": {
+				"from": 37640,
+				"to": 40820
+			},
+			"text": " You'd think one of them would have seen it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,820",
+				"to": "00:00:49,920"
+			},
+			"offsets": {
+				"from": 40820,
+				"to": 49920
+			},
+			"text": " Okay, so for those of you who laughed at that and only those who laughed, why is that funny, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,920",
+				"to": "00:00:52,660"
+			},
+			"offsets": {
+				"from": 49920,
+				"to": 52660
+			},
+			"text": " I'm going to destroy a perfectly mediocre joke, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,660",
+				"to": "00:00:54,760"
+			},
+			"offsets": {
+				"from": 52660,
+				"to": 54760
+			},
+			"text": " Because it's important to understanding parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,760",
+				"to": "00:01:01,260"
+			},
+			"offsets": {
+				"from": 54760,
+				"to": 61260
+			},
+			"text": " Okay, so a joke is structured in such a way that I set up your expectations."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,260",
+				"to": "00:01:02,760"
+			},
+			"offsets": {
+				"from": 61260,
+				"to": 62760
+			},
+			"text": " Two guys walk into a bar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,760",
+				"to": "00:01:10,100"
+			},
+			"offsets": {
+				"from": 62760,
+				"to": 70100
+			},
+			"text": " That means we all understand immediately, all right, it's some anonymous guy with fear of the virtues and all of the foibles of your average person, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,100",
+				"to": "00:01:11,900"
+			},
+			"offsets": {
+				"from": 70100,
+				"to": 71900
+			},
+			"text": " And he's going to walk into a bar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,000",
+				"to": "00:01:15,120"
+			},
+			"offsets": {
+				"from": 72000,
+				"to": 75120
+			},
+			"text": " This is a place with relaxed social standings and anything's possible."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,120",
+				"to": "00:01:17,020"
+			},
+			"offsets": {
+				"from": 75120,
+				"to": 77020
+			},
+			"text": " A horse might talk to a knotted rope, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,020",
+				"to": "00:01:20,700"
+			},
+			"offsets": {
+				"from": 77020,
+				"to": 80700
+			},
+			"text": " This is a joke structure."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,700",
+				"to": "00:01:22,740"
+			},
+			"offsets": {
+				"from": 80700,
+				"to": 82740
+			},
+			"text": " Everybody's now ready for what's going to happen next."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,740",
+				"to": "00:01:25,660"
+			},
+			"offsets": {
+				"from": 82740,
+				"to": 85660
+			},
+			"text": " And oh dear, it's a stupid grammar joke, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,660",
+				"to": "00:01:27,040"
+			},
+			"offsets": {
+				"from": 85660,
+				"to": 87040
+			},
+			"text": " There's this twist at the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,040",
+				"to": "00:01:27,860"
+			},
+			"offsets": {
+				"from": 87040,
+				"to": 87860
+			},
+			"text": " That's the punchline."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,860",
+				"to": "00:01:31,300"
+			},
+			"offsets": {
+				"from": 87860,
+				"to": 91300
+			},
+			"text": " Where your expectations that were set up by the tropes are frustrated."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,040",
+				"to": "00:01:35,860"
+			},
+			"offsets": {
+				"from": 92040,
+				"to": 95860
+			},
+			"text": " And in that moment of surprise delight, you giggle if you're polite to the speaker, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,860",
+				"to": "00:01:39,340"
+			},
+			"offsets": {
+				"from": 95860,
+				"to": 99340
+			},
+			"text": " So how is that like a parable?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,340",
+				"to": "00:01:50,100"
+			},
+			"offsets": {
+				"from": 99340,
+				"to": 110100
+			},
+			"text": " Well, in the narrative parables, Christ or the Old Testament prophet, whoever was telling the parable, would use the tropes and the basic assumptions of the time to set everybody's assumption in place."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,100",
+				"to": "00:01:52,160"
+			},
+			"offsets": {
+				"from": 110100,
+				"to": 112160
+			},
+			"text": " Here's what, and they know what's going to happen next."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,160",
+				"to": "00:01:53,280"
+			},
+			"offsets": {
+				"from": 112160,
+				"to": 113280
+			},
+			"text": " They understand this is a parable."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,280",
+				"to": "00:01:56,200"
+			},
+			"offsets": {
+				"from": 113280,
+				"to": 116200
+			},
+			"text": " They know what's supposed to happen next and the teaching they're supposed to receive."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,200",
+				"to": "00:02:00,400"
+			},
+			"offsets": {
+				"from": 116200,
+				"to": 120400
+			},
+			"text": " And then there's a twist and you frustrate those expectations."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,400",
+				"to": "00:02:07,020"
+			},
+			"offsets": {
+				"from": 120400,
+				"to": 127020
+			},
+			"text": " And instead of giving you laughter, it gives you a moment to reconsider what you think is true and to change your behavior, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,020",
+				"to": "00:02:09,020"
+			},
+			"offsets": {
+				"from": 127020,
+				"to": 129020
+			},
+			"text": " That's what a parable is for."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,020",
+				"to": "00:02:15,320"
+			},
+			"offsets": {
+				"from": 129020,
+				"to": 135320
+			},
+			"text": " And therefore, to understand a parable, you have to understand their assumption."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,320",
+				"to": "00:02:20,000"
+			},
+			"offsets": {
+				"from": 135320,
+				"to": 140000
+			},
+			"text": " You need to know the assumptions of the first century listener so you know what they were expecting to happen next."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,000",
+				"to": "00:02:23,660"
+			},
+			"offsets": {
+				"from": 140000,
+				"to": 143660
+			},
+			"text": " So that you can identify that point of the twist, the punchline, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,080",
+				"to": "00:02:27,540"
+			},
+			"offsets": {
+				"from": 144080,
+				"to": 147540
+			},
+			"text": " Because it's at that point that the meaning of the parable exists."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,540",
+				"to": "00:02:30,580"
+			},
+			"offsets": {
+				"from": 147540,
+				"to": 150580
+			},
+			"text": " You can't just layer any old meaning on top of a parable."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,580",
+				"to": "00:02:32,680"
+			},
+			"offsets": {
+				"from": 150580,
+				"to": 152680
+			},
+			"text": " Christ said it for a reason, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,680",
+				"to": "00:02:34,860"
+			},
+			"offsets": {
+				"from": 152680,
+				"to": 154860
+			},
+			"text": " They are stories with specific intent."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,860",
+				"to": "00:02:39,020"
+			},
+			"offsets": {
+				"from": 154860,
+				"to": 159020
+			},
+			"text": " Now, you may have heard growing up that parables are just stories Jesus told, and that's not wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,020",
+				"to": "00:02:41,740"
+			},
+			"offsets": {
+				"from": 159020,
+				"to": 161740
+			},
+			"text": " We tell stories because people remember them well."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,740",
+				"to": "00:02:52,220"
+			},
+			"offsets": {
+				"from": 161740,
+				"to": 172220
+			},
+			"text": " Traditionally, rabbis, several rabbis have called parables a basket with handles because you can't really get all the truth out of a complex story right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,220",
+				"to": "00:02:58,840"
+			},
+			"offsets": {
+				"from": 172220,
+				"to": 178840
+			},
+			"text": " But the story helps you carry it with you and dig around in the story later and get the truth out when you're ready to receive it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,840",
+				"to": "00:02:59,820"
+			},
+			"offsets": {
+				"from": 178840,
+				"to": 179820
+			},
+			"text": " That's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,820",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 179820,
+				"to": 183000
+			},
+			"text": " But that doesn't really tell you how to get the truth out, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,960",
+				"to": "00:03:08,960"
+			},
+			"offsets": {
+				"from": 183960,
+				"to": 188960
+			},
+			"text": " If you grew up in Baptist Sunday school, you heard that a parable is an earthly story with a..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,960",
+				"to": "00:03:09,820"
+			},
+			"offsets": {
+				"from": 188960,
+				"to": 189820
+			},
+			"text": " Wow."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,820",
+				"to": "00:03:10,900"
+			},
+			"offsets": {
+				"from": 189820,
+				"to": 190900
+			},
+			"text": " Yeah, exactly, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,900",
+				"to": "00:03:12,920"
+			},
+			"offsets": {
+				"from": 190900,
+				"to": 192920
+			},
+			"text": " Everybody's heard that."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,920",
+				"to": "00:03:16,240"
+			},
+			"offsets": {
+				"from": 192920,
+				"to": 196240
+			},
+			"text": " And it's not wrong, but how do you know the heavenly meaning, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,240",
+				"to": "00:03:18,280"
+			},
+			"offsets": {
+				"from": 196240,
+				"to": 198280
+			},
+			"text": " What's the significance of the earthly story?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,160",
+				"to": "00:03:22,680"
+			},
+			"offsets": {
+				"from": 199160,
+				"to": 202680
+			},
+			"text": " And a parable literally means parabolae."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,680",
+				"to": "00:03:24,720"
+			},
+			"offsets": {
+				"from": 202680,
+				"to": 204720
+			},
+			"text": " It means something thrown alongside something else."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,720",
+				"to": "00:03:36,420"
+			},
+			"offsets": {
+				"from": 204720,
+				"to": 216420
+			},
+			"text": " So it's a figurative story that parallels something that happens in real life or a concept that we're all familiar with that allows you to see in this figurative abstraction a new perspective on the thing that you've taken for granted, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,420",
+				"to": "00:03:38,260"
+			},
+			"offsets": {
+				"from": 216420,
+				"to": 218260
+			},
+			"text": " And that's very true."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,260",
+				"to": "00:03:40,800"
+			},
+			"offsets": {
+				"from": 218260,
+				"to": 220800
+			},
+			"text": " But it doesn't tell you how to understand it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,800",
+				"to": "00:03:42,280"
+			},
+			"offsets": {
+				"from": 220800,
+				"to": 222280
+			},
+			"text": " It just tells you what it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,740",
+				"to": "00:03:44,320"
+			},
+			"offsets": {
+				"from": 222740,
+				"to": 224320
+			},
+			"text": " So we want to focus on how to understand it."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,320",
+				"to": "00:03:50,740"
+			},
+			"offsets": {
+				"from": 224320,
+				"to": 230740
+			},
+			"text": " So in this series, we're going to cover some of the parables or narratives that really follow what I said."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,740",
+				"to": "00:03:52,800"
+			},
+			"offsets": {
+				"from": 230740,
+				"to": 232800
+			},
+			"text": " Some of them are just sort of like evocative questions."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,800",
+				"to": "00:03:54,940"
+			},
+			"offsets": {
+				"from": 232800,
+				"to": 234940
+			},
+			"text": " If this is true, how much more is that true?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,940",
+				"to": "00:03:55,680"
+			},
+			"offsets": {
+				"from": 234940,
+				"to": 235680
+			},
+			"text": " And it makes you question."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,680",
+				"to": "00:03:56,100"
+			},
+			"offsets": {
+				"from": 235680,
+				"to": 236100
+			},
+			"text": " I don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,100",
+				"to": "00:03:57,240"
+			},
+			"offsets": {
+				"from": 236100,
+				"to": 237240
+			},
+			"text": " How much more is that true, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,240",
+				"to": "00:04:01,480"
+			},
+			"offsets": {
+				"from": 237240,
+				"to": 241480
+			},
+			"text": " It might be an ethical conundrum thrown out there to make you question your ethics."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,480",
+				"to": "00:04:06,840"
+			},
+			"offsets": {
+				"from": 241480,
+				"to": 246840
+			},
+			"text": " The one we're going to talk about today is a series of small similitudes, just little word pictures."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,840",
+				"to": "00:04:08,540"
+			},
+			"offsets": {
+				"from": 246840,
+				"to": 248540
+			},
+			"text": " And there is a punchline, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,540",
+				"to": "00:04:11,880"
+			},
+			"offsets": {
+				"from": 248540,
+				"to": 251880
+			},
+			"text": " There are many topics we're going to cover."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,080",
+				"to": "00:04:13,180"
+			},
+			"offsets": {
+				"from": 252080,
+				"to": 253180
+			},
+			"text": " Jesus covered in the parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,180",
+				"to": "00:04:16,300"
+			},
+			"offsets": {
+				"from": 253180,
+				"to": 256300
+			},
+			"text": " He talks about money, discipleship, prayer, the kingdom of heaven, the kingdom of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,300",
+				"to": "00:04:17,480"
+			},
+			"offsets": {
+				"from": 256300,
+				"to": 257480
+			},
+			"text": " You have to know which is which."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,480",
+				"to": "00:04:23,480"
+			},
+			"offsets": {
+				"from": 257480,
+				"to": 263480
+			},
+			"text": " And today, the parable we're going to talk about is about the purpose of parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,480",
+				"to": "00:04:35,240"
+			},
+			"offsets": {
+				"from": 263480,
+				"to": 275240
+			},
+			"text": " And it's used in all the Gospels, well, three of the three, Matthew, Mark, and Luke, to sort of set up Jesus' teaching because it's key to understanding the rest of the parables that come after it, which is not surprisingly why we're talking about it first, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,320",
+				"to": "00:04:45,580"
+			},
+			"offsets": {
+				"from": 278320,
+				"to": 285580
+			},
+			"text": " A few cautions that we need to keep in mind is that I'd like you to forget the titles of the parables that you know for the next eight weeks, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,580",
+				"to": "00:04:47,960"
+			},
+			"offsets": {
+				"from": 285580,
+				"to": 287960
+			},
+			"text": " Because the titles are fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,960",
+				"to": "00:04:51,460"
+			},
+			"offsets": {
+				"from": 287960,
+				"to": 291460
+			},
+			"text": " We use shorthand to recognize what we're talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,040",
+				"to": "00:04:56,140"
+			},
+			"offsets": {
+				"from": 292040,
+				"to": 296140
+			},
+			"text": " But they're frequently baked into the title as an assumption about what the parable means."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,140",
+				"to": "00:04:59,240"
+			},
+			"offsets": {
+				"from": 296140,
+				"to": 299240
+			},
+			"text": " The classic example is the parable of the unjust judge."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,240",
+				"to": "00:05:00,080"
+			},
+			"offsets": {
+				"from": 299240,
+				"to": 300080
+			},
+			"text": " You may have heard of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,080",
+				"to": "00:05:04,320"
+			},
+			"offsets": {
+				"from": 300080,
+				"to": 304320
+			},
+			"text": " A lady can't get what she needs from a judge and just keeps pestering."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,140",
+				"to": "00:05:08,700"
+			},
+			"offsets": {
+				"from": 305140,
+				"to": 308700
+			},
+			"text": " And Christ lets us know that that's a parable about persistence in prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,700",
+				"to": "00:05:09,840"
+			},
+			"offsets": {
+				"from": 308700,
+				"to": 309840
+			},
+			"text": " It's got nothing to do with justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,840",
+				"to": "00:05:12,120"
+			},
+			"offsets": {
+				"from": 309840,
+				"to": 312120
+			},
+			"text": " The judge is an incidental character, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,120",
+				"to": "00:05:16,180"
+			},
+			"offsets": {
+				"from": 312120,
+				"to": 316180
+			},
+			"text": " So to call it the unjust judge predisposes you to misunderstand the parable."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,180",
+				"to": "00:05:20,660"
+			},
+			"offsets": {
+				"from": 316180,
+				"to": 320660
+			},
+			"text": " Maybe we should call that one the parable of the persistent widow, right, instead of the unjust judge."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,660",
+				"to": "00:05:25,940"
+			},
+			"offsets": {
+				"from": 320660,
+				"to": 325940
+			},
+			"text": " So let's forget the titles we know and forget the preconceptions that we might have."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,680",
+				"to": "00:05:33,300"
+			},
+			"offsets": {
+				"from": 327680,
+				"to": 333300
+			},
+			"text": " Today's parable is actually a little bit unique in that Christ gave it a name."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,300",
+				"to": "00:05:35,020"
+			},
+			"offsets": {
+				"from": 333300,
+				"to": 335020
+			},
+			"text": " The only parable Christ gave a name to."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,020",
+				"to": "00:05:36,420"
+			},
+			"offsets": {
+				"from": 335020,
+				"to": 336420
+			},
+			"text": " He said this is the parable of the sower."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,420",
+				"to": "00:05:38,080"
+			},
+			"offsets": {
+				"from": 336420,
+				"to": 338080
+			},
+			"text": " So we're good with this title."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,080",
+				"to": "00:05:47,660"
+			},
+			"offsets": {
+				"from": 338080,
+				"to": 347660
+			},
+			"text": " And when we read a parable, we know there are layers of meaning in there."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,660",
+				"to": "00:05:49,000"
+			},
+			"offsets": {
+				"from": 347660,
+				"to": 349000
+			},
+			"text": " There's lots to get out of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,000",
+				"to": "00:05:52,380"
+			},
+			"offsets": {
+				"from": 349000,
+				"to": 352380
+			},
+			"text": " But that doesn't mean that any layer that you layer on top of it is valid."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,040",
+				"to": "00:06:00,500"
+			},
+			"offsets": {
+				"from": 353040,
+				"to": 360500
+			},
+			"text": " The church and Jewish scholars as well have a long history of turning parables into a..."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,500",
+				"to": "00:06:06,860"
+			},
+			"offsets": {
+				"from": 360500,
+				"to": 366860
+			},
+			"text": " They'll layer a lot of different allegorical tropes on top and align it with anything that they're currently concerned about."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,860",
+				"to": "00:06:11,320"
+			},
+			"offsets": {
+				"from": 366860,
+				"to": 371320
+			},
+			"text": " What you have to do is focus on Christ's intent when he was telling the parable."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,320",
+				"to": "00:06:12,380"
+			},
+			"offsets": {
+				"from": 371320,
+				"to": 372380
+			},
+			"text": " What's the twist?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,380",
+				"to": "00:06:16,340"
+			},
+			"offsets": {
+				"from": 372380,
+				"to": 376340
+			},
+			"text": " It's not necessarily relevant to anything that you can make sound parallel to it, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,340",
+				"to": "00:06:21,140"
+			},
+			"offsets": {
+				"from": 376340,
+				"to": 381140
+			},
+			"text": " You have to weigh it against first century context in Jesus' non-parabolic teachings"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,140",
+				"to": "00:06:24,060"
+			},
+			"offsets": {
+				"from": 381140,
+				"to": 384060
+			},
+			"text": " and the immediate context of the story that's around it, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,060",
+				"to": "00:06:26,100"
+			},
+			"offsets": {
+				"from": 384060,
+				"to": 386100
+			},
+			"text": " So that's what we're going to be doing for these eight weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,100",
+				"to": "00:06:27,200"
+			},
+			"offsets": {
+				"from": 386100,
+				"to": 387200
+			},
+			"text": " We're not getting..."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,200",
+				"to": "00:06:32,720"
+			},
+			"offsets": {
+				"from": 387200,
+				"to": 392720
+			},
+			"text": " And a really good rule of thumb, this isn't truism, but it's good practical advice, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,720",
+				"to": "00:06:37,340"
+			},
+			"offsets": {
+				"from": 392720,
+				"to": 397340
+			},
+			"text": " Is when you approach a parable, don't ask yourself, what does this mean?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,340",
+				"to": "00:06:41,580"
+			},
+			"offsets": {
+				"from": 397340,
+				"to": 401580
+			},
+			"text": " What does it mean to turn into, what does it mean to me right now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,580",
+				"to": "00:06:44,140"
+			},
+			"offsets": {
+				"from": 401580,
+				"to": 404140
+			},
+			"text": " What does it mean in context of the politics I'm listening to on TV?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,140",
+				"to": "00:06:49,000"
+			},
+			"offsets": {
+				"from": 404140,
+				"to": 409000
+			},
+			"text": " What does it mean, you know, in view of the trouble I'm having with my kids?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,860",
+				"to": "00:06:50,800"
+			},
+			"offsets": {
+				"from": 409860,
+				"to": 410800
+			},
+			"text": " I know nothing about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,800",
+				"to": "00:06:58,680"
+			},
+			"offsets": {
+				"from": 410800,
+				"to": 418680
+			},
+			"text": " The, it's what was it designed to do, that's the right question."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,680",
+				"to": "00:07:00,600"
+			},
+			"offsets": {
+				"from": 418680,
+				"to": 420600
+			},
+			"text": " Why was Jesus telling this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,600",
+				"to": "00:07:03,660"
+			},
+			"offsets": {
+				"from": 420600,
+				"to": 423660
+			},
+			"text": " What is the response he was trying to elicit from his listeners, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,660",
+				"to": "00:07:08,340"
+			},
+			"offsets": {
+				"from": 423660,
+				"to": 428340
+			},
+			"text": " Because parables inform, but their primary purpose is to elicit a response."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,340",
+				"to": "00:07:13,040"
+			},
+			"offsets": {
+				"from": 428340,
+				"to": 433040
+			},
+			"text": " We need to know the context, we need to see the point of the question, find that surprising impact,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,500",
+				"to": "00:07:16,660"
+			},
+			"offsets": {
+				"from": 433500,
+				"to": 436660
+			},
+			"text": " and know then what response this could elicit from us, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,660",
+				"to": "00:07:20,300"
+			},
+			"offsets": {
+				"from": 436660,
+				"to": 440300
+			},
+			"text": " So that, with that in mind, that's what we're going to be doing over the next eight weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,300",
+				"to": "00:07:24,760"
+			},
+			"offsets": {
+				"from": 440300,
+				"to": 444760
+			},
+			"text": " And I'm just going to give you then the context of today's parable that seems important, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,760",
+				"to": "00:07:28,020"
+			},
+			"offsets": {
+				"from": 444760,
+				"to": 448020
+			},
+			"text": " So I'm going to read, it's in Matthew, Mark, and Luke."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,120",
+				"to": "00:07:31,640"
+			},
+			"offsets": {
+				"from": 448120,
+				"to": 451640
+			},
+			"text": " I'm going to read it out of Mark because he's the most terse and it's easiest to misunderstand him."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,640",
+				"to": "00:07:38,340"
+			},
+			"offsets": {
+				"from": 451640,
+				"to": 458340
+			},
+			"text": " So we want to make sure that we deal with all the difficult parts when we read it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,160",
+				"to": "00:07:45,900"
+			},
+			"offsets": {
+				"from": 459160,
+				"to": 465900
+			},
+			"text": " So, in Mark 1 through 3, Christ, it's a quick story of how Christ's notoriety has been building, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,900",
+				"to": "00:07:51,200"
+			},
+			"offsets": {
+				"from": 465900,
+				"to": 471200
+			},
+			"text": " He starts in 127, he goes into his first synagogue to say something,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,200",
+				"to": "00:07:54,780"
+			},
+			"offsets": {
+				"from": 471200,
+				"to": 474780
+			},
+			"text": " and then he frustrates religious leaders, and a couple of people come to hear what he has to say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,780",
+				"to": "00:07:56,700"
+			},
+			"offsets": {
+				"from": 474780,
+				"to": 476700
+			},
+			"text": " and he promotes miracles, and more crowds come to see him."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,700",
+				"to": "00:08:03,340"
+			},
+			"offsets": {
+				"from": 476700,
+				"to": 483340
+			},
+			"text": " And finally, in 321, his notoriety has grown to the point that crowds are coming to see him where he is."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,340",
+				"to": "00:08:05,180"
+			},
+			"offsets": {
+				"from": 483340,
+				"to": 485180
+			},
+			"text": " He's not going out anymore, they're coming to see him."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,800",
+				"to": "00:08:10,000"
+			},
+			"offsets": {
+				"from": 485800,
+				"to": 490000
+			},
+			"text": " And in 3.9, it tells us that he and his disciples have actually acquired a little bit of property."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,000",
+				"to": "00:08:13,560"
+			},
+			"offsets": {
+				"from": 490000,
+				"to": 493560
+			},
+			"text": " They have a boat standing by, so that when the crowds get big, he could go out in this little inlet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,560",
+				"to": "00:08:17,360"
+			},
+			"offsets": {
+				"from": 493560,
+				"to": 497360
+			},
+			"text": " sit down, and speak to large crowds in sort of a virtual amphitheater, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,360",
+				"to": "00:08:21,340"
+			},
+			"offsets": {
+				"from": 497360,
+				"to": 501340
+			},
+			"text": " And incidentally, in 1970, somebody went to where they believed this to have happened,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,340",
+				"to": "00:08:23,440"
+			},
+			"offsets": {
+				"from": 501340,
+				"to": 503440
+			},
+			"text": " where, you know, where tradition says it happened,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,440",
+				"to": "00:08:26,000"
+			},
+			"offsets": {
+				"from": 503440,
+				"to": 506000
+			},
+			"text": " and measured the number of people that could have heard him speaking,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,000",
+				"to": "00:08:28,280"
+			},
+			"offsets": {
+				"from": 506000,
+				"to": 508280
+			},
+			"text": " and the maximum would have been around 7,000, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,280",
+				"to": "00:08:32,400"
+			},
+			"offsets": {
+				"from": 508280,
+				"to": 512400
+			},
+			"text": " So even if it was a half or a third of that, this is thousands of people coming, Luke tells us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,400",
+				"to": "00:08:35,140"
+			},
+			"offsets": {
+				"from": 512400,
+				"to": 515140
+			},
+			"text": " from many countries, to gather around this little inlet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,260",
+				"to": "00:08:38,020"
+			},
+			"offsets": {
+				"from": 515260,
+				"to": 518020
+			},
+			"text": " he would push out his boat, the water would act as a sounding board,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,020",
+				"to": "00:08:39,300"
+			},
+			"offsets": {
+				"from": 518020,
+				"to": 519300
+			},
+			"text": " and he would speak to the people."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,300",
+				"to": "00:08:46,120"
+			},
+			"offsets": {
+				"from": 519300,
+				"to": 526120
+			},
+			"text": " And Mark records that Jesus then, after this path of growing notoriety,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,120",
+				"to": "00:08:48,080"
+			},
+			"offsets": {
+				"from": 526120,
+				"to": 528080
+			},
+			"text": " who's come to this point where people come to hear him speak,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,080",
+				"to": "00:08:54,240"
+			},
+			"offsets": {
+				"from": 528080,
+				"to": 534240
+			},
+			"text": " is now, in the beginning of chapter 4, seated in his boat, in the posture of a rabbi,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,240",
+				"to": "00:08:59,080"
+			},
+			"offsets": {
+				"from": 534240,
+				"to": 539080
+			},
+			"text": " which is seated with people standing around you to hear in respect what you have to say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,740",
+				"to": "00:09:03,160"
+			},
+			"offsets": {
+				"from": 539740,
+				"to": 543160
+			},
+			"text": " and using the language and authority of an Old Testament prophet, these parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,160",
+				"to": "00:09:05,480"
+			},
+			"offsets": {
+				"from": 543160,
+				"to": 545480
+			},
+			"text": " So he's really grown in his stature."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,480",
+				"to": "00:09:08,660"
+			},
+			"offsets": {
+				"from": 545480,
+				"to": 548660
+			},
+			"text": " And Mark is deliberately setting up that picture for the people to see,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,660",
+				"to": "00:09:17,820"
+			},
+			"offsets": {
+				"from": 548660,
+				"to": 557820
+			},
+			"text": " so they understand that he is a strong, well-regarded rabbi who has adopted the authority and the style of the prophet, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,360",
+				"to": "00:09:21,020"
+			},
+			"offsets": {
+				"from": 558360,
+				"to": 561020
+			},
+			"text": " So that's what the context is telling us."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,020",
+				"to": "00:09:26,820"
+			},
+			"offsets": {
+				"from": 561020,
+				"to": 566820
+			},
+			"text": " And why are parables the language of the Old Testament prophet?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,820",
+				"to": "00:09:28,800"
+			},
+			"offsets": {
+				"from": 566820,
+				"to": 568800
+			},
+			"text": " That's the other context this then brings to us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,800",
+				"to": "00:09:32,080"
+			},
+			"offsets": {
+				"from": 568800,
+				"to": 572080
+			},
+			"text": " that the people who saw him beginning to use this language would have understood."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,800",
+				"to": "00:09:37,660"
+			},
+			"offsets": {
+				"from": 572800,
+				"to": 577660
+			},
+			"text": " When an Old Testament prophet spoke, he was acting as the counterbalance to the authority of a king."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,660",
+				"to": "00:09:41,260"
+			},
+			"offsets": {
+				"from": 577660,
+				"to": 581260
+			},
+			"text": " And the kings don't like being told they're wrong, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,260",
+				"to": "00:09:45,660"
+			},
+			"offsets": {
+				"from": 581260,
+				"to": 585660
+			},
+			"text": " They have armies at their disposal, and it's dangerous to tell a king they're wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:45,660",
+				"to": "00:09:51,700"
+			},
+			"offsets": {
+				"from": 585660,
+				"to": 591700
+			},
+			"text": " So the prophet had to find a way to deliver their statements of judgment."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,700",
+				"to": "00:09:53,320"
+			},
+			"offsets": {
+				"from": 591700,
+				"to": 593320
+			},
+			"text": " You've done wrong, there's judgment coming."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,320",
+				"to": "00:09:55,820"
+			},
+			"offsets": {
+				"from": 593320,
+				"to": 595820
+			},
+			"text": " Oh, and there's a path of impending deliverance,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:55,820",
+				"to": "00:09:59,900"
+			},
+			"offsets": {
+				"from": 595820,
+				"to": 599900
+			},
+			"text": " which inevitably includes the king humbling himself, which kings don't want to do, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,400",
+				"to": "00:10:03,040"
+			},
+			"offsets": {
+				"from": 600400,
+				"to": 603040
+			},
+			"text": " So the classic example is David, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,040",
+				"to": "00:10:07,380"
+			},
+			"offsets": {
+				"from": 603040,
+				"to": 607380
+			},
+			"text": " In 2 Samuel, David has taken another man's wife,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,380",
+				"to": "00:10:10,940"
+			},
+			"offsets": {
+				"from": 607380,
+				"to": 610940
+			},
+			"text": " and he's had the man killed, and so that he can steal the wife,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,940",
+				"to": "00:10:14,240"
+			},
+			"offsets": {
+				"from": 610940,
+				"to": 614240
+			},
+			"text": " and he's committed adultery, and Nathan comes to call him on the carpet."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,240",
+				"to": "00:10:16,640"
+			},
+			"offsets": {
+				"from": 614240,
+				"to": 616640
+			},
+			"text": " But you don't just walk up to the king and yell at him."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,640",
+				"to": "00:10:18,500"
+			},
+			"offsets": {
+				"from": 616640,
+				"to": 618500
+			},
+			"text": " You have to deliver it."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,500",
+				"to": "00:10:24,340"
+			},
+			"offsets": {
+				"from": 618500,
+				"to": 624340
+			},
+			"text": " You have to veil your meaning only insofar as you can say indirectly what can't be said directly, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,340",
+				"to": "00:10:27,480"
+			},
+			"offsets": {
+				"from": 624340,
+				"to": 627480
+			},
+			"text": " And that's what the parable served to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:27,640",
+				"to": "00:10:32,280"
+			},
+			"offsets": {
+				"from": 627640,
+				"to": 632280
+			},
+			"text": " It's to move the important message past the listener's defenses, right, in the Old Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,280",
+				"to": "00:10:39,700"
+			},
+			"offsets": {
+				"from": 632280,
+				"to": 639700
+			},
+			"text": " So Nathan said, hey, there's a guy in your kingdom who's been stealing things from poor people and killing them."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,700",
+				"to": "00:10:42,260"
+			},
+			"offsets": {
+				"from": 639700,
+				"to": 642260
+			},
+			"text": " And David says, off with his head, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:42,260",
+				"to": "00:10:44,360"
+			},
+			"offsets": {
+				"from": 642260,
+				"to": 644360
+			},
+			"text": " And Nathan says, punchline, here's the twist."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,360",
+				"to": "00:10:45,400"
+			},
+			"offsets": {
+				"from": 644360,
+				"to": 645400
+			},
+			"text": " It's you, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,700",
+				"to": "00:10:50,440"
+			},
+			"offsets": {
+				"from": 646700,
+				"to": 650440
+			},
+			"text": " And at that point, you know, David has to decide, is he going to respond to this parable?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,440",
+				"to": "00:10:51,380"
+			},
+			"offsets": {
+				"from": 650440,
+				"to": 651380
+			},
+			"text": " Is he going to change his behavior?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,380",
+				"to": "00:10:54,320"
+			},
+			"offsets": {
+				"from": 651380,
+				"to": 654320
+			},
+			"text": " And he does."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:54,320",
+				"to": "00:10:55,000"
+			},
+			"offsets": {
+				"from": 654320,
+				"to": 655000
+			},
+			"text": " He's a great example."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,000",
+				"to": "00:10:58,600"
+			},
+			"offsets": {
+				"from": 655000,
+				"to": 658600
+			},
+			"text": " Not of the first part, but of the repenting."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:00,360",
+				"to": "00:11:06,740"
+			},
+			"offsets": {
+				"from": 660360,
+				"to": 666740
+			},
+			"text": " So Jesus doesn't have a king, he's speaking, but he's facing two types of hard opposition as he's starting to deliver these parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,740",
+				"to": "00:11:08,780"
+			},
+			"offsets": {
+				"from": 666740,
+				"to": 668780
+			},
+			"text": " The first one is a hardened heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,780",
+				"to": "00:11:12,060"
+			},
+			"offsets": {
+				"from": 668780,
+				"to": 672060
+			},
+			"text": " That's Isaiah has talked about in Isaiah 6."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,060",
+				"to": "00:11:17,360"
+			},
+			"offsets": {
+				"from": 672060,
+				"to": 677360
+			},
+			"text": " And we're going to spend a minute talking about Isaiah's prophecy that the hardened heart would have to be dealt with in just a minute."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:17,360",
+				"to": "00:11:21,320"
+			},
+			"offsets": {
+				"from": 677360,
+				"to": 681320
+			},
+			"text": " So he has people that come that just don't want to hear what he has to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,320",
+				"to": "00:11:27,620"
+			},
+			"offsets": {
+				"from": 681320,
+				"to": 687620
+			},
+			"text": " And there's a second group that are violently opposed, actively looking for people who might say unorthodox things."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:27,620",
+				"to": "00:11:30,440"
+			},
+			"offsets": {
+				"from": 687620,
+				"to": 690440
+			},
+			"text": " And those are the people that eventually could kill Jesus, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,440",
+				"to": "00:11:31,320"
+			},
+			"offsets": {
+				"from": 690440,
+				"to": 691320
+			},
+			"text": " Crucify him."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,320",
+				"to": "00:11:40,380"
+			},
+			"offsets": {
+				"from": 691320,
+				"to": 700380
+			},
+			"text": " And Christ says in John that he spoke in parables in part because his time hadn't yet come and he didn't want those people to get enraged and crucify him yet, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:40,380",
+				"to": "00:11:46,660"
+			},
+			"offsets": {
+				"from": 700380,
+				"to": 706660
+			},
+			"text": " But most of the people he's talking to, he's having to get past their hard hearts, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,660",
+				"to": "00:11:48,360"
+			},
+			"offsets": {
+				"from": 706660,
+				"to": 708360
+			},
+			"text": " Their defenses they put up."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,360",
+				"to": "00:11:50,660"
+			},
+			"offsets": {
+				"from": 708360,
+				"to": 710660
+			},
+			"text": " Like a king of old that just doesn't want to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:51,320",
+				"to": "00:11:55,580"
+			},
+			"offsets": {
+				"from": 711320,
+				"to": 715580
+			},
+			"text": " Now, in our context, the parables still deliver information to us today."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,580",
+				"to": "00:12:06,380"
+			},
+			"offsets": {
+				"from": 715580,
+				"to": 726380
+			},
+			"text": " And in our context, we cannot receive openly the things that we've limited ourselves not to hear, our preconceptions, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:06,380",
+				"to": "00:12:08,800"
+			},
+			"offsets": {
+				"from": 726380,
+				"to": 728800
+			},
+			"text": " It could be a culturally imposed preconception."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,800",
+				"to": "00:12:10,900"
+			},
+			"offsets": {
+				"from": 728800,
+				"to": 730900
+			},
+			"text": " It could be something we learned in church."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,900",
+				"to": "00:12:12,440"
+			},
+			"offsets": {
+				"from": 730900,
+				"to": 732440
+			},
+			"text": " It could be a doctrine we've adopted."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,440",
+				"to": "00:12:19,160"
+			},
+			"offsets": {
+				"from": 732440,
+				"to": 739160
+			},
+			"text": " But there's certain self-imposed limitations, whether culturally or personal, which just prevent us from hearing anything new."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,280",
+				"to": "00:12:22,500"
+			},
+			"offsets": {
+				"from": 739280,
+				"to": 742500
+			},
+			"text": " And we sit grumpily and say, I don't want to receive that, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,500",
+				"to": "00:12:25,860"
+			},
+			"offsets": {
+				"from": 742500,
+				"to": 745860
+			},
+			"text": " The parables can help get past those defenses, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,760",
+				"to": "00:12:32,460"
+			},
+			"offsets": {
+				"from": 747760,
+				"to": 752460
+			},
+			"text": " Jesus taught with parables, like any good prophet, to appeal to his audience and to enable their hearing."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,460",
+				"to": "00:12:36,300"
+			},
+			"offsets": {
+				"from": 752460,
+				"to": 756300
+			},
+			"text": " When parables find a willing response, further explanation is given."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,300",
+				"to": "00:12:38,920"
+			},
+			"offsets": {
+				"from": 756300,
+				"to": 758920
+			},
+			"text": " He'll always talk to somebody who asks for more information."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,920",
+				"to": "00:12:40,800"
+			},
+			"offsets": {
+				"from": 758920,
+				"to": 760800
+			},
+			"text": " And he does that in today's parable, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,800",
+				"to": "00:12:43,980"
+			},
+			"offsets": {
+				"from": 760800,
+				"to": 763980
+			},
+			"text": " Where there's no response, the message is lost."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,980",
+				"to": "00:12:46,420"
+			},
+			"offsets": {
+				"from": 763980,
+				"to": 766420
+			},
+			"text": " And Jesus explains that it'll happen in today's parable, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:47,840",
+				"to": "00:12:51,880"
+			},
+			"offsets": {
+				"from": 767840,
+				"to": 771880
+			},
+			"text": " That, incidentally, is a quote from Klein Snodgrass, who wrote an excellent book on parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:51,880",
+				"to": "00:12:57,140"
+			},
+			"offsets": {
+				"from": 771880,
+				"to": 777140
+			},
+			"text": " If you've ever talked to me about parables, I've quoted him 20 times, even if I don't admit it, because I just love everything he says, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,140",
+				"to": "00:13:01,340"
+			},
+			"offsets": {
+				"from": 777140,
+				"to": 781340
+			},
+			"text": " So I will not admit all the other things I take from him today, but there are lots of them."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,340",
+				"to": "00:13:12,400"
+			},
+			"offsets": {
+				"from": 781340,
+				"to": 792400
+			},
+			"text": " So how clever would it be if instead of me getting up here and lecturing to you about parables, if I could tell you a figurative story to explain how they work and why they're important?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:12,480",
+				"to": "00:13:13,240"
+			},
+			"offsets": {
+				"from": 792480,
+				"to": 793240
+			},
+			"text": " That'd be smart, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,240",
+				"to": "00:13:15,680"
+			},
+			"offsets": {
+				"from": 793240,
+				"to": 795680
+			},
+			"text": " Well, Jesus did that, so I'm just going to quote him."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:15,680",
+				"to": "00:13:17,820"
+			},
+			"offsets": {
+				"from": 795680,
+				"to": 797820
+			},
+			"text": " That's what he's done here."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,820",
+				"to": "00:13:23,740"
+			},
+			"offsets": {
+				"from": 797820,
+				"to": 803740
+			},
+			"text": " So we're going to read in Mark 4, 1 through 23, what Jesus had to say, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,740",
+				"to": "00:13:25,260"
+			},
+			"offsets": {
+				"from": 803740,
+				"to": 805260
+			},
+			"text": " So he's in this boat."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,260",
+				"to": "00:13:31,420"
+			},
+			"offsets": {
+				"from": 805260,
+				"to": 811420
+			},
+			"text": " Verse 4, and again, he began to teach by the sea, and a very large crowd gathered about him."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,420",
+				"to": "00:13:36,680"
+			},
+			"offsets": {
+				"from": 811420,
+				"to": 816680
+			},
+			"text": " So he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,680",
+				"to": "00:13:38,900"
+			},
+			"offsets": {
+				"from": 816680,
+				"to": 818900
+			},
+			"text": " And he was teaching them many things in parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,960",
+				"to": "00:13:48,380"
+			},
+			"offsets": {
+				"from": 818960,
+				"to": 828380
+			},
+			"text": " And in his teaching, he said to them, listen, behold, a sower went out to sow, and as he sowed, some of the seed fell on the path where the birds came and devoured it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,380",
+				"to": "00:13:55,160"
+			},
+			"offsets": {
+				"from": 828380,
+				"to": 835160
+			},
+			"text": " And other seed fell on the rocky ground where it didn't have much soil, and immediately it sprang up since it had no depth of soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,160",
+				"to": "00:13:58,460"
+			},
+			"offsets": {
+				"from": 835160,
+				"to": 838460
+			},
+			"text": " And when the sun rose, it was scorched, and since it had no root, it withered away."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,460",
+				"to": "00:14:04,220"
+			},
+			"offsets": {
+				"from": 838460,
+				"to": 844220
+			},
+			"text": " Other seed fell among thorns, and the thorns grew up and choked it and yielded no grain."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,800",
+				"to": "00:14:16,520"
+			},
+			"offsets": {
+				"from": 844800,
+				"to": 856520
+			},
+			"text": " And other seed fell into good soil and produced grain, growing up and increasing and yielding 30-fold, 60-fold, 100-fold."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,520",
+				"to": "00:14:19,580"
+			},
+			"offsets": {
+				"from": 856520,
+				"to": 859580
+			},
+			"text": " And he said to them, he who has ears to hear, let him hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,580",
+				"to": "00:14:21,600"
+			},
+			"offsets": {
+				"from": 859580,
+				"to": 861600
+			},
+			"text": " Cut forward."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,600",
+				"to": "00:14:23,620"
+			},
+			"offsets": {
+				"from": 861600,
+				"to": 863620
+			},
+			"text": " This is a story in the boat."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,620",
+				"to": "00:14:30,200"
+			},
+			"offsets": {
+				"from": 863620,
+				"to": 870200
+			},
+			"text": " If this were a movie, at this point, we would go to a close-up indoors where Christ is talking to people later."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,720",
+				"to": "00:14:33,280"
+			},
+			"offsets": {
+				"from": 870720,
+				"to": 873280
+			},
+			"text": " And then it's going to cut back to finish the story in the boat, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,280",
+				"to": "00:14:38,200"
+			},
+			"offsets": {
+				"from": 873280,
+				"to": 878200
+			},
+			"text": " So this is when it says, and when he was alone, he's saying, later on, we asked him this, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,200",
+				"to": "00:14:43,000"
+			},
+			"offsets": {
+				"from": 878200,
+				"to": 883000
+			},
+			"text": " And when he was alone, those around him with the 12 asked him about the parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:43,000",
+				"to": "00:14:48,620"
+			},
+			"offsets": {
+				"from": 883000,
+				"to": 888620
+			},
+			"text": " And he said, well, to you it's been given the secret of the kingdom of God, but for those outside, everything is in parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,620",
+				"to": "00:14:54,020"
+			},
+			"offsets": {
+				"from": 888620,
+				"to": 894020
+			},
+			"text": " So that they may indeed see but not perceive, they may hear but not understand, lest they should turn and be forgiven."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,020",
+				"to": "00:14:55,960"
+			},
+			"offsets": {
+				"from": 894020,
+				"to": 895960
+			},
+			"text": " That's problem statement one, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,640",
+				"to": "00:14:59,540"
+			},
+			"offsets": {
+				"from": 896640,
+				"to": 899540
+			},
+			"text": " And he said to them, do you not understand the parables?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,540",
+				"to": "00:15:01,320"
+			},
+			"offsets": {
+				"from": 899540,
+				"to": 901320
+			},
+			"text": " Well, how then are you going to understand all these parables?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,320",
+				"to": "00:15:04,380"
+			},
+			"offsets": {
+				"from": 901320,
+				"to": 904380
+			},
+			"text": " The sower sows the word."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:04,380",
+				"to": "00:15:07,440"
+			},
+			"offsets": {
+				"from": 904380,
+				"to": 907440
+			},
+			"text": " And they're the ones along the path where the word is sown."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,440",
+				"to": "00:15:12,040"
+			},
+			"offsets": {
+				"from": 907440,
+				"to": 912040
+			},
+			"text": " When they hear, Satan immediately comes and takes the word away that's sown in them."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,040",
+				"to": "00:15:14,700"
+			},
+			"offsets": {
+				"from": 912040,
+				"to": 914700
+			},
+			"text": " And then there's these ones on the rocky ground."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:14,700",
+				"to": "00:15:18,520"
+			},
+			"offsets": {
+				"from": 914700,
+				"to": 918520
+			},
+			"text": " The ones who, when they hear the word, immediately receive it with joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,520",
+				"to": "00:15:24,120"
+			},
+			"offsets": {
+				"from": 918520,
+				"to": 924120
+			},
+			"text": " But they have no root in themselves but to endure for a while."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:24,400",
+				"to": "00:15:28,500"
+			},
+			"offsets": {
+				"from": 924400,
+				"to": 928500
+			},
+			"text": " And when tribulation and persecution arises on account of the word, immediately they fall away."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,500",
+				"to": "00:15:33,160"
+			},
+			"offsets": {
+				"from": 928500,
+				"to": 933160
+			},
+			"text": " And then there are the ones who sown among the thorns."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,160",
+				"to": "00:15:38,400"
+			},
+			"offsets": {
+				"from": 933160,
+				"to": 938400
+			},
+			"text": " And those are the ones who hear the word but cares of the world and the deceitfulness of riches and the desires for other things."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,400",
+				"to": "00:15:41,360"
+			},
+			"offsets": {
+				"from": 938400,
+				"to": 941360
+			},
+			"text": " Enter in and choke out the word and it proves unfruitful."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,360",
+				"to": "00:15:44,200"
+			},
+			"offsets": {
+				"from": 941360,
+				"to": 944200
+			},
+			"text": " But then there are those who sown on the good soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,200",
+				"to": "00:15:46,940"
+			},
+			"offsets": {
+				"from": 944200,
+				"to": 946940
+			},
+			"text": " And the ones who hear the word and accept it and bear fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,940",
+				"to": "00:15:48,680"
+			},
+			"offsets": {
+				"from": 946940,
+				"to": 948680
+			},
+			"text": " 30-fold, 60-fold, 100-fold."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:48,740",
+				"to": "00:15:53,420"
+			},
+			"offsets": {
+				"from": 948740,
+				"to": 953420
+			},
+			"text": " And he said to them, is a lamp put under a basket under a bed and not on a stand?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,420",
+				"to": "00:15:53,700"
+			},
+			"offsets": {
+				"from": 953420,
+				"to": 953700
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,700",
+				"to": "00:15:58,520"
+			},
+			"offsets": {
+				"from": 953700,
+				"to": 958520
+			},
+			"text": " For nothing is hidden except that it can be made manifest, nor is anything secret that has come to light."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,520",
+				"to": "00:16:00,920"
+			},
+			"offsets": {
+				"from": 958520,
+				"to": 960920
+			},
+			"text": " If anyone has ears to hear, let him hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,920",
+				"to": "00:16:02,600"
+			},
+			"offsets": {
+				"from": 960920,
+				"to": 962600
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,680",
+				"to": "00:16:09,020"
+			},
+			"offsets": {
+				"from": 964680,
+				"to": 969020
+			},
+			"text": " If you were looking for the punchline, the twist in there, it's verse 9."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,020",
+				"to": "00:16:09,560"
+			},
+			"offsets": {
+				"from": 969020,
+				"to": 969560
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:09,560",
+				"to": "00:16:11,500"
+			},
+			"offsets": {
+				"from": 969560,
+				"to": 971500
+			},
+			"text": " Verse 9 and just after."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,500",
+				"to": "00:16:15,560"
+			},
+			"offsets": {
+				"from": 971500,
+				"to": 975560
+			},
+			"text": " So in verse 9, he says, he who has ears to hear, let him hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,560",
+				"to": "00:16:20,920"
+			},
+			"offsets": {
+				"from": 975560,
+				"to": 980920
+			},
+			"text": " That is a phrase that the people, at least the Jewish audience that was listening to him that day, would have known very well."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,740",
+				"to": "00:16:24,700"
+			},
+			"offsets": {
+				"from": 981740,
+				"to": 984700
+			},
+			"text": " And which with a little thought would have thrown that whole parable into light."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,700",
+				"to": "00:16:26,980"
+			},
+			"offsets": {
+				"from": 984700,
+				"to": 986980
+			},
+			"text": " But it's a double twist."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,980",
+				"to": "00:16:33,720"
+			},
+			"offsets": {
+				"from": 986980,
+				"to": 993720
+			},
+			"text": " He's then going to go on to give them a bunch of rapid fire parables following it that changed the expectation of what they understood when they heard that phrase."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,720",
+				"to": "00:16:34,180"
+			},
+			"offsets": {
+				"from": 993720,
+				"to": 994180
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,180",
+				"to": "00:16:35,560"
+			},
+			"offsets": {
+				"from": 994180,
+				"to": 995560
+			},
+			"text": " So it's got a double twist."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,560",
+				"to": "00:16:43,720"
+			},
+			"offsets": {
+				"from": 995560,
+				"to": 1003720
+			},
+			"text": " He's referencing Isaiah 6, 9, which I will read you very quickly."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:43,720",
+				"to": "00:16:47,960"
+			},
+			"offsets": {
+				"from": 1003720,
+				"to": 1007960
+			},
+			"text": " In the day, this is, Isaiah is being commissioned by God."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:47,960",
+				"to": "00:16:49,600"
+			},
+			"offsets": {
+				"from": 1007960,
+				"to": 1009600
+			},
+			"text": " God said, is there anybody here who will speak for me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,600",
+				"to": "00:16:50,720"
+			},
+			"offsets": {
+				"from": 1009600,
+				"to": 1010720
+			},
+			"text": " Isaiah said, yes, I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,140",
+				"to": "00:16:57,040"
+			},
+			"offsets": {
+				"from": 1011140,
+				"to": 1017040
+			},
+			"text": " And he says, okay, well, go and say to the people, keep on hearing, but don't understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,040",
+				"to": "00:16:58,560"
+			},
+			"offsets": {
+				"from": 1017040,
+				"to": 1018560
+			},
+			"text": " Keep on seeing, but don't perceive."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,560",
+				"to": "00:17:00,540"
+			},
+			"offsets": {
+				"from": 1018560,
+				"to": 1020540
+			},
+			"text": " Make the hearts of the people dull."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,540",
+				"to": "00:17:01,440"
+			},
+			"offsets": {
+				"from": 1020540,
+				"to": 1021440
+			},
+			"text": " Make their eyes heavy."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,440",
+				"to": "00:17:02,560"
+			},
+			"offsets": {
+				"from": 1021440,
+				"to": 1022560
+			},
+			"text": " Make their eyes blind."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:02,560",
+				"to": "00:17:06,740"
+			},
+			"offsets": {
+				"from": 1022560,
+				"to": 1026740
+			},
+			"text": " Lest they see with their eyes and hear with their ears and understand and turn and be healed."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,740",
+				"to": "00:17:12,480"
+			},
+			"offsets": {
+				"from": 1026740,
+				"to": 1032480
+			},
+			"text": " So God is saying to Isaiah, I want you to talk to a people who are not going to listen to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,480",
+				"to": "00:17:13,160"
+			},
+			"offsets": {
+				"from": 1032480,
+				"to": 1033160
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,160",
+				"to": "00:17:15,800"
+			},
+			"offsets": {
+				"from": 1033160,
+				"to": 1035800
+			},
+			"text": " It's going to be a long time of you repeating yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,800",
+				"to": "00:17:20,540"
+			},
+			"offsets": {
+				"from": 1035800,
+				"to": 1040540
+			},
+			"text": " And because they have hardened hearts, which I'm going to let persist, it's going to be a long time of just"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:20,540",
+				"to": "00:17:28,100"
+			},
+			"offsets": {
+				"from": 1040540,
+				"to": 1048100
+			},
+			"text": " that seed sitting in there until, and Isaiah 27, he says, the seed will one day take root and grow."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,100",
+				"to": "00:17:32,940"
+			},
+			"offsets": {
+				"from": 1048100,
+				"to": 1052940
+			},
+			"text": " And later in this part, Isaiah 6, he says, that seed is the stump of David, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,580",
+				"to": "00:17:36,320"
+			},
+			"offsets": {
+				"from": 1053580,
+				"to": 1056320
+			},
+			"text": " So he's saying, they're just going to have hard hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,320",
+				"to": "00:17:37,920"
+			},
+			"offsets": {
+				"from": 1056320,
+				"to": 1057920
+			},
+			"text": " They're going to resist."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,920",
+				"to": "00:17:42,220"
+			},
+			"offsets": {
+				"from": 1057920,
+				"to": 1062220
+			},
+			"text": " They're going to resist until one day that seed will be planted again in Jerusalem."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,400",
+				"to": "00:17:48,100"
+			},
+			"offsets": {
+				"from": 1062400,
+				"to": 1068100
+			},
+			"text": " The house of David will grow out of it, and then people who have ears to hear will start hearing, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,100",
+				"to": "00:17:52,880"
+			},
+			"offsets": {
+				"from": 1068100,
+				"to": 1072880
+			},
+			"text": " And Christ is letting the people know standing about him that they are now hearing."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,880",
+				"to": "00:17:59,840"
+			},
+			"offsets": {
+				"from": 1072880,
+				"to": 1079840
+			},
+			"text": " He's now proclaiming the word and that the words of Isaiah are coming to fruition right now as they're talking, which, by the way, was true."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,840",
+				"to": "00:18:01,420"
+			},
+			"offsets": {
+				"from": 1079840,
+				"to": 1081420
+			},
+			"text": " Christ was the root of David."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,780",
+				"to": "00:18:03,660"
+			},
+			"offsets": {
+				"from": 1081780,
+				"to": 1083660
+			},
+			"text": " This is the kingdom, God's kingdom to come on earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,660",
+				"to": "00:18:14,440"
+			},
+			"offsets": {
+				"from": 1083660,
+				"to": 1094440
+			},
+			"text": " He makes this very explicit in Matthew 13, when he says in verse, I believe, 16,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:14,440",
+				"to": "00:18:17,820"
+			},
+			"offsets": {
+				"from": 1094440,
+				"to": 1097820
+			},
+			"text": " blessed are your eyes, for they see and your ears hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,820",
+				"to": "00:18:21,900"
+			},
+			"offsets": {
+				"from": 1097820,
+				"to": 1101900
+			},
+			"text": " For truly, I say to you, many prophets and righteous people long to see what you see and didn't see it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,900",
+				"to": "00:18:23,680"
+			},
+			"offsets": {
+				"from": 1101900,
+				"to": 1103680
+			},
+			"text": " long to hear what you hear and didn't hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,540",
+				"to": "00:18:32,100"
+			},
+			"offsets": {
+				"from": 1106540,
+				"to": 1112100
+			},
+			"text": " That's following verse 14, where he says, this is the case of the prophecy that Isaiah, which is being fulfilled, says, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:32,100",
+				"to": "00:18:34,680"
+			},
+			"offsets": {
+				"from": 1112100,
+				"to": 1114680
+			},
+			"text": " So Mark rushes past that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,680",
+				"to": "00:18:36,620"
+			},
+			"offsets": {
+				"from": 1114680,
+				"to": 1116620
+			},
+			"text": " Matthew makes it explicit."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,620",
+				"to": "00:18:37,640"
+			},
+			"offsets": {
+				"from": 1116620,
+				"to": 1117640
+			},
+			"text": " There's a lot of that going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,640",
+				"to": "00:18:40,800"
+			},
+			"offsets": {
+				"from": 1117640,
+				"to": 1120800
+			},
+			"text": " I think Matthew may have written it because so many people asked him questions about Mark,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:40,800",
+				"to": "00:18:42,480"
+			},
+			"offsets": {
+				"from": 1120800,
+				"to": 1122480
+			},
+			"text": " and he's like, oh, man, let me just explain that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,480",
+				"to": "00:18:51,480"
+			},
+			"offsets": {
+				"from": 1122480,
+				"to": 1131480
+			},
+			"text": " So, right, Isaiah made this prophecy that there would be this blindness and deafness and hardness of heart,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:51,480",
+				"to": "00:18:54,460"
+			},
+			"offsets": {
+				"from": 1131480,
+				"to": 1134460
+			},
+			"text": " and his perspective was about how long that would last."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,260",
+				"to": "00:18:58,920"
+			},
+			"offsets": {
+				"from": 1135260,
+				"to": 1138920
+			},
+			"text": " Matthew, in Mark's perspective, is about that it's a willful blindness."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:58,920",
+				"to": "00:19:07,800"
+			},
+			"offsets": {
+				"from": 1138920,
+				"to": 1147800
+			},
+			"text": " Matthew actually says in verse, I'm going to say it's verse 14."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:07,800",
+				"to": "00:19:09,360"
+			},
+			"offsets": {
+				"from": 1147800,
+				"to": 1149360
+			},
+			"text": " Here we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,360",
+				"to": "00:19:10,000"
+			},
+			"offsets": {
+				"from": 1149360,
+				"to": 1150000
+			},
+			"text": " It's verse 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,000",
+				"to": "00:19:11,420"
+			},
+			"offsets": {
+				"from": 1150000,
+				"to": 1151420
+			},
+			"text": " The people's hearts will grow dull."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,420",
+				"to": "00:19:13,340"
+			},
+			"offsets": {
+				"from": 1151420,
+				"to": 1153340
+			},
+			"text": " With their ears, they can barely hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,340",
+				"to": "00:19:17,200"
+			},
+			"offsets": {
+				"from": 1153340,
+				"to": 1157200
+			},
+			"text": " With their eyes, they have closed, lest they should see with their eyes and hear with their ears"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,200",
+				"to": "00:19:18,940"
+			},
+			"offsets": {
+				"from": 1157200,
+				"to": 1158940
+			},
+			"text": " and understand with their heart and turn, and I will heal them."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,940",
+				"to": "00:19:21,520"
+			},
+			"offsets": {
+				"from": 1158940,
+				"to": 1161520
+			},
+			"text": " Matthew is saying, no, no, they've closed their eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,520",
+				"to": "00:19:22,360"
+			},
+			"offsets": {
+				"from": 1161520,
+				"to": 1162360
+			},
+			"text": " That's why they're blind."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,360",
+				"to": "00:19:25,200"
+			},
+			"offsets": {
+				"from": 1162360,
+				"to": 1165200
+			},
+			"text": " They stuck their fingers in their ears, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,540",
+				"to": "00:19:29,920"
+			},
+			"offsets": {
+				"from": 1165540,
+				"to": 1169920
+			},
+			"text": " So, the perspective, Christ is once again, as he always does, giving us the Old Testament prophecy,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,920",
+				"to": "00:19:34,200"
+			},
+			"offsets": {
+				"from": 1169920,
+				"to": 1174200
+			},
+			"text": " but giving us a new perspective on it from his better point in time, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,200",
+				"to": "00:19:37,340"
+			},
+			"offsets": {
+				"from": 1174200,
+				"to": 1177340
+			},
+			"text": " Yes, it felt like they were going to be blind and deaf forever, your ancestors,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,340",
+				"to": "00:19:38,700"
+			},
+			"offsets": {
+				"from": 1177340,
+				"to": 1178700
+			},
+			"text": " but you don't have to be like them."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:38,700",
+				"to": "00:19:41,940"
+			},
+			"offsets": {
+				"from": 1178700,
+				"to": 1181940
+			},
+			"text": " This is, by the way, a warning not to be like them, but to listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,220",
+				"to": "00:19:47,240"
+			},
+			"offsets": {
+				"from": 1183220,
+				"to": 1187240
+			},
+			"text": " Christ says 13 times in this passage, listen, hear me, listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,240",
+				"to": "00:19:51,480"
+			},
+			"offsets": {
+				"from": 1187240,
+				"to": 1191480
+			},
+			"text": " In Matthew, he says it 21 times, listen, understand, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,480",
+				"to": "00:19:54,380"
+			},
+			"offsets": {
+				"from": 1191480,
+				"to": 1194380
+			},
+			"text": " That's the key thing in this section."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,380",
+				"to": "00:19:57,080"
+			},
+			"offsets": {
+				"from": 1194380,
+				"to": 1197080
+			},
+			"text": " Isaiah 27 says the seed will take root."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,080",
+				"to": "00:20:02,220"
+			},
+			"offsets": {
+				"from": 1197080,
+				"to": 1202220
+			},
+			"text": " It will come out of the holy stump, and Mark is showing us Jesus making the connection with this flash forward, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,620",
+				"to": "00:20:09,700"
+			},
+			"offsets": {
+				"from": 1202620,
+				"to": 1209700
+			},
+			"text": " That is happening right now, and the disciples, therefore, he has just sent them out in chapter 3 to go spread the word."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,700",
+				"to": "00:20:15,100"
+			},
+			"offsets": {
+				"from": 1209700,
+				"to": 1215100
+			},
+			"text": " He's now talking about somebody spreading the word of seed so that people who are having ears to hear will hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,100",
+				"to": "00:20:18,320"
+			},
+			"offsets": {
+				"from": 1215100,
+				"to": 1218320
+			},
+			"text": " He's telling them they have the same job as Isaiah, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,660",
+				"to": "00:20:20,520"
+			},
+			"offsets": {
+				"from": 1218660,
+				"to": 1220520
+			},
+			"text": " And what is the message they're spreading?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,520",
+				"to": "00:20:22,540"
+			},
+			"offsets": {
+				"from": 1220520,
+				"to": 1222540
+			},
+			"text": " We'll talk about that in a minute, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,540",
+				"to": "00:20:30,420"
+			},
+			"offsets": {
+				"from": 1222540,
+				"to": 1230420
+			},
+			"text": " But it also implies that there is a time and place where the seed can take root in the soil,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,420",
+				"to": "00:20:32,240"
+			},
+			"offsets": {
+				"from": 1230420,
+				"to": 1232240
+			},
+			"text": " and that is when you've come to know the mystery."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:32,240",
+				"to": "00:20:36,020"
+			},
+			"offsets": {
+				"from": 1232240,
+				"to": 1236020
+			},
+			"text": " Christ says to the people gathered with him in the house in that cut forward in Mark"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,020",
+				"to": "00:20:39,960"
+			},
+			"offsets": {
+				"from": 1236020,
+				"to": 1239960
+			},
+			"text": " that you guys can now hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,960",
+				"to": "00:20:43,100"
+			},
+			"offsets": {
+				"from": 1239960,
+				"to": 1243100
+			},
+			"text": " You have the mystery, so you don't have to hear in parables, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,100",
+				"to": "00:20:46,000"
+			},
+			"offsets": {
+				"from": 1243100,
+				"to": 1246000
+			},
+			"text": " I think in ESV it says you have the secret."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,600",
+				"to": "00:20:49,660"
+			},
+			"offsets": {
+				"from": 1246600,
+				"to": 1249660
+			},
+			"text": " So you have to understand that's not a Sherlock Holmes mystery with clues."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:49,660",
+				"to": "00:20:51,000"
+			},
+			"offsets": {
+				"from": 1249660,
+				"to": 1251000
+			},
+			"text": " He's not giving them a puzzle."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,000",
+				"to": "00:20:53,940"
+			},
+			"offsets": {
+				"from": 1251000,
+				"to": 1253940
+			},
+			"text": " What he's revealing to them, you should hear it as a revelation."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,940",
+				"to": "00:20:56,660"
+			},
+			"offsets": {
+				"from": 1253940,
+				"to": 1256660
+			},
+			"text": " It's the thing you couldn't know unless it was revealed to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,660",
+				"to": "00:20:58,580"
+			},
+			"offsets": {
+				"from": 1256660,
+				"to": 1258580
+			},
+			"text": " the mysterious thing that has to be told to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,580",
+				"to": "00:21:03,280"
+			},
+			"offsets": {
+				"from": 1258580,
+				"to": 1263280
+			},
+			"text": " And hey, I'm telling you right now, that's why I'm saying listen over and over and over."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,280",
+				"to": "00:21:04,440"
+			},
+			"offsets": {
+				"from": 1263280,
+				"to": 1264440
+			},
+			"text": " I need you to listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,440",
+				"to": "00:21:06,340"
+			},
+			"offsets": {
+				"from": 1264440,
+				"to": 1266340
+			},
+			"text": " Why is it so important to listen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,340",
+				"to": "00:21:07,340"
+			},
+			"offsets": {
+				"from": 1266340,
+				"to": 1267340
+			},
+			"text": " We'll come to it in a second."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,340",
+				"to": "00:21:12,540"
+			},
+			"offsets": {
+				"from": 1267340,
+				"to": 1272540
+			},
+			"text": " So that may seem to imply that Jesus also, it may seem to imply to you"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,540",
+				"to": "00:21:14,900"
+			},
+			"offsets": {
+				"from": 1272540,
+				"to": 1274900
+			},
+			"text": " that Jesus was choosing who could hear, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,900",
+				"to": "00:21:17,120"
+			},
+			"offsets": {
+				"from": 1274900,
+				"to": 1277120
+			},
+			"text": " That it's limited to those that he picked, the 12."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,120",
+				"to": "00:21:23,560"
+			},
+			"offsets": {
+				"from": 1277120,
+				"to": 1283560
+			},
+			"text": " But if you go back and look at Mark 13, let's see."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,560",
+				"to": "00:21:27,620"
+			},
+			"offsets": {
+				"from": 1283560,
+				"to": 1287620
+			},
+			"text": " When he was alone and those were around him with the 12, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,620",
+				"to": "00:21:29,680"
+			},
+			"offsets": {
+				"from": 1287620,
+				"to": 1289680
+			},
+			"text": " This is the funniest phrase in this chapter."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,680",
+				"to": "00:21:32,160"
+			},
+			"offsets": {
+				"from": 1289680,
+				"to": 1292160
+			},
+			"text": " When he was alone and with those people around him."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,160",
+				"to": "00:21:32,580"
+			},
+			"offsets": {
+				"from": 1292160,
+				"to": 1292580
+			},
+			"text": " He's not alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,580",
+				"to": "00:21:33,700"
+			},
+			"offsets": {
+				"from": 1292580,
+				"to": 1293700
+			},
+			"text": " He's got a crowd around him."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,700",
+				"to": "00:21:36,600"
+			},
+			"offsets": {
+				"from": 1293700,
+				"to": 1296600
+			},
+			"text": " They're inside a first century stone hut."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,800",
+				"to": "00:21:41,120"
+			},
+			"offsets": {
+				"from": 1296800,
+				"to": 1301120
+			},
+			"text": " And there's at least 25 people there because the 12 are a subset of the larger group, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,120",
+				"to": "00:21:46,820"
+			},
+			"offsets": {
+				"from": 1301120,
+				"to": 1306820
+			},
+			"text": " So there's like 25 people at least crammed into this little room and they're asking him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,820",
+				"to": "00:21:47,920"
+			},
+			"offsets": {
+				"from": 1306820,
+				"to": 1307920
+			},
+			"text": " what did you mean by that parable?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,920",
+				"to": "00:21:49,120"
+			},
+			"offsets": {
+				"from": 1307920,
+				"to": 1309120
+			},
+			"text": " I heard the ears, the ear thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,120",
+				"to": "00:21:50,420"
+			},
+			"offsets": {
+				"from": 1309120,
+				"to": 1310420
+			},
+			"text": " Does that mean what I thought it meant?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,420",
+				"to": "00:21:51,580"
+			},
+			"offsets": {
+				"from": 1310420,
+				"to": 1311580
+			},
+			"text": " What are you saying there, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,580",
+				"to": "00:21:56,620"
+			},
+			"offsets": {
+				"from": 1311580,
+				"to": 1316620
+			},
+			"text": " And it's significant that he'll tell anyone who asks him, anyone who follows him and asks him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:56,620",
+				"to": "00:21:58,080"
+			},
+			"offsets": {
+				"from": 1316620,
+				"to": 1318080
+			},
+			"text": " he'll tell him exactly what he means."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,080",
+				"to": "00:22:01,820"
+			},
+			"offsets": {
+				"from": 1320080,
+				"to": 1321820
+			},
+			"text": " So he's not hiding from someone."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:01,820",
+				"to": "00:22:06,800"
+			},
+			"offsets": {
+				"from": 1321820,
+				"to": 1326800
+			},
+			"text": " He's using the parable to get past their defenses so that they'll ask him questions, like a good teacher."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:06,800",
+				"to": "00:22:14,000"
+			},
+			"offsets": {
+				"from": 1326800,
+				"to": 1334000
+			},
+			"text": " And as a side note, this inside-outside motif is all throughout Mark."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:14,000",
+				"to": "00:22:21,300"
+			},
+			"offsets": {
+				"from": 1334000,
+				"to": 1341300
+			},
+			"text": " He always talks about he's outside with the crowds and he comes inside with the metaphorically people that are on the inside with him."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,300",
+				"to": "00:22:24,080"
+			},
+			"offsets": {
+				"from": 1341300,
+				"to": 1344080
+			},
+			"text": " But there seems to be no limit to how many people he can cram in that house."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,080",
+				"to": "00:22:27,960"
+			},
+			"offsets": {
+				"from": 1344080,
+				"to": 1347960
+			},
+			"text": " There's that one picture where they have to break the roof out to get another person in, you know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,960",
+				"to": "00:22:29,300"
+			},
+			"offsets": {
+				"from": 1347960,
+				"to": 1349300
+			},
+			"text": " because there's so many people in the house."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,860",
+				"to": "00:22:35,100"
+			},
+			"offsets": {
+				"from": 1349860,
+				"to": 1355100
+			},
+			"text": " Okay, otherwise, if verse 12, they might return and be forgiven, that sounds harsh, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,100",
+				"to": "00:22:36,720"
+			},
+			"offsets": {
+				"from": 1355100,
+				"to": 1356720
+			},
+			"text": " That's the key thing that jumps out at you."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,720",
+				"to": "00:22:41,880"
+			},
+			"offsets": {
+				"from": 1356720,
+				"to": 1361880
+			},
+			"text": " He's telling them, he's wanting their eyes to be blinded, their ears stopped up, lest they be forgiven."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,880",
+				"to": "00:22:45,240"
+			},
+			"offsets": {
+				"from": 1361880,
+				"to": 1365240
+			},
+			"text": " Well, we've already determined that they're blinding their own eyes, stopping at their own ears."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,240",
+				"to": "00:22:53,220"
+			},
+			"offsets": {
+				"from": 1365240,
+				"to": 1373220
+			},
+			"text": " Have you ever known that a conflict that you're involved in could be ended if you just humbled yourself and went and ended it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,220",
+				"to": "00:22:55,420"
+			},
+			"offsets": {
+				"from": 1373220,
+				"to": 1375420
+			},
+			"text": " Ever happened?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,420",
+				"to": "00:22:57,080"
+			},
+			"offsets": {
+				"from": 1375420,
+				"to": 1377080
+			},
+			"text": " But you have a hard heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,080",
+				"to": "00:22:58,720"
+			},
+			"offsets": {
+				"from": 1377080,
+				"to": 1378720
+			},
+			"text": " You were wronged."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,920",
+				"to": "00:23:00,680"
+			},
+			"offsets": {
+				"from": 1378920,
+				"to": 1380680
+			},
+			"text": " You don't want to be the one who deals with this, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,680",
+				"to": "00:23:09,140"
+			},
+			"offsets": {
+				"from": 1381680,
+				"to": 1389140
+			},
+			"text": " And Jesus is saying, and God was saying to Isaiah, they are so intent on not listening and not coming back to me, they will give up forgiveness."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:10,400",
+				"to": "00:23:13,680"
+			},
+			"offsets": {
+				"from": 1390400,
+				"to": 1393680
+			},
+			"text": " In Matthew, he says, they'll give up the healing that comes with forgiveness."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,680",
+				"to": "00:23:15,080"
+			},
+			"offsets": {
+				"from": 1393680,
+				"to": 1395080
+			},
+			"text": " They don't want to be healed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,080",
+				"to": "00:23:17,080"
+			},
+			"offsets": {
+				"from": 1395080,
+				"to": 1397080
+			},
+			"text": " They haven't thought about whether they're healed."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,080",
+				"to": "00:23:21,020"
+			},
+			"offsets": {
+				"from": 1397080,
+				"to": 1401020
+			},
+			"text": " What they've thought about is they don't want to be the ones to have to come crawling back, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,780",
+				"to": "00:23:22,460"
+			},
+			"offsets": {
+				"from": 1401780,
+				"to": 1402460
+			},
+			"text": " They're rushing."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,460",
+				"to": "00:23:25,900"
+			},
+			"offsets": {
+				"from": 1402460,
+				"to": 1405900
+			},
+			"text": " They're rushing to destruction with their fingers in their ears, and they're fine with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,900",
+				"to": "00:23:28,060"
+			},
+			"offsets": {
+				"from": 1405900,
+				"to": 1408060
+			},
+			"text": " Jesus is crying out."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:28,580",
+				"to": "00:23:32,540"
+			},
+			"offsets": {
+				"from": 1408580,
+				"to": 1412540
+			},
+			"text": " And he's telling his disciples how to cry out in a way that they can be heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,040",
+				"to": "00:23:34,360"
+			},
+			"offsets": {
+				"from": 1413040,
+				"to": 1414360
+			},
+			"text": " Hence, the parables, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:34,360",
+				"to": "00:23:43,340"
+			},
+			"offsets": {
+				"from": 1414360,
+				"to": 1423340
+			},
+			"text": " So, is Mark 4.12, is this about hiding truth?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,340",
+				"to": "00:23:43,760"
+			},
+			"offsets": {
+				"from": 1423340,
+				"to": 1423760
+			},
+			"text": " Well, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,760",
+				"to": "00:23:53,240"
+			},
+			"offsets": {
+				"from": 1423760,
+				"to": 1433240
+			},
+			"text": " Apart from anything else, I would just point out that if you wanted to hide the truth from somebody, you shouldn't say anything to them about it, not a fanciful story about it that makes them ask questions, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,860",
+				"to": "00:23:55,320"
+			},
+			"offsets": {
+				"from": 1433860,
+				"to": 1435320
+			},
+			"text": " And, by the way, I didn't say that."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,320",
+				"to": "00:23:57,740"
+			},
+			"offsets": {
+				"from": 1435320,
+				"to": 1437740
+			},
+			"text": " That was said in 360 by John Christosomus, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,740",
+				"to": "00:24:05,760"
+			},
+			"offsets": {
+				"from": 1437740,
+				"to": 1445760
+			},
+			"text": " This has been known from the history of the church, that parables were God's, Jesus' way of inviting interest, not to keep people from understanding, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,760",
+				"to": "00:24:10,900"
+			},
+			"offsets": {
+				"from": 1445760,
+				"to": 1450900
+			},
+			"text": " Mark very kindly points out that this one was confusing to them, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:10,900",
+				"to": "00:24:11,900"
+			},
+			"offsets": {
+				"from": 1450900,
+				"to": 1451900
+			},
+			"text": " I appreciate that."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,900",
+				"to": "00:24:14,100"
+			},
+			"offsets": {
+				"from": 1451900,
+				"to": 1454100
+			},
+			"text": " In verse, he's like, we had to ask about this one."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,100",
+				"to": "00:24:20,420"
+			},
+			"offsets": {
+				"from": 1454100,
+				"to": 1460420
+			},
+			"text": " And that's relevant because most of the parables Jesus told, people react quickly and violently, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,420",
+				"to": "00:24:23,320"
+			},
+			"offsets": {
+				"from": 1460420,
+				"to": 1463320
+			},
+			"text": " They understand exactly what he's saying, and they don't like it."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:23,860",
+				"to": "00:24:27,820"
+			},
+			"offsets": {
+				"from": 1463860,
+				"to": 1467820
+			},
+			"text": " He gets past their defenses, riles them up, and that's what he's telling them the story for."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,820",
+				"to": "00:24:29,840"
+			},
+			"offsets": {
+				"from": 1467820,
+				"to": 1469840
+			},
+			"text": " This one, he had to explain it a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,840",
+				"to": "00:24:33,880"
+			},
+			"offsets": {
+				"from": 1469840,
+				"to": 1473880
+			},
+			"text": " And that's helpful because it means, you know, it was hard for them, too, you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,880",
+				"to": "00:24:38,280"
+			},
+			"offsets": {
+				"from": 1473880,
+				"to": 1478280
+			},
+			"text": " I'll just give you John Christosomus' quote."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,280",
+				"to": "00:24:44,560"
+			},
+			"offsets": {
+				"from": 1478280,
+				"to": 1484560
+			},
+			"text": " He says, if it hadn't been his will that they should hear and be saved, well, he ought to have been silent or not to have spoken in parables at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,560",
+				"to": "00:24:53,520"
+			},
+			"offsets": {
+				"from": 1484560,
+				"to": 1493520
+			},
+			"text": " But now, by this very thing, he stirs them up, even by speaking under this veil, for God does not will the death of a sinner, but that all should return to him and live."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,220",
+				"to": "00:24:54,500"
+			},
+			"offsets": {
+				"from": 1494220,
+				"to": 1494500
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,500",
+				"to": "00:24:56,820"
+			},
+			"offsets": {
+				"from": 1494500,
+				"to": 1496820
+			},
+			"text": " Mark wrote this in 60."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,820",
+				"to": "00:24:58,760"
+			},
+			"offsets": {
+				"from": 1496820,
+				"to": 1498760
+			},
+			"text": " John said that in 360."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,760",
+				"to": "00:25:03,500"
+			},
+			"offsets": {
+				"from": 1498760,
+				"to": 1503500
+			},
+			"text": " Klein Snodgrass said it again in 1970, 60, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:03,500",
+				"to": "00:25:05,080"
+			},
+			"offsets": {
+				"from": 1503500,
+				"to": 1505080
+			},
+			"text": " You know, so it's just been throughout the history of the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,080",
+				"to": "00:25:14,920"
+			},
+			"offsets": {
+				"from": 1505080,
+				"to": 1514920
+			},
+			"text": " Mark's words emphasize us, and then Matthew makes explicit, that the willfulness we have has to be overcome rather than being an impenetrable heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,400",
+				"to": "00:25:26,200"
+			},
+			"offsets": {
+				"from": 1517400,
+				"to": 1526200
+			},
+			"text": " And Christ underscores that immediately in verse 22 and 23, the reason I said that, when he says, do you take a lamp and hide it under a basket?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,200",
+				"to": "00:25:27,460"
+			},
+			"offsets": {
+				"from": 1526200,
+				"to": 1527460
+			},
+			"text": " No, you put it on a lampstand."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,460",
+				"to": "00:25:29,560"
+			},
+			"offsets": {
+				"from": 1527460,
+				"to": 1529560
+			},
+			"text": " You want everyone to see it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,560",
+				"to": "00:25:32,160"
+			},
+			"offsets": {
+				"from": 1529560,
+				"to": 1532160
+			},
+			"text": " There's nothing hidden that's not going to be revealed."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:32,160",
+				"to": "00:25:34,600"
+			},
+			"offsets": {
+				"from": 1532160,
+				"to": 1534600
+			},
+			"text": " If you have ears to hear, hear, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,600",
+				"to": "00:25:35,800"
+			},
+			"offsets": {
+				"from": 1534600,
+				"to": 1535800
+			},
+			"text": " I want you to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,240",
+				"to": "00:25:41,860"
+			},
+			"offsets": {
+				"from": 1536240,
+				"to": 1541860
+			},
+			"text": " When it says, they having ears to hear, don't hear, it's not that the parables are keeping them from hearing."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,860",
+				"to": "00:25:44,820"
+			},
+			"offsets": {
+				"from": 1541860,
+				"to": 1544820
+			},
+			"text": " It's that he's trying to get it into their ears even if they don't want to hear it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,820",
+				"to": "00:25:48,260"
+			},
+			"offsets": {
+				"from": 1544820,
+				"to": 1548260
+			},
+			"text": " It's that story that you can carry with you and dig around in the basket later."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,900",
+				"to": "00:25:50,380"
+			},
+			"offsets": {
+				"from": 1548900,
+				"to": 1550380
+			},
+			"text": " Okay, don't want to belabor this."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,380",
+				"to": "00:26:01,880"
+			},
+			"offsets": {
+				"from": 1550380,
+				"to": 1561880
+			},
+			"text": " Matthew explains that those who listen enough and ask questions will get answers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,880",
+				"to": "00:26:11,080"
+			},
+			"offsets": {
+				"from": 1561880,
+				"to": 1571080
+			},
+			"text": " He uses the word understanding repeatedly and finally tells everybody that they are privileged in verse 16 and 17 to finally be the people who are listening."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,080",
+				"to": "00:26:15,080"
+			},
+			"offsets": {
+				"from": 1571080,
+				"to": 1575080
+			},
+			"text": " And that would fall as a warning on the ears of the disciples, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,080",
+				"to": "00:26:18,000"
+			},
+			"offsets": {
+				"from": 1575080,
+				"to": 1578000
+			},
+			"text": " A warning to not be like their forebearers."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,900",
+				"to": "00:26:26,320"
+			},
+			"offsets": {
+				"from": 1578900,
+				"to": 1586320
+			},
+			"text": " So, what we hear in this parable, now that we've talked about what it doesn't mean, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,320",
+				"to": "00:26:28,560"
+			},
+			"offsets": {
+				"from": 1586320,
+				"to": 1588560
+			},
+			"text": " That it might sound like immediately."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,560",
+				"to": "00:26:32,840"
+			},
+			"offsets": {
+				"from": 1588560,
+				"to": 1592840
+			},
+			"text": " What it talks about is what is required to hear, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,840",
+				"to": "00:26:34,600"
+			},
+			"offsets": {
+				"from": 1592840,
+				"to": 1594600
+			},
+			"text": " So, let's walk through it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,600",
+				"to": "00:26:40,980"
+			},
+			"offsets": {
+				"from": 1594600,
+				"to": 1600980
+			},
+			"text": " We see four consecutively more successful levels of growth in these four little word pictures, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:40,980",
+				"to": "00:26:48,260"
+			},
+			"offsets": {
+				"from": 1600980,
+				"to": 1608260
+			},
+			"text": " We see no growth, quick growth, sustained but unproductive growth, and finally fruitful growth of the word in our hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,840",
+				"to": "00:26:53,820"
+			},
+			"offsets": {
+				"from": 1608840,
+				"to": 1613820
+			},
+			"text": " And do keep in mind, it's hard to do this actually, but as you read this parable, you're not the one growing, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,820",
+				"to": "00:26:55,200"
+			},
+			"offsets": {
+				"from": 1613820,
+				"to": 1615200
+			},
+			"text": " You're the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,200",
+				"to": "00:26:56,280"
+			},
+			"offsets": {
+				"from": 1615200,
+				"to": 1616280
+			},
+			"text": " That's what Jesus said."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,280",
+				"to": "00:26:58,180"
+			},
+			"offsets": {
+				"from": 1616280,
+				"to": 1618180
+			},
+			"text": " The word is growing in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,180",
+				"to": "00:26:59,640"
+			},
+			"offsets": {
+				"from": 1618180,
+				"to": 1619640
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,640",
+				"to": "00:27:02,060"
+			},
+			"offsets": {
+				"from": 1619640,
+				"to": 1622060
+			},
+			"text": " You have to keep reminding yourself of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:04,780",
+				"to": "00:27:15,920"
+			},
+			"offsets": {
+				"from": 1624780,
+				"to": 1635920
+			},
+			"text": " And incidentally, Mark will show us examples of people following this parable, and Matthew does as well, who hear these words, and they react in the way of those four plantings."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,920",
+				"to": "00:27:19,280"
+			},
+			"offsets": {
+				"from": 1635920,
+				"to": 1639280
+			},
+			"text": " The one that obviously comes to mind is the rich young ruler, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,280",
+				"to": "00:27:24,280"
+			},
+			"offsets": {
+				"from": 1639280,
+				"to": 1644280
+			},
+			"text": " He's a young man who hears what Jesus said, gets really inspired, comes up and says, what do I have to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,280",
+				"to": "00:27:25,400"
+			},
+			"offsets": {
+				"from": 1644280,
+				"to": 1645400
+			},
+			"text": " And Jesus said, give away your money."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:25,400",
+				"to": "00:27:26,320"
+			},
+			"offsets": {
+				"from": 1645400,
+				"to": 1646320
+			},
+			"text": " And he's like, I'm good."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,720",
+				"to": "00:27:33,460"
+			},
+			"offsets": {
+				"from": 1646720,
+				"to": 1653460
+			},
+			"text": " You know, he just falls away that quickly, which is exactly one of the things that Jesus said is going to happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,460",
+				"to": "00:27:36,800"
+			},
+			"offsets": {
+				"from": 1653460,
+				"to": 1656800
+			},
+			"text": " But he had spoken in such a way that could inspire him."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,540",
+				"to": "00:27:49,220"
+			},
+			"offsets": {
+				"from": 1657540,
+				"to": 1669220
+			},
+			"text": " And I often wonder if the whole purpose of preachers, Sunday morning service, is because they know that each and every person, us sitting out there in the auditorium, are going constantly through different phases in our heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,220",
+				"to": "00:27:53,080"
+			},
+			"offsets": {
+				"from": 1669220,
+				"to": 1673080
+			},
+			"text": " And they just keep pelting you with seeds until one morning the soil might be good."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,080",
+				"to": "00:27:54,340"
+			},
+			"offsets": {
+				"from": 1673080,
+				"to": 1674340
+			},
+			"text": " They're just playing the probabilities."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,340",
+				"to": "00:28:00,500"
+			},
+			"offsets": {
+				"from": 1674340,
+				"to": 1680500
+			},
+			"text": " You know, I'm just going to keep, I need you to come back and talk to me every week, and eventually this is going to sink in."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:00,500",
+				"to": "00:28:01,660"
+			},
+			"offsets": {
+				"from": 1680500,
+				"to": 1681660
+			},
+			"text": " Kind of like your parents, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,240",
+				"to": "00:28:09,600"
+			},
+			"offsets": {
+				"from": 1684240,
+				"to": 1689600
+			},
+			"text": " So in verse 4 and 15, some seed falls on the path that's been beaten hard and flat."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,600",
+				"to": "00:28:15,000"
+			},
+			"offsets": {
+				"from": 1689600,
+				"to": 1695000
+			},
+			"text": " Anyone in here who's a gardener knows you never let someone step on your nicely tilled soil, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,000",
+				"to": "00:28:15,540"
+			},
+			"offsets": {
+				"from": 1695000,
+				"to": 1695540
+			},
+			"text": " Ever."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,540",
+				"to": "00:28:23,920"
+			},
+			"offsets": {
+				"from": 1695540,
+				"to": 1703920
+			},
+			"text": " This is a walking path beside the, presumably beside the field that he's spreading seed in, has been trampled by commerce and by constant use."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,920",
+				"to": "00:28:31,540"
+			},
+			"offsets": {
+				"from": 1703920,
+				"to": 1711540
+			},
+			"text": " And we've often felt like there are many people who felt themselves just trampled flat by the longing for love and the struggle for the legal tender, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,540",
+				"to": "00:28:34,880"
+			},
+			"offsets": {
+				"from": 1712540,
+				"to": 1714880
+			},
+			"text": " You're just beaten flat and you're not ready to hear the word."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:34,880",
+				"to": "00:28:38,160"
+			},
+			"offsets": {
+				"from": 1714880,
+				"to": 1718160
+			},
+			"text": " You've got a hardness of heart because you believe the world is hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:38,160",
+				"to": "00:28:50,780"
+			},
+			"offsets": {
+				"from": 1718160,
+				"to": 1730780
+			},
+			"text": " But there are times, and there are people, who in verse 5 and 6 and then explained in 16 and 17, joyfully, they get inspired by what they hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,780",
+				"to": "00:28:55,920"
+			},
+			"offsets": {
+				"from": 1730780,
+				"to": 1735920
+			},
+			"text": " And they joyfully accept these, but the growth doesn't happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,920",
+				"to": "00:29:00,120"
+			},
+			"offsets": {
+				"from": 1735920,
+				"to": 1740120
+			},
+			"text": " And parenthetically, this is something that has to be said to people that grew up in the verdant Shenandoah Valley."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:00,240",
+				"to": "00:29:05,380"
+			},
+			"offsets": {
+				"from": 1740240,
+				"to": 1745380
+			},
+			"text": " It might be confusing to you why rocky soil makes things grow quickly, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:05,380",
+				"to": "00:29:06,400"
+			},
+			"offsets": {
+				"from": 1745380,
+				"to": 1746400
+			},
+			"text": " That doesn't make any sense."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:06,400",
+				"to": "00:29:07,600"
+			},
+			"offsets": {
+				"from": 1746400,
+				"to": 1747600
+			},
+			"text": " This is the Middle East."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,600",
+				"to": "00:29:09,140"
+			},
+			"offsets": {
+				"from": 1747600,
+				"to": 1749140
+			},
+			"text": " The soil is powdery."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,140",
+				"to": "00:29:12,140"
+			},
+			"offsets": {
+				"from": 1749140,
+				"to": 1752140
+			},
+			"text": " The rocks absorb the heat of the day, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:12,140",
+				"to": "00:29:14,100"
+			},
+			"offsets": {
+				"from": 1752140,
+				"to": 1754100
+			},
+			"text": " So what you have to hear when you hear rocks is warmth."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,100",
+				"to": "00:29:18,780"
+			},
+			"offsets": {
+				"from": 1754100,
+				"to": 1758780
+			},
+			"text": " So it's this shallow, easily penetrated soil that's very warm."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,780",
+				"to": "00:29:19,760"
+			},
+			"offsets": {
+				"from": 1758780,
+				"to": 1759760
+			},
+			"text": " It's a little incubator."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,760",
+				"to": "00:29:25,800"
+			},
+			"offsets": {
+				"from": 1759760,
+				"to": 1765800
+			},
+			"text": " And so it springs up quickly, and there's everything you need for germination right there, but there's not enough soil to grow in."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,860",
+				"to": "00:29:28,900"
+			},
+			"offsets": {
+				"from": 1765860,
+				"to": 1768900
+			},
+			"text": " That's the picture he's showing it, and all the people surrounding him would have known that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,900",
+				"to": "00:29:32,140"
+			},
+			"offsets": {
+				"from": 1768900,
+				"to": 1772140
+			},
+			"text": " They would have been very familiar with that growth cycle, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:32,140",
+				"to": "00:29:39,100"
+			},
+			"offsets": {
+				"from": 1772140,
+				"to": 1779100
+			},
+			"text": " So that's a picture then to them of someone who joyfully accepts what they've heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,100",
+				"to": "00:29:45,240"
+			},
+			"offsets": {
+				"from": 1779100,
+				"to": 1785240
+			},
+			"text": " They have all the conditions right to react quickly, but none of the depth of soil required to actually sustain growth."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,000",
+				"to": "00:29:48,940"
+			},
+			"offsets": {
+				"from": 1786000,
+				"to": 1788940
+			},
+			"text": " And when the trials of life come, they can't carry on."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:48,940",
+				"to": "00:29:56,200"
+			},
+			"offsets": {
+				"from": 1788940,
+				"to": 1796200
+			},
+			"text": " Verse 7, the third case, explained in verse 18 and 19, talks about persistent growth."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:56,200",
+				"to": "00:29:59,040"
+			},
+			"offsets": {
+				"from": 1796200,
+				"to": 1799040
+			},
+			"text": " This is what a lot of us aim for, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,360",
+				"to": "00:30:05,760"
+			},
+			"offsets": {
+				"from": 1799360,
+				"to": 1805760
+			},
+			"text": " We want to get to the point where the gospel can stay in us, and it can grow, and we can be really solid people, and we feel the goodness within us."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:05,760",
+				"to": "00:30:09,680"
+			},
+			"offsets": {
+				"from": 1805760,
+				"to": 1809680
+			},
+			"text": " But there's competition for that growth."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,680",
+				"to": "00:30:12,600"
+			},
+			"offsets": {
+				"from": 1809680,
+				"to": 1812600
+			},
+			"text": " He spikes money and the cares of the world, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,600",
+				"to": "00:30:16,440"
+			},
+			"offsets": {
+				"from": 1812600,
+				"to": 1816440
+			},
+			"text": " Which is the longing for love and the struggle for the legal tender, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,440",
+				"to": "00:30:18,580"
+			},
+			"offsets": {
+				"from": 1816440,
+				"to": 1818580
+			},
+			"text": " It's there eating in your soul."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,580",
+				"to": "00:30:25,540"
+			},
+			"offsets": {
+				"from": 1820580,
+				"to": 1825540
+			},
+			"text": " And it chokes out like weeds this perfectly good growing plant with perfectly good root structure."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,540",
+				"to": "00:30:28,640"
+			},
+			"offsets": {
+				"from": 1825540,
+				"to": 1828640
+			},
+			"text": " So that, what's the key note, he says?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:28,640",
+				"to": "00:30:30,140"
+			},
+			"offsets": {
+				"from": 1828640,
+				"to": 1830140
+			},
+			"text": " It doesn't grow any fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,140",
+				"to": "00:30:35,040"
+			},
+			"offsets": {
+				"from": 1830140,
+				"to": 1835040
+			},
+			"text": " And the implication there is, if you don't bear fruit, you may as well not have grown at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,040",
+				"to": "00:30:38,980"
+			},
+			"offsets": {
+				"from": 1835040,
+				"to": 1838980
+			},
+			"text": " And again, you need to remember at this point, it's not you that's growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,980",
+				"to": "00:30:40,200"
+			},
+			"offsets": {
+				"from": 1838980,
+				"to": 1840200
+			},
+			"text": " It's the gospel growing in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:40,200",
+				"to": "00:30:42,540"
+			},
+			"offsets": {
+				"from": 1840200,
+				"to": 1842540
+			},
+			"text": " It's the word of the kingdom growing in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,540",
+				"to": "00:30:46,900"
+			},
+			"offsets": {
+				"from": 1842540,
+				"to": 1846900
+			},
+			"text": " So the word of the kingdom growing in you, if it doesn't bear fruit, it might as well not have been there."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:47,380",
+				"to": "00:30:53,620"
+			},
+			"offsets": {
+				"from": 1847380,
+				"to": 1853620
+			},
+			"text": " No matter how much time it stays growing, if you've been going to Sunday school and you believe this stuff,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,620",
+				"to": "00:31:02,180"
+			},
+			"offsets": {
+				"from": 1853620,
+				"to": 1862180
+			},
+			"text": " and you've been, since you were five years old, following the church, and it's not bearing fruit, it's not a good growth, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:02,180",
+				"to": "00:31:03,500"
+			},
+			"offsets": {
+				"from": 1862180,
+				"to": 1863500
+			},
+			"text": " That's what this is telling us."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:03,500",
+				"to": "00:31:09,680"
+			},
+			"offsets": {
+				"from": 1863500,
+				"to": 1869680
+			},
+			"text": " There's a way to listen that includes a response that brings fruit, and that's the important part."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,680",
+				"to": "00:31:11,360"
+			},
+			"offsets": {
+				"from": 1869680,
+				"to": 1871360
+			},
+			"text": " That's what mattered to the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,360",
+				"to": "00:31:17,020"
+			},
+			"offsets": {
+				"from": 1871360,
+				"to": 1877020
+			},
+			"text": " So, in the Hebrew, we said this before up here, I'm just going to say it again."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:17,380",
+				"to": "00:31:20,220"
+			},
+			"offsets": {
+				"from": 1877380,
+				"to": 1880220
+			},
+			"text": " The word to hear has the implication of obey."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,220",
+				"to": "00:31:24,480"
+			},
+			"offsets": {
+				"from": 1880220,
+				"to": 1884480
+			},
+			"text": " So hearing without responding, hearing without obeying, isn't real hearing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:24,480",
+				"to": "00:31:31,580"
+			},
+			"offsets": {
+				"from": 1884480,
+				"to": 1891580
+			},
+			"text": " Jesus obviously told in the Sermon on the Mount, Matthew 7, the parable of the house on the rock and the house on the sand."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:31,580",
+				"to": "00:31:36,320"
+			},
+			"offsets": {
+				"from": 1891580,
+				"to": 1896320
+			},
+			"text": " And when the rains came, the house on the sand fell down because it might as well not have been built in the first place."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,320",
+				"to": "00:31:37,680"
+			},
+			"offsets": {
+				"from": 1896320,
+				"to": 1897680
+			},
+			"text": " It was built on a poor foundation."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:37,680",
+				"to": "00:31:42,320"
+			},
+			"offsets": {
+				"from": 1897680,
+				"to": 1902320
+			},
+			"text": " Same picture here of the plant that had deep roots, but it couldn't bear fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:42,320",
+				"to": "00:31:43,060"
+			},
+			"offsets": {
+				"from": 1902320,
+				"to": 1903060
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:43,060",
+				"to": "00:31:56,000"
+			},
+			"offsets": {
+				"from": 1903060,
+				"to": 1916000
+			},
+			"text": " But then in verse 8 and 15, where it's explained, we have the person, the soil, that hears and accepts and responds to, obeys, the word that's planted in him."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:56,000",
+				"to": "00:31:57,380"
+			},
+			"offsets": {
+				"from": 1916000,
+				"to": 1917380
+			},
+			"text": " And that plant bears fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:57,380",
+				"to": "00:31:59,860"
+			},
+			"offsets": {
+				"from": 1917380,
+				"to": 1919860
+			},
+			"text": " Fruit, what characterizes fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:01,420",
+				"to": "00:32:04,280"
+			},
+			"offsets": {
+				"from": 1921420,
+				"to": 1924280
+			},
+			"text": " Seeds, yes, it has seeds, so that it can replicate."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:04,280",
+				"to": "00:32:10,040"
+			},
+			"offsets": {
+				"from": 1924280,
+				"to": 1930040
+			},
+			"text": " Seeds, fruit can grow more trees that grow more fruit that grow more trees, seed that grow more fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:10,040",
+				"to": "00:32:13,240"
+			},
+			"offsets": {
+				"from": 1930040,
+				"to": 1933240
+			},
+			"text": " So, there will be a harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,240",
+				"to": "00:32:15,320"
+			},
+			"offsets": {
+				"from": 1933240,
+				"to": 1935320
+			},
+			"text": " It might be 30, 60, or 100 fold."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,320",
+				"to": "00:32:17,300"
+			},
+			"offsets": {
+				"from": 1935320,
+				"to": 1937300
+			},
+			"text": " The volume of the harvest doesn't matter."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,300",
+				"to": "00:32:20,080"
+			},
+			"offsets": {
+				"from": 1937300,
+				"to": 1940080
+			},
+			"text": " What matters is, is it a harvest?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,660",
+				"to": "00:32:28,080"
+			},
+			"offsets": {
+				"from": 1942660,
+				"to": 1948080
+			},
+			"text": " Jesus' point, then, is the dominant idea here, said in this parable, is that we should hear, really hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,080",
+				"to": "00:32:30,260"
+			},
+			"offsets": {
+				"from": 1948080,
+				"to": 1950260
+			},
+			"text": " There are commands to listen that open."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:30,260",
+				"to": "00:32:34,180"
+			},
+			"offsets": {
+				"from": 1950260,
+				"to": 1954180
+			},
+			"text": " He said, here's the parable, listen to this, behold."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,180",
+				"to": "00:32:37,060"
+			},
+			"offsets": {
+				"from": 1954180,
+				"to": 1957060
+			},
+			"text": " And at the end, he says, if you have ears to hear, let them hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,060",
+				"to": "00:32:38,300"
+			},
+			"offsets": {
+				"from": 1957060,
+				"to": 1958300
+			},
+			"text": " And he says that twice at the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,300",
+				"to": "00:32:41,540"
+			},
+			"offsets": {
+				"from": 1958300,
+				"to": 1961540
+			},
+			"text": " The command is to open and close."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,540",
+				"to": "00:32:42,860"
+			},
+			"offsets": {
+				"from": 1961540,
+				"to": 1962860
+			},
+			"text": " The open and close it is to listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:42,860",
+				"to": "00:32:45,680"
+			},
+			"offsets": {
+				"from": 1962860,
+				"to": 1965680
+			},
+			"text": " And we know in context, hearing means obeying."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,680",
+				"to": "00:32:48,940"
+			},
+			"offsets": {
+				"from": 1965680,
+				"to": 1968940
+			},
+			"text": " We need to listen both to hear him and to understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,940",
+				"to": "00:32:51,640"
+			},
+			"offsets": {
+				"from": 1968940,
+				"to": 1971640
+			},
+			"text": " And if you do hear him, it will lead to change in your behavior."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:51,640",
+				"to": "00:32:55,060"
+			},
+			"offsets": {
+				"from": 1971640,
+				"to": 1975060
+			},
+			"text": " If you actually hear him, that's the fruit born within you."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,060",
+				"to": "00:32:58,260"
+			},
+			"offsets": {
+				"from": 1975060,
+				"to": 1978260
+			},
+			"text": " That fruit that's characterized by seed will begin by scattering seed elsewhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,260",
+				"to": "00:33:02,720"
+			},
+			"offsets": {
+				"from": 1978260,
+				"to": 1982720
+			},
+			"text": " And that will spread the word outside you and begin growing the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,720",
+				"to": "00:33:08,180"
+			},
+			"offsets": {
+				"from": 1982720,
+				"to": 1988180
+			},
+			"text": " And that's what the following little rapid set of parables that he wants them to listen to are about."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,180",
+				"to": "00:33:10,720"
+			},
+			"offsets": {
+				"from": 1988180,
+				"to": 1990720
+			},
+			"text": " Which Corey will talk about more next week."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,720",
+				"to": "00:33:11,740"
+			},
+			"offsets": {
+				"from": 1990720,
+				"to": 1991740
+			},
+			"text": " So, you have to come back."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,740",
+				"to": "00:33:12,180"
+			},
+			"offsets": {
+				"from": 1991740,
+				"to": 1992180
+			},
+			"text": " It's a twofer."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,180",
+				"to": "00:33:16,980"
+			},
+			"offsets": {
+				"from": 1992180,
+				"to": 1996980
+			},
+			"text": " So, what are we listening to?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:17,300",
+				"to": "00:33:22,660"
+			},
+			"offsets": {
+				"from": 1997300,
+				"to": 2002660
+			},
+			"text": " Jesus is going to go on with that rapid string of parables that characterize explaining how the kingdom of God is surprising."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:22,660",
+				"to": "00:33:25,560"
+			},
+			"offsets": {
+				"from": 2002660,
+				"to": 2005560
+			},
+			"text": " He said to them, he who has ears to hear, let him hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:25,560",
+				"to": "00:33:29,280"
+			},
+			"offsets": {
+				"from": 2005560,
+				"to": 2009280
+			},
+			"text": " Letting them know that this is the bit, the fulfillment of Isaiah's prophecy."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,280",
+				"to": "00:33:35,120"
+			},
+			"offsets": {
+				"from": 2009280,
+				"to": 2015120
+			},
+			"text": " And then he's going to immediately go on to say, and the kingdom doesn't look the way you think."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,120",
+				"to": "00:33:35,800"
+			},
+			"offsets": {
+				"from": 2015120,
+				"to": 2015800
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,800",
+				"to": "00:33:41,560"
+			},
+			"offsets": {
+				"from": 2015800,
+				"to": 2021560
+			},
+			"text": " If you were to characterize what's said in Matthew, you'd say, the kingdom isn't really big and amazing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,560",
+				"to": "00:33:44,760"
+			},
+			"offsets": {
+				"from": 2021560,
+				"to": 2024760
+			},
+			"text": " It's a small seed that's going to grow something huge in the future."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:44,760",
+				"to": "00:33:48,740"
+			},
+			"offsets": {
+				"from": 2024760,
+				"to": 2028740
+			},
+			"text": " It doesn't bring justice right now, but it brings a seed that will grow justice in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:48,740",
+				"to": "00:33:48,940"
+			},
+			"offsets": {
+				"from": 2028740,
+				"to": 2028940
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:48,940",
+				"to": "00:33:51,980"
+			},
+			"offsets": {
+				"from": 2028940,
+				"to": 2031980
+			},
+			"text": " There's all these things about the kingdom that are not what people are looking for."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,980",
+				"to": "00:33:56,180"
+			},
+			"offsets": {
+				"from": 2031980,
+				"to": 2036180
+			},
+			"text": " Most importantly, it's not a kingdom of ethnicity or citizenship."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:56,180",
+				"to": "00:33:59,980"
+			},
+			"offsets": {
+				"from": 2036180,
+				"to": 2039980
+			},
+			"text": " It's a kingdom of people who accept and respond to the word."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,980",
+				"to": "00:34:06,120"
+			},
+			"offsets": {
+				"from": 2039980,
+				"to": 2046120
+			},
+			"text": " So, in this parable, he's telling you how this kingdom is formed, who's in it, and how it grows."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,260",
+				"to": "00:34:09,400"
+			},
+			"offsets": {
+				"from": 2046260,
+				"to": 2049400
+			},
+			"text": " All of those are answered by those who listen to my words."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,400",
+				"to": "00:34:12,740"
+			},
+			"offsets": {
+				"from": 2049400,
+				"to": 2052740
+			},
+			"text": " That's why he's saying listen over and over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:12,740",
+				"to": "00:34:17,040"
+			},
+			"offsets": {
+				"from": 2052740,
+				"to": 2057040
+			},
+			"text": " Because if you hear, you will respond, and it will have an impact on the world around you."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:17,040",
+				"to": "00:34:17,660"
+			},
+			"offsets": {
+				"from": 2057040,
+				"to": 2057660
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,860",
+				"to": "00:34:25,400"
+			},
+			"offsets": {
+				"from": 2059860,
+				"to": 2065400
+			},
+			"text": " This will be a kingdom of the word, which requires response, not ethnicity or legal citizenship."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,400",
+				"to": "00:34:28,300"
+			},
+			"offsets": {
+				"from": 2065400,
+				"to": 2068300
+			},
+			"text": " And again, Corey will talk about that more next week."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:28,300",
+				"to": "00:34:35,440"
+			},
+			"offsets": {
+				"from": 2068300,
+				"to": 2075440
+			},
+			"text": " So, how do we know that we have listened well according to the words of this parable?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,440",
+				"to": "00:34:36,760"
+			},
+			"offsets": {
+				"from": 2075440,
+				"to": 2076760
+			},
+			"text": " How do we know that we're the good soil?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,760",
+				"to": "00:34:37,380"
+			},
+			"offsets": {
+				"from": 2076760,
+				"to": 2077380
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:37,380",
+				"to": "00:34:38,200"
+			},
+			"offsets": {
+				"from": 2077380,
+				"to": 2078200
+			},
+			"text": " How do we know we've made it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,860",
+				"to": "00:34:41,200"
+			},
+			"offsets": {
+				"from": 2078860,
+				"to": 2081200
+			},
+			"text": " First of all, you're not focused on yourself saying, have I made it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,200",
+				"to": "00:34:41,740"
+			},
+			"offsets": {
+				"from": 2081200,
+				"to": 2081740
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,740",
+				"to": "00:34:43,960"
+			},
+			"offsets": {
+				"from": 2081740,
+				"to": 2083960
+			},
+			"text": " That's the first way you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,960",
+				"to": "00:34:49,880"
+			},
+			"offsets": {
+				"from": 2083960,
+				"to": 2089880
+			},
+			"text": " But you have to recognize, this parable tells us, it's not just that you respond with joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:49,880",
+				"to": "00:34:51,520"
+			},
+			"offsets": {
+				"from": 2089880,
+				"to": 2091520
+			},
+			"text": " You don't feel inspired."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,520",
+				"to": "00:34:52,920"
+			},
+			"offsets": {
+				"from": 2091520,
+				"to": 2092920
+			},
+			"text": " That's not how you know you're good soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:52,920",
+				"to": "00:34:55,220"
+			},
+			"offsets": {
+				"from": 2092920,
+				"to": 2095220
+			},
+			"text": " It's not just that there's growth in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,220",
+				"to": "00:34:57,220"
+			},
+			"offsets": {
+				"from": 2095220,
+				"to": 2097220
+			},
+			"text": " Because both of those things happened on the rocky soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,220",
+				"to": "00:34:57,620"
+			},
+			"offsets": {
+				"from": 2097220,
+				"to": 2097620
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:57,620",
+				"to": "00:34:58,580"
+			},
+			"offsets": {
+				"from": 2097620,
+				"to": 2098580
+			},
+			"text": " There was growth."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,580",
+				"to": "00:34:59,220"
+			},
+			"offsets": {
+				"from": 2098580,
+				"to": 2099220
+			},
+			"text": " There was joy."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:59,220",
+				"to": "00:35:03,520"
+			},
+			"offsets": {
+				"from": 2099220,
+				"to": 2103520
+			},
+			"text": " It's not just the word of God putting down roots in your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,520",
+				"to": "00:35:06,220"
+			},
+			"offsets": {
+				"from": 2103520,
+				"to": 2106220
+			},
+			"text": " That happened in two out of the four cases."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:06,220",
+				"to": "00:35:08,820"
+			},
+			"offsets": {
+				"from": 2106220,
+				"to": 2108820
+			},
+			"text": " It's not even persistent growth."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,860",
+				"to": "00:35:15,400"
+			},
+			"offsets": {
+				"from": 2108860,
+				"to": 2115400
+			},
+			"text": " Because the seed, the plant that grew up with the thorns, it was persistent growth that then got choked out so that it couldn't bear fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,400",
+				"to": "00:35:18,500"
+			},
+			"offsets": {
+				"from": 2115400,
+				"to": 2118500
+			},
+			"text": " The thorny ground saw deep roots."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,500",
+				"to": "00:35:20,760"
+			},
+			"offsets": {
+				"from": 2118500,
+				"to": 2120760
+			},
+			"text": " It's when the gospel bears fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:20,760",
+				"to": "00:35:22,600"
+			},
+			"offsets": {
+				"from": 2120760,
+				"to": 2122600
+			},
+			"text": " It's our harvest of any size in our hearts."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,600",
+				"to": "00:35:35,000"
+			},
+			"offsets": {
+				"from": 2122600,
+				"to": 2135000
+			},
+			"text": " And now, we know that we can't make roots grow down deep in our heart or in any other person's heart by concentrated, focused effort of will or by anything else that happens after the seed arrives."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,000",
+				"to": "00:35:35,860"
+			},
+			"offsets": {
+				"from": 2135000,
+				"to": 2135860
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,920",
+				"to": "00:35:39,660"
+			},
+			"offsets": {
+				"from": 2136920,
+				"to": 2139660
+			},
+			"text": " And parenthetically, we can't make growth happen at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:39,660",
+				"to": "00:35:41,780"
+			},
+			"offsets": {
+				"from": 2139660,
+				"to": 2141780
+			},
+			"text": " You know, we can't be the ones that do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,780",
+				"to": "00:35:50,520"
+			},
+			"offsets": {
+				"from": 2141780,
+				"to": 2150520
+			},
+			"text": " But in this parable, it's shown that what's required to enable deep root growth, to yield the fruitfulness that happens in the moments of good hearing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:50,860",
+				"to": "00:35:53,920"
+			},
+			"offsets": {
+				"from": 2150860,
+				"to": 2153920
+			},
+			"text": " is what is being prepared before the seed arrives."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,920",
+				"to": "00:36:01,640"
+			},
+			"offsets": {
+				"from": 2153920,
+				"to": 2161640
+			},
+			"text": " Again, the picture of the pastor waiting to hit seed, you know, good soil with his seed, because he knows that when you're ready, you can then receive it."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,640",
+				"to": "00:36:05,020"
+			},
+			"offsets": {
+				"from": 2161640,
+				"to": 2165020
+			},
+			"text": " Christ said, anyone who comes to me and asks, I'll tell you more."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:05,020",
+				"to": "00:36:05,680"
+			},
+			"offsets": {
+				"from": 2165020,
+				"to": 2165680
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:07,420",
+				"to": "00:36:15,720"
+			},
+			"offsets": {
+				"from": 2167420,
+				"to": 2175720
+			},
+			"text": " The little bit right after what I didn't read you in Mark, he says, pay attention to what you hear, for to the ones who has, more will be given."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,720",
+				"to": "00:36:18,340"
+			},
+			"offsets": {
+				"from": 2175720,
+				"to": 2178340
+			},
+			"text": " The ones who doesn't have, even that will be taken away."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,340",
+				"to": "00:36:22,420"
+			},
+			"offsets": {
+				"from": 2178340,
+				"to": 2182420
+			},
+			"text": " That's the third difficult part of Mark if you read it out of context, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,960",
+				"to": "00:36:27,240"
+			},
+			"offsets": {
+				"from": 2182960,
+				"to": 2187240
+			},
+			"text": " Sounds like he's saying that he's kind of an ambivalent giver."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,240",
+				"to": "00:36:33,920"
+			},
+			"offsets": {
+				"from": 2187240,
+				"to": 2193920
+			},
+			"text": " But what he's saying is, for he, I'll read it again, pay attention to what you hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,920",
+				"to": "00:36:38,600"
+			},
+			"offsets": {
+				"from": 2193920,
+				"to": 2198600
+			},
+			"text": " For the one who has, to the one who has, more will be given."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,600",
+				"to": "00:36:42,000"
+			},
+			"offsets": {
+				"from": 2198600,
+				"to": 2202000
+			},
+			"text": " If you have something and you ask for more, I'm going to give it to you, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:43,180",
+				"to": "00:36:45,960"
+			},
+			"offsets": {
+				"from": 2203180,
+				"to": 2205960
+			},
+			"text": " The one who has not, even what he does have, will be taken away."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,960",
+				"to": "00:36:47,300"
+			},
+			"offsets": {
+				"from": 2205960,
+				"to": 2207300
+			},
+			"text": " He's already said that in the parable."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,300",
+				"to": "00:36:53,480"
+			},
+			"offsets": {
+				"from": 2207300,
+				"to": 2213480
+			},
+			"text": " The guy on the hard road, the seed that fell on the hard road, if you don't receive the word, the birds are going to take it away."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,480",
+				"to": "00:36:57,400"
+			},
+			"offsets": {
+				"from": 2213480,
+				"to": 2217400
+			},
+			"text": " The error here is thinking that it says Jesus will take it away from you."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,400",
+				"to": "00:36:58,100"
+			},
+			"offsets": {
+				"from": 2217400,
+				"to": 2218100
+			},
+			"text": " He never says that."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,100",
+				"to": "00:36:59,420"
+			},
+			"offsets": {
+				"from": 2218100,
+				"to": 2219420
+			},
+			"text": " He says it will be taken away."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,420",
+				"to": "00:37:01,600"
+			},
+			"offsets": {
+				"from": 2219420,
+				"to": 2221600
+			},
+			"text": " But if you take it and receive it, he'll give you more."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,600",
+				"to": "00:37:05,480"
+			},
+			"offsets": {
+				"from": 2221600,
+				"to": 2225480
+			},
+			"text": " Like any good teacher, he's going to invest in anyone who listens to what he says."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:05,480",
+				"to": "00:37:07,040"
+			},
+			"offsets": {
+				"from": 2225480,
+				"to": 2227040
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:07,040",
+				"to": "00:37:11,600"
+			},
+			"offsets": {
+				"from": 2227040,
+				"to": 2231600
+			},
+			"text": " Whoever wrote my notes put them in all the wrong order."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,180",
+				"to": "00:37:18,180"
+			},
+			"offsets": {
+				"from": 2233180,
+				"to": 2238180
+			},
+			"text": " So knowing this, what the question remains then, so we have to be prepared ahead of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,180",
+				"to": "00:37:20,280"
+			},
+			"offsets": {
+				"from": 2238180,
+				"to": 2240280
+			},
+			"text": " What prepares the soil, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,280",
+				"to": "00:37:22,240"
+			},
+			"offsets": {
+				"from": 2240280,
+				"to": 2242240
+			},
+			"text": " How can we get prepared?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,240",
+				"to": "00:37:25,860"
+			},
+			"offsets": {
+				"from": 2242240,
+				"to": 2245860
+			},
+			"text": " And frustratingly, this parable doesn't say that, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,860",
+				"to": "00:37:27,620"
+			},
+			"offsets": {
+				"from": 2245860,
+				"to": 2247620
+			},
+			"text": " It's not on his mind at this moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,620",
+				"to": "00:37:30,960"
+			},
+			"offsets": {
+				"from": 2247620,
+				"to": 2250960
+			},
+			"text": " The rest of what he has to say is all about that."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,960",
+				"to": "00:37:32,700"
+			},
+			"offsets": {
+				"from": 2250960,
+				"to": 2252700
+			},
+			"text": " He talks a lot about how to be prepared."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,700",
+				"to": "00:37:37,260"
+			},
+			"offsets": {
+				"from": 2252700,
+				"to": 2257260
+			},
+			"text": " And gleaning from the rest of the words of Christ, in my experience, and the wisdom of Christian forbearers,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:37,260",
+				"to": "00:37:41,000"
+			},
+			"offsets": {
+				"from": 2257260,
+				"to": 2261000
+			},
+			"text": " one thing that we know is that you really can't do it by yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,680",
+				"to": "00:37:47,940"
+			},
+			"offsets": {
+				"from": 2262680,
+				"to": 2267940
+			},
+			"text": " The reason we devote ourselves to Christian community here in this church and focus on small groups and ministry,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,940",
+				"to": "00:37:51,180"
+			},
+			"offsets": {
+				"from": 2267940,
+				"to": 2271180
+			},
+			"text": " it's not because we need something to do on the weekends, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:51,180",
+				"to": "00:37:58,480"
+			},
+			"offsets": {
+				"from": 2271180,
+				"to": 2278480
+			},
+			"text": " It's because we need our brothers to confess our sins to."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:58,480",
+				"to": "00:37:59,940"
+			},
+			"offsets": {
+				"from": 2278480,
+				"to": 2279940
+			},
+			"text": " You want real humility."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,940",
+				"to": "00:38:02,940"
+			},
+			"offsets": {
+				"from": 2280940,
+				"to": 2282940
+			},
+			"text": " We need our brothers to be generous to."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,940",
+				"to": "00:38:12,740"
+			},
+			"offsets": {
+				"from": 2282940,
+				"to": 2292740
+			},
+			"text": " All the things that require the growth of spiritual activities that grow the kingdom of God in us require interaction with another brother and sister."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:14,560",
+				"to": "00:38:16,020"
+			},
+			"offsets": {
+				"from": 2294560,
+				"to": 2296020
+			},
+			"text": " We search the scripture together."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:16,020",
+				"to": "00:38:17,400"
+			},
+			"offsets": {
+				"from": 2296020,
+				"to": 2297400
+			},
+			"text": " We pray together in faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,400",
+				"to": "00:38:22,420"
+			},
+			"offsets": {
+				"from": 2297400,
+				"to": 2302420
+			},
+			"text": " I've recommended it before, but if you've never read Dietrich Bonhoeffer's book, Life Together, read it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,420",
+				"to": "00:38:25,180"
+			},
+			"offsets": {
+				"from": 2302420,
+				"to": 2305180
+			},
+			"text": " It's the best book on this topic I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,180",
+				"to": "00:38:27,120"
+			},
+			"offsets": {
+				"from": 2305180,
+				"to": 2307120
+			},
+			"text": " It's brief, it's quick, and it's excellent."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:28,460",
+				"to": "00:38:34,280"
+			},
+			"offsets": {
+				"from": 2308460,
+				"to": 2314280
+			},
+			"text": " He's writing at a time when he was trying to grow the church under the fascist rule of Nazi Germany."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,280",
+				"to": "00:38:40,140"
+			},
+			"offsets": {
+				"from": 2314280,
+				"to": 2320140
+			},
+			"text": " And how essential it was for them to live life together to actually grow Christian virtue, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:42,300",
+				"to": "00:38:46,040"
+			},
+			"offsets": {
+				"from": 2322300,
+				"to": 2326040
+			},
+			"text": " Our brother and four brothers, forbearers, called it impartial yielded community."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,040",
+				"to": "00:38:47,540"
+			},
+			"offsets": {
+				"from": 2326040,
+				"to": 2327540
+			},
+			"text": " No one better than the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:47,540",
+				"to": "00:38:49,560"
+			},
+			"offsets": {
+				"from": 2327540,
+				"to": 2329560
+			},
+			"text": " Everyone yielded to Christ in community."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,560",
+				"to": "00:38:54,180"
+			},
+			"offsets": {
+				"from": 2329560,
+				"to": 2334180
+			},
+			"text": " The early church called it koinonia, all things held in common, spiritual and material,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:54,180",
+				"to": "00:38:58,540"
+			},
+			"offsets": {
+				"from": 2334180,
+				"to": 2338540
+			},
+			"text": " because we're all humble and stand evenly before the throne of Christ, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:58,540",
+				"to": "00:39:06,100"
+			},
+			"offsets": {
+				"from": 2338540,
+				"to": 2346100
+			},
+			"text": " Christ simply called it loving your brother, and it was his final command to his disciples in John 15."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:06,100",
+				"to": "00:39:09,580"
+			},
+			"offsets": {
+				"from": 2346100,
+				"to": 2349580
+			},
+			"text": " We are to pursue a life devoted to one another in humble love."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:09,580",
+				"to": "00:39:14,120"
+			},
+			"offsets": {
+				"from": 2349580,
+				"to": 2354120
+			},
+			"text": " And in the process of doing that, the soil of our heart becomes untrampled."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,120",
+				"to": "00:39:16,200"
+			},
+			"offsets": {
+				"from": 2354120,
+				"to": 2356200
+			},
+			"text": " We get the rocks out of the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:16,200",
+				"to": "00:39:19,100"
+			},
+			"offsets": {
+				"from": 2356200,
+				"to": 2359100
+			},
+			"text": " It's not always a pleasant process, but the results are divine."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:19,100",
+				"to": "00:39:26,920"
+			},
+			"offsets": {
+				"from": 2359100,
+				"to": 2366920
+			},
+			"text": " So small groups, relationships, forgiveness, persistence in the faith, giving, those have to be done in community."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:26,920",
+				"to": "00:39:30,520"
+			},
+			"offsets": {
+				"from": 2366920,
+				"to": 2370520
+			},
+			"text": " And that is, in my experience, how you prepare the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:30,520",
+				"to": "00:39:34,140"
+			},
+			"offsets": {
+				"from": 2370520,
+				"to": 2374140
+			},
+			"text": " Now, those being with someone else in and of itself doesn't prepare the soil,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:34,140",
+				"to": "00:39:37,360"
+			},
+			"offsets": {
+				"from": 2374140,
+				"to": 2377360
+			},
+			"text": " but the things you do, the spiritual practices you start putting in place will."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,200",
+				"to": "00:39:46,660"
+			},
+			"offsets": {
+				"from": 2378200,
+				"to": 2386660
+			},
+			"text": " So just before this parable, in Mark 3 and in Matthew 11, Christ has sent out his disciples in pairs to start spreading out the seed, to start preaching."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,660",
+				"to": "00:39:51,840"
+			},
+			"offsets": {
+				"from": 2386660,
+				"to": 2391840
+			},
+			"text": " The seed, then, we hear in Mark 3, 14, is the word of God, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,840",
+				"to": "00:39:56,960"
+			},
+			"offsets": {
+				"from": 2391840,
+				"to": 2396960
+			},
+			"text": " So he sent them out in faith and authority to preach and work miracles the way they've learned to do it from him."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,520",
+				"to": "00:40:03,360"
+			},
+			"offsets": {
+				"from": 2397520,
+				"to": 2403360
+			},
+			"text": " And then, in his explanation of the parable in Mark 4, 14 to 20, he tells them that they are also the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:03,360",
+				"to": "00:40:06,480"
+			},
+			"offsets": {
+				"from": 2403360,
+				"to": 2406480
+			},
+			"text": " So they're the seed, the sower and the soil, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:06,480",
+				"to": "00:40:08,540"
+			},
+			"offsets": {
+				"from": 2406480,
+				"to": 2408540
+			},
+			"text": " He says, you're the good soil, because you're hearing me."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:08,540",
+				"to": "00:40:10,560"
+			},
+			"offsets": {
+				"from": 2408540,
+				"to": 2410560
+			},
+			"text": " They're the fulfillment of Isaiah 6."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:10,560",
+				"to": "00:40:16,800"
+			},
+			"offsets": {
+				"from": 2410560,
+				"to": 2416800
+			},
+			"text": " They're the generation that's finally opened their eyes and unstopped their ears, as it verifies in Matthew 13, verse 16."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:17,160",
+				"to": "00:40:22,400"
+			},
+			"offsets": {
+				"from": 2417160,
+				"to": 2422400
+			},
+			"text": " And they recognize and follow the Christ who grew out of David's stump, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,400",
+				"to": "00:40:29,800"
+			},
+			"offsets": {
+				"from": 2422400,
+				"to": 2429800
+			},
+			"text": " And then, in 311, he says, yes, you're the ones who the mystery's been revealed to, so that you can now hear the parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:29,800",
+				"to": "00:40:31,180"
+			},
+			"offsets": {
+				"from": 2429800,
+				"to": 2431180
+			},
+			"text": " You know what that you can hear without parables."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,180",
+				"to": "00:40:31,720"
+			},
+			"offsets": {
+				"from": 2431180,
+				"to": 2431720
+			},
+			"text": " You know what it means."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,720",
+				"to": "00:40:35,620"
+			},
+			"offsets": {
+				"from": 2431720,
+				"to": 2435620
+			},
+			"text": " And now you're ready to spread them around so that other people can hear them as well."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:36,160",
+				"to": "00:40:42,400"
+			},
+			"offsets": {
+				"from": 2436160,
+				"to": 2442400
+			},
+			"text": " So now, if it's true that we are the continuation of the disciples' mission, who are continuing Christ's mission."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,400",
+				"to": "00:40:46,840"
+			},
+			"offsets": {
+				"from": 2442400,
+				"to": 2446840
+			},
+			"text": " And that if we're disciples who are making disciples, if we're actually being fruitful."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,840",
+				"to": "00:40:59,040"
+			},
+			"offsets": {
+				"from": 2446840,
+				"to": 2459040
+			},
+			"text": " And also, if I understand it correctly, that the way to get your soil right is living in Christian community and pursuing the occasions of grace that we are to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:59,040",
+				"to": "00:41:01,520"
+			},
+			"offsets": {
+				"from": 2459040,
+				"to": 2461520
+			},
+			"text": " That means a few things, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:01,840",
+				"to": "00:41:09,500"
+			},
+			"offsets": {
+				"from": 2461840,
+				"to": 2469500
+			},
+			"text": " It means that in this parable, we are the tillers of the soil, the sower, and the soil itself, and that we're good soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,500",
+				"to": "00:41:14,860"
+			},
+			"offsets": {
+				"from": 2469500,
+				"to": 2474860
+			},
+			"text": " Which is, parenthetically, why you shouldn't pile an allegory on top of a parable, because you could never get that out of an allegory."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:14,860",
+				"to": "00:41:16,740"
+			},
+			"offsets": {
+				"from": 2474860,
+				"to": 2476740
+			},
+			"text": " And that's clearly what it's saying, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:16,740",
+				"to": "00:41:22,040"
+			},
+			"offsets": {
+				"from": 2476740,
+				"to": 2482040
+			},
+			"text": " But more importantly, it tells you your roles here."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:22,040",
+				"to": "00:41:25,340"
+			},
+			"offsets": {
+				"from": 2482040,
+				"to": 2485340
+			},
+			"text": " You have the chance to be the sower, the tiller, and the soil."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,340",
+				"to": "00:41:26,780"
+			},
+			"offsets": {
+				"from": 2485340,
+				"to": 2486780
+			},
+			"text": " You're not the plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:26,780",
+				"to": "00:41:27,620"
+			},
+			"offsets": {
+				"from": 2486780,
+				"to": 2487620
+			},
+			"text": " That's the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:27,620",
+				"to": "00:41:29,440"
+			},
+			"offsets": {
+				"from": 2487620,
+				"to": 2489440
+			},
+			"text": " We're never the elements."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,560",
+				"to": "00:41:32,280"
+			},
+			"offsets": {
+				"from": 2489560,
+				"to": 2492280
+			},
+			"text": " We're never the agents that lead to the germination and the growth, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:32,280",
+				"to": "00:41:36,100"
+			},
+			"offsets": {
+				"from": 2492280,
+				"to": 2496100
+			},
+			"text": " We can only prepare soil in ourselves and others, help prepare it."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,100",
+				"to": "00:41:37,280"
+			},
+			"offsets": {
+				"from": 2496100,
+				"to": 2497280
+			},
+			"text": " We can spread seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:37,280",
+				"to": "00:41:40,620"
+			},
+			"offsets": {
+				"from": 2497280,
+				"to": 2500620
+			},
+			"text": " We can openly feel the word growing in us, growing down deep."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,620",
+				"to": "00:41:47,800"
+			},
+			"offsets": {
+				"from": 2500620,
+				"to": 2507800
+			},
+			"text": " And to follow the metaphor to its end, we have to understand the soil, us, doesn't really spread the seed, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:47,800",
+				"to": "00:41:50,280"
+			},
+			"offsets": {
+				"from": 2507800,
+				"to": 2510280
+			},
+			"text": " The fruitful plant creates and drops seed."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:50,280",
+				"to": "00:41:52,180"
+			},
+			"offsets": {
+				"from": 2510280,
+				"to": 2512180
+			},
+			"text": " And the wind carries it away."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,860",
+				"to": "00:42:03,300"
+			},
+			"offsets": {
+				"from": 2513860,
+				"to": 2523300
+			},
+			"text": " To other places, we're in distant locations, and to stretch the metaphor, even the evil birds carry the seed off so that God uses for good what they intend for evil when they take the seed away, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:05,780",
+				"to": "00:42:07,260"
+			},
+			"offsets": {
+				"from": 2525780,
+				"to": 2527260
+			},
+			"text": " The gospel grows up in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:07,260",
+				"to": "00:42:13,340"
+			},
+			"offsets": {
+				"from": 2527260,
+				"to": 2533340
+			},
+			"text": " It is a natural matter, of course, begins to just spread and multiply itself into the lives of others around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:13,340",
+				"to": "00:42:16,740"
+			},
+			"offsets": {
+				"from": 2533340,
+				"to": 2536740
+			},
+			"text": " We are not responsible for making the word grow down deep in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:16,740",
+				"to": "00:42:20,760"
+			},
+			"offsets": {
+				"from": 2536740,
+				"to": 2540760
+			},
+			"text": " We are responsible for listening, listening well and responding."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,760",
+				"to": "00:42:25,340"
+			},
+			"offsets": {
+				"from": 2540760,
+				"to": 2545340
+			},
+			"text": " So we want to understand these parables and have the appropriate way to respond to each, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:26,220",
+				"to": "00:42:30,300"
+			},
+			"offsets": {
+				"from": 2546220,
+				"to": 2550300
+			},
+			"text": " We want to really open, listen fully for things that we might not be prepared to hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,300",
+				"to": "00:42:35,000"
+			},
+			"offsets": {
+				"from": 2550300,
+				"to": 2555000
+			},
+			"text": " We're not responsible for bringing about fruit, but when we listen obediently, we will be moved to action."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:35,000",
+				"to": "00:42:40,480"
+			},
+			"offsets": {
+				"from": 2555000,
+				"to": 2560480
+			},
+			"text": " We will respond, and the seed of the kingdom will be spread through us, which Corey will talk more about next week."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,480",
+				"to": "00:42:42,940"
+			},
+			"offsets": {
+				"from": 2560480,
+				"to": 2562940
+			},
+			"text": " So this is the parable of the sower."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:42,940",
+				"to": "00:42:46,100"
+			},
+			"offsets": {
+				"from": 2562940,
+				"to": 2566100
+			},
+			"text": " If you have ears to hear, please hear it, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,100",
+				"to": "00:42:53,440"
+			},
+			"offsets": {
+				"from": 2566100,
+				"to": 2573440
+			},
+			"text": " I'm going to pray, and then Ryan will send us forth to pursue Christian community this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:54,200",
+				"to": "00:43:00,840"
+			},
+			"offsets": {
+				"from": 2574200,
+				"to": 2580840
+			},
+			"text": " Father God, I so thank you for this church, and I thank you for the durable parables that you've given us."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,840",
+				"to": "00:43:09,680"
+			},
+			"offsets": {
+				"from": 2580840,
+				"to": 2589680
+			},
+			"text": " I thank you for the meaning in them that will elicit action from us, that will make us more like you."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:09,680",
+				"to": "00:43:21,220"
+			},
+			"offsets": {
+				"from": 2589680,
+				"to": 2601220
+			},
+			"text": " And I pray that that would just grow in us this week, and that we would listen to your words and hear more from that parable than, you know, clearly than I said today."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,900",
+				"to": "00:43:29,840"
+			},
+			"offsets": {
+				"from": 2603900,
+				"to": 2609840
+			},
+			"text": " Let us be your hands and feet to our brothers and vehicles for growing the kingdom in this world."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:29,840",
+				"to": "00:43:31,020"
+			},
+			"offsets": {
+				"from": 2609840,
+				"to": 2611020
+			},
+			"text": " In Jesus' name, amen."
+		}
+	]
+}

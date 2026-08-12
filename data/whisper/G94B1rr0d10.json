@@ -1,0 +1,6742 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:19,380"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 19380
+			},
+			"text": " Well, good morning, everybody, if I haven't met you yet, my name is Michelle Meeks, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,380",
+				"to": "00:00:20,640"
+			},
+			"offsets": {
+				"from": 19380,
+				"to": 20640
+			},
+			"text": " I'm the children's pastor here."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,640",
+				"to": "00:00:24,680"
+			},
+			"offsets": {
+				"from": 20640,
+				"to": 24680
+			},
+			"text": " Before I get started, though, I definitely want to start with prayer, so you guys could"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,680",
+				"to": "00:00:25,500"
+			},
+			"offsets": {
+				"from": 24680,
+				"to": 25500
+			},
+			"text": " join me in prayer."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,500",
+				"to": "00:00:29,480"
+			},
+			"offsets": {
+				"from": 25500,
+				"to": 29480
+			},
+			"text": " Dear God, I thank you for this morning, for that worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,480",
+				"to": "00:00:36,620"
+			},
+			"offsets": {
+				"from": 29480,
+				"to": 36620
+			},
+			"text": " I pray that every ounce of our body will praise you from now until we enter into heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,620",
+				"to": "00:00:41,720"
+			},
+			"offsets": {
+				"from": 36620,
+				"to": 41720
+			},
+			"text": " God, I thank you for the words that you have been showing me over the past few weeks, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,720",
+				"to": "00:00:46,520"
+			},
+			"offsets": {
+				"from": 41720,
+				"to": 46520
+			},
+			"text": " I pray that you will take over and that you will speak exactly what you want to be said."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,520",
+				"to": "00:00:47,620"
+			},
+			"offsets": {
+				"from": 46520,
+				"to": 47620
+			},
+			"text": " In your name I pray, amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,980",
+				"to": "00:00:56,420"
+			},
+			"offsets": {
+				"from": 48980,
+				"to": 56420
+			},
+			"text": " So this morning, I have the privilege of tackling James 3, 1 through 12, which is titled"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,420",
+				"to": "00:00:57,720"
+			},
+			"offsets": {
+				"from": 56420,
+				"to": 57720
+			},
+			"text": " Taming the Tongue."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,720",
+				"to": "00:01:05,580"
+			},
+			"offsets": {
+				"from": 57720,
+				"to": 65580
+			},
+			"text": " I figured because I'm talking about taming the tongue, I should give you some super important"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,580",
+				"to": "00:01:08,800"
+			},
+			"offsets": {
+				"from": 65580,
+				"to": 68800
+			},
+			"text": " facts about the tongue, because why not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,800",
+				"to": "00:01:16,660"
+			},
+			"offsets": {
+				"from": 68800,
+				"to": 76660
+			},
+			"text": " Okay, so, the average person's tongue is roughly 3.3 inches long."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,660",
+				"to": "00:01:20,340"
+			},
+			"offsets": {
+				"from": 76660,
+				"to": 80340
+			},
+			"text": " Guys' tongues are a little bit longer than girls, who knew?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,340",
+				"to": "00:01:28,720"
+			},
+			"offsets": {
+				"from": 81340,
+				"to": 88720
+			},
+			"text": " But there is a world record for the longest tongue, and that is held by an American, his name"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,720",
+				"to": "00:01:37,300"
+			},
+			"offsets": {
+				"from": 88720,
+				"to": 97300
+			},
+			"text": " is Nick Strobel, and his tongue, which I assume is behind me now, yep, that's gross, is"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,300",
+				"to": "00:01:41,760"
+			},
+			"offsets": {
+				"from": 97300,
+				"to": 101760
+			},
+			"text": " 9, or 3, not 9, 3.97 inches long."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,760",
+				"to": "00:01:45,100"
+			},
+			"offsets": {
+				"from": 101760,
+				"to": 105100
+			},
+			"text": " So not all that much longer, but super gross."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,100",
+				"to": "00:01:51,280"
+			},
+			"offsets": {
+				"from": 105100,
+				"to": 111280
+			},
+			"text": " My kids, after seeing this picture, compared their own tongues, but there you go, that is"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,280",
+				"to": "00:01:54,440"
+			},
+			"offsets": {
+				"from": 111280,
+				"to": 114440
+			},
+			"text": " what you can be famous, if you have a tongue like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,440",
+				"to": "00:02:04,460"
+			},
+			"offsets": {
+				"from": 114440,
+				"to": 124460
+			},
+			"text": " The average person has between 2,000 and 4,000 taste buds on their tongue, which actually regenerate"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,460",
+				"to": "00:02:05,320"
+			},
+			"offsets": {
+				"from": 124460,
+				"to": 125320
+			},
+			"text": " every week."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,320",
+				"to": "00:02:09,520"
+			},
+			"offsets": {
+				"from": 125320,
+				"to": 129520
+			},
+			"text": " So that's why if you burn your tongue on some really hot coffee, a couple days later you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,520",
+				"to": "00:02:12,780"
+			},
+			"offsets": {
+				"from": 129520,
+				"to": 132780
+			},
+			"text": " taste again, it's because they're regenerating weekly, who knows?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,780",
+				"to": "00:02:17,840"
+			},
+			"offsets": {
+				"from": 132780,
+				"to": 137840
+			},
+			"text": " So, the bumps that are on your tongue are actually not your taste buds."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,840",
+				"to": "00:02:22,980"
+			},
+			"offsets": {
+				"from": 137840,
+				"to": 142980
+			},
+			"text": " They are, Dr. Grant, you can correct me, because I'll say this wrong, they're called papelli?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,980",
+				"to": "00:02:25,040"
+			},
+			"offsets": {
+				"from": 142980,
+				"to": 145040
+			},
+			"text": " Close."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,040",
+				"to": "00:02:25,700"
+			},
+			"offsets": {
+				"from": 145040,
+				"to": 145700
+			},
+			"text": " We'll go with that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,700",
+				"to": "00:02:34,280"
+			},
+			"offsets": {
+				"from": 145700,
+				"to": 154280
+			},
+			"text": " And your taste buds are microscopic organ thingies, I guess, that sit on top of those that are not"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,280",
+				"to": "00:02:35,960"
+			},
+			"offsets": {
+				"from": 154280,
+				"to": 155960
+			},
+			"text": " able to be seen by the naked eye."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,960",
+				"to": "00:02:39,740"
+			},
+			"offsets": {
+				"from": 155960,
+				"to": 159740
+			},
+			"text": " So that's why you can have 4,000 of them, and your tongue doesn't look super crowded."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,740",
+				"to": "00:02:42,120"
+			},
+			"offsets": {
+				"from": 159740,
+				"to": 162120
+			},
+			"text": " But they're not the bumps on your tongue, see?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,120",
+				"to": "00:02:43,320"
+			},
+			"offsets": {
+				"from": 162120,
+				"to": 163320
+			},
+			"text": " You're learning things this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,320",
+				"to": "00:02:49,880"
+			},
+			"offsets": {
+				"from": 163320,
+				"to": 169880
+			},
+			"text": " And then finally, you've probably heard that your tongue is the strongest muscle in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,880",
+				"to": "00:02:50,240"
+			},
+			"offsets": {
+				"from": 169880,
+				"to": 170240
+			},
+			"text": " body."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,240",
+				"to": "00:02:54,100"
+			},
+			"offsets": {
+				"from": 170240,
+				"to": 174100
+			},
+			"text": " That would have worked really good for my sermon this morning, but it's actually not true,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,100",
+				"to": "00:03:01,220"
+			},
+			"offsets": {
+				"from": 174100,
+				"to": 181220
+			},
+			"text": " because your tongue is made up of eight different muscles working together to do all of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,220",
+				"to": "00:03:03,860"
+			},
+			"offsets": {
+				"from": 181220,
+				"to": 183860
+			},
+			"text": " things like speaking and swallowing and all of those things."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,860",
+				"to": "00:03:05,540"
+			},
+			"offsets": {
+				"from": 183860,
+				"to": 185540
+			},
+			"text": " If I'm medically wrong, I'm sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,940",
+				"to": "00:03:10,440"
+			},
+			"offsets": {
+				"from": 185940,
+				"to": 190440
+			},
+			"text": " But that is, so it's not one muscle, it's a lot of muscles, but we can all agree that"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,440",
+				"to": "00:03:12,440"
+			},
+			"offsets": {
+				"from": 190440,
+				"to": 192440
+			},
+			"text": " somehow our tongues don't get tired."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,440",
+				"to": "00:03:20,500"
+			},
+			"offsets": {
+				"from": 192440,
+				"to": 200500
+			},
+			"text": " The average person speaks between 7,000 and 8,000 words a day, plus swallowing and all,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,500",
+				"to": "00:03:22,520"
+			},
+			"offsets": {
+				"from": 200500,
+				"to": 202520
+			},
+			"text": " and your tongue never tires out."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,520",
+				"to": "00:03:26,700"
+			},
+			"offsets": {
+				"from": 202520,
+				"to": 206700
+			},
+			"text": " It's the only muscle in your body, to my knowledge, that doesn't get tired."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,700",
+				"to": "00:03:32,160"
+			},
+			"offsets": {
+				"from": 206700,
+				"to": 212160
+			},
+			"text": " If 7,000 words a day doesn't sound enough, then multiply that by a year, and the average"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,160",
+				"to": "00:03:36,580"
+			},
+			"offsets": {
+				"from": 212160,
+				"to": 216580
+			},
+			"text": " person speaks about two and a half million words a year."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,580",
+				"to": "00:03:39,240"
+			},
+			"offsets": {
+				"from": 216580,
+				"to": 219240
+			},
+			"text": " That's a lot of talking."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,240",
+				"to": "00:03:46,340"
+			},
+			"offsets": {
+				"from": 219240,
+				"to": 226340
+			},
+			"text": " And even with that number, I bet every single person in this room can think of a few words"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,340",
+				"to": "00:03:53,220"
+			},
+			"offsets": {
+				"from": 226340,
+				"to": 233220
+			},
+			"text": " or a phrase or a few sentences that have either really positively impacted your life or very"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,220",
+				"to": "00:03:54,880"
+			},
+			"offsets": {
+				"from": 233220,
+				"to": 234880
+			},
+			"text": " much negatively impacted your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,940",
+				"to": "00:04:02,340"
+			},
+			"offsets": {
+				"from": 234940,
+				"to": 242340
+			},
+			"text": " Just a few words of those 2.5 million, someone said to you, and you will never forget them."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,340",
+				"to": "00:04:04,520"
+			},
+			"offsets": {
+				"from": 242340,
+				"to": 244520
+			},
+			"text": " Because words have power."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,520",
+				"to": "00:04:05,500"
+			},
+			"offsets": {
+				"from": 244520,
+				"to": 245500
+			},
+			"text": " You know this."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,500",
+				"to": "00:04:06,620"
+			},
+			"offsets": {
+				"from": 245500,
+				"to": 246620
+			},
+			"text": " This is one of the reasons."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,620",
+				"to": "00:04:08,260"
+			},
+			"offsets": {
+				"from": 246620,
+				"to": 248260
+			},
+			"text": " This was a tough message for me."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,260",
+				"to": "00:04:10,160"
+			},
+			"offsets": {
+				"from": 248260,
+				"to": 250160
+			},
+			"text": " We all know words have power."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,160",
+				"to": "00:04:15,380"
+			},
+			"offsets": {
+				"from": 250160,
+				"to": 255380
+			},
+			"text": " We can all think of somebody, either we've heard of online or you know personally, who has"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,380",
+				"to": "00:04:19,580"
+			},
+			"offsets": {
+				"from": 255380,
+				"to": 259580
+			},
+			"text": " literally taken their lives because of the words that someone spoke to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,580",
+				"to": "00:04:24,420"
+			},
+			"offsets": {
+				"from": 259580,
+				"to": 264420
+			},
+			"text": " So we don't doubt the power of our words."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,420",
+				"to": "00:04:31,440"
+			},
+			"offsets": {
+				"from": 264420,
+				"to": 271440
+			},
+			"text": " But sometimes we think that other people's words hold more power than ours because we don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,440",
+				"to": "00:04:36,000"
+			},
+			"offsets": {
+				"from": 271440,
+				"to": 276000
+			},
+			"text": " think that we mean enough to anybody for our words to hold that power."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,000",
+				"to": "00:04:41,380"
+			},
+			"offsets": {
+				"from": 276000,
+				"to": 281380
+			},
+			"text": " But I bet you the person that said those words to that person that took their life had no idea"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,380",
+				"to": "00:04:42,660"
+			},
+			"offsets": {
+				"from": 281380,
+				"to": 282660
+			},
+			"text": " the power that their words held."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,660",
+				"to": "00:04:46,900"
+			},
+			"offsets": {
+				"from": 282660,
+				"to": 286900
+			},
+			"text": " I bet you that they didn't mean to have that impact."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,900",
+				"to": "00:04:51,260"
+			},
+			"offsets": {
+				"from": 286900,
+				"to": 291260
+			},
+			"text": " I hope they didn't mean to have that impact, yet they did because words have power."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,260",
+				"to": "00:04:54,600"
+			},
+			"offsets": {
+				"from": 291260,
+				"to": 294600
+			},
+			"text": " And God intended for words to have power."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,600",
+				"to": "00:04:59,400"
+			},
+			"offsets": {
+				"from": 294600,
+				"to": 299400
+			},
+			"text": " We know this because in Genesis, he spoke the world into existence."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,400",
+				"to": "00:05:00,620"
+			},
+			"offsets": {
+				"from": 299400,
+				"to": 300620
+			},
+			"text": " He could have snapped a finger."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,620",
+				"to": "00:05:01,300"
+			},
+			"offsets": {
+				"from": 300620,
+				"to": 301300
+			},
+			"text": " He could have pointed."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,300",
+				"to": "00:05:08,020"
+			},
+			"offsets": {
+				"from": 301300,
+				"to": 308020
+			},
+			"text": " He could have done whatever he wanted, but he chose to use words to speak our world into existence."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,020",
+				"to": "00:05:15,280"
+			},
+			"offsets": {
+				"from": 308020,
+				"to": 315280
+			},
+			"text": " Not only that, but we read in Romans 10.9 that to begin our relationship, our walk with"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,280",
+				"to": "00:05:18,140"
+			},
+			"offsets": {
+				"from": 315280,
+				"to": 318140
+			},
+			"text": " God, we confess with our mouth that Jesus is Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,140",
+				"to": "00:05:19,000"
+			},
+			"offsets": {
+				"from": 318140,
+				"to": 319000
+			},
+			"text": " That's words."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,000",
+				"to": "00:05:19,660"
+			},
+			"offsets": {
+				"from": 319000,
+				"to": 319660
+			},
+			"text": " That's power."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,660",
+				"to": "00:05:21,320"
+			},
+			"offsets": {
+				"from": 319660,
+				"to": 321320
+			},
+			"text": " And our words have power."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,320",
+				"to": "00:05:25,580"
+			},
+			"offsets": {
+				"from": 321320,
+				"to": 325580
+			},
+			"text": " So what I'm going to do, this is the overview of our messages."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,580",
+				"to": "00:05:27,860"
+			},
+			"offsets": {
+				"from": 325580,
+				"to": 327860
+			},
+			"text": " I'm going to talk through James 1 through 12."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,860",
+				"to": "00:05:33,200"
+			},
+			"offsets": {
+				"from": 327860,
+				"to": 333200
+			},
+			"text": " But really what I want to focus on, because this is what hit me hard as I was doing this,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,200",
+				"to": "00:05:39,560"
+			},
+			"offsets": {
+				"from": 333200,
+				"to": 339560
+			},
+			"text": " is we know words are powerful, but why do we have such a hard time controlling what we say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,980",
+				"to": "00:05:45,860"
+			},
+			"offsets": {
+				"from": 340980,
+				"to": 345860
+			},
+			"text": " So my guess is everyone in this room has really good intentions."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,860",
+				"to": "00:05:48,140"
+			},
+			"offsets": {
+				"from": 345860,
+				"to": 348140
+			},
+			"text": " You have a really good heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,140",
+				"to": "00:05:50,800"
+			},
+			"offsets": {
+				"from": 348140,
+				"to": 350800
+			},
+			"text": " You want the best for others."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,800",
+				"to": "00:05:55,400"
+			},
+			"offsets": {
+				"from": 350800,
+				"to": 355400
+			},
+			"text": " Yet I can't see your intentions, and I can't read your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,400",
+				"to": "00:05:58,000"
+			},
+			"offsets": {
+				"from": 355400,
+				"to": 358000
+			},
+			"text": " What I can, though, is hear your words."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,000",
+				"to": "00:06:04,940"
+			},
+			"offsets": {
+				"from": 358000,
+				"to": 364940
+			},
+			"text": " And so you can have the best intentions of the world, but if you snap on someone, they don't care what your intentions are."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,260",
+				"to": "00:06:09,780"
+			},
+			"offsets": {
+				"from": 365260,
+				"to": 369780
+			},
+			"text": " Your words are your imprint on this world while you're here."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,780",
+				"to": "00:06:19,700"
+			},
+			"offsets": {
+				"from": 369780,
+				"to": 379700
+			},
+			"text": " So I want to tackle, as best of my ability, why it's so hard to control our words when we really want to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,700",
+				"to": "00:06:26,820"
+			},
+			"offsets": {
+				"from": 379700,
+				"to": 386820
+			},
+			"text": " So before I get there, though, let's go to the Taming the Tongue section, which begins in James 3."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,820",
+				"to": "00:06:31,220"
+			},
+			"offsets": {
+				"from": 386820,
+				"to": 391220
+			},
+			"text": " Super encouraging first verse, especially for me in this moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,380",
+				"to": "00:06:33,720"
+			},
+			"offsets": {
+				"from": 391380,
+				"to": 393720
+			},
+			"text": " It says, James chapter 3, verse 1 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,720",
+				"to": "00:06:41,560"
+			},
+			"offsets": {
+				"from": 393720,
+				"to": 401560
+			},
+			"text": " Not many of you should become teachers, my fellow believers, because you know that we who teach will be judged more strictly."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,560",
+				"to": "00:06:45,720"
+			},
+			"offsets": {
+				"from": 401560,
+				"to": 405720
+			},
+			"text": " This is good stuff, especially since every Sunday I get to teach your kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,720",
+				"to": "00:06:49,780"
+			},
+			"offsets": {
+				"from": 405720,
+				"to": 409780
+			},
+			"text": " I was in the teaching Frederick County schools for a while."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,780",
+				"to": "00:06:52,080"
+			},
+			"offsets": {
+				"from": 409780,
+				"to": 412080
+			},
+			"text": " It's great to hear this."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,920",
+				"to": "00:06:55,820"
+			},
+			"offsets": {
+				"from": 412920,
+				"to": 415820
+			},
+			"text": " But what I've realized is two things."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,820",
+				"to": "00:06:59,740"
+			},
+			"offsets": {
+				"from": 415820,
+				"to": 419740
+			},
+			"text": " Number one, if you teach, you speak more words, because you don't have a choice."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,740",
+				"to": "00:07:03,520"
+			},
+			"offsets": {
+				"from": 419740,
+				"to": 423520
+			},
+			"text": " You are supposed to, that's your job, is to use words."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,520",
+				"to": "00:07:06,780"
+			},
+			"offsets": {
+				"from": 423520,
+				"to": 426780
+			},
+			"text": " So oftentimes you're judged more strictly because you have more words."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,780",
+				"to": "00:07:13,580"
+			},
+			"offsets": {
+				"from": 426780,
+				"to": 433580
+			},
+			"text": " But I think even more so, it's the power that you hold, because those that you are teaching,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,580",
+				"to": "00:07:20,640"
+			},
+			"offsets": {
+				"from": 433580,
+				"to": 440640
+			},
+			"text": " I think especially as teachers in school, the kids trust you, or they should, and they look up to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,640",
+				"to": "00:07:25,620"
+			},
+			"offsets": {
+				"from": 440640,
+				"to": 445620
+			},
+			"text": " So if you tell them something, they are going to believe what you say to be true."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,620",
+				"to": "00:07:28,420"
+			},
+			"offsets": {
+				"from": 445620,
+				"to": 448420
+			},
+			"text": " That's a great amount of responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,420",
+				"to": "00:07:30,480"
+			},
+			"offsets": {
+				"from": 448420,
+				"to": 450480
+			},
+			"text": " I had to, this is for my husband."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,480",
+				"to": "00:07:33,760"
+			},
+			"offsets": {
+				"from": 450480,
+				"to": 453760
+			},
+			"text": " With great power comes great responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,760",
+				"to": "00:07:35,260"
+			},
+			"offsets": {
+				"from": 453760,
+				"to": 455260
+			},
+			"text": " Straight out of Spider-Man."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,260",
+				"to": "00:07:42,880"
+			},
+			"offsets": {
+				"from": 455260,
+				"to": 462880
+			},
+			"text": " But it's true, your authority, and this is true for parents, this is true for coaches,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,880",
+				"to": "00:07:49,740"
+			},
+			"offsets": {
+				"from": 462880,
+				"to": 469740
+			},
+			"text": " this is true for people who have friends that you know look up to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,120",
+				"to": "00:07:57,460"
+			},
+			"offsets": {
+				"from": 470120,
+				"to": 477460
+			},
+			"text": " Your words hold power, and that takes, that brings with it responsibility to use those words wisely."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,100",
+				"to": "00:08:01,480"
+			},
+			"offsets": {
+				"from": 478100,
+				"to": 481480
+			},
+			"text": " So then we go on to verse 2, and it says, we all stumble in many ways."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,480",
+				"to": "00:08:08,980"
+			},
+			"offsets": {
+				"from": 481480,
+				"to": 488980
+			},
+			"text": " Anyone who has never at fault in what they say is perfect, able to keep their whole body in check."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,980",
+				"to": "00:08:12,560"
+			},
+			"offsets": {
+				"from": 488980,
+				"to": 492560
+			},
+			"text": " I struggled with this, because this doesn't make any sense to me."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,560",
+				"to": "00:08:15,280"
+			},
+			"offsets": {
+				"from": 492560,
+				"to": 495280
+			},
+			"text": " Yes, words are powerful, but what about our thoughts?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,280",
+				"to": "00:08:16,220"
+			},
+			"offsets": {
+				"from": 495280,
+				"to": 496220
+			},
+			"text": " What about our actions?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,760",
+				"to": "00:08:20,920"
+			},
+			"offsets": {
+				"from": 496760,
+				"to": 500920
+			},
+			"text": " If I don't say, if I say all the good things, but I punch somebody in the face, am I truly perfect?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,920",
+				"to": "00:08:31,620"
+			},
+			"offsets": {
+				"from": 500920,
+				"to": 511620
+			},
+			"text": " I want to dig deeper into this towards the end, because it started to make sense to me the further along I went in understanding the power of our words."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,620",
+				"to": "00:08:33,400"
+			},
+			"offsets": {
+				"from": 511620,
+				"to": 513400
+			},
+			"text": " So we'll come back to it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,940",
+				"to": "00:08:39,180"
+			},
+			"offsets": {
+				"from": 513940,
+				"to": 519180
+			},
+			"text": " So then James gives us object lessons, which, this is one of the reasons James is hard to preach."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,180",
+				"to": "00:08:41,200"
+			},
+			"offsets": {
+				"from": 519180,
+				"to": 521200
+			},
+			"text": " He literally preaches the message for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,200",
+				"to": "00:08:46,600"
+			},
+			"offsets": {
+				"from": 521200,
+				"to": 526600
+			},
+			"text": " He gives you three visuals, which is all, all teachers know you've got to give some object lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,600",
+				"to": "00:08:48,500"
+			},
+			"offsets": {
+				"from": 526600,
+				"to": 528500
+			},
+			"text": " So he gives us some visuals."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:48,500",
+				"to": "00:08:51,260"
+			},
+			"offsets": {
+				"from": 528500,
+				"to": 531260
+			},
+			"text": " He starts off with the first one, which is verse 3."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,720",
+				"to": "00:09:05,900"
+			},
+			"offsets": {
+				"from": 531720,
+				"to": 545900
+			},
+			"text": " This never was so true for me, until my oldest daughter, who around the age of 5, decided she wanted to take horseback riding lessons."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,900",
+				"to": "00:09:07,720"
+			},
+			"offsets": {
+				"from": 545900,
+				"to": 547720
+			},
+			"text": " It's very dark, sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,720",
+				"to": "00:09:16,140"
+			},
+			"offsets": {
+				"from": 547720,
+				"to": 556140
+			},
+			"text": " But that's McKinley, when she was probably about 35, 40 pounds on a roughly 700-pound horse."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,320",
+				"to": "00:09:23,680"
+			},
+			"offsets": {
+				"from": 556320,
+				"to": 563680
+			},
+			"text": " And as a mom, I was very glad that this was a tamed horse that obeyed the bit that was in its mouth."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,680",
+				"to": "00:09:26,860"
+			},
+			"offsets": {
+				"from": 563680,
+				"to": 566860
+			},
+			"text": " Because when that little thing pulled the reins, it listened."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,860",
+				"to": "00:09:30,740"
+			},
+			"offsets": {
+				"from": 566860,
+				"to": 570740
+			},
+			"text": " The horse followed what she told it to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,740",
+				"to": "00:09:32,900"
+			},
+			"offsets": {
+				"from": 570740,
+				"to": 572900
+			},
+			"text": " It didn't know McKinley."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,900",
+				"to": "00:09:34,260"
+			},
+			"offsets": {
+				"from": 572900,
+				"to": 574260
+			},
+			"text": " This is the first time she ever sat up there."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:34,260",
+				"to": "00:09:38,460"
+			},
+			"offsets": {
+				"from": 574260,
+				"to": 578460
+			},
+			"text": " But the bit in its mouth, it was trained to follow where it goes."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:38,460",
+				"to": "00:09:41,680"
+			},
+			"offsets": {
+				"from": 578460,
+				"to": 581680
+			},
+			"text": " That's our lives, essentially."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,680",
+				"to": "00:09:44,400"
+			},
+			"offsets": {
+				"from": 581680,
+				"to": 584400
+			},
+			"text": " Our lives follow our words."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,400",
+				"to": "00:09:46,860"
+			},
+			"offsets": {
+				"from": 584400,
+				"to": 586860
+			},
+			"text": " If you lie, you could lose your job."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,860",
+				"to": "00:09:48,240"
+			},
+			"offsets": {
+				"from": 586860,
+				"to": 588240
+			},
+			"text": " You could lose your marriage."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,240",
+				"to": "00:09:52,300"
+			},
+			"offsets": {
+				"from": 588240,
+				"to": 592300
+			},
+			"text": " If you speak kindly, your life can go in a positive direction."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,300",
+				"to": "00:09:53,400"
+			},
+			"offsets": {
+				"from": 592300,
+				"to": 593400
+			},
+			"text": " It's true."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,400",
+				"to": "00:09:58,460"
+			},
+			"offsets": {
+				"from": 593400,
+				"to": 598460
+			},
+			"text": " And I know that this was probably the means of most transportation in the Bible times."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,460",
+				"to": "00:10:02,340"
+			},
+			"offsets": {
+				"from": 598460,
+				"to": 602340
+			},
+			"text": " So this specific object lesson, I'm sure, reigned true to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,340",
+				"to": "00:10:06,580"
+			},
+			"offsets": {
+				"from": 602340,
+				"to": 606580
+			},
+			"text": " That just a metal piece in the horse's mouth directs the direction it will go."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,580",
+				"to": "00:10:13,600"
+			},
+			"offsets": {
+				"from": 606580,
+				"to": 613600
+			},
+			"text": " And the words that come out of our mouth, as you all know, direct the direction that your life will go."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,120",
+				"to": "00:10:17,940"
+			},
+			"offsets": {
+				"from": 614120,
+				"to": 617940
+			},
+			"text": " So then we move on to verse 4."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,940",
+				"to": "00:10:19,340"
+			},
+			"offsets": {
+				"from": 617940,
+				"to": 619340
+			},
+			"text": " We get our second object lesson."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:19,340",
+				"to": "00:10:21,260"
+			},
+			"offsets": {
+				"from": 619340,
+				"to": 621260
+			},
+			"text": " Or take ships as an example."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,260",
+				"to": "00:10:29,100"
+			},
+			"offsets": {
+				"from": 621260,
+				"to": 629100
+			},
+			"text": " Although they are large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants it to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,640",
+				"to": "00:10:36,960"
+			},
+			"offsets": {
+				"from": 629640,
+				"to": 636960
+			},
+			"text": " So I did a little research, and the rudder of a ship is roughly 2% of the size of the whole ship."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:36,960",
+				"to": "00:10:39,580"
+			},
+			"offsets": {
+				"from": 636960,
+				"to": 639580
+			},
+			"text": " So I found a picture of the Titanic."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,580",
+				"to": "00:10:47,660"
+			},
+			"offsets": {
+				"from": 639580,
+				"to": 647660
+			},
+			"text": " And you can see that little thing in the back that my giant arrow is pointing to is what steers this ship."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,660",
+				"to": "00:10:49,160"
+			},
+			"offsets": {
+				"from": 647660,
+				"to": 649160
+			},
+			"text": " Unfortunately, it steered it wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,240",
+				"to": "00:10:50,220"
+			},
+			"offsets": {
+				"from": 649240,
+				"to": 650220
+			},
+			"text": " And we all know how this ended."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,220",
+				"to": "00:11:01,640"
+			},
+			"offsets": {
+				"from": 650220,
+				"to": 661640
+			},
+			"text": " But if you look at the size of the ship and the size of the rudder, it's very comparative to the size of our body and the 3.3 inches long that our tongue is."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:01,640",
+				"to": "00:11:03,340"
+			},
+			"offsets": {
+				"from": 661640,
+				"to": 663340
+			},
+			"text": " Very unproportionate."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,720",
+				"to": "00:11:08,460"
+			},
+			"offsets": {
+				"from": 663720,
+				"to": 668460
+			},
+			"text": " But our tongues direct so much of our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,780",
+				"to": "00:11:16,280"
+			},
+			"offsets": {
+				"from": 669780,
+				"to": 676280
+			},
+			"text": " So one thing that I think all of you guys will understand is, you heard the saying, cancel culture."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,280",
+				"to": "00:11:20,340"
+			},
+			"offsets": {
+				"from": 676280,
+				"to": 680340
+			},
+			"text": " The words that someone chose."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:20,340",
+				"to": "00:11:22,460"
+			},
+			"offsets": {
+				"from": 680340,
+				"to": 682460
+			},
+			"text": " Okay, my mom doesn't know what cancel culture is."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,460",
+				"to": "00:11:23,160"
+			},
+			"offsets": {
+				"from": 682460,
+				"to": 683160
+			},
+			"text": " I'll tell you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,120",
+				"to": "00:11:34,500"
+			},
+			"offsets": {
+				"from": 685120,
+				"to": 694500
+			},
+			"text": " Basically, if you say something, once you put it out there, usually with your finger tongues, because we text and type, and that's also part of our tongue."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,500",
+				"to": "00:11:37,640"
+			},
+			"offsets": {
+				"from": 694500,
+				"to": 697640
+			},
+			"text": " Once you put it out there, you can't take it back."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,640",
+				"to": "00:11:39,120"
+			},
+			"offsets": {
+				"from": 697640,
+				"to": 699120
+			},
+			"text": " And people can cancel you."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,120",
+				"to": "00:11:43,380"
+			},
+			"offsets": {
+				"from": 699120,
+				"to": 703380
+			},
+			"text": " In other words, we don't want anything to do with you anymore because of the words that you said."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,380",
+				"to": "00:11:47,340"
+			},
+			"offsets": {
+				"from": 703380,
+				"to": 707340
+			},
+			"text": " It can literally, people essentially say, you don't exist."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,340",
+				"to": "00:11:51,900"
+			},
+			"offsets": {
+				"from": 707340,
+				"to": 711900
+			},
+			"text": " We are so against your words that you're nothing to us anymore."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,540",
+				"to": "00:11:56,720"
+			},
+			"offsets": {
+				"from": 712540,
+				"to": 716720
+			},
+			"text": " This is the power of our words, and once you get it out, you can't take it back, especially now."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,720",
+				"to": "00:12:01,080"
+			},
+			"offsets": {
+				"from": 716720,
+				"to": 721080
+			},
+			"text": " Because it's probably recorded somewhere, especially if you type it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,080",
+				"to": "00:12:09,900"
+			},
+			"offsets": {
+				"from": 721080,
+				"to": 729900
+			},
+			"text": " On the flip side, the words that you say in the positive are also making very dramatic changes."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,900",
+				"to": "00:12:16,940"
+			},
+			"offsets": {
+				"from": 729900,
+				"to": 736940
+			},
+			"text": " Had this rudder steered the Titanic in the right direction, think of the change that it would have had on so many lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,560",
+				"to": "00:12:22,820"
+			},
+			"offsets": {
+				"from": 737560,
+				"to": 742820
+			},
+			"text": " So, literally last night at 1230, I sent Dave a video that I asked him to show you guys this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,820",
+				"to": "00:12:24,860"
+			},
+			"offsets": {
+				"from": 742820,
+				"to": 744860
+			},
+			"text": " It's very quick, but it's very powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:24,860",
+				"to": "00:12:30,220"
+			},
+			"offsets": {
+				"from": 744860,
+				"to": 750220
+			},
+			"text": " I showed this to your kids a few weeks ago because we were also talking about the power of your words."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,220",
+				"to": "00:12:32,140"
+			},
+			"offsets": {
+				"from": 750220,
+				"to": 752140
+			},
+			"text": " And I didn't want you to miss this."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,140",
+				"to": "00:12:35,240"
+			},
+			"offsets": {
+				"from": 752140,
+				"to": 755240
+			},
+			"text": " I was just going to explain it to you, but it's better if you watch it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,240",
+				"to": "00:12:38,760"
+			},
+			"offsets": {
+				"from": 755240,
+				"to": 758760
+			},
+			"text": " So, watch with me this very short three-minute video."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,760",
+				"to": "00:12:40,200"
+			},
+			"offsets": {
+				"from": 758760,
+				"to": 760200
+			},
+			"text": " Thanks, Dave, for making that happen."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,020",
+				"to": "00:12:43,480"
+			},
+			"offsets": {
+				"from": 761020,
+				"to": 763480
+			},
+			"text": " I have a lot of memories from when I was a child."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,480",
+				"to": "00:12:50,340"
+			},
+			"offsets": {
+				"from": 763480,
+				"to": 770340
+			},
+			"text": " One that always stuck out to me, though, was when I was about 10 years old, and I was in school, and I struggled."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,340",
+				"to": "00:12:54,920"
+			},
+			"offsets": {
+				"from": 770340,
+				"to": 774920
+			},
+			"text": " And I didn't struggle with English, math, or science."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,920",
+				"to": "00:12:57,060"
+			},
+			"offsets": {
+				"from": 774920,
+				"to": 777060
+			},
+			"text": " I struggled holding it still."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,640",
+				"to": "00:13:03,320"
+			},
+			"offsets": {
+				"from": 778640,
+				"to": 783320
+			},
+			"text": " And I would try to listen and focus and process ideas, but I couldn't help myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,320",
+				"to": "00:13:07,460"
+			},
+			"offsets": {
+				"from": 783320,
+				"to": 787460
+			},
+			"text": " And to be honest, I would sit there, and then I would just start tapping."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,460",
+				"to": "00:13:10,920"
+			},
+			"offsets": {
+				"from": 787460,
+				"to": 790920
+			},
+			"text": " And the students in the class would look at me, and they'd say, hey, stop tapping."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,920",
+				"to": "00:13:13,840"
+			},
+			"offsets": {
+				"from": 790920,
+				"to": 793840
+			},
+			"text": " A lot of the time, I didn't even realize I was doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,840",
+				"to": "00:13:19,760"
+			},
+			"offsets": {
+				"from": 793840,
+				"to": 799760
+			},
+			"text": " And then eventually, even the teachers got after me, and they would yell at me, and they'd say, Clint, you have to stop tapping."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,700",
+				"to": "00:13:25,660"
+			},
+			"offsets": {
+				"from": 801700,
+				"to": 805660
+			},
+			"text": " It got so bad, you know, I got sent to the principal's office for tapping."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:25,660",
+				"to": "00:13:32,420"
+			},
+			"offsets": {
+				"from": 805660,
+				"to": 812420
+			},
+			"text": " And he said to me, okay, maybe when you go back to class, just try sitting on your hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:32,420",
+				"to": "00:13:37,240"
+			},
+			"offsets": {
+				"from": 812420,
+				"to": 817240
+			},
+			"text": " It's like that I went back to class, and when I felt myself, I'm starting to tap, I just, I did this."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:37,240",
+				"to": "00:13:38,380"
+			},
+			"offsets": {
+				"from": 817240,
+				"to": 818380
+			},
+			"text": " I sat on my hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,380",
+				"to": "00:13:40,960"
+			},
+			"offsets": {
+				"from": 818380,
+				"to": 820960
+			},
+			"text": " And that worked for about five seconds."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,960",
+				"to": "00:13:47,920"
+			},
+			"offsets": {
+				"from": 820960,
+				"to": 827920
+			},
+			"text": " One time, I was tapping in class, and my teacher, Mr. Jensen, who looked at me, and he yelled."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,920",
+				"to": "00:13:51,080"
+			},
+			"offsets": {
+				"from": 827920,
+				"to": 831080
+			},
+			"text": " And he said, Clint, stay after class."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,980",
+				"to": "00:13:55,980"
+			},
+			"offsets": {
+				"from": 831980,
+				"to": 835980
+			},
+			"text": " And I thought to myself, this is what I am done."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:55,980",
+				"to": "00:14:01,680"
+			},
+			"offsets": {
+				"from": 835980,
+				"to": 841680
+			},
+			"text": " And I've always been the type of person that believes that a single moment in time can change a person's life."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,680",
+				"to": "00:14:06,500"
+			},
+			"offsets": {
+				"from": 841680,
+				"to": 846500
+			},
+			"text": " And it basically was one of those moments for me that I will never forget."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,500",
+				"to": "00:14:11,600"
+			},
+			"offsets": {
+				"from": 846500,
+				"to": 851600
+			},
+			"text": " And so I was sitting there with Mr. Jensen, and we're in the classroom."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,600",
+				"to": "00:14:16,420"
+			},
+			"offsets": {
+				"from": 851600,
+				"to": 856420
+			},
+			"text": " And he walked past me, and he sat next to his desk, and he was like, right, too."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:16,420",
+				"to": "00:14:18,060"
+			},
+			"offsets": {
+				"from": 856420,
+				"to": 858060
+			},
+			"text": " And I talked to him."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,260",
+				"to": "00:14:28,700"
+			},
+			"offsets": {
+				"from": 859260,
+				"to": 868700
+			},
+			"text": " And as he looked me right at the eye, he said, you know, I reason will tell you not me, but I do have just one question that I have to ask him."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,340",
+				"to": "00:14:35,000"
+			},
+			"offsets": {
+				"from": 870340,
+				"to": 875000
+			},
+			"text": " And he asked him, how he ever thought about playing with the drums?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,000",
+				"to": "00:14:40,200"
+			},
+			"offsets": {
+				"from": 875000,
+				"to": 880200
+			},
+			"text": " And in that moment, Mr. Jensen, he leaned back and he opened the top drawer of his desk."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,200",
+				"to": "00:14:44,700"
+			},
+			"offsets": {
+				"from": 880200,
+				"to": 884700
+			},
+			"text": " And he reached the end, and he pulled out my very first pair of drums."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,700",
+				"to": "00:14:48,720"
+			},
+			"offsets": {
+				"from": 884700,
+				"to": 888720
+			},
+			"text": " And he held them in his hands and looked at me and said, he quit."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:48,720",
+				"to": "00:14:49,940"
+			},
+			"offsets": {
+				"from": 888720,
+				"to": 889940
+			},
+			"text": " You're not a problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:49,940",
+				"to": "00:14:53,040"
+			},
+			"offsets": {
+				"from": 889940,
+				"to": 893040
+			},
+			"text": " I think you were telling me."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,040",
+				"to": "00:15:08,160"
+			},
+			"offsets": {
+				"from": 893040,
+				"to": 908160
+			},
+			"text": " From that moment on, I've never quit the last pair."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,160",
+				"to": "00:15:13,040"
+			},
+			"offsets": {
+				"from": 908160,
+				"to": 913040
+			},
+			"text": " I toured, recorded, played drums all over the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:13,040",
+				"to": "00:15:17,160"
+			},
+			"offsets": {
+				"from": 913040,
+				"to": 917160
+			},
+			"text": " My whole college education was a painful drumstick in my hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:18,720",
+				"to": "00:15:26,980"
+			},
+			"offsets": {
+				"from": 918720,
+				"to": 926980
+			},
+			"text": " Just because of a single moment in time, when somebody believed in me, and he saw something in me that I didn't see within myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,660",
+				"to": "00:15:37,920"
+			},
+			"offsets": {
+				"from": 929660,
+				"to": 937920
+			},
+			"text": " And from that moment, I learned it was different between being the best in the world and being the best for the world."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,420",
+				"to": "00:15:45,120"
+			},
+			"offsets": {
+				"from": 943420,
+				"to": 945120
+			},
+			"text": " See, you couldn't not watch that."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,120",
+				"to": "00:15:45,680"
+			},
+			"offsets": {
+				"from": 945120,
+				"to": 945680
+			},
+			"text": " It was so good."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:45,680",
+				"to": "00:15:51,440"
+			},
+			"offsets": {
+				"from": 945680,
+				"to": 951440
+			},
+			"text": " But truly, you have a kid who was feeling like he was annoying."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:51,440",
+				"to": "00:15:52,920"
+			},
+			"offsets": {
+				"from": 951440,
+				"to": 952920
+			},
+			"text": " He was a nuisance."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:52,920",
+				"to": "00:15:55,400"
+			},
+			"offsets": {
+				"from": 952920,
+				"to": 955400
+			},
+			"text": " Nobody liked him because he couldn't stop tapping."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,400",
+				"to": "00:15:59,020"
+			},
+			"offsets": {
+				"from": 955400,
+				"to": 959020
+			},
+			"text": " And then you have Mr. Jensen, who viewed him through different eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,020",
+				"to": "00:16:00,640"
+			},
+			"offsets": {
+				"from": 959020,
+				"to": 960640
+			},
+			"text": " And we're going to talk about that a lot today."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,640",
+				"to": "00:16:04,080"
+			},
+			"offsets": {
+				"from": 960640,
+				"to": 964080
+			},
+			"text": " He viewed him through a kinder eye."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,080",
+				"to": "00:16:05,820"
+			},
+			"offsets": {
+				"from": 964080,
+				"to": 965820
+			},
+			"text": " He saw the potential in him."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,820",
+				"to": "00:16:12,080"
+			},
+			"offsets": {
+				"from": 965820,
+				"to": 972080
+			},
+			"text": " And he used words to change this kid's entire life, to change his view on his entire life."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,080",
+				"to": "00:16:20,460"
+			},
+			"offsets": {
+				"from": 972080,
+				"to": 980460
+			},
+			"text": " Much like a rudder steers the ship, these words that he chose to give him changed the trajectory of his life."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,460",
+				"to": "00:16:24,200"
+			},
+			"offsets": {
+				"from": 980460,
+				"to": 984200
+			},
+			"text": " And then our final object lesson is my personal favorite."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:24,200",
+				"to": "00:16:26,040"
+			},
+			"offsets": {
+				"from": 984200,
+				"to": 986040
+			},
+			"text": " It says, verse 5,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,580",
+				"to": "00:16:36,760"
+			},
+			"offsets": {
+				"from": 986580,
+				"to": 996760
+			},
+			"text": " We've all heard of forest fires."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:36,760",
+				"to": "00:16:38,640"
+			},
+			"offsets": {
+				"from": 996760,
+				"to": 998640
+			},
+			"text": " There have been a lot recently."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,640",
+				"to": "00:16:42,200"
+			},
+			"offsets": {
+				"from": 998640,
+				"to": 1002200
+			},
+			"text": " So we can visualize this pretty easily."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:42,200",
+				"to": "00:16:45,680"
+			},
+			"offsets": {
+				"from": 1002200,
+				"to": 1005680
+			},
+			"text": " I've never seen one in person, but I've seen a lot on TV."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,680",
+				"to": "00:16:54,300"
+			},
+			"offsets": {
+				"from": 1005680,
+				"to": 1014300
+			},
+			"text": " And here's a picture of a forest set on fire and the power of that, the lives that that takes."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:54,880",
+				"to": "00:17:03,380"
+			},
+			"offsets": {
+				"from": 1014880,
+				"to": 1023380
+			},
+			"text": " I wanted to show you a side-by-side of a before and after picture of a fire that took place in Santa Rosa, California in October 2017."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,380",
+				"to": "00:17:06,340"
+			},
+			"offsets": {
+				"from": 1023380,
+				"to": 1026340
+			},
+			"text": " On this side, you see the before."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,340",
+				"to": "00:17:09,700"
+			},
+			"offsets": {
+				"from": 1026340,
+				"to": 1029700
+			},
+			"text": " The houses, how everything looked, the aerial view."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,700",
+				"to": "00:17:12,060"
+			},
+			"offsets": {
+				"from": 1029700,
+				"to": 1032060
+			},
+			"text": " And then on this side, you see the after."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,780",
+				"to": "00:17:25,860"
+			},
+			"offsets": {
+				"from": 1032780,
+				"to": 1045860
+			},
+			"text": " And James' point is a spark, a single word, a single statement can grow and grow and grow to destroy your life or someone else's life."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:25,860",
+				"to": "00:17:28,540"
+			},
+			"offsets": {
+				"from": 1045860,
+				"to": 1048540
+			},
+			"text": " This specific one makes me think of gossip."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,540",
+				"to": "00:17:33,820"
+			},
+			"offsets": {
+				"from": 1048540,
+				"to": 1053820
+			},
+			"text": " You start talking about something and the word grows and grows."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,820",
+				"to": "00:17:36,880"
+			},
+			"offsets": {
+				"from": 1053820,
+				"to": 1056880
+			},
+			"text": " You put something on social media and it grows and grows."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,220",
+				"to": "00:17:41,980"
+			},
+			"offsets": {
+				"from": 1057220,
+				"to": 1061980
+			},
+			"text": " And before you know it, complete and utter destruction has occurred."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:41,980",
+				"to": "00:17:48,520"
+			},
+			"offsets": {
+				"from": 1061980,
+				"to": 1068520
+			},
+			"text": " This fire burned more than 36,810 acres, killed over 22 people."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,520",
+				"to": "00:17:49,240"
+			},
+			"offsets": {
+				"from": 1068520,
+				"to": 1069240
+			},
+			"text": " They say at least."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,240",
+				"to": "00:17:50,200"
+			},
+			"offsets": {
+				"from": 1069240,
+				"to": 1070200
+			},
+			"text": " I'm not sure how that works."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:50,200",
+				"to": "00:17:53,980"
+			},
+			"offsets": {
+				"from": 1070200,
+				"to": 1073980
+			},
+			"text": " But destroyed 5,643 structures."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,980",
+				"to": "00:17:59,320"
+			},
+			"offsets": {
+				"from": 1073980,
+				"to": 1079320
+			},
+			"text": " And it started because of a spark in an electric unit in a private home."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,880",
+				"to": "00:18:02,080"
+			},
+			"offsets": {
+				"from": 1079880,
+				"to": 1082080
+			},
+			"text": " One spark did all of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,080",
+				"to": "00:18:07,120"
+			},
+			"offsets": {
+				"from": 1082080,
+				"to": 1087120
+			},
+			"text": " What can one word do or a few words do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,120",
+				"to": "00:18:08,420"
+			},
+			"offsets": {
+				"from": 1087120,
+				"to": 1088420
+			},
+			"text": " Either it's a positive or negative."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,420",
+				"to": "00:18:13,120"
+			},
+			"offsets": {
+				"from": 1088420,
+				"to": 1093120
+			},
+			"text": " And the reality is they can rebuild this, but it will never be what it was."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,120",
+				"to": "00:18:17,420"
+			},
+			"offsets": {
+				"from": 1093120,
+				"to": 1097420
+			},
+			"text": " And people who have spoken negatively into your life can rebuild."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,420",
+				"to": "00:18:25,640"
+			},
+			"offsets": {
+				"from": 1097420,
+				"to": 1105640
+			},
+			"text": " You can rebuild what they have done, but there will always be a part of you, unfortunately, that will remember that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,800",
+				"to": "00:18:28,480"
+			},
+			"offsets": {
+				"from": 1105800,
+				"to": 1108480
+			},
+			"text": " And we'll fully be able to restore that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,480",
+				"to": "00:18:36,380"
+			},
+			"offsets": {
+				"from": 1108480,
+				"to": 1116380
+			},
+			"text": " My husband, in his high school football days, had a lot of coaches that spoke really positively."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,380",
+				"to": "00:18:41,940"
+			},
+			"offsets": {
+				"from": 1116380,
+				"to": 1121940
+			},
+			"text": " But he always remembers that one coach that spoke negatively to him."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,940",
+				"to": "00:18:44,460"
+			},
+			"offsets": {
+				"from": 1121940,
+				"to": 1124460
+			},
+			"text": " As a grown adult, he still remembers the exact words."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,460",
+				"to": "00:18:47,280"
+			},
+			"offsets": {
+				"from": 1124460,
+				"to": 1127280
+			},
+			"text": " That is what our words are capable of."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:47,280",
+				"to": "00:18:49,720"
+			},
+			"offsets": {
+				"from": 1127280,
+				"to": 1129720
+			},
+			"text": " And God wants us to realize that."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,460",
+				"to": "00:18:55,140"
+			},
+			"offsets": {
+				"from": 1130460,
+				"to": 1135140
+			},
+			"text": " So then we go to verse 6, continuing to talk about this fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,140",
+				"to": "00:18:59,920"
+			},
+			"offsets": {
+				"from": 1135140,
+				"to": 1139920
+			},
+			"text": " The tongue is also a fire, a world of evil among the parts of the body."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,920",
+				"to": "00:19:04,160"
+			},
+			"offsets": {
+				"from": 1139920,
+				"to": 1144160
+			},
+			"text": " It corrupts the whole body, sets the whole course of one's life on fire."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,160",
+				"to": "00:19:06,920"
+			},
+			"offsets": {
+				"from": 1144160,
+				"to": 1146920
+			},
+			"text": " And it itself is set on fire by hell."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,920",
+				"to": "00:19:08,160"
+			},
+			"offsets": {
+				"from": 1146920,
+				"to": 1148160
+			},
+			"text": " These are strong words."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,160",
+				"to": "00:19:12,160"
+			},
+			"offsets": {
+				"from": 1148160,
+				"to": 1152160
+			},
+			"text": " But the bottom line is, is Satan loves the power of our words."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,160",
+				"to": "00:19:15,080"
+			},
+			"offsets": {
+				"from": 1152160,
+				"to": 1155080
+			},
+			"text": " He wants you and I to believe that our words don't hold power."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:15,080",
+				"to": "00:19:18,220"
+			},
+			"offsets": {
+				"from": 1155080,
+				"to": 1158220
+			},
+			"text": " Because then we can destroy someone's life and not realize we're doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:18,220",
+				"to": "00:19:24,000"
+			},
+			"offsets": {
+				"from": 1158220,
+				"to": 1164000
+			},
+			"text": " He would love for nothing else than for us to use our words unwisely and not to think before we speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,000",
+				"to": "00:19:26,580"
+			},
+			"offsets": {
+				"from": 1164000,
+				"to": 1166580
+			},
+			"text": " And destroy life after life after life."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,580",
+				"to": "00:19:30,800"
+			},
+			"offsets": {
+				"from": 1166580,
+				"to": 1170800
+			},
+			"text": " Then, when we realize we've destroyed all of those lives, we're so far from God."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,800",
+				"to": "00:19:34,220"
+			},
+			"offsets": {
+				"from": 1170800,
+				"to": 1174220
+			},
+			"text": " We're so ashamed of what we've done that we don't want to go back to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,220",
+				"to": "00:19:35,640"
+			},
+			"offsets": {
+				"from": 1174220,
+				"to": 1175640
+			},
+			"text": " And again, Satan wins."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,640",
+				"to": "00:19:41,680"
+			},
+			"offsets": {
+				"from": 1175640,
+				"to": 1181680
+			},
+			"text": " So, that's why God talks so much about the power of our words in the Bible."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:41,680",
+				"to": "00:19:45,660"
+			},
+			"offsets": {
+				"from": 1181680,
+				"to": 1185660
+			},
+			"text": " Because he doesn't want Satan to gain that foothold in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,660",
+				"to": "00:19:52,660"
+			},
+			"offsets": {
+				"from": 1185660,
+				"to": 1192660
+			},
+			"text": " Verse 7 says, all kinds of animals, birds, reptiles, and sea creatures are being tamed and have been tamed by mankind."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:52,660",
+				"to": "00:19:55,520"
+			},
+			"offsets": {
+				"from": 1192660,
+				"to": 1195520
+			},
+			"text": " Just a footnote, they have never met my three dogs."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,520",
+				"to": "00:19:57,980"
+			},
+			"offsets": {
+				"from": 1195520,
+				"to": 1197980
+			},
+			"text": " Because this is not accurate."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,980",
+				"to": "00:19:59,500"
+			},
+			"offsets": {
+				"from": 1197980,
+				"to": 1199500
+			},
+			"text": " Anybody who's met my dogs know."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,500",
+				"to": "00:20:00,800"
+			},
+			"offsets": {
+				"from": 1199500,
+				"to": 1200800
+			},
+			"text": " We're not there yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,800",
+				"to": "00:20:03,380"
+			},
+			"offsets": {
+				"from": 1200800,
+				"to": 1203380
+			},
+			"text": " But no human being can be tamed by the tongue."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,380",
+				"to": "00:20:06,940"
+			},
+			"offsets": {
+				"from": 1203380,
+				"to": 1206940
+			},
+			"text": " It is a restless evil full of deadly poison."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,940",
+				"to": "00:20:08,620"
+			},
+			"offsets": {
+				"from": 1206940,
+				"to": 1208620
+			},
+			"text": " Two parts of this."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,740",
+				"to": "00:20:12,720"
+			},
+			"offsets": {
+				"from": 1208740,
+				"to": 1212720
+			},
+			"text": " Number one, no human being can control their tongue."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,720",
+				"to": "00:20:14,280"
+			},
+			"offsets": {
+				"from": 1212720,
+				"to": 1214280
+			},
+			"text": " That's encouraging."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,280",
+				"to": "00:20:19,460"
+			},
+			"offsets": {
+				"from": 1214280,
+				"to": 1219460
+			},
+			"text": " Like, I'm reading this and I'm thinking, so James is giving us object illustration after object illustration."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,460",
+				"to": "00:20:22,660"
+			},
+			"offsets": {
+				"from": 1219460,
+				"to": 1222660
+			},
+			"text": " He's telling us the power and then he's saying, and you can't do anything about it."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,660",
+				"to": "00:20:24,360"
+			},
+			"offsets": {
+				"from": 1222660,
+				"to": 1224360
+			},
+			"text": " You can't control your tongue."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,360",
+				"to": "00:20:26,980"
+			},
+			"offsets": {
+				"from": 1224360,
+				"to": 1226980
+			},
+			"text": " He's right."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:26,980",
+				"to": "00:20:28,220"
+			},
+			"offsets": {
+				"from": 1226980,
+				"to": 1228220
+			},
+			"text": " We can't."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,000",
+				"to": "00:20:32,660"
+			},
+			"offsets": {
+				"from": 1229000,
+				"to": 1232660
+			},
+			"text": " It's the power of Christ living in us that can."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:32,660",
+				"to": "00:20:35,880"
+			},
+			"offsets": {
+				"from": 1232660,
+				"to": 1235880
+			},
+			"text": " And that is one thing that I have realized through this."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,880",
+				"to": "00:20:39,340"
+			},
+			"offsets": {
+				"from": 1235880,
+				"to": 1239340
+			},
+			"text": " If we don't realize that, we will fall."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,340",
+				"to": "00:20:40,440"
+			},
+			"offsets": {
+				"from": 1239340,
+				"to": 1240440
+			},
+			"text": " We can try all we want."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,440",
+				"to": "00:20:47,560"
+			},
+			"offsets": {
+				"from": 1240440,
+				"to": 1247560
+			},
+			"text": " But it is through the power of Christ that's the only way that we have a shot of controlling what we say."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,560",
+				"to": "00:20:51,320"
+			},
+			"offsets": {
+				"from": 1247560,
+				"to": 1251320
+			},
+			"text": " And then it says, it is a restless evil full of deadly poison."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,380",
+				"to": "00:20:56,120"
+			},
+			"offsets": {
+				"from": 1252380,
+				"to": 1256120
+			},
+			"text": " There's a verse, I love Proverbs, the stuff in Proverbs, it never gets old."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:56,120",
+				"to": "00:20:58,420"
+			},
+			"offsets": {
+				"from": 1256120,
+				"to": 1258420
+			},
+			"text": " So there's a verse in Proverbs that really brings us to light."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,420",
+				"to": "00:21:07,940"
+			},
+			"offsets": {
+				"from": 1258420,
+				"to": 1267940
+			},
+			"text": " It says, somebody who doesn't consider the power of their words is like a maniac shooting flaming arrows of death."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,940",
+				"to": "00:21:11,860"
+			},
+			"offsets": {
+				"from": 1267940,
+				"to": 1271860
+			},
+			"text": " Is the one who deceives their neighbor and says, I was only joking."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,860",
+				"to": "00:21:17,640"
+			},
+			"offsets": {
+				"from": 1271860,
+				"to": 1277640
+			},
+			"text": " Have you ever been that sarcastic person when you say these mean dagger things and you're like, I'm just kidding."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,640",
+				"to": "00:21:21,180"
+			},
+			"offsets": {
+				"from": 1277640,
+				"to": 1281180
+			},
+			"text": " It's not a joke."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,180",
+				"to": "00:21:22,540"
+			},
+			"offsets": {
+				"from": 1281180,
+				"to": 1282540
+			},
+			"text": " They know it's not a joke."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,540",
+				"to": "00:21:25,500"
+			},
+			"offsets": {
+				"from": 1282540,
+				"to": 1285500
+			},
+			"text": " The words that you've said are shooting arrows of death."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,500",
+				"to": "00:21:31,780"
+			},
+			"offsets": {
+				"from": 1285500,
+				"to": 1291780
+			},
+			"text": " Apparently, saying I was only joking doesn't fix the damage that you've done."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,780",
+				"to": "00:21:36,920"
+			},
+			"offsets": {
+				"from": 1291780,
+				"to": 1296920
+			},
+			"text": " This is definitely a lesson that I have had to learn in my life over and over and over."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,920",
+				"to": "00:21:40,140"
+			},
+			"offsets": {
+				"from": 1296920,
+				"to": 1300140
+			},
+			"text": " Again, you might not have meant that."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,140",
+				"to": "00:21:41,660"
+			},
+			"offsets": {
+				"from": 1300140,
+				"to": 1301660
+			},
+			"text": " You may have had the greatest intentions."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,660",
+				"to": "00:21:44,300"
+			},
+			"offsets": {
+				"from": 1301660,
+				"to": 1304300
+			},
+			"text": " But we cannot see your intentions."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,300",
+				"to": "00:21:48,200"
+			},
+			"offsets": {
+				"from": 1304300,
+				"to": 1308200
+			},
+			"text": " And we cannot see the good heart that you say that you have."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,200",
+				"to": "00:21:51,400"
+			},
+			"offsets": {
+				"from": 1308200,
+				"to": 1311400
+			},
+			"text": " We only can hear the words that you give us."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,400",
+				"to": "00:21:56,640"
+			},
+			"offsets": {
+				"from": 1311400,
+				"to": 1316640
+			},
+			"text": " So, oh, we go to verse 9."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:56,640",
+				"to": "00:22:00,100"
+			},
+			"offsets": {
+				"from": 1316640,
+				"to": 1320100
+			},
+			"text": " It says, with the tongue, we praise our Lord and Father."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,100",
+				"to": "00:22:04,340"
+			},
+			"offsets": {
+				"from": 1320100,
+				"to": 1324340
+			},
+			"text": " And with it, we curse human beings who have been made in God's likeness."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,740",
+				"to": "00:22:07,500"
+			},
+			"offsets": {
+				"from": 1324740,
+				"to": 1327500
+			},
+			"text": " Out of the same mouth come praise and cursing."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,500",
+				"to": "00:22:09,420"
+			},
+			"offsets": {
+				"from": 1327500,
+				"to": 1329420
+			},
+			"text": " My brothers and sisters, this should not be."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:09,420",
+				"to": "00:22:13,060"
+			},
+			"offsets": {
+				"from": 1329420,
+				"to": 1333060
+			},
+			"text": " Can both fresh water and salt water flow from the same spring?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,060",
+				"to": "00:22:18,240"
+			},
+			"offsets": {
+				"from": 1333060,
+				"to": 1338240
+			},
+			"text": " My brothers and sisters, can a fig tree bear olives or a grapevine bear figs?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,620",
+				"to": "00:22:21,440"
+			},
+			"offsets": {
+				"from": 1338620,
+				"to": 1341440
+			},
+			"text": " Neither can a salt spring produce fresh water."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,440",
+				"to": "00:22:24,740"
+			},
+			"offsets": {
+				"from": 1341440,
+				"to": 1344740
+			},
+			"text": " My kids have the luxury of listening to me practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,740",
+				"to": "00:22:29,280"
+			},
+			"offsets": {
+				"from": 1344740,
+				"to": 1349280
+			},
+			"text": " And I was reading this verse, and they were like, what did you just say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,280",
+				"to": "00:22:30,340"
+			},
+			"offsets": {
+				"from": 1349280,
+				"to": 1350340
+			},
+			"text": " That's a lot of words."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,340",
+				"to": "00:22:40,860"
+			},
+			"offsets": {
+				"from": 1350340,
+				"to": 1360860
+			},
+			"text": " But essentially, it's saying, you can't have Christ living in you, fully living in you, and running your life,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,960",
+				"to": "00:22:45,300"
+			},
+			"offsets": {
+				"from": 1360960,
+				"to": 1365300
+			},
+			"text": " and view others as anything but children of God, even if they've hurt you."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,300",
+				"to": "00:22:47,900"
+			},
+			"offsets": {
+				"from": 1365300,
+				"to": 1367900
+			},
+			"text": " They are a child of God in which God loves."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,900",
+				"to": "00:22:56,200"
+			},
+			"offsets": {
+				"from": 1367900,
+				"to": 1376200
+			},
+			"text": " And you can't have the fresh water of Jesus and then spew out salt water, which causes pain and singing."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,780",
+				"to": "00:23:04,400"
+			},
+			"offsets": {
+				"from": 1376780,
+				"to": 1384400
+			},
+			"text": " What he's saying is, if I'm really in you, then I should really be coming out of you in everything that you do."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,400",
+				"to": "00:23:13,440"
+			},
+			"offsets": {
+				"from": 1384400,
+				"to": 1393440
+			},
+			"text": " But the reality is, we think that we are filled with Christ, and oftentimes, we do spew salt water."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,440",
+				"to": "00:23:16,560"
+			},
+			"offsets": {
+				"from": 1393440,
+				"to": 1396560
+			},
+			"text": " We do produce the wrong fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,560",
+				"to": "00:23:21,280"
+			},
+			"offsets": {
+				"from": 1396560,
+				"to": 1401280
+			},
+			"text": " So, what I've struggled with is why."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:21,280",
+				"to": "00:23:24,740"
+			},
+			"offsets": {
+				"from": 1401280,
+				"to": 1404740
+			},
+			"text": " Why is it so hard to control our words?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,740",
+				"to": "00:23:26,500"
+			},
+			"offsets": {
+				"from": 1404740,
+				"to": 1406500
+			},
+			"text": " Even James says it's so hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:26,500",
+				"to": "00:23:33,920"
+			},
+			"offsets": {
+				"from": 1406500,
+				"to": 1413920
+			},
+			"text": " So, one of the things that I realized is, for me, one of the reasons that I sometimes don't say the right words"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,920",
+				"to": "00:23:37,260"
+			},
+			"offsets": {
+				"from": 1413920,
+				"to": 1417260
+			},
+			"text": " is because I feel like my words are justified."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,260",
+				"to": "00:23:38,380"
+			},
+			"offsets": {
+				"from": 1417260,
+				"to": 1418380
+			},
+			"text": " Has it felt like that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,380",
+				"to": "00:23:40,700"
+			},
+			"offsets": {
+				"from": 1418380,
+				"to": 1420700
+			},
+			"text": " So, somebody hurt me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,700",
+				"to": "00:23:44,660"
+			},
+			"offsets": {
+				"from": 1420700,
+				"to": 1424660
+			},
+			"text": " I am justified in hurting them back."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,660",
+				"to": "00:23:49,720"
+			},
+			"offsets": {
+				"from": 1424660,
+				"to": 1429720
+			},
+			"text": " Or, somebody did something wrong, and they hurt somebody."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,720",
+				"to": "00:23:54,400"
+			},
+			"offsets": {
+				"from": 1429720,
+				"to": 1434400
+			},
+			"text": " So, is it really wrong for me to tell all of you all the wrong things that they've done?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,400",
+				"to": "00:23:55,880"
+			},
+			"offsets": {
+				"from": 1434400,
+				"to": 1435880
+			},
+			"text": " Isn't that justified?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,220",
+				"to": "00:23:57,340"
+			},
+			"offsets": {
+				"from": 1436220,
+				"to": 1437340
+			},
+			"text": " Because they did it."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,340",
+				"to": "00:24:01,060"
+			},
+			"offsets": {
+				"from": 1437340,
+				"to": 1441060
+			},
+			"text": " So, they've gotten what they deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,060",
+				"to": "00:24:03,060"
+			},
+			"offsets": {
+				"from": 1441060,
+				"to": 1443060
+			},
+			"text": " Not really doing anything wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,060",
+				"to": "00:24:07,840"
+			},
+			"offsets": {
+				"from": 1443060,
+				"to": 1447840
+			},
+			"text": " Yet, those words are the spark that start a fire that destroy their lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:08,420",
+				"to": "00:24:10,340"
+			},
+			"offsets": {
+				"from": 1448420,
+				"to": 1450340
+			},
+			"text": " So, was it wrong or was it justified?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:10,340",
+				"to": "00:24:13,620"
+			},
+			"offsets": {
+				"from": 1450340,
+				"to": 1453620
+			},
+			"text": " This is something that I've realized that I struggle with."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,620",
+				"to": "00:24:17,300"
+			},
+			"offsets": {
+				"from": 1453620,
+				"to": 1457300
+			},
+			"text": " And, luckily for me, I'm not the only one who struggles with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:17,300",
+				"to": "00:24:19,040"
+			},
+			"offsets": {
+				"from": 1457300,
+				"to": 1459040
+			},
+			"text": " So, there was this king."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,180",
+				"to": "00:24:20,180"
+			},
+			"offsets": {
+				"from": 1459180,
+				"to": 1460180
+			},
+			"text": " His name was King Solomon."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,180",
+				"to": "00:24:22,660"
+			},
+			"offsets": {
+				"from": 1460180,
+				"to": 1462660
+			},
+			"text": " He was the son of King David."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,660",
+				"to": "00:24:26,220"
+			},
+			"offsets": {
+				"from": 1462660,
+				"to": 1466220
+			},
+			"text": " In my world, he's known as David and Goliath David."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,220",
+				"to": "00:24:30,220"
+			},
+			"offsets": {
+				"from": 1466220,
+				"to": 1470220
+			},
+			"text": " But, he actually grows up and becomes a king and he does some really big things."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,220",
+				"to": "00:24:32,380"
+			},
+			"offsets": {
+				"from": 1470220,
+				"to": 1472380
+			},
+			"text": " He's the man after God's own heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,380",
+				"to": "00:24:37,520"
+			},
+			"offsets": {
+				"from": 1472380,
+				"to": 1477520
+			},
+			"text": " So, Solomon becomes king in like this super easy way."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,520",
+				"to": "00:24:40,320"
+			},
+			"offsets": {
+				"from": 1477520,
+				"to": 1480320
+			},
+			"text": " So, his dad wins the battles."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,320",
+				"to": "00:24:41,960"
+			},
+			"offsets": {
+				"from": 1480320,
+				"to": 1481960
+			},
+			"text": " His dad builds up the kingdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,400",
+				"to": "00:24:46,240"
+			},
+			"offsets": {
+				"from": 1482400,
+				"to": 1486240
+			},
+			"text": " And so, when he becomes king, he's super rich, super powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,240",
+				"to": "00:24:50,440"
+			},
+			"offsets": {
+				"from": 1486240,
+				"to": 1490440
+			},
+			"text": " And, he has a dream where God asks him, if I can give you anything, what would you want?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:50,440",
+				"to": "00:24:51,420"
+			},
+			"offsets": {
+				"from": 1490440,
+				"to": 1491420
+			},
+			"text": " He asks for wisdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:51,860",
+				"to": "00:24:53,340"
+			},
+			"offsets": {
+				"from": 1491860,
+				"to": 1493340
+			},
+			"text": " So, God gives him wisdom."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,340",
+				"to": "00:24:56,640"
+			},
+			"offsets": {
+				"from": 1493340,
+				"to": 1496640
+			},
+			"text": " So, he's known as the smartest man that ever lived, obviously, aside from Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,640",
+				"to": "00:24:57,740"
+			},
+			"offsets": {
+				"from": 1496640,
+				"to": 1497740
+			},
+			"text": " And, he's rich."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,740",
+				"to": "00:24:58,980"
+			},
+			"offsets": {
+				"from": 1497740,
+				"to": 1498980
+			},
+			"text": " And, he's powerful."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,980",
+				"to": "00:25:01,560"
+			},
+			"offsets": {
+				"from": 1498980,
+				"to": 1501560
+			},
+			"text": " So, what do you do when you're rich, powerful, and super smart?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,560",
+				"to": "00:25:02,700"
+			},
+			"offsets": {
+				"from": 1501560,
+				"to": 1502700
+			},
+			"text": " Journal."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:02,700",
+				"to": "00:25:05,320"
+			},
+			"offsets": {
+				"from": 1502700,
+				"to": 1505320
+			},
+			"text": " So, he did a lot of journaling."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,320",
+				"to": "00:25:07,840"
+			},
+			"offsets": {
+				"from": 1505320,
+				"to": 1507840
+			},
+			"text": " And, we get to read this journal."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,840",
+				"to": "00:25:09,620"
+			},
+			"offsets": {
+				"from": 1507840,
+				"to": 1509620
+			},
+			"text": " It's in Ecclesiastes."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,620",
+				"to": "00:25:10,920"
+			},
+			"offsets": {
+				"from": 1509620,
+				"to": 1510920
+			},
+			"text": " This is one of his journals."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:10,920",
+				"to": "00:25:16,460"
+			},
+			"offsets": {
+				"from": 1510920,
+				"to": 1516460
+			},
+			"text": " And, so, in this journal, he loses sleep with this idea of justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,460",
+				"to": "00:25:17,860"
+			},
+			"offsets": {
+				"from": 1516460,
+				"to": 1517860
+			},
+			"text": " He says, why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,860",
+				"to": "00:25:19,260"
+			},
+			"offsets": {
+				"from": 1517860,
+				"to": 1519260
+			},
+			"text": " I'm prayer phrasing."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,260",
+				"to": "00:25:19,940"
+			},
+			"offsets": {
+				"from": 1519260,
+				"to": 1519940
+			},
+			"text": " I'll just read it."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:19,940",
+				"to": "00:25:20,480"
+			},
+			"offsets": {
+				"from": 1519940,
+				"to": 1520480
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,040",
+				"to": "00:25:26,800"
+			},
+			"offsets": {
+				"from": 1521040,
+				"to": 1526800
+			},
+			"text": " Ecclesiastes 8.14 says, there's something else meaningless that occurs on earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,800",
+				"to": "00:25:32,180"
+			},
+			"offsets": {
+				"from": 1526800,
+				"to": 1532180
+			},
+			"text": " The righteous who get what the wicked deserve, and the wicked who get what the righteous deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:32,180",
+				"to": "00:25:35,480"
+			},
+			"offsets": {
+				"from": 1532180,
+				"to": 1535480
+			},
+			"text": " So, he's watching this happen time and time again."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,480",
+				"to": "00:25:40,060"
+			},
+			"offsets": {
+				"from": 1535480,
+				"to": 1540060
+			},
+			"text": " That the righteous people aren't getting what they deserve, and the wicked people aren't getting what they deserve."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,060",
+				"to": "00:25:45,540"
+			},
+			"offsets": {
+				"from": 1540060,
+				"to": 1545540
+			},
+			"text": " You can probably all think of somebody right now who does not deserve what they are getting."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,640",
+				"to": "00:25:51,160"
+			},
+			"offsets": {
+				"from": 1545640,
+				"to": 1551160
+			},
+			"text": " Whether they have lived their lives and followed God, and they have a terminal cancer."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,160",
+				"to": "00:25:52,040"
+			},
+			"offsets": {
+				"from": 1551160,
+				"to": 1552040
+			},
+			"text": " And, you're like, really?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,040",
+				"to": "00:25:57,980"
+			},
+			"offsets": {
+				"from": 1552040,
+				"to": 1557980
+			},
+			"text": " Where you have that person that is just time and time again running people over and treating them like garbage."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,980",
+				"to": "00:25:59,340"
+			},
+			"offsets": {
+				"from": 1557980,
+				"to": 1559340
+			},
+			"text": " Yet, they keep getting promoted."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,340",
+				"to": "00:26:01,240"
+			},
+			"offsets": {
+				"from": 1559340,
+				"to": 1561240
+			},
+			"text": " And, their house is bigger than yours."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,240",
+				"to": "00:26:03,140"
+			},
+			"offsets": {
+				"from": 1561240,
+				"to": 1563140
+			},
+			"text": " And, their kids are better behaved than yours."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,140",
+				"to": "00:26:05,140"
+			},
+			"offsets": {
+				"from": 1563140,
+				"to": 1565140
+			},
+			"text": " And, it's, you just don't get it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,200",
+				"to": "00:26:08,680"
+			},
+			"offsets": {
+				"from": 1565200,
+				"to": 1568680
+			},
+			"text": " Like, why are the righteous not getting what the righteous deserve?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,680",
+				"to": "00:26:10,420"
+			},
+			"offsets": {
+				"from": 1568680,
+				"to": 1570420
+			},
+			"text": " And, he struggles with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,960",
+				"to": "00:26:13,040"
+			},
+			"offsets": {
+				"from": 1570960,
+				"to": 1573040
+			},
+			"text": " In, Ecclesiastes 3.10, he says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,040",
+				"to": "00:26:16,300"
+			},
+			"offsets": {
+				"from": 1573040,
+				"to": 1576300
+			},
+			"text": " I have seen the burden that God has laid on the human race."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,300",
+				"to": "00:26:19,740"
+			},
+			"offsets": {
+				"from": 1576300,
+				"to": 1579740
+			},
+			"text": " He has made everything beautiful in its time."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,740",
+				"to": "00:26:23,280"
+			},
+			"offsets": {
+				"from": 1579740,
+				"to": 1583280
+			},
+			"text": " He has also set eternity in the human heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:23,280",
+				"to": "00:26:27,160"
+			},
+			"offsets": {
+				"from": 1583280,
+				"to": 1587160
+			},
+			"text": " Yet, no one can fathom what God has done from beginning to end."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:27,160",
+				"to": "00:26:32,300"
+			},
+			"offsets": {
+				"from": 1587160,
+				"to": 1592300
+			},
+			"text": " He's starting to get a little bit of what's going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,300",
+				"to": "00:26:35,820"
+			},
+			"offsets": {
+				"from": 1592300,
+				"to": 1595820
+			},
+			"text": " He says, God made everything beautiful in its time."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,820",
+				"to": "00:26:37,800"
+			},
+			"offsets": {
+				"from": 1595820,
+				"to": 1597800
+			},
+			"text": " But, it's not time yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:38,440",
+				"to": "00:26:41,800"
+			},
+			"offsets": {
+				"from": 1598440,
+				"to": 1601800
+			},
+			"text": " He says, that God has set eternity in the human heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,800",
+				"to": "00:26:47,300"
+			},
+			"offsets": {
+				"from": 1601800,
+				"to": 1607300
+			},
+			"text": " Eternity, that, the other side of this, when we get to heaven,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,300",
+				"to": "00:26:54,780"
+			},
+			"offsets": {
+				"from": 1607300,
+				"to": 1614780
+			},
+			"text": " that is when Solomon is realizing that true justification is obtained."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,780",
+				"to": "00:27:02,300"
+			},
+			"offsets": {
+				"from": 1614780,
+				"to": 1622300
+			},
+			"text": " True fairness will come to light on the other side when we get to heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,300",
+				"to": "00:27:09,200"
+			},
+			"offsets": {
+				"from": 1622300,
+				"to": 1629200
+			},
+			"text": " And, he's starting to realize that we can't understand what God is doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,200",
+				"to": "00:27:11,560"
+			},
+			"offsets": {
+				"from": 1629200,
+				"to": 1631560
+			},
+			"text": " This is something that's hard to wrap our heads around."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,560",
+				"to": "00:27:13,660"
+			},
+			"offsets": {
+				"from": 1631560,
+				"to": 1633660
+			},
+			"text": " But, we don't know what we don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,660",
+				"to": "00:27:14,740"
+			},
+			"offsets": {
+				"from": 1633660,
+				"to": 1634740
+			},
+			"text": " But, God does."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,740",
+				"to": "00:27:19,920"
+			},
+			"offsets": {
+				"from": 1634740,
+				"to": 1639920
+			},
+			"text": " And, even if we think he didn't see what that person did to us, he saw it all."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:19,920",
+				"to": "00:27:25,220"
+			},
+			"offsets": {
+				"from": 1639920,
+				"to": 1645220
+			},
+			"text": " And, he tells us, I will make it right in my time."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,300",
+				"to": "00:27:33,220"
+			},
+			"offsets": {
+				"from": 1646300,
+				"to": 1653220
+			},
+			"text": " C.S. Lewis, actually, he's famous for mere Christianity, Chronicles of Narnia, Problem of Pain."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,220",
+				"to": "00:27:33,960"
+			},
+			"offsets": {
+				"from": 1653220,
+				"to": 1653960
+			},
+			"text": " He's very famous."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,960",
+				"to": "00:27:35,680"
+			},
+			"offsets": {
+				"from": 1653960,
+				"to": 1655680
+			},
+			"text": " He starts out as an atheist."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,680",
+				"to": "00:27:41,960"
+			},
+			"offsets": {
+				"from": 1655680,
+				"to": 1661960
+			},
+			"text": " But, it's this idea of justice that actually brings him to Christianity."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,960",
+				"to": "00:27:48,540"
+			},
+			"offsets": {
+				"from": 1661960,
+				"to": 1668540
+			},
+			"text": " He says, my argument against God was that the universe seems so cruel and unjust."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,540",
+				"to": "00:27:50,460"
+			},
+			"offsets": {
+				"from": 1668540,
+				"to": 1670460
+			},
+			"text": " I've heard this argument so many times."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,520",
+				"to": "00:27:53,740"
+			},
+			"offsets": {
+				"from": 1670520,
+				"to": 1673740
+			},
+			"text": " How can there be a God if the world is so cruel and unjust?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,740",
+				"to": "00:27:54,760"
+			},
+			"offsets": {
+				"from": 1673740,
+				"to": 1674760
+			},
+			"text": " What type of God is that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,760",
+				"to": "00:28:00,120"
+			},
+			"offsets": {
+				"from": 1674760,
+				"to": 1680120
+			},
+			"text": " But, how had I got this idea of just and unjust?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:00,120",
+				"to": "00:28:04,340"
+			},
+			"offsets": {
+				"from": 1680120,
+				"to": 1684340
+			},
+			"text": " A man does not call a line crooked unless he has some idea of a straight line."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,340",
+				"to": "00:28:08,580"
+			},
+			"offsets": {
+				"from": 1684340,
+				"to": 1688580
+			},
+			"text": " What was I comparing this universe with when I called it unjust?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:08,580",
+				"to": "00:28:11,940"
+			},
+			"offsets": {
+				"from": 1688580,
+				"to": 1691940
+			},
+			"text": " So, in other words, I'm sinful."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,940",
+				"to": "00:28:13,100"
+			},
+			"offsets": {
+				"from": 1691940,
+				"to": 1693100
+			},
+			"text": " I know that I mess up."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,100",
+				"to": "00:28:16,380"
+			},
+			"offsets": {
+				"from": 1693100,
+				"to": 1696380
+			},
+			"text": " But, my idea of right is skewed towards myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,500",
+				"to": "00:28:21,360"
+			},
+			"offsets": {
+				"from": 1696500,
+				"to": 1701360
+			},
+			"text": " So, there has to be an ultimate line, an ultimate right versus wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,360",
+				"to": "00:28:28,000"
+			},
+			"offsets": {
+				"from": 1701360,
+				"to": 1708000
+			},
+			"text": " And, if there is that, and it's none of us because we're all screwed up and selfish, there has to be someone over us."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,000",
+				"to": "00:28:37,220"
+			},
+			"offsets": {
+				"from": 1708000,
+				"to": 1717220
+			},
+			"text": " So, he starts to realize this idea of justice that I have in my head, this idea that I want fairness, came from someone higher than me."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,220",
+				"to": "00:28:40,240"
+			},
+			"offsets": {
+				"from": 1717220,
+				"to": 1720240
+			},
+			"text": " And so, he starts to look into Christianity."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,940",
+				"to": "00:28:45,020"
+			},
+			"offsets": {
+				"from": 1721940,
+				"to": 1725020
+			},
+			"text": " Ecclesiastes 3.17, Solomon says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,020",
+				"to": "00:28:51,960"
+			},
+			"offsets": {
+				"from": 1725020,
+				"to": 1731960
+			},
+			"text": " I said to myself, God will bring unto judgment both the justice and the wicked, both the righteous and the wicked."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,960",
+				"to": "00:28:56,080"
+			},
+			"offsets": {
+				"from": 1731960,
+				"to": 1736080
+			},
+			"text": " And there will be a time for every activity, a time to judge every deed."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:56,080",
+				"to": "00:29:02,120"
+			},
+			"offsets": {
+				"from": 1736080,
+				"to": 1742120
+			},
+			"text": " Yes, this is the verse where the Beatles got their famous song, A Season, Everything, There Is A Season, I think it's called."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,900",
+				"to": "00:29:09,540"
+			},
+			"offsets": {
+				"from": 1742900,
+				"to": 1749540
+			},
+			"text": " But, he's saying that the bottom line is, I don't get what I don't get, but it's God's timing."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:09,540",
+				"to": "00:29:18,200"
+			},
+			"offsets": {
+				"from": 1749540,
+				"to": 1758200
+			},
+			"text": " And it's, I have to accept the fact that he will bring everything to its right place at his time."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:18,200",
+				"to": "00:29:21,500"
+			},
+			"offsets": {
+				"from": 1758200,
+				"to": 1761500
+			},
+			"text": " The reality is, is you and I are not gods."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,500",
+				"to": "00:29:24,300"
+			},
+			"offsets": {
+				"from": 1761500,
+				"to": 1764300
+			},
+			"text": " We think we are gods."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,300",
+				"to": "00:29:24,800"
+			},
+			"offsets": {
+				"from": 1764300,
+				"to": 1764800
+			},
+			"text": " We do."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:24,800",
+				"to": "00:29:25,640"
+			},
+			"offsets": {
+				"from": 1764800,
+				"to": 1765640
+			},
+			"text": " We really do."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,640",
+				"to": "00:29:28,240"
+			},
+			"offsets": {
+				"from": 1765640,
+				"to": 1768240
+			},
+			"text": " Because we think that everything should go the way we want it to go."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,680",
+				"to": "00:29:30,140"
+			},
+			"offsets": {
+				"from": 1768680,
+				"to": 1770140
+			},
+			"text": " Every one of us thinks that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:30,140",
+				"to": "00:29:31,520"
+			},
+			"offsets": {
+				"from": 1770140,
+				"to": 1771520
+			},
+			"text": " But we are not gods."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,520",
+				"to": "00:29:33,540"
+			},
+			"offsets": {
+				"from": 1771520,
+				"to": 1773540
+			},
+			"text": " And we have to remember this."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,540",
+				"to": "00:29:38,200"
+			},
+			"offsets": {
+				"from": 1773540,
+				"to": 1778200
+			},
+			"text": " Solomon talks about the fact that, this is, this is kind of funny to me, but we were made from dust."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:38,200",
+				"to": "00:29:41,540"
+			},
+			"offsets": {
+				"from": 1778200,
+				"to": 1781540
+			},
+			"text": " So, he goes on to explain, you are made from dust."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,540",
+				"to": "00:29:42,920"
+			},
+			"offsets": {
+				"from": 1781540,
+				"to": 1782920
+			},
+			"text": " You know what else we're made from dust?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,920",
+				"to": "00:29:43,560"
+			},
+			"offsets": {
+				"from": 1782920,
+				"to": 1783560
+			},
+			"text": " Cows."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,560",
+				"to": "00:29:46,180"
+			},
+			"offsets": {
+				"from": 1783560,
+				"to": 1786180
+			},
+			"text": " You and cows came from the same origin."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,180",
+				"to": "00:29:48,160"
+			},
+			"offsets": {
+				"from": 1786180,
+				"to": 1788160
+			},
+			"text": " So, you will die."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:48,160",
+				"to": "00:29:50,180"
+			},
+			"offsets": {
+				"from": 1788160,
+				"to": 1790180
+			},
+			"text": " And your body will go in a hole."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:50,180",
+				"to": "00:29:53,180"
+			},
+			"offsets": {
+				"from": 1790180,
+				"to": 1793180
+			},
+			"text": " And you will fertilize the flowers."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,800",
+				"to": "00:29:55,660"
+			},
+			"offsets": {
+				"from": 1793800,
+				"to": 1795660
+			},
+			"text": " And then the cow will eat the flowers."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:55,660",
+				"to": "00:29:58,000"
+			},
+			"offsets": {
+				"from": 1795660,
+				"to": 1798000
+			},
+			"text": " And then humans will eat the cow."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,000",
+				"to": "00:29:59,860"
+			},
+			"offsets": {
+				"from": 1798000,
+				"to": 1799860
+			},
+			"text": " And then they will die."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,860",
+				"to": "00:30:03,800"
+			},
+			"offsets": {
+				"from": 1799860,
+				"to": 1803800
+			},
+			"text": " And their bodies will go as fertilizer, which will grow the flowers."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:03,800",
+				"to": "00:30:07,560"
+			},
+			"offsets": {
+				"from": 1803800,
+				"to": 1807560
+			},
+			"text": " And he's basically saying, don't think of yourself more highly than you are."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,560",
+				"to": "00:30:08,800"
+			},
+			"offsets": {
+				"from": 1807560,
+				"to": 1808800
+			},
+			"text": " You are but dust."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,800",
+				"to": "00:30:12,520"
+			},
+			"offsets": {
+				"from": 1808800,
+				"to": 1812520
+			},
+			"text": " This doesn't mean that God doesn't love us, because he says, you're precious in my sight."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,520",
+				"to": "00:30:14,340"
+			},
+			"offsets": {
+				"from": 1812520,
+				"to": 1814340
+			},
+			"text": " And he knows every hair on your head."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:14,340",
+				"to": "00:30:15,620"
+			},
+			"offsets": {
+				"from": 1814340,
+				"to": 1815620
+			},
+			"text": " And he forms you in your mother's womb."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,620",
+				"to": "00:30:21,220"
+			},
+			"offsets": {
+				"from": 1815620,
+				"to": 1821220
+			},
+			"text": " But what he's saying is, don't think you are more powerful than you are."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,760",
+				"to": "00:30:25,400"
+			},
+			"offsets": {
+				"from": 1821760,
+				"to": 1825400
+			},
+			"text": " Romans 12 says, do not repay evil back for evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,400",
+				"to": "00:30:28,760"
+			},
+			"offsets": {
+				"from": 1825400,
+				"to": 1828760
+			},
+			"text": " Do not take revenge, my dear friends, but leave room for God's wrath."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:28,760",
+				"to": "00:30:31,500"
+			},
+			"offsets": {
+				"from": 1828760,
+				"to": 1831500
+			},
+			"text": " For it is written, it is mine to avenge."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,500",
+				"to": "00:30:32,740"
+			},
+			"offsets": {
+				"from": 1831500,
+				"to": 1832740
+			},
+			"text": " I will repay."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,740",
+				"to": "00:30:43,100"
+			},
+			"offsets": {
+				"from": 1832740,
+				"to": 1843100
+			},
+			"text": " As I was writing this, I was thinking, I don't know what thing has happened to you that has caused you to want to repay evil back for evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,100",
+				"to": "00:30:46,740"
+			},
+			"offsets": {
+				"from": 1843100,
+				"to": 1846740
+			},
+			"text": " But I do know that God saw every single step of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:46,740",
+				"to": "00:30:48,560"
+			},
+			"offsets": {
+				"from": 1846740,
+				"to": 1848560
+			},
+			"text": " I know that he knew it was coming."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,560",
+				"to": "00:30:51,440"
+			},
+			"offsets": {
+				"from": 1848560,
+				"to": 1851440
+			},
+			"text": " And I know that he knows exactly what pain you've endured."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:51,760",
+				"to": "00:31:00,100"
+			},
+			"offsets": {
+				"from": 1851760,
+				"to": 1860100
+			},
+			"text": " But he still asks us to allow him to repay the evil, not you."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,320",
+				"to": "00:31:04,160"
+			},
+			"offsets": {
+				"from": 1860320,
+				"to": 1864160
+			},
+			"text": " Because he sees us differently than we see others."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,160",
+				"to": "00:31:09,420"
+			},
+			"offsets": {
+				"from": 1864160,
+				"to": 1869420
+			},
+			"text": " There's a part in Exodus where Moses has just gotten the Ten Commandments."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,420",
+				"to": "00:31:11,540"
+			},
+			"offsets": {
+				"from": 1869420,
+				"to": 1871540
+			},
+			"text": " And he comes off the Mount Sinai."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,540",
+				"to": "00:31:12,440"
+			},
+			"offsets": {
+				"from": 1871540,
+				"to": 1872440
+			},
+			"text": " And he's in."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:12,440",
+				"to": "00:31:13,720"
+			},
+			"offsets": {
+				"from": 1872440,
+				"to": 1873720
+			},
+			"text": " So God is there."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,720",
+				"to": "00:31:15,480"
+			},
+			"offsets": {
+				"from": 1873720,
+				"to": 1875480
+			},
+			"text": " And he's showing himself to the Israelites."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,480",
+				"to": "00:31:23,100"
+			},
+			"offsets": {
+				"from": 1875480,
+				"to": 1883100
+			},
+			"text": " Keep in mind, the Israelites are the group of people that were saved from Egypt, literally saw the Red Sea parted,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:23,420",
+				"to": "00:31:28,360"
+			},
+			"offsets": {
+				"from": 1883420,
+				"to": 1888360
+			},
+			"text": " followed a cloud through the desert that literally dropped food on the ground for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:28,360",
+				"to": "00:31:29,800"
+			},
+			"offsets": {
+				"from": 1888360,
+				"to": 1889800
+			},
+			"text": " And yet they doubt God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,800",
+				"to": "00:31:30,920"
+			},
+			"offsets": {
+				"from": 1889800,
+				"to": 1890920
+			},
+			"text": " Sounds a lot like us."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:30,920",
+				"to": "00:31:36,220"
+			},
+			"offsets": {
+				"from": 1890920,
+				"to": 1896220
+			},
+			"text": " But he, again, God's showing his power to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,220",
+				"to": "00:31:38,740"
+			},
+			"offsets": {
+				"from": 1896220,
+				"to": 1898740
+			},
+			"text": " So Moses has just been given the Ten Commandments."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,740",
+				"to": "00:31:39,820"
+			},
+			"offsets": {
+				"from": 1898740,
+				"to": 1899820
+			},
+			"text": " He comes off Mount Sinai."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:39,820",
+				"to": "00:31:41,640"
+			},
+			"offsets": {
+				"from": 1899820,
+				"to": 1901640
+			},
+			"text": " And God is showing himself to the Israelites."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,640",
+				"to": "00:31:44,420"
+			},
+			"offsets": {
+				"from": 1901640,
+				"to": 1904420
+			},
+			"text": " So there's fire and there's lightning and there's thunder."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:44,420",
+				"to": "00:31:45,760"
+			},
+			"offsets": {
+				"from": 1904420,
+				"to": 1905760
+			},
+			"text": " And there's a big cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:45,980",
+				"to": "00:31:47,540"
+			},
+			"offsets": {
+				"from": 1905980,
+				"to": 1907540
+			},
+			"text": " And there's a whole bunch of stuff going on."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:47,540",
+				"to": "00:31:50,620"
+			},
+			"offsets": {
+				"from": 1907540,
+				"to": 1910620
+			},
+			"text": " And the people are scared to death."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,620",
+				"to": "00:31:52,840"
+			},
+			"offsets": {
+				"from": 1910620,
+				"to": 1912840
+			},
+			"text": " And they're like, Moses, you talk to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,840",
+				"to": "00:31:53,460"
+			},
+			"offsets": {
+				"from": 1912840,
+				"to": 1913460
+			},
+			"text": " He's scary."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,460",
+				"to": "00:31:54,340"
+			},
+			"offsets": {
+				"from": 1913460,
+				"to": 1914340
+			},
+			"text": " We don't want to talk to him."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:54,340",
+				"to": "00:32:00,340"
+			},
+			"offsets": {
+				"from": 1914340,
+				"to": 1920340
+			},
+			"text": " And Moses says to him, Moses said to the people, this is Exodus 20, 20, do not be afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,340",
+				"to": "00:32:06,560"
+			},
+			"offsets": {
+				"from": 1920340,
+				"to": 1926560
+			},
+			"text": " God has come to test you so that the fear of the Lord will be with you and keep you from sinning."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:06,560",
+				"to": "00:32:10,780"
+			},
+			"offsets": {
+				"from": 1926560,
+				"to": 1930780
+			},
+			"text": " If you ever looked for a contradiction in the Bible, here's one in the same verse."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:10,780",
+				"to": "00:32:12,920"
+			},
+			"offsets": {
+				"from": 1930780,
+				"to": 1932920
+			},
+			"text": " He says, don't be afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:12,920",
+				"to": "00:32:14,780"
+			},
+			"offsets": {
+				"from": 1932920,
+				"to": 1934780
+			},
+			"text": " God has come so that you are afraid."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,440",
+				"to": "00:32:16,320"
+			},
+			"offsets": {
+				"from": 1935440,
+				"to": 1936320
+			},
+			"text": " Very confusing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:16,320",
+				"to": "00:32:21,820"
+			},
+			"offsets": {
+				"from": 1936320,
+				"to": 1941820
+			},
+			"text": " But what he's saying is, this is respect."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,820",
+				"to": "00:32:23,640"
+			},
+			"offsets": {
+				"from": 1941820,
+				"to": 1943640
+			},
+			"text": " This is reverence."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:23,640",
+				"to": "00:32:27,380"
+			},
+			"offsets": {
+				"from": 1943640,
+				"to": 1947380
+			},
+			"text": " We have to remember the power that our God holds."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,380",
+				"to": "00:32:32,940"
+			},
+			"offsets": {
+				"from": 1947380,
+				"to": 1952940
+			},
+			"text": " And they needed, unfortunately, another reminder that came in the form of lightning and thunder and clouds."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,940",
+				"to": "00:32:35,060"
+			},
+			"offsets": {
+				"from": 1952940,
+				"to": 1955060
+			},
+			"text": " Sometimes I think we would all love a little bit of that."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,060",
+				"to": "00:32:38,800"
+			},
+			"offsets": {
+				"from": 1955060,
+				"to": 1958800
+			},
+			"text": " But he's saying, you don't need to be afraid of your God, like scared of him."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,800",
+				"to": "00:32:43,840"
+			},
+			"offsets": {
+				"from": 1958800,
+				"to": 1963840
+			},
+			"text": " But you do need to respect him and have reverence for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,840",
+				"to": "00:32:45,900"
+			},
+			"offsets": {
+				"from": 1963840,
+				"to": 1965900
+			},
+			"text": " Because we are not God's."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:45,900",
+				"to": "00:32:56,260"
+			},
+			"offsets": {
+				"from": 1965900,
+				"to": 1976260
+			},
+			"text": " Isaiah 40, 12 said, who has measured the waters in the hallows of his hand and marked off the heavens, calculated the dust of the earth and weighed the mountain?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,960",
+				"to": "00:32:57,520"
+			},
+			"offsets": {
+				"from": 1976960,
+				"to": 1977520
+			},
+			"text": " Not me."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:57,520",
+				"to": "00:32:58,520"
+			},
+			"offsets": {
+				"from": 1977520,
+				"to": 1978520
+			},
+			"text": " Not even close."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,520",
+				"to": "00:32:59,240"
+			},
+			"offsets": {
+				"from": 1978520,
+				"to": 1979240
+			},
+			"text": " Not even close."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,240",
+				"to": "00:33:00,520"
+			},
+			"offsets": {
+				"from": 1979240,
+				"to": 1980520
+			},
+			"text": " That's God."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,520",
+				"to": "00:33:09,440"
+			},
+			"offsets": {
+				"from": 1980520,
+				"to": 1989440
+			},
+			"text": " And we sometimes get so used to being in control that we stop remembering that we are not God's."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:09,440",
+				"to": "00:33:12,780"
+			},
+			"offsets": {
+				"from": 1989440,
+				"to": 1992780
+			},
+			"text": " It is not our will on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,780",
+				"to": "00:33:16,120"
+			},
+			"offsets": {
+				"from": 1992780,
+				"to": 1996120
+			},
+			"text": " It is God's will on earth as it is in heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,600",
+				"to": "00:33:20,100"
+			},
+			"offsets": {
+				"from": 1996600,
+				"to": 2000100
+			},
+			"text": " And we need to remember that, especially when it comes to our works."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:20,100",
+				"to": "00:33:27,720"
+			},
+			"offsets": {
+				"from": 2000100,
+				"to": 2007720
+			},
+			"text": " You don't have to fear the unfairness of evil because God has promised that he will deal with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,720",
+				"to": "00:33:32,960"
+			},
+			"offsets": {
+				"from": 2007720,
+				"to": 2012960
+			},
+			"text": " He will pull the good out of the mess that we are in right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,960",
+				"to": "00:33:37,520"
+			},
+			"offsets": {
+				"from": 2012960,
+				"to": 2017520
+			},
+			"text": " Romans 8, 28, my aunt's favorite verse that she would always tell us is,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,720",
+				"to": "00:33:49,120"
+			},
+			"offsets": {
+				"from": 2017720,
+				"to": 2029120
+			},
+			"text": " To know that in the depths of our souls, to know that God works all things for the good, even that awful thing that happens to you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:49,120",
+				"to": "00:33:55,040"
+			},
+			"offsets": {
+				"from": 2029120,
+				"to": 2035040
+			},
+			"text": " to understand that is how you get a peace that passes all understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:56,360",
+				"to": "00:34:01,260"
+			},
+			"offsets": {
+				"from": 2036360,
+				"to": 2041260
+			},
+			"text": " So now that we, I've talked about that, and we know the power of God, and we know the reverence,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,260",
+				"to": "00:34:04,520"
+			},
+			"offsets": {
+				"from": 2041260,
+				"to": 2044520
+			},
+			"text": " and we know that, unfortunately, justice is not for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:04,520",
+				"to": "00:34:05,220"
+			},
+			"offsets": {
+				"from": 2044520,
+				"to": 2045220
+			},
+			"text": " It's for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,220",
+				"to": "00:34:07,360"
+			},
+			"offsets": {
+				"from": 2045220,
+				"to": 2047360
+			},
+			"text": " What are we called to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:07,360",
+				"to": "00:34:08,860"
+			},
+			"offsets": {
+				"from": 2047360,
+				"to": 2048860
+			},
+			"text": " Romans 12, 20 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:08,860",
+				"to": "00:34:11,260"
+			},
+			"offsets": {
+				"from": 2048860,
+				"to": 2051260
+			},
+			"text": " If your enemy is hungry, give him food."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,260",
+				"to": "00:34:13,560"
+			},
+			"offsets": {
+				"from": 2051260,
+				"to": 2053560
+			},
+			"text": " If he's thirsty, give him a drink."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,560",
+				"to": "00:34:16,000"
+			},
+			"offsets": {
+				"from": 2053560,
+				"to": 2056000
+			},
+			"text": " Do not be overcome by evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,000",
+				"to": "00:34:18,380"
+			},
+			"offsets": {
+				"from": 2056000,
+				"to": 2058380
+			},
+			"text": " Overcome evil with good."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:18,380",
+				"to": "00:34:22,140"
+			},
+			"offsets": {
+				"from": 2058380,
+				"to": 2062140
+			},
+			"text": " So what do we do when something bad happens to us?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:22,140",
+				"to": "00:34:24,340"
+			},
+			"offsets": {
+				"from": 2062140,
+				"to": 2064340
+			},
+			"text": " We overcome evil with good."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,340",
+				"to": "00:34:25,780"
+			},
+			"offsets": {
+				"from": 2064340,
+				"to": 2065780
+			},
+			"text": " It's not easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,360",
+				"to": "00:34:27,520"
+			},
+			"offsets": {
+				"from": 2066360,
+				"to": 2067520
+			},
+			"text": " Not even close."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:27,520",
+				"to": "00:34:32,200"
+			},
+			"offsets": {
+				"from": 2067520,
+				"to": 2072200
+			},
+			"text": " But again, we aren't doing it in our own power."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:32,200",
+				"to": "00:34:33,320"
+			},
+			"offsets": {
+				"from": 2072200,
+				"to": 2073320
+			},
+			"text": " We can't."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,320",
+				"to": "00:34:35,960"
+			},
+			"offsets": {
+				"from": 2073320,
+				"to": 2075960
+			},
+			"text": " Because we will overcome evil with evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,960",
+				"to": "00:34:36,980"
+			},
+			"offsets": {
+				"from": 2075960,
+				"to": 2076980
+			},
+			"text": " We will."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,980",
+				"to": "00:34:38,200"
+			},
+			"offsets": {
+				"from": 2076980,
+				"to": 2078200
+			},
+			"text": " That's what we want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,200",
+				"to": "00:34:40,600"
+			},
+			"offsets": {
+				"from": 2078200,
+				"to": 2080600
+			},
+			"text": " So we can't do it in our own power."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,600",
+				"to": "00:34:47,020"
+			},
+			"offsets": {
+				"from": 2080600,
+				"to": 2087020
+			},
+			"text": " This next verse is one thing that I have been trying to live day in and day out."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,020",
+				"to": "00:34:48,860"
+			},
+			"offsets": {
+				"from": 2087020,
+				"to": 2088860
+			},
+			"text": " 2 Corinthians 5, 16 says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:48,860",
+				"to": "00:34:52,760"
+			},
+			"offsets": {
+				"from": 2088860,
+				"to": 2092760
+			},
+			"text": " From now on we regard no one from an earthly view."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,720",
+				"to": "00:34:56,740"
+			},
+			"offsets": {
+				"from": 2093720,
+				"to": 2096740
+			},
+			"text": " We have to see people through the eyes of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,740",
+				"to": "00:34:58,680"
+			},
+			"offsets": {
+				"from": 2096740,
+				"to": 2098680
+			},
+			"text": " This is not easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,680",
+				"to": "00:35:03,400"
+			},
+			"offsets": {
+				"from": 2098680,
+				"to": 2103400
+			},
+			"text": " This reminds me of, I talked like literally years or two years ago or something about,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,400",
+				"to": "00:35:08,040"
+			},
+			"offsets": {
+				"from": 2103400,
+				"to": 2108040
+			},
+			"text": " if you have that tape that plays over and over in your head that tells you the negative thoughts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,040",
+				"to": "00:35:11,100"
+			},
+			"offsets": {
+				"from": 2108040,
+				"to": 2111100
+			},
+			"text": " you have to cognitively stop that tape."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,100",
+				"to": "00:35:12,660"
+			},
+			"offsets": {
+				"from": 2111100,
+				"to": 2112660
+			},
+			"text": " You have to pause the tape."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:12,660",
+				"to": "00:35:13,880"
+			},
+			"offsets": {
+				"from": 2112660,
+				"to": 2113880
+			},
+			"text": " Nope, I'm not going to believe that."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,880",
+				"to": "00:35:14,640"
+			},
+			"offsets": {
+				"from": 2113880,
+				"to": 2114640
+			},
+			"text": " I'm not going to believe it."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,640",
+				"to": "00:35:17,100"
+			},
+			"offsets": {
+				"from": 2114640,
+				"to": 2117100
+			},
+			"text": " And give yourself positive words of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:17,200",
+				"to": "00:35:18,920"
+			},
+			"offsets": {
+				"from": 2117200,
+				"to": 2118920
+			},
+			"text": " It's a practice that you do over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,920",
+				"to": "00:35:20,180"
+			},
+			"offsets": {
+				"from": 2118920,
+				"to": 2120180
+			},
+			"text": " So is this."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:20,180",
+				"to": "00:35:25,840"
+			},
+			"offsets": {
+				"from": 2120180,
+				"to": 2125840
+			},
+			"text": " When you see that person that you can't stand or somebody does something that is mean,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:25,840",
+				"to": "00:35:29,700"
+			},
+			"offsets": {
+				"from": 2125840,
+				"to": 2129700
+			},
+			"text": " you have to cognitively stop the negative thought."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,700",
+				"to": "00:35:31,460"
+			},
+			"offsets": {
+				"from": 2129700,
+				"to": 2131460
+			},
+			"text": " I've been practicing this."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,460",
+				"to": "00:35:32,120"
+			},
+			"offsets": {
+				"from": 2131460,
+				"to": 2132120
+			},
+			"text": " It's not easy."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,120",
+				"to": "00:35:32,860"
+			},
+			"offsets": {
+				"from": 2132120,
+				"to": 2132860
+			},
+			"text": " But it does."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,860",
+				"to": "00:35:38,600"
+			},
+			"offsets": {
+				"from": 2132860,
+				"to": 2138600
+			},
+			"text": " You have to train your brain to view them through the eyes of Jesus, not through our eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,600",
+				"to": "00:35:49,100"
+			},
+			"offsets": {
+				"from": 2138600,
+				"to": 2149100
+			},
+			"text": " The best illustration that I can give is, as a mom, as moms out there, we see our children through very different eyes than the rest of the world, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,320",
+				"to": "00:35:54,340"
+			},
+			"offsets": {
+				"from": 2149320,
+				"to": 2154340
+			},
+			"text": " When they're screaming and losing their minds at Target, and everyone else is like, what a brat."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:54,340",
+				"to": "00:35:56,660"
+			},
+			"offsets": {
+				"from": 2154340,
+				"to": 2156660
+			},
+			"text": " My mind is, they're hungry."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:56,660",
+				"to": "00:35:57,900"
+			},
+			"offsets": {
+				"from": 2156660,
+				"to": 2157900
+			},
+			"text": " They didn't get their nap."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,900",
+				"to": "00:35:59,260"
+			},
+			"offsets": {
+				"from": 2157900,
+				"to": 2159260
+			},
+			"text": " They're tired."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,260",
+				"to": "00:36:00,760"
+			},
+			"offsets": {
+				"from": 2159260,
+				"to": 2160760
+			},
+			"text": " Like, it's okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,760",
+				"to": "00:36:02,440"
+			},
+			"offsets": {
+				"from": 2160760,
+				"to": 2162440
+			},
+			"text": " I promise they're a good person."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:02,440",
+				"to": "00:36:04,280"
+			},
+			"offsets": {
+				"from": 2162440,
+				"to": 2164280
+			},
+			"text": " Those are the eyes we need to see other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,280",
+				"to": "00:36:11,600"
+			},
+			"offsets": {
+				"from": 2164280,
+				"to": 2171600
+			},
+			"text": " Through the eyes of a mother who loves their child and knows their child and wants the best for their child and wants you to view them."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:11,600",
+				"to": "00:36:13,640"
+			},
+			"offsets": {
+				"from": 2171600,
+				"to": 2173640
+			},
+			"text": " That's how Jesus views us."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,640",
+				"to": "00:36:17,360"
+			},
+			"offsets": {
+				"from": 2173640,
+				"to": 2177360
+			},
+			"text": " And that's how he asks us to view others."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,360",
+				"to": "00:36:18,660"
+			},
+			"offsets": {
+				"from": 2177360,
+				"to": 2178660
+			},
+			"text": " It's through his eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,660",
+				"to": "00:36:21,420"
+			},
+			"offsets": {
+				"from": 2178660,
+				"to": 2181420
+			},
+			"text": " He died for them just like he died for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:21,420",
+				"to": "00:36:22,800"
+			},
+			"offsets": {
+				"from": 2181420,
+				"to": 2182800
+			},
+			"text": " And he loves them."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,800",
+				"to": "00:36:26,920"
+			},
+			"offsets": {
+				"from": 2182800,
+				"to": 2186920
+			},
+			"text": " No matter what they're doing to us, he loves them so much."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,920",
+				"to": "00:36:35,120"
+			},
+			"offsets": {
+				"from": 2186920,
+				"to": 2195120
+			},
+			"text": " So, I told you that I would go back to that verse that says that in James 3, it says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:35,120",
+				"to": "00:36:39,860"
+			},
+			"offsets": {
+				"from": 2195120,
+				"to": 2199860
+			},
+			"text": " Anyone who is never at fault at what they say is perfect, able to keep their whole body in check."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,860",
+				"to": "00:36:45,540"
+			},
+			"offsets": {
+				"from": 2199860,
+				"to": 2205540
+			},
+			"text": " Okay, so, I said that that was confusing because we have so many other things that can be considered sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,660",
+				"to": "00:36:48,800"
+			},
+			"offsets": {
+				"from": 2205660,
+				"to": 2208800
+			},
+			"text": " So, how does being able to control your tongue make you perfect?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:48,800",
+				"to": "00:36:52,000"
+			},
+			"offsets": {
+				"from": 2208800,
+				"to": 2212000
+			},
+			"text": " How does it, how are you able to keep your whole body in check?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,000",
+				"to": "00:36:59,380"
+			},
+			"offsets": {
+				"from": 2213000,
+				"to": 2219380
+			},
+			"text": " Luke 6, Luke 6, 45 says, a good man brings good things out of the good stored up in his heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:59,380",
+				"to": "00:37:03,780"
+			},
+			"offsets": {
+				"from": 2219380,
+				"to": 2223780
+			},
+			"text": " And an evil man brings evil things out of the evil stored up in his heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,780",
+				"to": "00:37:07,840"
+			},
+			"offsets": {
+				"from": 2223780,
+				"to": 2227840
+			},
+			"text": " For what the mouth speaks, the heart is full of."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,960",
+				"to": "00:37:10,720"
+			},
+			"offsets": {
+				"from": 2228960,
+				"to": 2230720
+			},
+			"text": " What is our heart full of?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:10,720",
+				"to": "00:37:22,080"
+			},
+			"offsets": {
+				"from": 2230720,
+				"to": 2242080
+			},
+			"text": " That is the bottom line, is trusting God and letting him have ultimate control what our heart is full of."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,080",
+				"to": "00:37:27,820"
+			},
+			"offsets": {
+				"from": 2242080,
+				"to": 2247820
+			},
+			"text": " Do we really believe that he has it all and that he will do justice in due time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,900",
+				"to": "00:37:32,520"
+			},
+			"offsets": {
+				"from": 2247900,
+				"to": 2252520
+			},
+			"text": " Do we really believe that he has a plan and that that person that hurts you is loved by him?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:32,520",
+				"to": "00:37:35,120"
+			},
+			"offsets": {
+				"from": 2252520,
+				"to": 2255120
+			},
+			"text": " And it's, he doesn't, it's not that he misses it."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,120",
+				"to": "00:37:38,660"
+			},
+			"offsets": {
+				"from": 2255120,
+				"to": 2258660
+			},
+			"text": " It's not that you're not ever, that your sadness isn't okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:38,660",
+				"to": "00:37:41,160"
+			},
+			"offsets": {
+				"from": 2258660,
+				"to": 2261160
+			},
+			"text": " He sees you and he loves you and he wants to bring you comfort."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:41,160",
+				"to": "00:37:45,880"
+			},
+			"offsets": {
+				"from": 2261160,
+				"to": 2265880
+			},
+			"text": " But the comfort has to come from him, not from us repaying evil from evil."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,540",
+				"to": "00:37:48,400"
+			},
+			"offsets": {
+				"from": 2266540,
+				"to": 2268400
+			},
+			"text": " What is in our hearts?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:48,400",
+				"to": "00:37:54,340"
+			},
+			"offsets": {
+				"from": 2268400,
+				"to": 2274340
+			},
+			"text": " Because that is why, if we are able to control our tongue, we can keep our whole body in check and we're perfect."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,340",
+				"to": "00:38:01,060"
+			},
+			"offsets": {
+				"from": 2274340,
+				"to": 2281060
+			},
+			"text": " Because if you can be able to control your tongue, that means that you have thought about what you're going to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:01,060",
+				"to": "00:38:05,140"
+			},
+			"offsets": {
+				"from": 2281060,
+				"to": 2285140
+			},
+			"text": " And you have allowed God to come out of your heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,140",
+				"to": "00:38:10,680"
+			},
+			"offsets": {
+				"from": 2285140,
+				"to": 2290680
+			},
+			"text": " James reminds us something that is very important."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,680",
+				"to": "00:38:15,020"
+			},
+			"offsets": {
+				"from": 2290680,
+				"to": 2295020
+			},
+			"text": " So while we're doing this practice, while we're stopping our thoughts and thinking positively of someone,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:15,360",
+				"to": "00:38:19,400"
+			},
+			"offsets": {
+				"from": 2295360,
+				"to": 2299400
+			},
+			"text": " James says, be quick to listen, slow to speak, and slow to become angry."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,400",
+				"to": "00:38:20,620"
+			},
+			"offsets": {
+				"from": 2299400,
+				"to": 2300620
+			},
+			"text": " He's giving us a hint."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:20,620",
+				"to": "00:38:22,800"
+			},
+			"offsets": {
+				"from": 2300620,
+				"to": 2302800
+			},
+			"text": " If you're not there yet, fake it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,800",
+				"to": "00:38:25,960"
+			},
+			"offsets": {
+				"from": 2302800,
+				"to": 2305960
+			},
+			"text": " Be quick to listen."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,960",
+				"to": "00:38:27,540"
+			},
+			"offsets": {
+				"from": 2305960,
+				"to": 2307540
+			},
+			"text": " Slow down."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:27,540",
+				"to": "00:38:36,160"
+			},
+			"offsets": {
+				"from": 2307540,
+				"to": 2316160
+			},
+			"text": " And then you need to be slow to respond and hold back the anger that you have."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:36,160",
+				"to": "00:38:44,260"
+			},
+			"offsets": {
+				"from": 2316160,
+				"to": 2324260
+			},
+			"text": " Imagine the freedom that would come if you don't regret anything that you have said."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,860",
+				"to": "00:38:50,120"
+			},
+			"offsets": {
+				"from": 2324860,
+				"to": 2330120
+			},
+			"text": " Can you imagine the peace if you lay your head down at night and you get to the point where you're like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:50,120",
+				"to": "00:38:51,660"
+			},
+			"offsets": {
+				"from": 2330120,
+				"to": 2331660
+			},
+			"text": " I don't regret anything I said."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,660",
+				"to": "00:38:54,420"
+			},
+			"offsets": {
+				"from": 2331660,
+				"to": 2334420
+			},
+			"text": " If somebody repeats what I said, that's okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:54,420",
+				"to": "00:38:56,520"
+			},
+			"offsets": {
+				"from": 2334420,
+				"to": 2336520
+			},
+			"text": " I don't have anything that I would take back."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,520",
+				"to": "00:38:59,600"
+			},
+			"offsets": {
+				"from": 2336520,
+				"to": 2339600
+			},
+			"text": " Solomon, at the very end, he comes to this conclusion."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:59,600",
+				"to": "00:39:00,600"
+			},
+			"offsets": {
+				"from": 2339600,
+				"to": 2340600
+			},
+			"text": " He says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:01,120",
+				"to": "00:39:23,200"
+			},
+			"offsets": {
+				"from": 2341120,
+				"to": 2363200
+			},
+			"text": " See, the reality is, is if we miss this and we're constantly trying to make our own justice,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:23,760",
+				"to": "00:39:27,600"
+			},
+			"offsets": {
+				"from": 2363760,
+				"to": 2367600
+			},
+			"text": " then we miss the life that God has for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:27,600",
+				"to": "00:39:32,740"
+			},
+			"offsets": {
+				"from": 2367600,
+				"to": 2372740
+			},
+			"text": " If we wait to understand it, then we're going to miss the joys and the gift of peace."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:32,740",
+				"to": "00:39:38,860"
+			},
+			"offsets": {
+				"from": 2372740,
+				"to": 2378860
+			},
+			"text": " I'm not, I can't be the only one that thinks that peace is really what I want in this life."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,860",
+				"to": "00:39:46,220"
+			},
+			"offsets": {
+				"from": 2378860,
+				"to": 2386220
+			},
+			"text": " That no matter what hits me, I can turn around and handle it in peace because I know in my heart of hearts that God's got it."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,320",
+				"to": "00:39:51,740"
+			},
+			"offsets": {
+				"from": 2386320,
+				"to": 2391740
+			},
+			"text": " He is the eyes that I am viewing others and he is the eyes that I view myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,740",
+				"to": "00:39:54,180"
+			},
+			"offsets": {
+				"from": 2391740,
+				"to": 2394180
+			},
+			"text": " So that's my prayer for us this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:54,180",
+				"to": "00:40:05,580"
+			},
+			"offsets": {
+				"from": 2394180,
+				"to": 2405580
+			},
+			"text": " As we work together to control what we say, I want us to have that freedom of knowing our words came from God, not from our own desires."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:06,580",
+				"to": "00:40:07,380"
+			},
+			"offsets": {
+				"from": 2406580,
+				"to": 2407380
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,380",
+				"to": "00:40:18,540"
+			},
+			"offsets": {
+				"from": 2407380,
+				"to": 2418540
+			},
+			"text": " Dear God, I thank you so much for these words, for reminding us that you are the one who provides the justice that we so deserve because we won't do it right."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:18,540",
+				"to": "00:40:19,640"
+			},
+			"offsets": {
+				"from": 2418540,
+				"to": 2419640
+			},
+			"text": " We can't."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:19,640",
+				"to": "00:40:26,460"
+			},
+			"offsets": {
+				"from": 2419640,
+				"to": 2426460
+			},
+			"text": " We're selfish and we have our own selfish desires, but you have everything in your hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,460",
+				"to": "00:40:31,000"
+			},
+			"offsets": {
+				"from": 2426460,
+				"to": 2431000
+			},
+			"text": " Thank you for this reminder, God, and I pray that you would come out of our hearts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:31,000",
+				"to": "00:40:42,440"
+			},
+			"offsets": {
+				"from": 2431000,
+				"to": 2442440
+			},
+			"text": " that you would allow us to view others the way that you view them so that we can keep our hearts and minds focused on you and have no regrets about the words that we say."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,440",
+				"to": "00:40:43,760"
+			},
+			"offsets": {
+				"from": 2442440,
+				"to": 2443760
+			},
+			"text": " In Jesus' name I pray."
+		}
+	]
+}

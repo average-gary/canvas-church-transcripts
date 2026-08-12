@@ -1,0 +1,4718 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:15,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 15060
+			},
+			"text": " Well, good morning again, sir. It's good to see you guys this morning. Excited to be here"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,060",
+				"to": "00:00:19,140"
+			},
+			"offsets": {
+				"from": 15060,
+				"to": 19140
+			},
+			"text": " the week after Easter. What an awesome time to celebrate the resurrection with friends"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,140",
+				"to": "00:00:25,020"
+			},
+			"offsets": {
+				"from": 19140,
+				"to": 25020
+			},
+			"text": " and family. I love Easter, one of my favorite holidays of the year. But it feels honestly"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,020",
+				"to": "00:00:29,460"
+			},
+			"offsets": {
+				"from": 25020,
+				"to": 29460
+			},
+			"text": " pretty normal, if I'm being honest, because we love to celebrate the resurrection at Canvas"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,460",
+				"to": "00:00:33,800"
+			},
+			"offsets": {
+				"from": 29460,
+				"to": 33800
+			},
+			"text": " every Sunday. Historically, that's why the church meets on Sunday mornings, because Sunday"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,800",
+				"to": "00:00:40,400"
+			},
+			"offsets": {
+				"from": 33800,
+				"to": 40400
+			},
+			"text": " is about remembering that the grave is empty, that we have a hope beyond death and the grave"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,400",
+				"to": "00:00:47,140"
+			},
+			"offsets": {
+				"from": 40400,
+				"to": 47140
+			},
+			"text": " and sin and sadness and sorrow. And so, super thankful just to be back this morning. And"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,140",
+				"to": "00:00:54,680"
+			},
+			"offsets": {
+				"from": 47140,
+				"to": 54680
+			},
+			"text": " as we hop back into our series in the book of James, what a great apologetic, again, for"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,680",
+				"to": "00:01:01,320"
+			},
+			"offsets": {
+				"from": 54680,
+				"to": 61320
+			},
+			"text": " the resurrection. But the half-brother of Jesus is willing to write a letter. He saw the"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,320",
+				"to": "00:01:05,980"
+			},
+			"offsets": {
+				"from": 61320,
+				"to": 65980
+			},
+			"text": " life and ministry of his brother. He saw the death of his brother. He saw the resurrection"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,980",
+				"to": "00:01:12,520"
+			},
+			"offsets": {
+				"from": 65980,
+				"to": 72520
+			},
+			"text": " of his brother and was willing to be persecuted for the sake of holding tightly to that truth."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,520",
+				"to": "00:01:19,240"
+			},
+			"offsets": {
+				"from": 72520,
+				"to": 79240
+			},
+			"text": " And so, I'm excited to hop back into the book of James this morning. I'm also more excited"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,240",
+				"to": "00:01:23,140"
+			},
+			"offsets": {
+				"from": 79240,
+				"to": 83140
+			},
+			"text": " than normal, if I'm being honest, because this is the last time I'm going to have to preach two"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,140",
+				"to": "00:01:29,880"
+			},
+			"offsets": {
+				"from": 83140,
+				"to": 89880
+			},
+			"text": " services in a row for a while. So, that feels good, too. Not that I don't, you know, I've never"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,880",
+				"to": "00:01:34,020"
+			},
+			"offsets": {
+				"from": 89880,
+				"to": 94020
+			},
+			"text": " told you guys this, but I always tell second service they're my favorite. So, now I don't have to pick"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,020",
+				"to": "00:01:41,380"
+			},
+			"offsets": {
+				"from": 94020,
+				"to": 101380
+			},
+			"text": " favorites. It's going to be great. Whoa. Anyway. So, and you guys are hearing it for the first time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,380",
+				"to": "00:01:44,900"
+			},
+			"offsets": {
+				"from": 101380,
+				"to": 104900
+			},
+			"text": " too, because I always say that when we're not recording, so nobody knows that I say it. But now,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,100",
+				"to": "00:01:50,720"
+			},
+			"offsets": {
+				"from": 105100,
+				"to": 110720
+			},
+			"text": " we're out. All right. So, the book of James, we're going to be in chapter four this morning. And just"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,720",
+				"to": "00:01:57,580"
+			},
+			"offsets": {
+				"from": 110720,
+				"to": 117580
+			},
+			"text": " to quickly review, remember that the book of James is concerned with whether or not our behaviors line"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,580",
+				"to": "00:02:02,460"
+			},
+			"offsets": {
+				"from": 117580,
+				"to": 122460
+			},
+			"text": " up with what we say is true in our hearts. That James is not going to let us just claim to have"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,460",
+				"to": "00:02:08,520"
+			},
+			"offsets": {
+				"from": 122460,
+				"to": 128520
+			},
+			"text": " faith. He's going to ask us to demonstrate our faith by our behaviors. And I came across a quote this"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,520",
+				"to": "00:02:13,660"
+			},
+			"offsets": {
+				"from": 128520,
+				"to": 133660
+			},
+			"text": " week from a pastor, and I wish I would have seen it earlier in our series, because I'm just going to"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,660",
+				"to": "00:02:17,400"
+			},
+			"offsets": {
+				"from": 133660,
+				"to": 137400
+			},
+			"text": " steal it. And we're going to use it for the rest of the series as we review the book of James."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,400",
+				"to": "00:02:24,640"
+			},
+			"offsets": {
+				"from": 137400,
+				"to": 144640
+			},
+			"text": " Katie Ellis says that the book of James is asking this question. Simple question. Do we possess"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,640",
+				"to": "00:02:31,580"
+			},
+			"offsets": {
+				"from": 144640,
+				"to": 151580
+			},
+			"text": " what we confess? That's the overarching theme of the book of James. Do we possess? Does our behavior"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,580",
+				"to": "00:02:39,480"
+			},
+			"offsets": {
+				"from": 151580,
+				"to": 159480
+			},
+			"text": " line up with what we say is true in our hearts? And two weeks ago, Corey started chapter four in James."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,420",
+				"to": "00:02:44,740"
+			},
+			"offsets": {
+				"from": 160420,
+				"to": 164740
+			},
+			"text": " And ultimately, the question that James was asking us in chapter four is, where does our"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,740",
+				"to": "00:02:52,840"
+			},
+			"offsets": {
+				"from": 164740,
+				"to": 172840
+			},
+			"text": " allegiance lie? Are we closer to the ideas and the culture of the world, or are we closer to our"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,840",
+				"to": "00:02:59,740"
+			},
+			"offsets": {
+				"from": 172840,
+				"to": 179740
+			},
+			"text": " relationship with God? Is our allegiance to our culture, or is our allegiance to King Jesus?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,740",
+				"to": "00:03:06,340"
+			},
+			"offsets": {
+				"from": 179740,
+				"to": 186340
+			},
+			"text": " And the ending exhortation of that passage is in James chapter four, verse 10, where James says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,340",
+				"to": "00:03:15,020"
+			},
+			"offsets": {
+				"from": 186340,
+				"to": 195020
+			},
+			"text": " humble yourselves before the Lord, and he will lift you up in honor. That's kind of where we were before"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,020",
+				"to": "00:03:23,640"
+			},
+			"offsets": {
+				"from": 195020,
+				"to": 203640
+			},
+			"text": " Easter Sunday in James. Humble yourselves before the Lord. And just like James has done regularly"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,640",
+				"to": "00:03:29,300"
+			},
+			"offsets": {
+				"from": 203640,
+				"to": 209300
+			},
+			"text": " throughout this book, he's going to do this awesome thing where just in case you're tempted to believe"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,300",
+				"to": "00:03:32,500"
+			},
+			"offsets": {
+				"from": 209300,
+				"to": 212500
+			},
+			"text": " that you're good at that, like just in case you'd hear that and you're like, you know what,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,500",
+				"to": "00:03:38,560"
+			},
+			"offsets": {
+				"from": 212500,
+				"to": 218560
+			},
+			"text": " I do humble myself before the Lord. I'm pretty good at being humble before the Lord. James is going"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,560",
+				"to": "00:03:42,980"
+			},
+			"offsets": {
+				"from": 218560,
+				"to": 222980
+			},
+			"text": " to give us two paragraphs of behaviors, and he's going to prove to us that we're actually not near as"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,980",
+				"to": "00:03:47,780"
+			},
+			"offsets": {
+				"from": 222980,
+				"to": 227780
+			},
+			"text": " good at it as we think we are. He's going to say, if you think you're humbling yourself before the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,780",
+				"to": "00:03:53,060"
+			},
+			"offsets": {
+				"from": 227780,
+				"to": 233060
+			},
+			"text": " Lord, consider these two behaviors. And he's just got this real pastoral heart for the people he's"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,060",
+				"to": "00:03:59,940"
+			},
+			"offsets": {
+				"from": 233060,
+				"to": 239940
+			},
+			"text": " writing to. He's writing to scattered believers from Jerusalem who he was the pastor of. And he's calling"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,940",
+				"to": "00:04:05,040"
+			},
+			"offsets": {
+				"from": 239940,
+				"to": 245040
+			},
+			"text": " them out on behaviors that he sees in their life, and he sees in his own life. And he's saying, if we say"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,040",
+				"to": "00:04:10,180"
+			},
+			"offsets": {
+				"from": 245040,
+				"to": 250180
+			},
+			"text": " we're going to humble ourselves before the Lord, we should pay attention to our behaviors. Are we actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,180",
+				"to": "00:04:15,000"
+			},
+			"offsets": {
+				"from": 250180,
+				"to": 255000
+			},
+			"text": " humble in the way that we treat people and in the way that we plan our lives? That's kind of the direction"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,000",
+				"to": "00:04:22,800"
+			},
+			"offsets": {
+				"from": 255000,
+				"to": 262800
+			},
+			"text": " we're going. But let me pray first, and then we'll get to the specifics. Father, we are so grateful"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,800",
+				"to": "00:04:28,420"
+			},
+			"offsets": {
+				"from": 262800,
+				"to": 268420
+			},
+			"text": " grateful for yet another opportunity to open up your word. We trust that your Holy Spirit is present"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,420",
+				"to": "00:04:34,360"
+			},
+			"offsets": {
+				"from": 268420,
+				"to": 274360
+			},
+			"text": " and moving in this place this morning. We do not need to hear a monologue from me. We need to hear"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,360",
+				"to": "00:04:42,840"
+			},
+			"offsets": {
+				"from": 274360,
+				"to": 282840
+			},
+			"text": " the living word breathed out by the Holy Spirit into our individual lives. I pray that each person in"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:42,840",
+				"to": "00:04:48,960"
+			},
+			"offsets": {
+				"from": 282840,
+				"to": 288960
+			},
+			"text": " this room, including myself, would hear from you this morning. Can you convict us, encourage us, and draw us"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,960",
+				"to": "00:04:55,520"
+			},
+			"offsets": {
+				"from": 288960,
+				"to": 295520
+			},
+			"text": " into right relationship with yourself? That we would participate in the life of flourishing that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,520",
+				"to": "00:05:03,120"
+			},
+			"offsets": {
+				"from": 295520,
+				"to": 303120
+			},
+			"text": " called us to, that comes out of submission to the commands of Jesus. Let us be more like you this"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,120",
+				"to": "00:05:10,480"
+			},
+			"offsets": {
+				"from": 303120,
+				"to": 310480
+			},
+			"text": " week as we go out of this place. In Jesus' name I pray. Amen. If you want to follow along, we are going to be at the,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,580",
+				"to": "00:05:14,960"
+			},
+			"offsets": {
+				"from": 310580,
+				"to": 314960
+			},
+			"text": " we're going to finish up James chapter four today. We're going to be done the book in a couple of weeks,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,960",
+				"to": "00:05:19,820"
+			},
+			"offsets": {
+				"from": 314960,
+				"to": 319820
+			},
+			"text": " which for those of you that don't like being in long series, you might be excited about that. But it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,820",
+				"to": "00:05:23,860"
+			},
+			"offsets": {
+				"from": 319820,
+				"to": 323860
+			},
+			"text": " been a, it's been a great time. So we're going to finish up chapter four this morning. As you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,860",
+				"to": "00:05:30,400"
+			},
+			"offsets": {
+				"from": 323860,
+				"to": 330400
+			},
+			"text": " turning to James chapter four, I'd love for you to imagine with me that you are in a pitch black"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,400",
+				"to": "00:05:40,340"
+			},
+			"offsets": {
+				"from": 330400,
+				"to": 340340
+			},
+			"text": " garden at night. No light pollution around. The sky is filled with stars everywhere. And we happen to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,340",
+				"to": "00:05:49,260"
+			},
+			"offsets": {
+				"from": 340340,
+				"to": 349260
+			},
+			"text": " in a garden in the early 1600s in Northern Italy. And a man with one of the coolest names ever is going"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,260",
+				"to": "00:05:57,160"
+			},
+			"offsets": {
+				"from": 349260,
+				"to": 357160
+			},
+			"text": " to motion over to you to take a look through his newly crafted telescope. This is a hot debated topic"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,160",
+				"to": "00:06:01,660"
+			},
+			"offsets": {
+				"from": 357160,
+				"to": 361660
+			},
+			"text": " between my wife and I, because I think the name Galileo Galilei is one of the coolest names of"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,660",
+				"to": "00:06:08,520"
+			},
+			"offsets": {
+				"from": 361660,
+				"to": 368520
+			},
+			"text": " all time. And she thinks his mom's just like wasn't creative at all. But Galileo Galilei is going"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,520",
+				"to": "00:06:14,080"
+			},
+			"offsets": {
+				"from": 368520,
+				"to": 374080
+			},
+			"text": " to motion you over to look through his telescope. And he is about to make a discovery that is going to"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,080",
+				"to": "00:06:21,160"
+			},
+			"offsets": {
+				"from": 374080,
+				"to": 381160
+			},
+			"text": " change the way that human beings think about the universe. He's going to observe moons orbiting around"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,160",
+				"to": "00:06:29,400"
+			},
+			"offsets": {
+				"from": 381160,
+				"to": 389400
+			},
+			"text": " Jupiter. And he is going to solidify really the minority theory that the earth is in fact not the center of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,400",
+				"to": "00:06:35,100"
+			},
+			"offsets": {
+				"from": 389400,
+				"to": 395100
+			},
+			"text": " universe. See, up until this point, there was only a few people that would make that claim and they were"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,100",
+				"to": "00:06:41,260"
+			},
+			"offsets": {
+				"from": 395100,
+				"to": 401260
+			},
+			"text": " laughed at, mocked. But now they had proof that the earth was not the center of the universe. And after publishing"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,260",
+				"to": "00:06:50,840"
+			},
+			"offsets": {
+				"from": 401260,
+				"to": 410840
+			},
+			"text": " his findings, he's going to spend the rest of his life in house arrest by the Catholic Church. Because the"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,840",
+				"to": "00:06:57,260"
+			},
+			"offsets": {
+				"from": 410840,
+				"to": 417260
+			},
+			"text": " geocentric model of the universe had become such a critical part to the theology of the day. The church"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,260",
+				"to": "00:07:03,960"
+			},
+			"offsets": {
+				"from": 417260,
+				"to": 423960
+			},
+			"text": " in Northern Italy in the 1600s felt like it was heresy to believe anything other than the fact that the earth"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,960",
+				"to": "00:07:11,720"
+			},
+			"offsets": {
+				"from": 423960,
+				"to": 431720
+			},
+			"text": " was indeed the center of the universe. The reason I bring this up this morning as we are getting ready"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,720",
+				"to": "00:07:17,320"
+			},
+			"offsets": {
+				"from": 431720,
+				"to": 437320
+			},
+			"text": " to walk through James chapter 4 is because I think if we're being honest, this isn't just a problem that"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,320",
+				"to": "00:07:23,820"
+			},
+			"offsets": {
+				"from": 437320,
+				"to": 443820
+			},
+			"text": " the church, the Italy church in the 1600s had, but it's a problem that individual American believers have"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,820",
+				"to": "00:07:32,020"
+			},
+			"offsets": {
+				"from": 443820,
+				"to": 452020
+			},
+			"text": " in the 2020s. We wouldn't verbalize it like this, but so often we live our lives as if we are the center"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,020",
+				"to": "00:07:36,660"
+			},
+			"offsets": {
+				"from": 452020,
+				"to": 456660
+			},
+			"text": " of the universe. The way that we make our decisions, the way that we spend our money, the way that we plan"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,660",
+				"to": "00:07:42,320"
+			},
+			"offsets": {
+				"from": 456660,
+				"to": 462320
+			},
+			"text": " our lives, the way that we treat other people, we live like we are the center of the universe."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,320",
+				"to": "00:07:47,960"
+			},
+			"offsets": {
+				"from": 462320,
+				"to": 467960
+			},
+			"text": " To put it another way, rather than, like James said in verse 10, humbling ourselves before the Lord,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,960",
+				"to": "00:07:56,740"
+			},
+			"offsets": {
+				"from": 467960,
+				"to": 476740
+			},
+			"text": " we often have a God complex. Whether we realize it or not, we orient our lives in such a way that we think"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,740",
+				"to": "00:08:05,000"
+			},
+			"offsets": {
+				"from": 476740,
+				"to": 485000
+			},
+			"text": " we're in control of every area of our lives. God complex is the slang term for the mental disorder"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,000",
+				"to": "00:08:11,300"
+			},
+			"offsets": {
+				"from": 485000,
+				"to": 491300
+			},
+			"text": " narcissism. And psychologists define narcissism this way. They call it a rare mental disorder"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,300",
+				"to": "00:08:18,580"
+			},
+			"offsets": {
+				"from": 491300,
+				"to": 498580
+			},
+			"text": " characterized by an inflated sense of self-importance, entitlement, and a deep need for admiration,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,040",
+				"to": "00:08:28,720"
+			},
+			"offsets": {
+				"from": 499040,
+				"to": 508720
+			},
+			"text": " as well as an alarming lack of empathy towards other people, as well as an alarming lack of empathy"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,720",
+				"to": "00:08:35,360"
+			},
+			"offsets": {
+				"from": 508720,
+				"to": 515360
+			},
+			"text": " and call this a common, not a rare mental order, but a common spiritual disorder characterized by an"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,360",
+				"to": "00:08:40,600"
+			},
+			"offsets": {
+				"from": 515360,
+				"to": 520600
+			},
+			"text": " inflated sense of self-importance, entitlement, and a deep need for admiration, as well as an alarming"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,600",
+				"to": "00:08:47,200"
+			},
+			"offsets": {
+				"from": 520600,
+				"to": 527200
+			},
+			"text": " lack of empathy towards other people. Now, I'm not saying that narcissism does not exist, but what I am saying is"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,200",
+				"to": "00:08:54,120"
+			},
+			"offsets": {
+				"from": 527200,
+				"to": 534120
+			},
+			"text": " Americans in 2022 often find themselves in a situation where they are living as if they are the center"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,120",
+				"to": "00:08:59,620"
+			},
+			"offsets": {
+				"from": 534120,
+				"to": 539620
+			},
+			"text": " of the universe. And James is going to move directly from his exhortation to humble yourselves"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,620",
+				"to": "00:09:07,100"
+			},
+			"offsets": {
+				"from": 539620,
+				"to": 547100
+			},
+			"text": " before the Lord. And he's going to address two very specific behaviors. He's going to say you're living,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,100",
+				"to": "00:09:11,340"
+			},
+			"offsets": {
+				"from": 547100,
+				"to": 551340
+			},
+			"text": " you're saying that you're humbling yourself before the Lord, but you're living as if you are the center"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,340",
+				"to": "00:09:18,100"
+			},
+			"offsets": {
+				"from": 551340,
+				"to": 558100
+			},
+			"text": " of your own universe. The summary point for my entire message is this. The way that we treat one another"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,100",
+				"to": "00:09:23,180"
+			},
+			"offsets": {
+				"from": 558100,
+				"to": 563180
+			},
+			"text": " and the way that we plan our lives often demonstrates that we have a God complex,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,180",
+				"to": "00:09:29,280"
+			},
+			"offsets": {
+				"from": 563180,
+				"to": 569280
+			},
+			"text": " often demonstrates that we feel like we are the center of the universe. James is going to look us in the eye"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,280",
+				"to": "00:09:33,740"
+			},
+			"offsets": {
+				"from": 569280,
+				"to": 573740
+			},
+			"text": " and say, think about the way that you treat one another. Think about how you speak about one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,860",
+				"to": "00:09:41,780"
+			},
+			"offsets": {
+				"from": 575860,
+				"to": 581780
+			},
+			"text": " Think about how you plan your lives. Is it possible that maybe you're just saying out loud that you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,780",
+				"to": "00:09:48,840"
+			},
+			"offsets": {
+				"from": 581780,
+				"to": 588840
+			},
+			"text": " humbling yourself before the Lord, but in reality, you're not. So James chapter four, verses 11 and 12,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,840",
+				"to": "00:09:56,220"
+			},
+			"offsets": {
+				"from": 588840,
+				"to": 596220
+			},
+			"text": " he says, don't speak evil against each other, dear brothers and sisters. If you criticize and judge each"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:56,220",
+				"to": "00:10:02,360"
+			},
+			"offsets": {
+				"from": 596220,
+				"to": 602360
+			},
+			"text": " other, then you are criticizing and judging God's law. I love this. He says, but your job"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,360",
+				"to": "00:10:09,480"
+			},
+			"offsets": {
+				"from": 602360,
+				"to": 609480
+			},
+			"text": " is to obey the law. Like your job is to obey the law. You're not God. You don't have to create the laws,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,480",
+				"to": "00:10:15,900"
+			},
+			"offsets": {
+				"from": 609480,
+				"to": 615900
+			},
+			"text": " nor do you have to judge people by the laws. Your job is to obey the law, not to judge whether it applies to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,140",
+				"to": "00:10:25,680"
+			},
+			"offsets": {
+				"from": 616140,
+				"to": 625680
+			},
+			"text": " God alone, God alone, God alone who gave the law is the judge. He alone has the power to save or destroy. So what"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,680",
+				"to": "00:10:32,780"
+			},
+			"offsets": {
+				"from": 625680,
+				"to": 632780
+			},
+			"text": " right do you have to judge your neighbor? James is going to say, hey, you think you're humbling"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,780",
+				"to": "00:10:37,660"
+			},
+			"offsets": {
+				"from": 632780,
+				"to": 637660
+			},
+			"text": " yourself before the Lord, but you're putting yourself in the seat of judge over your neighbors. You are"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,660",
+				"to": "00:10:43,780"
+			},
+			"offsets": {
+				"from": 637660,
+				"to": 643780
+			},
+			"text": " trying to decide who is guilty and who is not. We demonstrate that we have a God complex by the way"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,780",
+				"to": "00:10:49,900"
+			},
+			"offsets": {
+				"from": 643780,
+				"to": 649900
+			},
+			"text": " that we treat one another. And James starts with this very, very clear imperative statement. In the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,900",
+				"to": "00:10:56,920"
+			},
+			"offsets": {
+				"from": 649900,
+				"to": 656920
+			},
+			"text": " Greek, the first word of the sentence is not. Like he's, he's trying to hammer home a very clear point"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:56,920",
+				"to": "00:11:08,920"
+			},
+			"offsets": {
+				"from": 656920,
+				"to": 668920
+			},
+			"text": " that Christians should never, ever, ever, ever, ever, ever speak evil against one another. That's,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:08,920",
+				"to": "00:11:14,820"
+			},
+			"offsets": {
+				"from": 668920,
+				"to": 674820
+			},
+			"text": " that's James's first statement right out of the gate. Never, ever, ever, ever, ever speak evil"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,820",
+				"to": "00:11:18,940"
+			},
+			"offsets": {
+				"from": 674820,
+				"to": 678940
+			},
+			"text": " against your brothers and sisters. And like we've said throughout the book of James, the book of James"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,940",
+				"to": "00:11:24,620"
+			},
+			"offsets": {
+				"from": 678940,
+				"to": 684620
+			},
+			"text": " is sometimes hard to preach because it's just so simple. He just lays it out. He says, don't do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,620",
+				"to": "00:11:32,100"
+			},
+			"offsets": {
+				"from": 684620,
+				"to": 692100
+			},
+			"text": " Like never do it. But then he gets to the heart of it. He doesn't just tell us not to do it. He tells"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,100",
+				"to": "00:11:37,280"
+			},
+			"offsets": {
+				"from": 692100,
+				"to": 697280
+			},
+			"text": " us why we do it. He says, don't speak evil against one another. And the reason that you're doing it is"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,280",
+				"to": "00:11:42,420"
+			},
+			"offsets": {
+				"from": 697280,
+				"to": 702420
+			},
+			"text": " because you're putting yourself in the position of God over them. You're making yourself more"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,420",
+				"to": "00:11:47,600"
+			},
+			"offsets": {
+				"from": 702420,
+				"to": 707600
+			},
+			"text": " important than you actually are. Your job is not to judge people by the law or to create laws for"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:47,600",
+				"to": "00:11:54,440"
+			},
+			"offsets": {
+				"from": 707600,
+				"to": 714440
+			},
+			"text": " people to follow. Your job is simply to obey the law. Let God be God. And you are freed up to just"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,440",
+				"to": "00:12:01,920"
+			},
+			"offsets": {
+				"from": 714440,
+				"to": 721920
+			},
+			"text": " obey the law. We think we're God. We think we get to create little rules or we at least get to judge"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,920",
+				"to": "00:12:08,380"
+			},
+			"offsets": {
+				"from": 721920,
+				"to": 728380
+			},
+			"text": " people based on the rules. So just to make sure we're all on the same page, let's define a few"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,380",
+				"to": "00:12:17,740"
+			},
+			"offsets": {
+				"from": 728380,
+				"to": 737740
+			},
+			"text": " terms. Number one, never. Just don't do it. Never do it. And then what about speak evil? Well, a few"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,740",
+				"to": "00:12:23,460"
+			},
+			"offsets": {
+				"from": 737740,
+				"to": 743460
+			},
+			"text": " years ago, I read a really incredible book about gossip. And I love how the pastor defined gossip. He"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,460",
+				"to": "00:12:30,600"
+			},
+			"offsets": {
+				"from": 743460,
+				"to": 750600
+			},
+			"text": " defined gossip as anytime we share bad news behind someone's back out of a bad heart. I think we can"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,600",
+				"to": "00:12:36,100"
+			},
+			"offsets": {
+				"from": 750600,
+				"to": 756100
+			},
+			"text": " steal that definition and use it for this term, speak evil, that James is saying. And he's saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,100",
+				"to": "00:12:43,800"
+			},
+			"offsets": {
+				"from": 756100,
+				"to": 763800
+			},
+			"text": " anytime we speak bad news out of a bad heart. James is saying, don't ever share bad news out of a bad"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,800",
+				"to": "00:12:52,880"
+			},
+			"offsets": {
+				"from": 763800,
+				"to": 772880
+			},
+			"text": " heart. Whether you're doing it in front of someone or behind their backs, do not do it. So if the goal,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,880",
+				"to": "00:13:01,440"
+			},
+			"offsets": {
+				"from": 772880,
+				"to": 781440
+			},
+			"text": " if the end goal is to never, ever, ever, ever, ever, ever, ever speak evil against our brothers or"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,440",
+				"to": "00:13:08,800"
+			},
+			"offsets": {
+				"from": 781440,
+				"to": 788800
+			},
+			"text": " sisters, and the root cause of that is a judgmental heart, then what's the solution? What do we do in"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:08,800",
+				"to": "00:13:17,360"
+			},
+			"offsets": {
+				"from": 788800,
+				"to": 797360
+			},
+			"text": " return? Well, I think the thing that we're called to do, the important area of our lives, is to judge"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:17,360",
+				"to": "00:13:23,380"
+			},
+			"offsets": {
+				"from": 797360,
+				"to": 803380
+			},
+			"text": " ourselves honestly according to God's law. Like it starts with us focusing on where we're at in our"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,380",
+				"to": "00:13:29,580"
+			},
+			"offsets": {
+				"from": 803380,
+				"to": 809580
+			},
+			"text": " relationship to God. And earlier in the book of James, James made it really clear what the law is"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,580",
+				"to": "00:13:36,080"
+			},
+			"offsets": {
+				"from": 809580,
+				"to": 816080
+			},
+			"text": " that he's discussing. He defined for us the royal law. The royal law is the law that trumps every other"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,080",
+				"to": "00:13:41,460"
+			},
+			"offsets": {
+				"from": 816080,
+				"to": 821460
+			},
+			"text": " law. When Jesus was asked, what's the most important law? He said, to love the Lord your God, love your"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:41,460",
+				"to": "00:13:46,220"
+			},
+			"offsets": {
+				"from": 821460,
+				"to": 826220
+			},
+			"text": " heart, soul, mind, and strength, and to love your neighbor as yourself. If you do not, if you follow"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,220",
+				"to": "00:13:53,740"
+			},
+			"offsets": {
+				"from": 826220,
+				"to": 833740
+			},
+			"text": " those laws, you will not break any of the other laws. And so if speaking evil comes out of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,740",
+				"to": "00:13:59,220"
+			},
+			"offsets": {
+				"from": 833740,
+				"to": 839220
+			},
+			"text": " judgmental heart, if speaking evil comes out of us, us trying to be God over other people's lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,220",
+				"to": "00:14:04,620"
+			},
+			"offsets": {
+				"from": 839220,
+				"to": 844620
+			},
+			"text": " then the best thing that we can do is just to honestly evaluate where we're at when it comes to"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:04,620",
+				"to": "00:14:12,660"
+			},
+			"offsets": {
+				"from": 844620,
+				"to": 852660
+			},
+			"text": " that command. How good are we at loving the Lord our God of our heart, soul, mind, and strength? How good"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:12,660",
+				"to": "00:14:20,760"
+			},
+			"offsets": {
+				"from": 852660,
+				"to": 860760
+			},
+			"text": " are we at loving our neighbor as ourselves? See, oftentimes speaking evil out of a judgmental heart"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,760",
+				"to": "00:14:25,980"
+			},
+			"offsets": {
+				"from": 860760,
+				"to": 865980
+			},
+			"text": " comes out of this comparison game where we're looking at other people and seeing how they're doing at"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,980",
+				"to": "00:14:34,300"
+			},
+			"offsets": {
+				"from": 865980,
+				"to": 874300
+			},
+			"text": " obeying God's law versus how we're doing. Because we know that we fall short. Like deep down inside,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,300",
+				"to": "00:14:39,280"
+			},
+			"offsets": {
+				"from": 874300,
+				"to": 879280
+			},
+			"text": " no matter how good of a person we might think we are, when we lay our heads down at night, we're the"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,280",
+				"to": "00:14:44,140"
+			},
+			"offsets": {
+				"from": 879280,
+				"to": 884140
+			},
+			"text": " only ones that know what we're thinking, how wicked and evil our thoughts can be, how selfish and"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:44,140",
+				"to": "00:14:50,420"
+			},
+			"offsets": {
+				"from": 884140,
+				"to": 890420
+			},
+			"text": " self-motivated. We know that we fall short. And so rather than just receiving the grace and forgiveness"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,420",
+				"to": "00:14:55,840"
+			},
+			"offsets": {
+				"from": 890420,
+				"to": 895840
+			},
+			"text": " that's extended to us through Jesus's perfection on our behalf, it's easier for us to just find people"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,840",
+				"to": "00:15:01,020"
+			},
+			"offsets": {
+				"from": 895840,
+				"to": 901020
+			},
+			"text": " that aren't as good as we are, and then speak evil against them, like to our friends. Did you see"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,020",
+				"to": "00:15:07,540"
+			},
+			"offsets": {
+				"from": 901020,
+				"to": 907540
+			},
+			"text": " so-and-so? Did you hear such-and-such? Their marriage is not doing so well? And oftentimes the"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,540",
+				"to": "00:15:13,200"
+			},
+			"offsets": {
+				"from": 907540,
+				"to": 913200
+			},
+			"text": " motivation of our heart in that is our marriage isn't doing so well. And rather than dealing with"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:13,200",
+				"to": "00:15:17,140"
+			},
+			"offsets": {
+				"from": 913200,
+				"to": 917140
+			},
+			"text": " where we're at in our relationship to God, we'd rather just compare ourselves to other people and"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,140",
+				"to": "00:15:21,420"
+			},
+			"offsets": {
+				"from": 917140,
+				"to": 921420
+			},
+			"text": " to speak to people and to harden our hearts towards our brothers and sisters in Christ. And James is"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,420",
+				"to": "00:15:27,520"
+			},
+			"offsets": {
+				"from": 921420,
+				"to": 927520
+			},
+			"text": " saying, don't do that. Humble yourselves before the Lord. You worry about you and your relationship to"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,520",
+				"to": "00:15:31,360"
+			},
+			"offsets": {
+				"from": 927520,
+				"to": 931360
+			},
+			"text": " God. You worry about obeying the law. You worry about loving the Lord, your God, with all of your"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,360",
+				"to": "00:15:38,080"
+			},
+			"offsets": {
+				"from": 931360,
+				"to": 938080
+			},
+			"text": " heart, soul, mind, and strength, and loving your neighbor as yourself. Oftentimes we speak evil about"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:38,080",
+				"to": "00:15:47,500"
+			},
+			"offsets": {
+				"from": 938080,
+				"to": 947500
+			},
+			"text": " others out of our own internal inadequacy. And the best way to address our own internal inadequacy is not to"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,500",
+				"to": "00:15:54,600"
+			},
+			"offsets": {
+				"from": 947500,
+				"to": 954600
+			},
+			"text": " compare ourselves to others, but to just let the grace of God just give us the righteousness of Jesus and"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:54,600",
+				"to": "00:15:59,060"
+			},
+			"offsets": {
+				"from": 954600,
+				"to": 959060
+			},
+			"text": " realize that we are falling short, that we will fall short, that we're going to continue to fall short, but"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:59,060",
+				"to": "00:16:06,540"
+			},
+			"offsets": {
+				"from": 959060,
+				"to": 966540
+			},
+			"text": " that Jesus did it all for us. And our right standing before God isn't because of how good we are, but because"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,540",
+				"to": "00:16:11,980"
+			},
+			"offsets": {
+				"from": 966540,
+				"to": 971980
+			},
+			"text": " of what Jesus has done on our behalf. We're freed up to not be the judge of others, but just to focus on"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,980",
+				"to": "00:16:20,500"
+			},
+			"offsets": {
+				"from": 971980,
+				"to": 980500
+			},
+			"text": " obeying God's law. So now I can hear all of the Bible scholars out there in the room. I don't know if you"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:20,500",
+				"to": "00:16:25,160"
+			},
+			"offsets": {
+				"from": 980500,
+				"to": 985160
+			},
+			"text": " guys know this. There's a lot of Bible scholars at Campus Church. We might get to rap that we're like"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,160",
+				"to": "00:16:29,000"
+			},
+			"offsets": {
+				"from": 985160,
+				"to": 989000
+			},
+			"text": " the cool hip church that doesn't think deeply about things. I know you guys are out there."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:29,000",
+				"to": "00:16:35,100"
+			},
+			"offsets": {
+				"from": 989000,
+				"to": 995100
+			},
+			"text": " I see you. You might be thinking, okay, does this mean we can't ever make judgments about people's"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,100",
+				"to": "00:16:41,160"
+			},
+			"offsets": {
+				"from": 995100,
+				"to": 1001160
+			},
+			"text": " behaviors? We should never hold our brothers and sisters accountable for sin. No, that's not what"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,160",
+				"to": "00:16:49,460"
+			},
+			"offsets": {
+				"from": 1001160,
+				"to": 1009460
+			},
+			"text": " James is saying here. However, biblical accountability starts with introspection, is rooted in relationship"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,460",
+				"to": "00:16:55,380"
+			},
+			"offsets": {
+				"from": 1009460,
+				"to": 1015380
+			},
+			"text": " and executed with neighborly love. I'll say that again. Biblical accountability, it starts with"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,380",
+				"to": "00:17:02,100"
+			},
+			"offsets": {
+				"from": 1015380,
+				"to": 1022100
+			},
+			"text": " introspection. It starts with judging yourself first. It's rooted in a relationship. You're not"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:02,100",
+				"to": "00:17:07,400"
+			},
+			"offsets": {
+				"from": 1022100,
+				"to": 1027400
+			},
+			"text": " called to hold everybody accountable for their sin. You're called to hold your brothers and sisters whom God"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,400",
+				"to": "00:17:12,020"
+			},
+			"offsets": {
+				"from": 1027400,
+				"to": 1032020
+			},
+			"text": " has given you community with. You're called to hold them accountable, and then you're called to"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,020",
+				"to": "00:17:17,240"
+			},
+			"offsets": {
+				"from": 1032020,
+				"to": 1037240
+			},
+			"text": " execute it with neighborly love. Not from a position where you think you get to be God, but from a position"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,240",
+				"to": "00:17:21,100"
+			},
+			"offsets": {
+				"from": 1037240,
+				"to": 1041100
+			},
+			"text": " of humility, where you've humbled yourselves before the Lord. Let's break down that definition."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,100",
+				"to": "00:17:28,620"
+			},
+			"offsets": {
+				"from": 1041100,
+				"to": 1048620
+			},
+			"text": " Introspection, right? First, Jesus says in Matthew chapter 7, verse 5, he says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,100",
+				"to": "00:17:34,840"
+			},
+			"offsets": {
+				"from": 1049100,
+				"to": 1054840
+			},
+			"text": " get rid of the log in your own eye, and then you will see well enough to deal with the speck in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,840",
+				"to": "00:17:40,100"
+			},
+			"offsets": {
+				"from": 1054840,
+				"to": 1060100
+			},
+			"text": " friend's eye. If you're going to hold somebody accountable, it doesn't happen by speaking evil"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:40,100",
+				"to": "00:17:44,280"
+			},
+			"offsets": {
+				"from": 1060100,
+				"to": 1064280
+			},
+			"text": " against them, by getting together with friends and talking about the way in which they're failing"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,280",
+				"to": "00:17:49,200"
+			},
+			"offsets": {
+				"from": 1064280,
+				"to": 1069200
+			},
+			"text": " and pretending like you're doing it for their own good. The way that true biblical accountability"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,200",
+				"to": "00:17:54,360"
+			},
+			"offsets": {
+				"from": 1069200,
+				"to": 1074360
+			},
+			"text": " starts is first and foremost, you stand before a holy God and you are honest with him about your own"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:54,360",
+				"to": "00:17:59,280"
+			},
+			"offsets": {
+				"from": 1074360,
+				"to": 1079280
+			},
+			"text": " struggles and your own sin. You realize your failures and your faults before a holy God."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,280",
+				"to": "00:18:03,820"
+			},
+			"offsets": {
+				"from": 1079280,
+				"to": 1083820
+			},
+			"text": " And then you only do this when you're in relationship with the person."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,820",
+				"to": "00:18:10,520"
+			},
+			"offsets": {
+				"from": 1083820,
+				"to": 1090520
+			},
+			"text": " And so often, we speak evil against people because we don't have a relationship with them."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,520",
+				"to": "00:18:14,740"
+			},
+			"offsets": {
+				"from": 1090520,
+				"to": 1094740
+			},
+			"text": " We can't hold them accountable in relationship, so from afar, we throw stones."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,780",
+				"to": "00:18:21,780"
+			},
+			"offsets": {
+				"from": 1095780,
+				"to": 1101780
+			},
+			"text": " This is the area in this that I struggle with the most. It's so easy for me to look at pastors"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,780",
+				"to": "00:18:26,640"
+			},
+			"offsets": {
+				"from": 1101780,
+				"to": 1106640
+			},
+			"text": " states away or counties away who are doing things in a way that I wouldn't do things."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,640",
+				"to": "00:18:32,080"
+			},
+			"offsets": {
+				"from": 1106640,
+				"to": 1112080
+			},
+			"text": " I have no relationship with these people. It's so easy for me to be like, man, why would they do that"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:32,080",
+				"to": "00:18:37,540"
+			},
+			"offsets": {
+				"from": 1112080,
+				"to": 1117540
+			},
+			"text": " that way? Why would he say that that way? I don't have a relationship with them. I don't have context"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,540",
+				"to": "00:18:45,260"
+			},
+			"offsets": {
+				"from": 1117540,
+				"to": 1125260
+			},
+			"text": " for it. And my job is not to cast stones. My job is not to hold them accountable. If your heart is"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,260",
+				"to": "00:18:49,440"
+			},
+			"offsets": {
+				"from": 1125260,
+				"to": 1129440
+			},
+			"text": " hardened towards somebody that you don't have a relationship with enough to hold them accountable,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:49,440",
+				"to": "00:18:54,740"
+			},
+			"offsets": {
+				"from": 1129440,
+				"to": 1134740
+			},
+			"text": " then what you should do is not speak evil against them, but just pray for them and trust God to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,740",
+				"to": "00:19:00,560"
+			},
+			"offsets": {
+				"from": 1134740,
+				"to": 1140560
+			},
+			"text": " God. Like God is the judge. God gets to be God. You don't get to be God. So we do it first with"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,560",
+				"to": "00:19:06,540"
+			},
+			"offsets": {
+				"from": 1140560,
+				"to": 1146540
+			},
+			"text": " introspection, and then we do it out of relationship. And lastly, we do it the way that we would want it done"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,540",
+				"to": "00:19:12,760"
+			},
+			"offsets": {
+				"from": 1146540,
+				"to": 1152760
+			},
+			"text": " to us. Neighborly love. So what Matthew, or Jesus says in Matthew chapter 7, he says, the standard that"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,760",
+				"to": "00:19:19,600"
+			},
+			"offsets": {
+				"from": 1152760,
+				"to": 1159600
+			},
+			"text": " you use in judging is the standard in which you will be judged. Love your neighbor as yourself. If you"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,600",
+				"to": "00:19:24,740"
+			},
+			"offsets": {
+				"from": 1159600,
+				"to": 1164740
+			},
+			"text": " really feel called to go to someone to address them for a situation or a behavior that they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,740",
+				"to": "00:19:31,580"
+			},
+			"offsets": {
+				"from": 1164740,
+				"to": 1171580
+			},
+			"text": " dealing with, you do it in the way that you would want it to be done to you. In my previous church,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,580",
+				"to": "00:19:36,220"
+			},
+			"offsets": {
+				"from": 1171580,
+				"to": 1176220
+			},
+			"text": " we used to, we called this characteristic, we would always say, believe the best."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,540",
+				"to": "00:19:42,520"
+			},
+			"offsets": {
+				"from": 1176540,
+				"to": 1182520
+			},
+			"text": " Which means if somebody hurts you, somebody sins against you, like believe the best about that"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:42,520",
+				"to": "00:19:47,700"
+			},
+			"offsets": {
+				"from": 1182520,
+				"to": 1187700
+			},
+			"text": " person. Go to that person. First out of introspection and out of relationship and then in neighborly love,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,700",
+				"to": "00:19:54,500"
+			},
+			"offsets": {
+				"from": 1187700,
+				"to": 1194500
+			},
+			"text": " go to that person and don't make accusations, but ask questions of clarification. Say, hey, this is what you"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,500",
+				"to": "00:20:02,280"
+			},
+			"offsets": {
+				"from": 1194500,
+				"to": 1202280
+			},
+			"text": " said. This is how I interpreted it. Can you help me understand? This is how it made me feel. This is what your sin"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,280",
+				"to": "00:20:10,280"
+			},
+			"offsets": {
+				"from": 1202280,
+				"to": 1210280
+			},
+			"text": " has done to me. Can we work this out together? And if that's what we would want done to us, that's how we should do it to"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,280",
+				"to": "00:20:18,480"
+			},
+			"offsets": {
+				"from": 1210280,
+				"to": 1218480
+			},
+			"text": " others. So James here is moving from this command to humble ourselves before the Lord. And he's saying, if you think you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,480",
+				"to": "00:20:24,580"
+			},
+			"offsets": {
+				"from": 1218480,
+				"to": 1224580
+			},
+			"text": " humbling yourself before the Lord, pay attention to how you treat one another because how you treat one another often reveals that"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,580",
+				"to": "00:20:33,160"
+			},
+			"offsets": {
+				"from": 1224580,
+				"to": 1233160
+			},
+			"text": " you have a God complex. You're speaking evil about people with a judgmental heart. You're trying to do God's job for him."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,180",
+				"to": "00:20:41,600"
+			},
+			"offsets": {
+				"from": 1233180,
+				"to": 1241600
+			},
+			"text": " And he says, your job, I love how he just clearly puts it. Verse 11, but your job is to obey the law, not to judge"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,600",
+				"to": "00:20:51,240"
+			},
+			"offsets": {
+				"from": 1241600,
+				"to": 1251240
+			},
+			"text": " whether it applies to you. Our job is not to be God, to judge people by God's law. Our job is simply to obey"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,240",
+				"to": "00:20:58,760"
+			},
+			"offsets": {
+				"from": 1251240,
+				"to": 1258760
+			},
+			"text": " the law. I want to try and exercise with us this morning. If you're weirded out by it, that's fine. You don't have to"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,760",
+				"to": "00:21:07,160"
+			},
+			"offsets": {
+				"from": 1258760,
+				"to": 1267160
+			},
+			"text": " participate. I won't judge you. But there's this ancient practice called breath prayers. And the desert fathers would do"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,160",
+				"to": "00:21:15,400"
+			},
+			"offsets": {
+				"from": 1267160,
+				"to": 1275400
+			},
+			"text": " this. And all throughout Christianity, people do this. And the goal of it is that when we make prayers of confessing that we"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,400",
+				"to": "00:21:22,080"
+			},
+			"offsets": {
+				"from": 1275400,
+				"to": 1282080
+			},
+			"text": " trust in God, that we're humbling ourselves before the Lord, that we also try and put our bodies in the same posture. And so I"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,080",
+				"to": "00:21:28,540"
+			},
+			"offsets": {
+				"from": 1282080,
+				"to": 1288540
+			},
+			"text": " don't know about you, but when I get stressed out, I realize that I don't take deep breaths. Like I don't fill my lungs with"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,540",
+				"to": "00:21:35,440"
+			},
+			"offsets": {
+				"from": 1288540,
+				"to": 1295440
+			},
+			"text": " oxygen. My chest gets tight. I have shortness of breath. And so if we're going to truly say, if we're going to confess to"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:35,440",
+				"to": "00:21:41,740"
+			},
+			"offsets": {
+				"from": 1295440,
+				"to": 1301740
+			},
+			"text": " God, God, I want to humble myself before you. I want to trust you with everything. I don't want to be God. I want you to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,740",
+				"to": "00:21:49,380"
+			},
+			"offsets": {
+				"from": 1301740,
+				"to": 1309380
+			},
+			"text": " God. I really do want you to be God, even though sometimes it's nice to take the reins over a little bit. Then what if we"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,380",
+				"to": "00:21:58,560"
+			},
+			"offsets": {
+				"from": 1309380,
+				"to": 1318560
+			},
+			"text": " like, what if we confess this with not just our mouths, but with our body? So if you're comfortable, just take a big deep breath in"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,560",
+				"to": "00:22:12,600"
+			},
+			"offsets": {
+				"from": 1318560,
+				"to": 1332600
+			},
+			"text": " with me. Just breathe out. I'm not God. You don't have to be God. It's not your job. How much freer is your life when you don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:12,600",
+				"to": "00:22:18,640"
+			},
+			"offsets": {
+				"from": 1332600,
+				"to": 1338640
+			},
+			"text": " have to be God? But man, we have this complex where we think we're the center of the universe and we think"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:18,640",
+				"to": "00:22:25,420"
+			},
+			"offsets": {
+				"from": 1338640,
+				"to": 1345420
+			},
+			"text": " that we have to be in charge of holding everybody accountable to God's law when really our job is to love God and love"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,420",
+				"to": "00:22:34,500"
+			},
+			"offsets": {
+				"from": 1345420,
+				"to": 1354500
+			},
+			"text": " our neighbors. So just take a deep breath in. Breathe out. I'm not God. I did this yesterday. I was so anxious. This is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,500",
+				"to": "00:22:39,440"
+			},
+			"offsets": {
+				"from": 1354500,
+				"to": 1359440
+			},
+			"text": " first time I tried it by myself. I was so anxious about this stuff in my life that really shouldn't be"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,440",
+				"to": "00:22:45,480"
+			},
+			"offsets": {
+				"from": 1359440,
+				"to": 1365480
+			},
+			"text": " making me anxious. And I was just like, God, you're in charge. I put my body in the same place as my"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,480",
+				"to": "00:22:52,560"
+			},
+			"offsets": {
+				"from": 1365480,
+				"to": 1372560
+			},
+			"text": " spirit and my mouth. Like, God, I don't have to be God. That's not my job. I don't have to speak evil"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,560",
+				"to": "00:22:57,720"
+			},
+			"offsets": {
+				"from": 1372560,
+				"to": 1377720
+			},
+			"text": " against other people. I don't have to judge people according to your law. That's your job. You get to be the"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,720",
+				"to": "00:23:03,340"
+			},
+			"offsets": {
+				"from": 1377720,
+				"to": 1383340
+			},
+			"text": " judge and juror. I just get to obey. I'm freed up to obey because of what Jesus has done on my behalf."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,040",
+				"to": "00:23:11,120"
+			},
+			"offsets": {
+				"from": 1384040,
+				"to": 1391120
+			},
+			"text": " So a couple application questions for this section. Is my default posture to obey the law or to sit"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,120",
+				"to": "00:23:19,160"
+			},
+			"offsets": {
+				"from": 1391120,
+				"to": 1399160
+			},
+			"text": " back and judge others by the law? What's my default posture when it comes to God's law? Do I focus on"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,160",
+				"to": "00:23:24,820"
+			},
+			"offsets": {
+				"from": 1399160,
+				"to": 1404820
+			},
+			"text": " my own obedience or am I far too focused on other people's obedience? Am I comparing myself to God's"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,820",
+				"to": "00:23:32,720"
+			},
+			"offsets": {
+				"from": 1404820,
+				"to": 1412720
+			},
+			"text": " standard or am I comparing myself to other people? Second question, am I able to be talked to about my own"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:32,720",
+				"to": "00:23:38,940"
+			},
+			"offsets": {
+				"from": 1412720,
+				"to": 1418940
+			},
+			"text": " sense? Like if I'm not willing to listen to other people address my behavior, if I'm not willing to"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,940",
+				"to": "00:23:43,380"
+			},
+			"offsets": {
+				"from": 1418940,
+				"to": 1423380
+			},
+			"text": " be held accountable in community and in relationships, then I probably shouldn't be doing it to other"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:43,380",
+				"to": "00:23:50,060"
+			},
+			"offsets": {
+				"from": 1423380,
+				"to": 1430060
+			},
+			"text": " people. And lastly, what does the way that I speak about others reveal to me about the posture of my"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,060",
+				"to": "00:23:59,260"
+			},
+			"offsets": {
+				"from": 1430060,
+				"to": 1439260
+			},
+			"text": " heart towards God? Think about this week, how you're speaking about other people. Like really evaluate the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,260",
+				"to": "00:24:03,440"
+			},
+			"offsets": {
+				"from": 1439260,
+				"to": 1443440
+			},
+			"text": " words that come out of your mouth. The words that come out of your mouth matter because the Bible says"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:03,440",
+				"to": "00:24:09,080"
+			},
+			"offsets": {
+				"from": 1443440,
+				"to": 1449080
+			},
+			"text": " that out of the overflow of your heart, your mouth speaks. So if you're speaking evil about other people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,080",
+				"to": "00:24:12,940"
+			},
+			"offsets": {
+				"from": 1449080,
+				"to": 1452940
+			},
+			"text": " it's revealing that you have a prideful heart, not a humble heart, that you're not humble before the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,940",
+				"to": "00:24:18,940"
+			},
+			"offsets": {
+				"from": 1452940,
+				"to": 1458940
+			},
+			"text": " Lord, but you're trying to do God's job for him. Last time with me, if it's doing anything for you this"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,940",
+				"to": "00:24:26,680"
+			},
+			"offsets": {
+				"from": 1458940,
+				"to": 1466680
+			},
+			"text": " morning, deep breath in, breathe out. I'm not God. So we demonstrate that we have a God complex by the way"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,680",
+				"to": "00:24:32,660"
+			},
+			"offsets": {
+				"from": 1466680,
+				"to": 1472660
+			},
+			"text": " that we treat one another. And then James is going to go on to his next behavior. And these aren't just"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,660",
+				"to": "00:24:37,960"
+			},
+			"offsets": {
+				"from": 1472660,
+				"to": 1477960
+			},
+			"text": " like, I know it's turkey season for some of you. These aren't just like shotgun shells of just like, he's just"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,960",
+				"to": "00:24:42,960"
+			},
+			"offsets": {
+				"from": 1477960,
+				"to": 1482960
+			},
+			"text": " identifying all kinds of crazy random behaviors that don't tie together. Like he's, he's got a pastoral"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,960",
+				"to": "00:24:49,620"
+			},
+			"offsets": {
+				"from": 1482960,
+				"to": 1489620
+			},
+			"text": " heart and he knows the ways in which people in his day and age are not humbling themselves before the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,620",
+				"to": "00:24:54,780"
+			},
+			"offsets": {
+				"from": 1489620,
+				"to": 1494780
+			},
+			"text": " Lord. And it's crazy how much they apply to us today. He says, the second thing we demonstrate that we"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,780",
+				"to": "00:25:01,960"
+			},
+			"offsets": {
+				"from": 1494780,
+				"to": 1501960
+			},
+			"text": " have a God complex by the way that we plan our lives. In verse 13, he says, look here, you who say today or"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,960",
+				"to": "00:25:08,580"
+			},
+			"offsets": {
+				"from": 1501960,
+				"to": 1508580
+			},
+			"text": " tomorrow, we are going to go to a certain town. We will stay there for a year. We will do business and"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,580",
+				"to": "00:25:15,600"
+			},
+			"offsets": {
+				"from": 1508580,
+				"to": 1515600
+			},
+			"text": " we will make a profit. James says, how do you know what your life will be like tomorrow? Your life is"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,600",
+				"to": "00:25:22,400"
+			},
+			"offsets": {
+				"from": 1515600,
+				"to": 1522400
+			},
+			"text": " like the morning fog. It's here a little while and then it's gone. What you ought to do is say, if the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:22,400",
+				"to": "00:25:29,940"
+			},
+			"offsets": {
+				"from": 1522400,
+				"to": 1529940
+			},
+			"text": " Lord wants us to, we will live and do this or that. Otherwise you are boasting about your own pretentious"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,940",
+				"to": "00:25:36,560"
+			},
+			"offsets": {
+				"from": 1529940,
+				"to": 1536560
+			},
+			"text": " plans and all such boasting is evil. Remember, it is sin to know what you ought to do and"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,560",
+				"to": "00:25:43,640"
+			},
+			"offsets": {
+				"from": 1536560,
+				"to": 1543640
+			},
+			"text": " then to not do it. See how James is moving from humility, humble yourself before the Lord, to"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,640",
+				"to": "00:25:47,560"
+			},
+			"offsets": {
+				"from": 1543640,
+				"to": 1547560
+			},
+			"text": " these two behaviors in which we demonstrate that we are not humbling ourselves before the"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,560",
+				"to": "00:25:52,200"
+			},
+			"offsets": {
+				"from": 1547560,
+				"to": 1552200
+			},
+			"text": " Lord. He says, you're trying to be God by the way that you plan your lives. You're planning your"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,200",
+				"to": "00:25:58,900"
+			},
+			"offsets": {
+				"from": 1552200,
+				"to": 1558900
+			},
+			"text": " lives out of a prideful heart, thinking that you are the center of the universe. I love how he starts"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:58,900",
+				"to": "00:26:04,120"
+			},
+			"offsets": {
+				"from": 1558900,
+				"to": 1564120
+			},
+			"text": " in verse 13. He says, look here, other translations have it, has come now. It's like he's grabbing us by"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,120",
+				"to": "00:26:09,460"
+			},
+			"offsets": {
+				"from": 1564120,
+				"to": 1569460
+			},
+			"text": " the face and looking us in the eyes and saying, you don't get to plan your life like you're God. You"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,460",
+				"to": "00:26:15,940"
+			},
+			"offsets": {
+				"from": 1569460,
+				"to": 1575940
+			},
+			"text": " don't know what tomorrow holds. You have this overconfidence in what the future of your life is going to look"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,940",
+				"to": "00:26:25,220"
+			},
+			"offsets": {
+				"from": 1575940,
+				"to": 1585220
+			},
+			"text": " like, and you are not God. But we make plans like we're God. We want God to be the Lord of our salvation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,220",
+				"to": "00:26:31,580"
+			},
+			"offsets": {
+				"from": 1585220,
+				"to": 1591580
+			},
+			"text": " but not the Lord of our everyday lives. We care far more about profit and productivity than we do"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,580",
+				"to": "00:26:39,760"
+			},
+			"offsets": {
+				"from": 1591580,
+				"to": 1599760
+			},
+			"text": " about obedience. I'm going to read that again because this is a very big struggle in the American"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,760",
+				"to": "00:26:46,360"
+			},
+			"offsets": {
+				"from": 1599760,
+				"to": 1606360
+			},
+			"text": " church. It's built into the culture. It's woven into the DNA that we are raised under. We care more"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,360",
+				"to": "00:26:53,880"
+			},
+			"offsets": {
+				"from": 1606360,
+				"to": 1613880
+			},
+			"text": " about profit and productivity than we do about obedience. This goes back to Corey's message two"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,880",
+				"to": "00:27:00,160"
+			},
+			"offsets": {
+				"from": 1613880,
+				"to": 1620160
+			},
+			"text": " weeks ago. We're discipled by the culture of our day, and the culture of our day is driven by profit"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:00,160",
+				"to": "00:27:09,940"
+			},
+			"offsets": {
+				"from": 1620160,
+				"to": 1629940
+			},
+			"text": " and productivity rather than people and relationships. This language even, it seeps into the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,940",
+				"to": "00:27:15,560"
+			},
+			"offsets": {
+				"from": 1629940,
+				"to": 1635560
+			},
+			"text": " Recently, I was reading a commentary in my own personal study through the book of Mark, and this"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:15,560",
+				"to": "00:27:21,980"
+			},
+			"offsets": {
+				"from": 1635560,
+				"to": 1641980
+			},
+			"text": " scholar, he said he was a pastor for a long time, and he said he found himself using the word invest"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,980",
+				"to": "00:27:29,820"
+			},
+			"offsets": {
+				"from": 1641980,
+				"to": 1649820
+			},
+			"text": " about people. And it realized, he realized that he was being discipled by this American culture to treat"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:29,820",
+				"to": "00:27:37,180"
+			},
+			"offsets": {
+				"from": 1649820,
+				"to": 1657180
+			},
+			"text": " people the way that the American economy treats like things. And he found himself saying that he was"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,180",
+				"to": "00:27:40,940"
+			},
+			"offsets": {
+				"from": 1657180,
+				"to": 1660940
+			},
+			"text": " going to invest in people. And when he said that, what he meant is like, I'm going to spend time with"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,940",
+				"to": "00:27:48,700"
+			},
+			"offsets": {
+				"from": 1660940,
+				"to": 1668700
+			},
+			"text": " this person because I see potential that I'm going to get out of them. It's like we use people for what we"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,700",
+				"to": "00:27:54,400"
+			},
+			"offsets": {
+				"from": 1668700,
+				"to": 1674400
+			},
+			"text": " can get out of them rather than just being obedient to God and to do what God calls us to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:54,400",
+				"to": "00:28:01,920"
+			},
+			"offsets": {
+				"from": 1674400,
+				"to": 1681920
+			},
+			"text": " Look at the statement. It's so arrogant. Today or tomorrow, we are going to go to a certain town,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,920",
+				"to": "00:28:06,640"
+			},
+			"offsets": {
+				"from": 1681920,
+				"to": 1686640
+			},
+			"text": " and we will stay there for a year, and we will do business there for a year, and we will make a profit."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:06,640",
+				"to": "00:28:12,560"
+			},
+			"offsets": {
+				"from": 1686640,
+				"to": 1692560
+			},
+			"text": " There's no ifs, ands, or buts about it. This is how it's going to work. And James is saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,380",
+				"to": "00:28:19,660"
+			},
+			"offsets": {
+				"from": 1693380,
+				"to": 1699660
+			},
+			"text": " you're prideful. You've got a God complex. You think you're the center of the universe. You think"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,660",
+				"to": "00:28:28,600"
+			},
+			"offsets": {
+				"from": 1699660,
+				"to": 1708600
+			},
+			"text": " you're in control of the outcome. See, the American culture, it gives us this promise of a pursuit"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,600",
+				"to": "00:28:38,200"
+			},
+			"offsets": {
+				"from": 1708600,
+				"to": 1718200
+			},
+			"text": " of happiness. Have you ever tried it? Have you ever really tried to pursue your own happiness?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,380",
+				"to": "00:28:48,360"
+			},
+			"offsets": {
+				"from": 1722380,
+				"to": 1728360
+			},
+			"text": " It doesn't lead where you think it would lead. Like, the things that I think will make me happy"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:48,360",
+				"to": "00:28:55,760"
+			},
+			"offsets": {
+				"from": 1728360,
+				"to": 1735760
+			},
+			"text": " don't make me happy. Our hearts are sinful. We chase after fulfillment and satisfaction and things"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:55,760",
+				"to": "00:29:01,960"
+			},
+			"offsets": {
+				"from": 1735760,
+				"to": 1741960
+			},
+			"text": " that will not fulfill or satisfy us. It doesn't lead us to good places. It leads us to really selfish,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:01,960",
+				"to": "00:29:08,440"
+			},
+			"offsets": {
+				"from": 1741960,
+				"to": 1748440
+			},
+			"text": " self-serving places. And here's the crazy thing about it. We do this, we do this out of a desire"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,440",
+				"to": "00:29:15,500"
+			},
+			"offsets": {
+				"from": 1748440,
+				"to": 1755500
+			},
+			"text": " for happiness, out of a desire for abundant life. The amazing thing about God, though, is"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,500",
+				"to": "00:29:21,620"
+			},
+			"offsets": {
+				"from": 1755500,
+				"to": 1761620
+			},
+			"text": " his kingdom is upside down. And the way that you actually find abundant life is to not take"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,620",
+				"to": "00:29:26,080"
+			},
+			"offsets": {
+				"from": 1761620,
+				"to": 1766080
+			},
+			"text": " control of your life and try and make it happen for yourself, but to release control of your"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:26,080",
+				"to": "00:29:33,920"
+			},
+			"offsets": {
+				"from": 1766080,
+				"to": 1773920
+			},
+			"text": " life and just trust God. Like, the abundant life comes through obedience and submission to Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:33,920",
+				"to": "00:29:40,300"
+			},
+			"offsets": {
+				"from": 1773920,
+				"to": 1780300
+			},
+			"text": " And so James is saying, just don't humble yourself before the Lord. Don't speak evil out of a"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:40,300",
+				"to": "00:29:46,540"
+			},
+			"offsets": {
+				"from": 1780300,
+				"to": 1786540
+			},
+			"text": " judgmental heart. Don't make plans out of a prideful heart. He says, your life, your life is but a"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,540",
+				"to": "00:29:52,220"
+			},
+			"offsets": {
+				"from": 1786540,
+				"to": 1792220
+			},
+			"text": " vapor. Right? I brought this water bottle up here. I'm, hopefully I don't spray anybody. I think the"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:52,220",
+				"to": "00:29:57,740"
+			},
+			"offsets": {
+				"from": 1792220,
+				"to": 1797740
+			},
+			"text": " lights will do it for me. But this is what James says our life is like. It's here and then it's gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:57,740",
+				"to": "00:30:02,860"
+			},
+			"offsets": {
+				"from": 1797740,
+				"to": 1802860
+			},
+			"text": " We don't have control over it. We think that we do, but we don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:02,860",
+				"to": "00:30:09,420"
+			},
+			"offsets": {
+				"from": 1802860,
+				"to": 1809420
+			},
+			"text": " I got into Yellowstone when Yellowstone was a big thing. Did anybody get into that kick? The Yellowstone"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:09,420",
+				"to": "00:30:14,980"
+			},
+			"offsets": {
+				"from": 1809420,
+				"to": 1814980
+			},
+			"text": " kick? I mean, season one, for a while, like every episode, somebody was just like randomly almost"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:14,980",
+				"to": "00:30:20,440"
+			},
+			"offsets": {
+				"from": 1814980,
+				"to": 1820440
+			},
+			"text": " dying, like in the wilderness. Like, it was like every episode, I was like, the kid's falling into the"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:20,440",
+				"to": "00:30:25,680"
+			},
+			"offsets": {
+				"from": 1820440,
+				"to": 1825680
+			},
+			"text": " river and he's about to drown. And I'm like, it's like, it's like the whole, like the whole property is"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:25,680",
+				"to": "00:30:31,400"
+			},
+			"offsets": {
+				"from": 1825680,
+				"to": 1831400
+			},
+			"text": " just a death trap. And I thought about that in my own life. I was weed whacking the other day by my"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,400",
+				"to": "00:30:36,320"
+			},
+			"offsets": {
+				"from": 1831400,
+				"to": 1836320
+			},
+			"text": " propane tank. And I was like, I could just die. Like, this thing could just explode."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:36,320",
+				"to": "00:30:43,260"
+			},
+			"offsets": {
+				"from": 1836320,
+				"to": 1843260
+			},
+			"text": " We still, are we getting these vehicles that go 80 miles an hour? And we think, yep, I'm just"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:43,260",
+				"to": "00:30:46,980"
+			},
+			"offsets": {
+				"from": 1843260,
+				"to": 1846980
+			},
+			"text": " going to get in my car and go to this next thing and it's going to be great and life's going to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:46,980",
+				"to": "00:30:54,420"
+			},
+			"offsets": {
+				"from": 1846980,
+				"to": 1854420
+			},
+			"text": " awesome. And James is saying, man, just realize, humble yourself before the Lord. You have no control"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,420",
+				"to": "00:31:00,200"
+			},
+			"offsets": {
+				"from": 1854420,
+				"to": 1860200
+			},
+			"text": " over the future. God is sovereign and in control of all things. And I'm not trying to be morbid,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,200",
+				"to": "00:31:07,920"
+			},
+			"offsets": {
+				"from": 1860200,
+				"to": 1867920
+			},
+			"text": " but it's really good to have a realization about the future, a realization about how much control"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,920",
+				"to": "00:31:15,520"
+			},
+			"offsets": {
+				"from": 1867920,
+				"to": 1875520
+			},
+			"text": " we don't have. I got a picture here of a monk, I think, this painting of a monk with a skull on his"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,520",
+				"to": "00:31:21,960"
+			},
+			"offsets": {
+				"from": 1875520,
+				"to": 1881960
+			},
+			"text": " desk. And this is actually pretty common in paintings of monks because they literally would keep a skull on"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:21,960",
+				"to": "00:31:26,720"
+			},
+			"offsets": {
+				"from": 1881960,
+				"to": 1886720
+			},
+			"text": " their desk like an actual human skull to remind them of their own mortality."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:26,720",
+				"to": "00:31:33,500"
+			},
+			"offsets": {
+				"from": 1886720,
+				"to": 1893500
+			},
+			"text": " Oftentimes monks, they literally would, they would dig the grave for the next monk that was going to pass"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,500",
+				"to": "00:31:38,680"
+			},
+			"offsets": {
+				"from": 1893500,
+				"to": 1898680
+			},
+			"text": " before he passed. They would have to like walk past an empty grave on their way to the cafeteria for"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,680",
+				"to": "00:31:46,960"
+			},
+			"offsets": {
+				"from": 1898680,
+				"to": 1906960
+			},
+			"text": " lunch every day. You're like, that sounds awesome. But their goal was just to constantly, constantly live"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,960",
+				"to": "00:31:53,640"
+			},
+			"offsets": {
+				"from": 1906960,
+				"to": 1913640
+			},
+			"text": " in light of the fact that I'm not promised tomorrow. And so if I'm making plans to try and design this life"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:53,640",
+				"to": "00:31:58,560"
+			},
+			"offsets": {
+				"from": 1913640,
+				"to": 1918560
+			},
+			"text": " for myself 20 years from now, rather than just being present and in the moment and being freed up to just"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:58,560",
+				"to": "00:32:03,940"
+			},
+			"offsets": {
+				"from": 1918560,
+				"to": 1923940
+			},
+			"text": " obey what God's called me to do, which is just to love him and love my neighbor as myself today, like that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,940",
+				"to": "00:32:10,440"
+			},
+			"offsets": {
+				"from": 1923940,
+				"to": 1930440
+			},
+			"text": " what we're called to do. Realizing our mortality allows us to make plans with flexibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:12,380",
+				"to": "00:32:18,140"
+			},
+			"offsets": {
+				"from": 1932380,
+				"to": 1938140
+			},
+			"text": " See, we also make plans for the future trying to design for ourselves and our families a life of flourishing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,140",
+				"to": "00:32:28,180"
+			},
+			"offsets": {
+				"from": 1938140,
+				"to": 1948180
+			},
+			"text": " We feel the weight of being the God of our own lives and the God of our own futures. And this is a crushing"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,180",
+				"to": "00:32:33,100"
+			},
+			"offsets": {
+				"from": 1948180,
+				"to": 1953100
+			},
+			"text": " weight that leads to anxiety and it ultimately leads us away from a life of flourishing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:33,100",
+				"to": "00:32:40,680"
+			},
+			"offsets": {
+				"from": 1953100,
+				"to": 1960680
+			},
+			"text": " This is the crazy thing. The crazy thing is the thing that we're pursuing, it's actually taking us away from the"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:40,680",
+				"to": "00:32:41,560"
+			},
+			"offsets": {
+				"from": 1960680,
+				"to": 1961560
+			},
+			"text": " thing that we're pursuing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:41,560",
+				"to": "00:32:48,040"
+			},
+			"offsets": {
+				"from": 1961560,
+				"to": 1968040
+			},
+			"text": " You know this, like if you've ever tried this, if you plan for a vacation, you're like saving up your money and then the"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:48,040",
+				"to": "00:32:54,140"
+			},
+			"offsets": {
+				"from": 1968040,
+				"to": 1974140
+			},
+			"text": " car breaks down and you're like, oh no, how am I going to go to the beach now? Like I have to go to the beach."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,140",
+				"to": "00:32:58,400"
+			},
+			"offsets": {
+				"from": 1974140,
+				"to": 1978400
+			},
+			"text": " The beach is my salvation. The beach is going to be the thing that's going to make me feel the way that I want to feel."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,740",
+				"to": "00:33:02,480"
+			},
+			"offsets": {
+				"from": 1978740,
+				"to": 1982480
+			},
+			"text": " And now I can't go to the beach because the car's broke down. And then what do you do? What's the whole"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:02,480",
+				"to": "00:33:05,620"
+			},
+			"offsets": {
+				"from": 1982480,
+				"to": 1985620
+			},
+			"text": " reason of going to the beach? The whole reason of going to the beach is so that you can be with your"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,620",
+				"to": "00:33:12,160"
+			},
+			"offsets": {
+				"from": 1985620,
+				"to": 1992160
+			},
+			"text": " family, be present, have peace, tranquility, love, love the Lord, your God, love your neighbor as"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,160",
+				"to": "00:33:18,260"
+			},
+			"offsets": {
+				"from": 1992160,
+				"to": 1998260
+			},
+			"text": " yourself. And now because something has gotten in the way of that plan, what happens? Our fees just get"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,260",
+				"to": "00:33:23,080"
+			},
+			"offsets": {
+				"from": 1998260,
+				"to": 2003080
+			},
+			"text": " short. We get angry. We start taking it out on our family. It's our wife's fault. She didn't change the oil"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,080",
+				"to": "00:33:27,180"
+			},
+			"offsets": {
+				"from": 2003080,
+				"to": 2007180
+			},
+			"text": " when she was supposed to change the oil. Now I'm mad at her and now she's mad at me and we're mad at the"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:27,180",
+				"to": "00:33:32,420"
+			},
+			"offsets": {
+				"from": 2007180,
+				"to": 2012420
+			},
+			"text": " kids and it's like, man, I wanted a life of flourishing. I was trying to control it. I was"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,420",
+				"to": "00:33:37,800"
+			},
+			"offsets": {
+				"from": 2012420,
+				"to": 2017800
+			},
+			"text": " trying to make it happen. And when we try and make it happen, when we try and be the God of our own"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,800",
+				"to": "00:33:46,440"
+			},
+			"offsets": {
+				"from": 2017800,
+				"to": 2026440
+			},
+			"text": " lives, it ultimately leads to places that we're not trying to go. James is saying, man, you want peace?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,440",
+				"to": "00:33:53,380"
+			},
+			"offsets": {
+				"from": 2026440,
+				"to": 2033380
+			},
+			"text": " You want abundant life? You want flourishing? Just be present in the moment. The people that you love"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:53,380",
+				"to": "00:33:58,640"
+			},
+			"offsets": {
+				"from": 2033380,
+				"to": 2038640
+			},
+			"text": " most love the Lord, your God with all of your heart, soul, mind and strength and love your neighbor as"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:58,640",
+				"to": "00:34:06,140"
+			},
+			"offsets": {
+				"from": 2038640,
+				"to": 2046140
+			},
+			"text": " yourself. That's what's going to lead to flourishing. We get stressed out. We treat people like obstacles"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,140",
+				"to": "00:34:10,740"
+			},
+			"offsets": {
+				"from": 2046140,
+				"to": 2050740
+			},
+			"text": " in the way of flourishing. We often end up treating our family poorly in the pursuit of creating a"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:10,740",
+				"to": "00:34:21,420"
+			},
+			"offsets": {
+				"from": 2050740,
+				"to": 2061420
+			},
+			"text": " flourishing life for them. So backwards. Matthew chapter six, verses 25 and 27. Jesus says, don't"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,420",
+				"to": "00:34:27,160"
+			},
+			"offsets": {
+				"from": 2061420,
+				"to": 2067160
+			},
+			"text": " worry about everyday life, whether you have enough food and drink or enough clothes to wear."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:27,160",
+				"to": "00:34:34,600"
+			},
+			"offsets": {
+				"from": 2067160,
+				"to": 2074600
+			},
+			"text": " Isn't life more than food in your body, more than clothing? Look at the birds. They don't plant or"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,600",
+				"to": "00:34:41,660"
+			},
+			"offsets": {
+				"from": 2074600,
+				"to": 2081660
+			},
+			"text": " harvest or store food in barns for your heavenly father seeds them. And aren't you far more valuable"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,660",
+				"to": "00:34:50,560"
+			},
+			"offsets": {
+				"from": 2081660,
+				"to": 2090560
+			},
+			"text": " to him than they are? Can all your worries, all your planning, all your striving, can it add a single"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,560",
+				"to": "00:34:53,000"
+			},
+			"offsets": {
+				"from": 2090560,
+				"to": 2093000
+			},
+			"text": " moment to your life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,000",
+				"to": "00:35:01,520"
+			},
+			"offsets": {
+				"from": 2093000,
+				"to": 2101520
+			},
+			"text": " See, the way we plan our lives often reveals that we have a God complex. We make plans out of a prideful"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:01,520",
+				"to": "00:35:07,300"
+			},
+			"offsets": {
+				"from": 2101520,
+				"to": 2107300
+			},
+			"text": " heart because we're trying to do God's job for him. Our job is not to provide for ourselves, but to"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,300",
+				"to": "00:35:13,340"
+			},
+			"offsets": {
+				"from": 2107300,
+				"to": 2113340
+			},
+			"text": " simply trust God to be the provider that he promises he will be and hold our plans with an open hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,340",
+				"to": "00:35:18,900"
+			},
+			"offsets": {
+				"from": 2113340,
+				"to": 2118900
+			},
+			"text": " Again, if you're interested, let's take a deep breath in."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,900",
+				"to": "00:35:23,140"
+			},
+			"offsets": {
+				"from": 2118900,
+				"to": 2123140
+			},
+			"text": " Breathe out. I'm not God."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,640",
+				"to": "00:35:33,200"
+			},
+			"offsets": {
+				"from": 2126640,
+				"to": 2133200
+			},
+			"text": " Man, for those of us that are just trying to pay a mortgage, trying to put food in a family's"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:33,200",
+				"to": "00:35:42,480"
+			},
+			"offsets": {
+				"from": 2133200,
+				"to": 2142480
+			},
+			"text": " bellies, like, what a great reminder. I'm not God. What a freeing reality to live in, that you are not"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:42,480",
+				"to": "00:35:47,060"
+			},
+			"offsets": {
+				"from": 2142480,
+				"to": 2147060
+			},
+			"text": " the center of the universe, that God is the center of the universe, that you don't have to manifest an"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,060",
+				"to": "00:35:51,860"
+			},
+			"offsets": {
+				"from": 2147060,
+				"to": 2151860
+			},
+			"text": " abundant life with your own strength and willpower, but that abundant life will flow naturally out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,860",
+				"to": "00:35:53,460"
+			},
+			"offsets": {
+				"from": 2151860,
+				"to": 2153460
+			},
+			"text": " submission to God's will for your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,460",
+				"to": "00:36:00,700"
+			},
+			"offsets": {
+				"from": 2153460,
+				"to": 2160700
+			},
+			"text": " All right, so we heard from the Bible scholars earlier. Now I can hear from you"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,700",
+				"to": "00:36:06,840"
+			},
+			"offsets": {
+				"from": 2160700,
+				"to": 2166840
+			},
+			"text": " pragmatists, you type A people. Okay, so does this mean we all have to become hippies, never make any plans"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,840",
+				"to": "00:36:12,740"
+			},
+			"offsets": {
+				"from": 2166840,
+				"to": 2172740
+			},
+			"text": " for our future, just live in the moment, day by day, peace, love, whatever. What's the, I don't know,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,780",
+				"to": "00:36:20,920"
+			},
+			"offsets": {
+				"from": 2172780,
+				"to": 2180920
+			},
+			"text": " the last part of that saying? No. But godly plans are to be made with the will of God in mind and held with an"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,920",
+				"to": "00:36:30,860"
+			},
+			"offsets": {
+				"from": 2180920,
+				"to": 2190860
+			},
+			"text": " open hand. Flexible. Is it wrong to plan for your vacation? No. Book your hotel. Do it. But do so with an"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:30,860",
+				"to": "00:36:36,640"
+			},
+			"offsets": {
+				"from": 2190860,
+				"to": 2196640
+			},
+			"text": " open hand. Trusting in the will of God. And the will of God is something that Christians, we get really weird with the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,640",
+				"to": "00:36:45,080"
+			},
+			"offsets": {
+				"from": 2196640,
+				"to": 2205080
+			},
+			"text": " will of God. We make it some like over spiritual thing that we have to like pray and fast to decipher. And I'm not"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,080",
+				"to": "00:36:50,440"
+			},
+			"offsets": {
+				"from": 2205080,
+				"to": 2210440
+			},
+			"text": " totally opposed to praying and fasting when you're making decisions about big things. But we're like, man, what is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,440",
+				"to": "00:36:55,740"
+			},
+			"offsets": {
+				"from": 2210440,
+				"to": 2215740
+			},
+			"text": " will of God for my life? Scripture tells us the will of God for your life is that you would be conformed to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,740",
+				"to": "00:37:02,640"
+			},
+			"offsets": {
+				"from": 2215740,
+				"to": 2222640
+			},
+			"text": " image of Jesus. That daily you would love the Lord your God with all your heart, soul, mind, and strength, and that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,640",
+				"to": "00:37:11,060"
+			},
+			"offsets": {
+				"from": 2222640,
+				"to": 2231060
+			},
+			"text": " would love your neighbor as yourself. It's not that complicated. But when we try and be God, we make it far"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,060",
+				"to": "00:37:22,880"
+			},
+			"offsets": {
+				"from": 2231060,
+				"to": 2242880
+			},
+			"text": " more complicated than it is. My plans aren't working out the way that I thought they would. Am I willing to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,880",
+				"to": "00:37:30,980"
+			},
+			"offsets": {
+				"from": 2242880,
+				"to": 2250980
+			},
+			"text": " change them to realign them with the will of God in my life? Am I willing to just let God be God, even if it"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:30,980",
+				"to": "00:37:37,560"
+			},
+			"offsets": {
+				"from": 2250980,
+				"to": 2257560
+			},
+			"text": " gets in the way of something that I want? A couple application questions. What is my natural reaction when"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:37,560",
+				"to": "00:37:47,540"
+			},
+			"offsets": {
+				"from": 2257560,
+				"to": 2267540
+			},
+			"text": " obstacles get in the way of the plans that I made? Am I irritable? Am I frustrated? Do I take it out on"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:47,540",
+				"to": "00:37:54,640"
+			},
+			"offsets": {
+				"from": 2267540,
+				"to": 2274640
+			},
+			"text": " people? My plans aren't working out the way that I thought they would. Am I willing to change them to"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,060",
+				"to": "00:37:56,640"
+			},
+			"offsets": {
+				"from": 2275060,
+				"to": 2276640
+			},
+			"text": " realign them with God's will for my life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,640",
+				"to": "00:38:04,100"
+			},
+			"offsets": {
+				"from": 2276640,
+				"to": 2284100
+			},
+			"text": " What does the way I make plans reveal to me about the posture of my heart towards God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,100",
+				"to": "00:38:10,420"
+			},
+			"offsets": {
+				"from": 2284100,
+				"to": 2290420
+			},
+			"text": " This is what James is asking us. Are you truly humbling yourself before the Lord? If so, how do you treat people?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:10,420",
+				"to": "00:38:18,400"
+			},
+			"offsets": {
+				"from": 2290420,
+				"to": 2298400
+			},
+			"text": " How do you make plans? Do you treat people and make plans as if God is God or as if you are God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,580",
+				"to": "00:38:25,820"
+			},
+			"offsets": {
+				"from": 2299580,
+				"to": 2305820
+			},
+			"text": " You speak evil out of a judgmental heart because you are trying to sit in the seat of God. The seat that only"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,820",
+				"to": "00:38:34,160"
+			},
+			"offsets": {
+				"from": 2305820,
+				"to": 2314160
+			},
+			"text": " God is called to hold. You make plans out of a prideful heart because you want to control your life into this"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,160",
+				"to": "00:38:43,040"
+			},
+			"offsets": {
+				"from": 2314160,
+				"to": 2323040
+			},
+			"text": " situation of flourishing. See, just like the Catholic Church in Italy in the 1600s, we often build our"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,040",
+				"to": "00:38:49,100"
+			},
+			"offsets": {
+				"from": 2323040,
+				"to": 2329100
+			},
+			"text": " theology on the false reality that we should be the center of the universe. It impacts the way we treat"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,100",
+				"to": "00:38:55,320"
+			},
+			"offsets": {
+				"from": 2329100,
+				"to": 2335320
+			},
+			"text": " others and the way that we make plans for the future. So what's the solution?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:55,320",
+				"to": "00:39:04,860"
+			},
+			"offsets": {
+				"from": 2335320,
+				"to": 2344860
+			},
+			"text": " Well, I hate to steal from Corey's message the last two weeks ago, but I don't because he stole it from"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:04,860",
+				"to": "00:39:14,220"
+			},
+			"offsets": {
+				"from": 2344860,
+				"to": 2354220
+			},
+			"text": " James. The solution is to humble yourselves before God. Let him be in charge. That frees you up to just"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,220",
+				"to": "00:39:20,680"
+			},
+			"offsets": {
+				"from": 2354220,
+				"to": 2360680
+			},
+			"text": " obey the law. You don't have to judge the law. You get to obey the law. You don't have to create for"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:20,680",
+				"to": "00:39:25,740"
+			},
+			"offsets": {
+				"from": 2360680,
+				"to": 2365740
+			},
+			"text": " yourself this life of perfect provision. You just get to trust him with open hands, obeying the royal"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,740",
+				"to": "00:39:29,580"
+			},
+			"offsets": {
+				"from": 2365740,
+				"to": 2369580
+			},
+			"text": " law, loving the Lord your God with all your heart, soul, mind, and strength, and loving your neighbor as"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:29,580",
+				"to": "00:39:39,040"
+			},
+			"offsets": {
+				"from": 2369580,
+				"to": 2379040
+			},
+			"text": " yourself. Here's the crazy thing. The crazy thing is we have a perfect example of what this looks like."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:39,040",
+				"to": "00:39:50,040"
+			},
+			"offsets": {
+				"from": 2379040,
+				"to": 2390040
+			},
+			"text": " Philippians chapter 2, Paul says, be humble. Humble yourselves before the Lord. Be humble."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:50,040",
+				"to": "00:39:55,460"
+			},
+			"offsets": {
+				"from": 2390040,
+				"to": 2395460
+			},
+			"text": " Thinking of others as better than yourselves. Hear that? Don't speak evil about others. Think of others"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:55,460",
+				"to": "00:39:59,900"
+			},
+			"offsets": {
+				"from": 2395460,
+				"to": 2399900
+			},
+			"text": " as better than yourselves. Don't look out only for your interests. Don't plan in a way that you control"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:59,900",
+				"to": "00:40:07,220"
+			},
+			"offsets": {
+				"from": 2399900,
+				"to": 2407220
+			},
+			"text": " your desires. Don't look on your own interests, but take an interest in others too. Why? Because this is"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:07,220",
+				"to": "00:40:16,060"
+			},
+			"offsets": {
+				"from": 2407220,
+				"to": 2416060
+			},
+			"text": " what Christ did. Because this is our example of true humanity and flourishing on life. You must have the"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,060",
+				"to": "00:40:25,240"
+			},
+			"offsets": {
+				"from": 2416060,
+				"to": 2425240
+			},
+			"text": " same attitude that Christ Jesus had, though he was God. See, we're not God, and we put ourselves in a"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:25,240",
+				"to": "00:40:32,600"
+			},
+			"offsets": {
+				"from": 2425240,
+				"to": 2432600
+			},
+			"text": " position of God. Jesus was God. He did not think of equality with God as something to cling to. Instead, he gave up"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,600",
+				"to": "00:40:40,420"
+			},
+			"offsets": {
+				"from": 2432600,
+				"to": 2440420
+			},
+			"text": " his divine privileges. He took on the humble position of a slave. He was born of a human being. When he"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:40,420",
+				"to": "00:40:48,240"
+			},
+			"offsets": {
+				"from": 2440420,
+				"to": 2448240
+			},
+			"text": " appeared in human form, he humbled himself in obedience to God, and he died a criminal's death on the cross."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:50,760",
+				"to": "00:40:57,340"
+			},
+			"offsets": {
+				"from": 2450760,
+				"to": 2457340
+			},
+			"text": " Therefore, God elevated him to a place of highest honor and gave him the name above all other names."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:57,340",
+				"to": "00:41:03,600"
+			},
+			"offsets": {
+				"from": 2457340,
+				"to": 2463600
+			},
+			"text": " Do you hear James 4.8? In this, humble yourself before the Lord, and the Lord will exalt you. Jesus went"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,600",
+				"to": "00:41:09,580"
+			},
+			"offsets": {
+				"from": 2463600,
+				"to": 2469580
+			},
+			"text": " before us. He humbled himself before the Lord, and the Lord exalted him and gave him the name above all"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:09,580",
+				"to": "00:41:17,680"
+			},
+			"offsets": {
+				"from": 2469580,
+				"to": 2477680
+			},
+			"text": " other names, that at the name of Jesus, every knee should bow in heaven and on earth and under the earth,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:17,680",
+				"to": "00:41:25,360"
+			},
+			"offsets": {
+				"from": 2477680,
+				"to": 2485360
+			},
+			"text": " in every tongue declare that Jesus is Christ, is the Lord to the glory of God, the Father."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:25,360",
+				"to": "00:41:34,320"
+			},
+			"offsets": {
+				"from": 2485360,
+				"to": 2494320
+			},
+			"text": " This is our perfect example. He did it for us. He did not count equality with God as something to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:34,320",
+				"to": "00:41:40,300"
+			},
+			"offsets": {
+				"from": 2494320,
+				"to": 2500300
+			},
+			"text": " grasped. He did not. He is the creator and sustainer of the universe. Instead of sitting in that position,"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,400",
+				"to": "00:41:46,180"
+			},
+			"offsets": {
+				"from": 2500400,
+				"to": 2506180
+			},
+			"text": " he went before us, he humbled himself before the Lord in obedience to death, even death on a cross."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:46,180",
+				"to": "00:41:52,940"
+			},
+			"offsets": {
+				"from": 2506180,
+				"to": 2512940
+			},
+			"text": " And because of his humble submission, the Lord elevated him to the seat that is above every other"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:52,940",
+				"to": "00:41:58,280"
+			},
+			"offsets": {
+				"from": 2512940,
+				"to": 2518280
+			},
+			"text": " seat, and that every, at his name, every knee will bow, every tongue will confess. This is our example."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,280",
+				"to": "00:42:03,800"
+			},
+			"offsets": {
+				"from": 2518280,
+				"to": 2523800
+			},
+			"text": " This is what we're called to do. Not to try and put ourselves in the position of God, but to humble"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:03,800",
+				"to": "00:42:11,240"
+			},
+			"offsets": {
+				"from": 2523800,
+				"to": 2531240
+			},
+			"text": " ourselves before the Lord. And the Lord will lift us up. He will take care of us. He will provide for"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,240",
+				"to": "00:42:17,640"
+			},
+			"offsets": {
+				"from": 2531240,
+				"to": 2537640
+			},
+			"text": " us. See, true freedom and life comes through submission and sacrifice to the way of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,640",
+				"to": "00:42:23,820"
+			},
+			"offsets": {
+				"from": 2537640,
+				"to": 2543820
+			},
+			"text": " If we're ever going to be better at speaking evil against people out of a judgmental heart, if we're"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:23,820",
+				"to": "00:42:29,560"
+			},
+			"offsets": {
+				"from": 2543820,
+				"to": 2549560
+			},
+			"text": " ever going to stop making plans out of a prideful heart, we have to submit to Jesus out of a humble heart."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:31,560",
+				"to": "00:42:38,820"
+			},
+			"offsets": {
+				"from": 2551560,
+				"to": 2558820
+			},
+			"text": " Obedience to God's commands don't come from us trying harder, but from submitting ourselves daily to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:38,820",
+				"to": "00:42:48,900"
+			},
+			"offsets": {
+				"from": 2558820,
+				"to": 2568900
+			},
+			"text": " one who's already obeyed God's commands on our behalf. So take a deep breath in. This time, I want us to"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:48,900",
+				"to": "00:42:56,760"
+			},
+			"offsets": {
+				"from": 2568900,
+				"to": 2576760
+			},
+			"text": " center ourselves on Jesus as we transition to a time of worship and communion. I just want to a couple"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,760",
+				"to": "00:43:00,980"
+			},
+			"offsets": {
+				"from": 2576760,
+				"to": 2580980
+			},
+			"text": " of times take a deep breath in and breathe out that Jesus is the center. You're not the center of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,980",
+				"to": "00:43:06,220"
+			},
+			"offsets": {
+				"from": 2580980,
+				"to": 2586220
+			},
+			"text": " universe. Jesus is the center of the universe, and that frees us up to just humbly submit and obey to God."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:06,220",
+				"to": "00:43:11,940"
+			},
+			"offsets": {
+				"from": 2586220,
+				"to": 2591940
+			},
+			"text": " Let's do this now. If you're comfortable, if not, don't worry. Jesus is the center."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:11,940",
+				"to": "00:43:27,180"
+			},
+			"offsets": {
+				"from": 2591940,
+				"to": 2607180
+			},
+			"text": " Deep breath in. Breathe out. Jesus is the center. Deep breath in. Breathe out. Jesus, you're the center."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:29,980",
+				"to": "00:43:34,540"
+			},
+			"offsets": {
+				"from": 2609980,
+				"to": 2614540
+			},
+			"text": " In a minute, I'm going to come back up and lead us in a time of communion. But first, I just want to"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:34,540",
+				"to": "00:43:41,360"
+			},
+			"offsets": {
+				"from": 2614540,
+				"to": 2621360
+			},
+			"text": " confess this to the Lord together. If today you want to put yourself in a posture of humility before"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,360",
+				"to": "00:43:46,020"
+			},
+			"offsets": {
+				"from": 2621360,
+				"to": 2626020
+			},
+			"text": " the Lord, you realize the ways in which you've elevated yourself to a level of importance that you"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:46,020",
+				"to": "00:43:51,520"
+			},
+			"offsets": {
+				"from": 2626020,
+				"to": 2631520
+			},
+			"text": " shouldn't be, the ways that you center the decisions of your life as if you are God. And if you want to"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:51,520",
+				"to": "00:44:05,520"
+			},
+			"offsets": {
+				"from": 2631520,
+				"to": 2645520
+			},
+			"text": " just put yourself in that position, that posture of humility before the Lord. Donovan's going to lead us in a chorus. It's so simple. It's so beautiful. Jesus is the center. We'll sing now. Come back up. We'll lead us in communion, and then we'll be done for the day."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:05,520",
+				"to": "00:44:32,180"
+			},
+			"offsets": {
+				"from": 2645520,
+				"to": 2672180
+			},
+			"text": " Jesus is the center. Jesus is the center of it all. Jesus is the center of it all. Jesus is the center of it all. From beginning to the end. It will always be. It's always that you are Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:32,520",
+				"to": "00:45:00,520"
+			},
+			"offsets": {
+				"from": 2672520,
+				"to": 2700520
+			},
+			"text": " Jesus is the center of it all. Jesus is the center of it all. Jesus is the center of it all. From beginning to the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:00,520",
+				"to": "00:45:06,820"
+			},
+			"offsets": {
+				"from": 2700520,
+				"to": 2706820
+			},
+			"text": " It will always be, it's always been you, Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:06,820",
+				"to": "00:45:17,460"
+			},
+			"offsets": {
+				"from": 2706820,
+				"to": 2717460
+			},
+			"text": " Jesus, nothing else will matter."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:17,460",
+				"to": "00:45:23,400"
+			},
+			"offsets": {
+				"from": 2717460,
+				"to": 2723400
+			},
+			"text": " Nothing in this world will come."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:28,040",
+				"to": "00:45:31,980"
+			},
+			"offsets": {
+				"from": 2728040,
+				"to": 2731980
+			},
+			"text": " Jesus, you're the center."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:31,980",
+				"to": "00:45:37,240"
+			},
+			"offsets": {
+				"from": 2731980,
+				"to": 2737240
+			},
+			"text": " Everything revolves around you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:37,240",
+				"to": "00:45:41,060"
+			},
+			"offsets": {
+				"from": 2737240,
+				"to": 2741060
+			},
+			"text": " Jesus, you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:41,060",
+				"to": "00:45:45,160"
+			},
+			"offsets": {
+				"from": 2741060,
+				"to": 2745160
+			},
+			"text": " Nothing else will matter."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:45,160",
+				"to": "00:45:51,120"
+			},
+			"offsets": {
+				"from": 2745160,
+				"to": 2751120
+			},
+			"text": " Nothing in this world will do."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:51,120",
+				"to": "00:45:54,840"
+			},
+			"offsets": {
+				"from": 2751120,
+				"to": 2754840
+			},
+			"text": " Only you."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:55,560",
+				"to": "00:45:59,440"
+			},
+			"offsets": {
+				"from": 2755560,
+				"to": 2759440
+			},
+			"text": " Jesus, you're the center."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:59,440",
+				"to": "00:46:04,880"
+			},
+			"offsets": {
+				"from": 2759440,
+				"to": 2764880
+			},
+			"text": " And everything revolves around you."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:04,880",
+				"to": "00:46:07,500"
+			},
+			"offsets": {
+				"from": 2764880,
+				"to": 2767500
+			},
+			"text": " Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:07,500",
+				"to": "00:46:08,300"
+			},
+			"offsets": {
+				"from": 2767500,
+				"to": 2768300
+			},
+			"text": " Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:11,300",
+				"to": "00:46:18,560"
+			},
+			"offsets": {
+				"from": 2771300,
+				"to": 2778560
+			},
+			"text": " Jesus at the center of it all."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:18,560",
+				"to": "00:46:26,080"
+			},
+			"offsets": {
+				"from": 2778560,
+				"to": 2786080
+			},
+			"text": " Jesus at the center of it all."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:27,180",
+				"to": "00:46:31,320"
+			},
+			"offsets": {
+				"from": 2787180,
+				"to": 2791320
+			},
+			"text": " From beginning to the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:31,320",
+				"to": "00:46:37,700"
+			},
+			"offsets": {
+				"from": 2791320,
+				"to": 2797700
+			},
+			"text": " It will always be, it's always been you, Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:37,700",
+				"to": "00:46:42,140"
+			},
+			"offsets": {
+				"from": 2797700,
+				"to": 2802140
+			},
+			"text": " Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:42,140",
+				"to": "00:46:43,060"
+			},
+			"offsets": {
+				"from": 2802140,
+				"to": 2803060
+			},
+			"text": " Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:43,060",
+				"to": "00:46:44,300"
+			},
+			"offsets": {
+				"from": 2803060,
+				"to": 2804300
+			},
+			"text": " Jesus."
+		}
+	]
+}

@@ -1,0 +1,7160 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:16,620"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 16620
+			},
+			"text": " Well, good morning, Canvas."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,620",
+				"to": "00:00:21,520"
+			},
+			"offsets": {
+				"from": 16620,
+				"to": 21520
+			},
+			"text": " Thanks so much for joining us this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,520",
+				"to": "00:00:24,660"
+			},
+			"offsets": {
+				"from": 21520,
+				"to": 24660
+			},
+			"text": " For those of you that haven't met me yet, my name is Ryan."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,660",
+				"to": "00:00:25,820"
+			},
+			"offsets": {
+				"from": 24660,
+				"to": 25820
+			},
+			"text": " I'm one of the pastors here."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,820",
+				"to": "00:00:31,580"
+			},
+			"offsets": {
+				"from": 25820,
+				"to": 31580
+			},
+			"text": " We're excited that you have joined us as we're launching this new series through the fruit"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,580",
+				"to": "00:00:34,980"
+			},
+			"offsets": {
+				"from": 31580,
+				"to": 34980
+			},
+			"text": " of the Spirit in Galatians chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,980",
+				"to": "00:00:40,940"
+			},
+			"offsets": {
+				"from": 34980,
+				"to": 40940
+			},
+			"text": " And like I said just a few moments ago, recently, the past few weeks, I've kind of just been"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,940",
+				"to": "00:00:46,100"
+			},
+			"offsets": {
+				"from": 40940,
+				"to": 46100
+			},
+			"text": " overwhelmed with the emotions of a broken world."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,100",
+				"to": "00:00:50,140"
+			},
+			"offsets": {
+				"from": 46100,
+				"to": 50140
+			},
+			"text": " Brokenhearted over abuse, angry over abusers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,720",
+				"to": "00:00:58,400"
+			},
+			"offsets": {
+				"from": 51720,
+				"to": 58400
+			},
+			"text": " Overwhelmed by my own sinfulness, and confused about how to respond in a politically charged"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,400",
+				"to": "00:00:58,820"
+			},
+			"offsets": {
+				"from": 58400,
+				"to": 58820
+			},
+			"text": " world."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,820",
+				"to": "00:01:00,100"
+			},
+			"offsets": {
+				"from": 58820,
+				"to": 60100
+			},
+			"text": " Anybody else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,100",
+				"to": "00:01:01,760"
+			},
+			"offsets": {
+				"from": 60100,
+				"to": 61760
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,760",
+				"to": "00:01:02,940"
+			},
+			"offsets": {
+				"from": 61760,
+				"to": 62940
+			},
+			"text": " I'm glad I'm not alone."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,940",
+				"to": "00:01:09,220"
+			},
+			"offsets": {
+				"from": 62940,
+				"to": 69220
+			},
+			"text": " However, as I prepared the message this week, as I thought about the sermon series that God"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,220",
+				"to": "00:01:13,200"
+			},
+			"offsets": {
+				"from": 69220,
+				"to": 73200
+			},
+			"text": " has ordained for us to start, I'm really excited."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,200",
+				"to": "00:01:15,160"
+			},
+			"offsets": {
+				"from": 73200,
+				"to": 75160
+			},
+			"text": " You know, we planned this series out weeks ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,940",
+				"to": "00:01:21,280"
+			},
+			"offsets": {
+				"from": 75940,
+				"to": 81280
+			},
+			"text": " And the fact that it's starting right now is, I'm encouraged by it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,280",
+				"to": "00:01:22,720"
+			},
+			"offsets": {
+				"from": 81280,
+				"to": 82720
+			},
+			"text": " I'm hopeful for it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,720",
+				"to": "00:01:28,880"
+			},
+			"offsets": {
+				"from": 82720,
+				"to": 88880
+			},
+			"text": " Because the reality is, in moments like these, it's often that we become really angry and frustrated"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,880",
+				"to": "00:01:30,900"
+			},
+			"offsets": {
+				"from": 88880,
+				"to": 90900
+			},
+			"text": " and act out of our own sinful flesh."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,900",
+				"to": "00:01:35,860"
+			},
+			"offsets": {
+				"from": 90900,
+				"to": 95860
+			},
+			"text": " We try and right the wrongs of a sinful world out of our own strength and ability."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,380",
+				"to": "00:01:42,760"
+			},
+			"offsets": {
+				"from": 96380,
+				"to": 102760
+			},
+			"text": " Or we get so overwhelmed by the insecurities of the world that we do nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,760",
+				"to": "00:01:44,320"
+			},
+			"offsets": {
+				"from": 102760,
+				"to": 104320
+			},
+			"text": " We're paralyzed with inaction."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,320",
+				"to": "00:01:53,500"
+			},
+			"offsets": {
+				"from": 104320,
+				"to": 113500
+			},
+			"text": " And I believe, really, what our culture needs more than ever from followers of Jesus is that"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,500",
+				"to": "00:01:55,760"
+			},
+			"offsets": {
+				"from": 113500,
+				"to": 115760
+			},
+			"text": " followers of Jesus would bear the fruit of the Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,760",
+				"to": "00:02:01,240"
+			},
+			"offsets": {
+				"from": 115760,
+				"to": 121240
+			},
+			"text": " That we would have the character of Jesus in whatever action God calls us to take."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,240",
+				"to": "00:02:09,080"
+			},
+			"offsets": {
+				"from": 121240,
+				"to": 129080
+			},
+			"text": " And whatever opportunities that we might be able to participate in the redemption of God's"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,080",
+				"to": "00:02:13,880"
+			},
+			"offsets": {
+				"from": 129080,
+				"to": 133880
+			},
+			"text": " world, whatever ways He might invite you to act or to pray or to do whatever, if we did"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,880",
+				"to": "00:02:20,400"
+			},
+			"offsets": {
+				"from": 133880,
+				"to": 140400
+			},
+			"text": " so with the character of the fruit of the Spirit, I think our world would be much better."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,400",
+				"to": "00:02:24,860"
+			},
+			"offsets": {
+				"from": 140400,
+				"to": 144860
+			},
+			"text": " I just, before we even get into this series, I just want to read this passage over us a couple"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,860",
+				"to": "00:02:32,460"
+			},
+			"offsets": {
+				"from": 144860,
+				"to": 152460
+			},
+			"text": " of times and cast a vision for what God might do with people, submit it to His Holy Spirit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,460",
+				"to": "00:02:33,840"
+			},
+			"offsets": {
+				"from": 152460,
+				"to": 153840
+			},
+			"text": " producing this kind of fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,840",
+				"to": "00:02:39,340"
+			},
+			"offsets": {
+				"from": 153840,
+				"to": 159340
+			},
+			"text": " Galatians chapter 5, verse 22 and 23, we put it on our coffee mugs and t-shirts because"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,340",
+				"to": "00:02:40,200"
+			},
+			"offsets": {
+				"from": 159340,
+				"to": 160200
+			},
+			"text": " it's that good."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,200",
+				"to": "00:02:46,060"
+			},
+			"offsets": {
+				"from": 160200,
+				"to": 166060
+			},
+			"text": " The Holy Spirit produces this kind of fruit in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,020",
+				"to": "00:02:55,280"
+			},
+			"offsets": {
+				"from": 167020,
+				"to": 175280
+			},
+			"text": " Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,280",
+				"to": "00:02:59,620"
+			},
+			"offsets": {
+				"from": 175280,
+				"to": 179620
+			},
+			"text": " There is no law against these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,620",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 179620,
+				"to": 184000
+			},
+			"text": " The Holy Spirit produces this kind of fruit in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:12,500"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 192500
+			},
+			"text": " Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,500",
+				"to": "00:03:16,520"
+			},
+			"offsets": {
+				"from": 192500,
+				"to": 196520
+			},
+			"text": " There is no law against these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,520",
+				"to": "00:03:20,880"
+			},
+			"offsets": {
+				"from": 196520,
+				"to": 200880
+			},
+			"text": " And I love the way that Paul ends this famous passage that we all have probably heard if"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,880",
+				"to": "00:03:21,620"
+			},
+			"offsets": {
+				"from": 200880,
+				"to": 201620
+			},
+			"text": " you grew up in the church."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,620",
+				"to": "00:03:25,100"
+			},
+			"offsets": {
+				"from": 201620,
+				"to": 205100
+			},
+			"text": " You might even have a melody of a song in the back of your head."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,100",
+				"to": "00:03:26,560"
+			},
+			"offsets": {
+				"from": 205100,
+				"to": 206560
+			},
+			"text": " There's a few of them floating around."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,560",
+				"to": "00:03:28,640"
+			},
+			"offsets": {
+				"from": 206560,
+				"to": 208640
+			},
+			"text": " The fruit of the Spirit's not a coconut."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,640",
+				"to": "00:03:29,220"
+			},
+			"offsets": {
+				"from": 208640,
+				"to": 209220
+			},
+			"text": " Anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,220",
+				"to": "00:03:30,740"
+			},
+			"offsets": {
+				"from": 209220,
+				"to": 210740
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,740",
+				"to": "00:03:33,600"
+			},
+			"offsets": {
+				"from": 210740,
+				"to": 213600
+			},
+			"text": " But I love the way that Paul ends this passage."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,600",
+				"to": "00:03:35,860"
+			},
+			"offsets": {
+				"from": 213600,
+				"to": 215860
+			},
+			"text": " He says there's no law against these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,860",
+				"to": "00:03:40,640"
+			},
+			"offsets": {
+				"from": 215860,
+				"to": 220640
+			},
+			"text": " If we live this out, if this character is developed in our lives through the work of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,640",
+				"to": "00:03:42,580"
+			},
+			"offsets": {
+				"from": 220640,
+				"to": 222580
+			},
+			"text": " Holy Spirit, we're not going to break any laws."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,580",
+				"to": "00:03:46,640"
+			},
+			"offsets": {
+				"from": 222580,
+				"to": 226640
+			},
+			"text": " We're not going to run up against any problems in our government."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,640",
+				"to": "00:03:52,500"
+			},
+			"offsets": {
+				"from": 226640,
+				"to": 232500
+			},
+			"text": " In a cultural moment that is wrestling with highly emotionally charged laws that either"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,500",
+				"to": "00:03:59,060"
+			},
+			"offsets": {
+				"from": 232500,
+				"to": 239060
+			},
+			"text": " are going to be created or deleted, imagine the type of hope and perspective that we could"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,060",
+				"to": "00:04:05,380"
+			},
+			"offsets": {
+				"from": 239060,
+				"to": 245380
+			},
+			"text": " bring to the dialogue, the cultural moment of our day, if we engaged with this fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,820",
+				"to": "00:04:13,040"
+			},
+			"offsets": {
+				"from": 246820,
+				"to": 253040
+			},
+			"text": " Wherever we fall in the dialogue, complex issues, emotionally charged issues, if we walked into"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,040",
+				"to": "00:04:17,340"
+			},
+			"offsets": {
+				"from": 253040,
+				"to": 257340
+			},
+			"text": " the conversations with this type of character, the character of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,340",
+				"to": "00:04:20,720"
+			},
+			"offsets": {
+				"from": 257340,
+				"to": 260720
+			},
+			"text": " And so I'm pumped about this series."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,720",
+				"to": "00:04:25,160"
+			},
+			"offsets": {
+				"from": 260720,
+				"to": 265160
+			},
+			"text": " The next 10 weeks, we're going to take a careful look at each aspect of the fruit of the Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,160",
+				"to": "00:04:29,520"
+			},
+			"offsets": {
+				"from": 265160,
+				"to": 269520
+			},
+			"text": " Michelle is actually going to be doing the same things with our children at the same time"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,520",
+				"to": "00:04:29,960"
+			},
+			"offsets": {
+				"from": 269520,
+				"to": 269960
+			},
+			"text": " that we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,960",
+				"to": "00:04:31,300"
+			},
+			"offsets": {
+				"from": 269960,
+				"to": 271300
+			},
+			"text": " So we're going to be covering the same things."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,360",
+				"to": "00:04:35,320"
+			},
+			"offsets": {
+				"from": 271360,
+				"to": 275320
+			},
+			"text": " And if you've got kids, you'll be able to kind of dialogue with them about the same things"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,320",
+				"to": "00:04:36,940"
+			},
+			"offsets": {
+				"from": 275320,
+				"to": 276940
+			},
+			"text": " that we're learning because they'll be learning it."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,940",
+				"to": "00:04:43,260"
+			},
+			"offsets": {
+				"from": 276940,
+				"to": 283260
+			},
+			"text": " I'm just really excited that God might do a work in our hearts for his glory."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,260",
+				"to": "00:04:46,160"
+			},
+			"offsets": {
+				"from": 283260,
+				"to": 286160
+			},
+			"text": " That's where we're headed for the next 10 weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,160",
+				"to": "00:04:49,300"
+			},
+			"offsets": {
+				"from": 286160,
+				"to": 289300
+			},
+			"text": " Let me pray and then we will dive into our passage this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,300",
+				"to": "00:04:57,680"
+			},
+			"offsets": {
+				"from": 291300,
+				"to": 297680
+			},
+			"text": " Father, we thank you for the work of Jesus in our lives, for the redemptive work of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,680",
+				"to": "00:05:04,760"
+			},
+			"offsets": {
+				"from": 297680,
+				"to": 304760
+			},
+			"text": " cross, the resurrection, the empty tomb, the ascension, the hope that we have for the"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,760",
+				"to": "00:05:05,040"
+			},
+			"offsets": {
+				"from": 304760,
+				"to": 305040
+			},
+			"text": " future."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,040",
+				"to": "00:05:10,120"
+			},
+			"offsets": {
+				"from": 305040,
+				"to": 310120
+			},
+			"text": " But we acknowledge now that we live in attention and that you've called us to start to live"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,120",
+				"to": "00:05:12,720"
+			},
+			"offsets": {
+				"from": 310120,
+				"to": 312720
+			},
+			"text": " into this kingdom that is already but not yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,860",
+				"to": "00:05:20,800"
+			},
+			"offsets": {
+				"from": 314860,
+				"to": 320800
+			},
+			"text": " And God, we could be overwhelmed by what that means and by how we might participate in that."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,800",
+				"to": "00:05:24,580"
+			},
+			"offsets": {
+				"from": 320800,
+				"to": 324580
+			},
+			"text": " But ultimately, I think what you want for us more than anything is to just become more"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,580",
+				"to": "00:05:34,600"
+			},
+			"offsets": {
+				"from": 324580,
+				"to": 334600
+			},
+			"text": " like your son, Jesus, who was perfectly love, joy, peaceful, patient, kind, gentle, full"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,600",
+				"to": "00:05:35,640"
+			},
+			"offsets": {
+				"from": 334600,
+				"to": 335640
+			},
+			"text": " of self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,640",
+				"to": "00:05:41,640"
+			},
+			"offsets": {
+				"from": 335640,
+				"to": 341640
+			},
+			"text": " God, may we look at Jesus this summer."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,100",
+				"to": "00:05:47,520"
+			},
+			"offsets": {
+				"from": 342100,
+				"to": 347520
+			},
+			"text": " May we see his character and may we invite the Holy Spirit to produce that same type of"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,520",
+				"to": "00:05:48,580"
+			},
+			"offsets": {
+				"from": 347520,
+				"to": 348580
+			},
+			"text": " character in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,580",
+				"to": "00:05:55,360"
+			},
+			"offsets": {
+				"from": 348580,
+				"to": 355360
+			},
+			"text": " Sounds really awesome, but it's going to be hard because we're selfish and sinful and we"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,360",
+				"to": "00:06:01,980"
+			},
+			"offsets": {
+				"from": 355360,
+				"to": 361980
+			},
+			"text": " want those things when it benefits us, but not when we have to lay down our preferences and"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,980",
+				"to": "00:06:05,060"
+			},
+			"offsets": {
+				"from": 361980,
+				"to": 365060
+			},
+			"text": " desires to produce these things in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,060",
+				"to": "00:06:11,460"
+			},
+			"offsets": {
+				"from": 365060,
+				"to": 371460
+			},
+			"text": " And so God, give us clarity and wisdom over the next 10 weeks to understand the character"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,460",
+				"to": "00:06:12,760"
+			},
+			"offsets": {
+				"from": 371460,
+				"to": 372760
+			},
+			"text": " that you want to produce in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,760",
+				"to": "00:06:16,060"
+			},
+			"offsets": {
+				"from": 372760,
+				"to": 376060
+			},
+			"text": " And may we be obedient to do so even when it's hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,060",
+				"to": "00:06:17,440"
+			},
+			"offsets": {
+				"from": 376060,
+				"to": 377440
+			},
+			"text": " In Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,440",
+				"to": "00:06:18,500"
+			},
+			"offsets": {
+				"from": 377440,
+				"to": 378500
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,500",
+				"to": "00:06:20,160"
+			},
+			"offsets": {
+				"from": 378500,
+				"to": 380160
+			},
+			"text": " All right."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,160",
+				"to": "00:06:23,340"
+			},
+			"offsets": {
+				"from": 380160,
+				"to": 383340
+			},
+			"text": " Some of you guys saw me carrying a baseball bat around, so I'm going to get to that quickly"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,340",
+				"to": "00:06:24,740"
+			},
+			"offsets": {
+				"from": 383340,
+				"to": 384740
+			},
+			"text": " before you get confused."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,740",
+				"to": "00:06:30,300"
+			},
+			"offsets": {
+				"from": 384740,
+				"to": 390300
+			},
+			"text": " Just so we're on the same page, my goal for this morning is to cover this passage in Galatians"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,300",
+				"to": "00:06:34,680"
+			},
+			"offsets": {
+				"from": 390300,
+				"to": 394680
+			},
+			"text": " chapter 5, the famous fruit of the Spirit and the context around it."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,680",
+				"to": "00:06:38,520"
+			},
+			"offsets": {
+				"from": 394680,
+				"to": 398520
+			},
+			"text": " So if you want to follow along, we'll be in Galatians chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,520",
+				"to": "00:06:42,860"
+			},
+			"offsets": {
+				"from": 398520,
+				"to": 402860
+			},
+			"text": " I'm going to kind of set the stage for the rest of the series and then we'll look at each"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,860",
+				"to": "00:06:47,520"
+			},
+			"offsets": {
+				"from": 402860,
+				"to": 407520
+			},
+			"text": " individual attribute of the fruit of the Spirit, the way that Jesus manifested and how we might"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,520",
+				"to": "00:06:50,820"
+			},
+			"offsets": {
+				"from": 407520,
+				"to": 410820
+			},
+			"text": " kind of be conformed into that image."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,980",
+				"to": "00:06:53,840"
+			},
+			"offsets": {
+				"from": 410980,
+				"to": 413840
+			},
+			"text": " And so if you want to follow along, turn to Galatians chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,840",
+				"to": "00:07:00,520"
+			},
+			"offsets": {
+				"from": 413840,
+				"to": 420520
+			},
+			"text": " As you are turning, I wonder if you can think of a time where you were trying to learn something"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,520",
+				"to": "00:07:07,500"
+			},
+			"offsets": {
+				"from": 420520,
+				"to": 427500
+			},
+			"text": " new or complicated, something difficult, a tension that you were wrestling with, and then a teacher"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,500",
+				"to": "00:07:12,860"
+			},
+			"offsets": {
+				"from": 427500,
+				"to": 432860
+			},
+			"text": " or a coach or somebody stepped into your life and they gave you a simple idea or illustration"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,860",
+				"to": "00:07:18,160"
+			},
+			"offsets": {
+				"from": 432860,
+				"to": 438160
+			},
+			"text": " a tension that opens this new thing up to you, that maybe solves the tension in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,160",
+				"to": "00:07:23,560"
+			},
+			"offsets": {
+				"from": 438160,
+				"to": 443560
+			},
+			"text": " As I was trying to think of a couple this week, one of the first things I thought of was one"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,560",
+				"to": "00:07:24,660"
+			},
+			"offsets": {
+				"from": 443560,
+				"to": 444660
+			},
+			"text": " of my first memories."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,660",
+				"to": "00:07:28,480"
+			},
+			"offsets": {
+				"from": 444660,
+				"to": 448480
+			},
+			"text": " Do you guys know those memories that you have and you don't know why you have them, but like"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,480",
+				"to": "00:07:30,200"
+			},
+			"offsets": {
+				"from": 448480,
+				"to": 450200
+			},
+			"text": " the earliest memories in your life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,200",
+				"to": "00:07:33,980"
+			},
+			"offsets": {
+				"from": 450200,
+				"to": 453980
+			},
+			"text": " One of my earliest memories was being at t-ball practice."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,980",
+				"to": "00:07:39,460"
+			},
+			"offsets": {
+				"from": 453980,
+				"to": 459460
+			},
+			"text": " My dad was a coach and one of my best friend's dad was an assistant coach."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,660",
+				"to": "00:07:44,660"
+			},
+			"offsets": {
+				"from": 459660,
+				"to": 464660
+			},
+			"text": " His name was Doug, and for whatever reason, this is one of the memories that is implanted"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,660",
+				"to": "00:07:45,300"
+			},
+			"offsets": {
+				"from": 464660,
+				"to": 465300
+			},
+			"text": " in my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,300",
+				"to": "00:07:47,740"
+			},
+			"offsets": {
+				"from": 465300,
+				"to": 467740
+			},
+			"text": " We were learning how to swing a baseball bat for the first time."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,740",
+				"to": "00:07:52,980"
+			},
+			"offsets": {
+				"from": 467740,
+				"to": 472980
+			},
+			"text": " And I don't know if you've ever been to a t-ball practice before, but like you think"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,980",
+				"to": "00:07:54,700"
+			},
+			"offsets": {
+				"from": 472980,
+				"to": 474700
+			},
+			"text": " swinging a baseball bat comes naturally."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,700",
+				"to": "00:07:55,600"
+			},
+			"offsets": {
+				"from": 474700,
+				"to": 475600
+			},
+			"text": " It does not."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:55,600",
+				"to": "00:07:59,140"
+			},
+			"offsets": {
+				"from": 475600,
+				"to": 479140
+			},
+			"text": " You know, seeing little kids hold bats, they don't know what to do with it."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,140",
+				"to": "00:08:01,540"
+			},
+			"offsets": {
+				"from": 479140,
+				"to": 481540
+			},
+			"text": " They don't know how to, where to start, how to stand."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,540",
+				"to": "00:08:06,140"
+			},
+			"offsets": {
+				"from": 481540,
+				"to": 486140
+			},
+			"text": " It's a really complex and difficult thing when you're starting for the first time."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,140",
+				"to": "00:08:11,940"
+			},
+			"offsets": {
+				"from": 486140,
+				"to": 491940
+			},
+			"text": " And for whatever reason, I think because it was so simple, but it opened my eyes up to"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,940",
+				"to": "00:08:13,320"
+			},
+			"offsets": {
+				"from": 491940,
+				"to": 493320
+			},
+			"text": " how the baseball swing worked."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,320",
+				"to": "00:08:19,220"
+			},
+			"offsets": {
+				"from": 493320,
+				"to": 499220
+			},
+			"text": " I remember my assistant coach teaching me this phrase, this phrase where he would say that"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,220",
+				"to": "00:08:23,860"
+			},
+			"offsets": {
+				"from": 499220,
+				"to": 503860
+			},
+			"text": " the whole goal when swinging a baseball bat is to squish the bug."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,860",
+				"to": "00:08:25,100"
+			},
+			"offsets": {
+				"from": 503860,
+				"to": 505100
+			},
+			"text": " Anybody ever heard this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,100",
+				"to": "00:08:26,300"
+			},
+			"offsets": {
+				"from": 505100,
+				"to": 506300
+			},
+			"text": " Squish the bug."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,380",
+				"to": "00:08:30,740"
+			},
+			"offsets": {
+				"from": 506380,
+				"to": 510740
+			},
+			"text": " So he would say, you put your weight on your back foot, and you step down like there's an"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,740",
+				"to": "00:08:32,620"
+			},
+			"offsets": {
+				"from": 510740,
+				"to": 512620
+			},
+			"text": " imaginary bug, and you squish it."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,620",
+				"to": "00:08:39,240"
+			},
+			"offsets": {
+				"from": 512620,
+				"to": 519240
+			},
+			"text": " And so for whatever reason, like the whole, really the premise behind a baseball swing"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,240",
+				"to": "00:08:40,760"
+			},
+			"offsets": {
+				"from": 519240,
+				"to": 520760
+			},
+			"text": " is this transfer of weight, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,760",
+				"to": "00:08:43,660"
+			},
+			"offsets": {
+				"from": 520760,
+				"to": 523660
+			},
+			"text": " Like the transfer of energy from your back to your front."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,660",
+				"to": "00:08:50,100"
+			},
+			"offsets": {
+				"from": 523660,
+				"to": 530100
+			},
+			"text": " And as I'm a five or six-year-old trying to learn this new thing that was really difficult"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,100",
+				"to": "00:08:52,840"
+			},
+			"offsets": {
+				"from": 530100,
+				"to": 532840
+			},
+			"text": " and hard, I remember that illustration."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:52,840",
+				"to": "00:08:57,940"
+			},
+			"offsets": {
+				"from": 532840,
+				"to": 537940
+			},
+			"text": " And growing up playing baseball my whole life, I never forgot that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:57,940",
+				"to": "00:09:03,160"
+			},
+			"offsets": {
+				"from": 537940,
+				"to": 543160
+			},
+			"text": " And it still helped me understand the basic mechanics of the baseball swing."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,160",
+				"to": "00:09:08,980"
+			},
+			"offsets": {
+				"from": 543160,
+				"to": 548980
+			},
+			"text": " Or I remember learning to play, trying to learn to play the piano for the first time."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,980",
+				"to": "00:09:11,660"
+			},
+			"offsets": {
+				"from": 548980,
+				"to": 551660
+			},
+			"text": " I don't know if anybody knows how to play the piano or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,960",
+				"to": "00:09:14,320"
+			},
+			"offsets": {
+				"from": 551960,
+				"to": 554320
+			},
+			"text": " I don't know how to play it very well, but we're going to try."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,320",
+				"to": "00:09:20,420"
+			},
+			"offsets": {
+				"from": 554320,
+				"to": 560420
+			},
+			"text": " I remember learning this concept that major chords are made up of the first, the third,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:20,420",
+				"to": "00:09:21,880"
+			},
+			"offsets": {
+				"from": 560420,
+				"to": 561880
+			},
+			"text": " and the fifth note of a scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,880",
+				"to": "00:09:23,720"
+			},
+			"offsets": {
+				"from": 561880,
+				"to": 563720
+			},
+			"text": " So let's see if I don't embarrass myself here."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,720",
+				"to": "00:09:29,020"
+			},
+			"offsets": {
+				"from": 563720,
+				"to": 569020
+			},
+			"text": " So that's C major scale."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,020",
+				"to": "00:09:32,700"
+			},
+			"offsets": {
+				"from": 569020,
+				"to": 572700
+			},
+			"text": " So then you play the first note, the third note, and the fifth note."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:32,700",
+				"to": "00:09:35,560"
+			},
+			"offsets": {
+				"from": 572700,
+				"to": 575560
+			},
+			"text": " That's a chord."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,560",
+				"to": "00:09:36,440"
+			},
+			"offsets": {
+				"from": 575560,
+				"to": 576440
+			},
+			"text": " Can you believe that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:36,440",
+				"to": "00:09:40,600"
+			},
+			"offsets": {
+				"from": 576440,
+				"to": 580600
+			},
+			"text": " If I did any other scale than C major, it would have ended badly."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:40,720",
+				"to": "00:09:46,300"
+			},
+			"offsets": {
+				"from": 580720,
+				"to": 586300
+			},
+			"text": " But then I learned that if you take the third note, and if you make it the second note,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,300",
+				"to": "00:09:51,820"
+			},
+			"offsets": {
+				"from": 586300,
+				"to": 591820
+			},
+			"text": " nope, second note, that's a minor chord."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:51,820",
+				"to": "00:09:56,420"
+			},
+			"offsets": {
+				"from": 591820,
+				"to": 596420
+			},
+			"text": " And then if you go up, it's a sustained chord, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:56,420",
+				"to": "00:10:02,740"
+			},
+			"offsets": {
+				"from": 596420,
+				"to": 602740
+			},
+			"text": " And so it's a simple concept, first, third, fifth, that I learned that opened my eyes to"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:02,740",
+				"to": "00:10:04,540"
+			},
+			"offsets": {
+				"from": 602740,
+				"to": 604540
+			},
+			"text": " how to better play the piano."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,540",
+				"to": "00:10:08,920"
+			},
+			"offsets": {
+				"from": 604540,
+				"to": 608920
+			},
+			"text": " Now, this simple illustration, both Squish the Bug and first, third, and fifth,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:09,480",
+				"to": "00:10:15,340"
+			},
+			"offsets": {
+				"from": 609480,
+				"to": 615340
+			},
+			"text": " did not make me a professional baseball player or, as you can tell, an orchestra pianist."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,340",
+				"to": "00:10:21,860"
+			},
+			"offsets": {
+				"from": 615340,
+				"to": 621860
+			},
+			"text": " But it opened my eyes up to a lifelong process that I could continue to grow and get better"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,860",
+				"to": "00:10:25,500"
+			},
+			"offsets": {
+				"from": 621860,
+				"to": 625500
+			},
+			"text": " in my experience with either swinging a baseball bat or playing a piano."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,500",
+				"to": "00:10:29,580"
+			},
+			"offsets": {
+				"from": 625500,
+				"to": 629580
+			},
+			"text": " I feel like I've gotten a little bit better at swinging a baseball bat, not very much better"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,580",
+				"to": "00:10:30,460"
+			},
+			"offsets": {
+				"from": 629580,
+				"to": 630460
+			},
+			"text": " at playing piano."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,520",
+				"to": "00:10:37,780"
+			},
+			"offsets": {
+				"from": 631520,
+				"to": 637780
+			},
+			"text": " But in both of these stories, a simple concept or illustration took attention in my life,"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,780",
+				"to": "00:10:44,680"
+			},
+			"offsets": {
+				"from": 637780,
+				"to": 644680
+			},
+			"text": " a difficult thing that I was wrestling with, and gave me some insights that invited me"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,680",
+				"to": "00:10:48,120"
+			},
+			"offsets": {
+				"from": 644680,
+				"to": 648120
+			},
+			"text": " into a lifelong process of discovery."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,120",
+				"to": "00:10:53,780"
+			},
+			"offsets": {
+				"from": 648120,
+				"to": 653780
+			},
+			"text": " And in the same way, I think that's what Paul is doing here for Christians in Galatians chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,780",
+				"to": "00:10:59,360"
+			},
+			"offsets": {
+				"from": 653780,
+				"to": 659360
+			},
+			"text": " Paul says, he's taking this tension that every Christian under the sun struggles with."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,360",
+				"to": "00:11:07,080"
+			},
+			"offsets": {
+				"from": 659360,
+				"to": 667080
+			},
+			"text": " And he shares this illustration, this illustration about the fruit of the Spirit that gives some"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,080",
+				"to": "00:11:11,140"
+			},
+			"offsets": {
+				"from": 667080,
+				"to": 671140
+			},
+			"text": " clarity to the believer about how to work out this tension in their everyday lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,140",
+				"to": "00:11:12,400"
+			},
+			"offsets": {
+				"from": 671140,
+				"to": 672400
+			},
+			"text": " And it doesn't solve everything."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,840",
+				"to": "00:11:18,820"
+			},
+			"offsets": {
+				"from": 672840,
+				"to": 678820
+			},
+			"text": " Like, it doesn't make the Christian life simple forever, afterwards, but it invites us into"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,820",
+				"to": "00:11:25,940"
+			},
+			"offsets": {
+				"from": 678820,
+				"to": 685940
+			},
+			"text": " this lifelong process where we can continue to build and grow upon this illustration of fruit"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,940",
+				"to": "00:11:26,380"
+			},
+			"offsets": {
+				"from": 685940,
+				"to": 686380
+			},
+			"text": " of the Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,380",
+				"to": "00:11:28,500"
+			},
+			"offsets": {
+				"from": 686380,
+				"to": 688500
+			},
+			"text": " And so that's my outline for this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,500",
+				"to": "00:11:31,060"
+			},
+			"offsets": {
+				"from": 688500,
+				"to": 691060
+			},
+			"text": " We're going to look at this tension that every Christian struggles with."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,060",
+				"to": "00:11:36,900"
+			},
+			"offsets": {
+				"from": 691060,
+				"to": 696900
+			},
+			"text": " We're going to investigate the illustration that Paul gives to bring clarity to this lifelong"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,900",
+				"to": "00:11:39,940"
+			},
+			"offsets": {
+				"from": 696900,
+				"to": 699940
+			},
+			"text": " process of exploration that we've been invited to."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,940",
+				"to": "00:11:42,060"
+			},
+			"offsets": {
+				"from": 699940,
+				"to": 702060
+			},
+			"text": " Does that sound like a good plan for everybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,840",
+				"to": "00:11:46,360"
+			},
+			"offsets": {
+				"from": 702840,
+				"to": 706360
+			},
+			"text": " I always ask, and I don't know why, because I'm going to do it anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,360",
+				"to": "00:11:48,220"
+			},
+			"offsets": {
+				"from": 706360,
+				"to": 708220
+			},
+			"text": " So, here we go."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,220",
+				"to": "00:11:48,780"
+			},
+			"offsets": {
+				"from": 708220,
+				"to": 708780
+			},
+			"text": " The tension."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:48,780",
+				"to": "00:11:49,800"
+			},
+			"offsets": {
+				"from": 708780,
+				"to": 709800
+			},
+			"text": " Here's the tension."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,800",
+				"to": "00:11:52,480"
+			},
+			"offsets": {
+				"from": 709800,
+				"to": 712480
+			},
+			"text": " Paul shares the tension in Galatians chapter 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,480",
+				"to": "00:11:54,540"
+			},
+			"offsets": {
+				"from": 712480,
+				"to": 714540
+			},
+			"text": " We're going to start in verse 16."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,540",
+				"to": "00:11:59,100"
+			},
+			"offsets": {
+				"from": 714540,
+				"to": 719100
+			},
+			"text": " But really, the entire book of Galatians is wrestling with this tension."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,100",
+				"to": "00:12:02,100"
+			},
+			"offsets": {
+				"from": 719100,
+				"to": 722100
+			},
+			"text": " And Paul says this in verse 16."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,100",
+				"to": "00:12:09,680"
+			},
+			"offsets": {
+				"from": 722100,
+				"to": 729680
+			},
+			"text": " So I say, let the Holy Spirit guide your lives, and then you won't be doing what your sinful"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,680",
+				"to": "00:12:11,300"
+			},
+			"offsets": {
+				"from": 729680,
+				"to": 731300
+			},
+			"text": " nature craves."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,660",
+				"to": "00:12:17,740"
+			},
+			"offsets": {
+				"from": 731660,
+				"to": 737740
+			},
+			"text": " The sinful man wants to do evil, which is just the opposite of what the Spirit wants."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,740",
+				"to": "00:12:23,380"
+			},
+			"offsets": {
+				"from": 737740,
+				"to": 743380
+			},
+			"text": " The Spirit gives us desires that are opposite of what the sinful nature desires."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,380",
+				"to": "00:12:27,280"
+			},
+			"offsets": {
+				"from": 743380,
+				"to": 747280
+			},
+			"text": " These two forces are constantly fighting each other."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:27,280",
+				"to": "00:12:28,060"
+			},
+			"offsets": {
+				"from": 747280,
+				"to": 748060
+			},
+			"text": " Do you feel the tension?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,060",
+				"to": "00:12:30,700"
+			},
+			"offsets": {
+				"from": 748060,
+				"to": 750700
+			},
+			"text": " The Spirit and the flesh, they want different things."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,700",
+				"to": "00:12:32,740"
+			},
+			"offsets": {
+				"from": 750700,
+				"to": 752740
+			},
+			"text": " They're constantly at war with one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,740",
+				"to": "00:12:37,320"
+			},
+			"offsets": {
+				"from": 752740,
+				"to": 757320
+			},
+			"text": " Paul says, so you are not free to carry out your good intentions."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,440",
+				"to": "00:12:40,960"
+			},
+			"offsets": {
+				"from": 757440,
+				"to": 760960
+			},
+			"text": " You don't just get to, for the rest of your life, do everything that you want to do the"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,960",
+				"to": "00:12:41,960"
+			},
+			"offsets": {
+				"from": 760960,
+				"to": 761960
+			},
+			"text": " way that you want to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,960",
+				"to": "00:12:48,840"
+			},
+			"offsets": {
+				"from": 761960,
+				"to": 768840
+			},
+			"text": " But when you were directed by the Spirit, you were not under the obligation of the law of"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,840",
+				"to": "00:12:49,160"
+			},
+			"offsets": {
+				"from": 768840,
+				"to": 769160
+			},
+			"text": " Moses."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,160",
+				"to": "00:12:54,020"
+			},
+			"offsets": {
+				"from": 769160,
+				"to": 774020
+			},
+			"text": " So this tension that Paul shares in Galatians chapter 5 is all over the New Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:54,020",
+				"to": "00:12:59,060"
+			},
+			"offsets": {
+				"from": 774020,
+				"to": 779060
+			},
+			"text": " And it continues to plague followers of Jesus to this day."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,220",
+				"to": "00:13:03,660"
+			},
+			"offsets": {
+				"from": 779220,
+				"to": 783660
+			},
+			"text": " There's a tension between what the Holy Spirit wants to produce in the lives of a believer and"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:03,660",
+				"to": "00:13:06,260"
+			},
+			"offsets": {
+				"from": 783660,
+				"to": 786260
+			},
+			"text": " what we just naturally want to do when we wake up every morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,020",
+				"to": "00:13:09,500"
+			},
+			"offsets": {
+				"from": 787020,
+				"to": 789500
+			},
+			"text": " So I'm not going to ask you to raise your hands because that would be cruel."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,500",
+				"to": "00:13:13,820"
+			},
+			"offsets": {
+				"from": 789500,
+				"to": 793820
+			},
+			"text": " But how many of you have ever had this conversation with God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,820",
+				"to": "00:13:18,680"
+			},
+			"offsets": {
+				"from": 793820,
+				"to": 798680
+			},
+			"text": " God, I am so sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,680",
+				"to": "00:13:23,640"
+			},
+			"offsets": {
+				"from": 798680,
+				"to": 803640
+			},
+			"text": " I am never going to do blank again."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:24,780",
+				"to": "00:13:27,960"
+			},
+			"offsets": {
+				"from": 804780,
+				"to": 807960
+			},
+			"text": " I'm never going to gossip about my co-workers again."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,960",
+				"to": "00:13:33,660"
+			},
+			"offsets": {
+				"from": 807960,
+				"to": 813660
+			},
+			"text": " I am never going to have an angry outburst at my children again."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,660",
+				"to": "00:13:40,080"
+			},
+			"offsets": {
+				"from": 813660,
+				"to": 820080
+			},
+			"text": " I'm never going to get drunk again, look at porn again, steal again, disrespect my parents"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,080",
+				"to": "00:13:48,040"
+			},
+			"offsets": {
+				"from": 820080,
+				"to": 828040
+			},
+			"text": " or my boss again, and so on and so on and so on, only to have the same conversation with"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,040",
+				"to": "00:13:49,280"
+			},
+			"offsets": {
+				"from": 828040,
+				"to": 829280
+			},
+			"text": " God 27 minutes later."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,280",
+				"to": "00:13:50,720"
+			},
+			"offsets": {
+				"from": 829280,
+				"to": 830720
+			},
+			"text": " Anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,720",
+				"to": "00:13:51,820"
+			},
+			"offsets": {
+				"from": 830720,
+				"to": 831820
+			},
+			"text": " Anybody?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:53,140",
+				"to": "00:13:58,240"
+			},
+			"offsets": {
+				"from": 833140,
+				"to": 838240
+			},
+			"text": " Okay, well, just to put your minds at ease, we all would have raised our hands, and so"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,240",
+				"to": "00:14:02,880"
+			},
+			"offsets": {
+				"from": 838240,
+				"to": 842880
+			},
+			"text": " would Paul, the apostle, who wrote a huge majority of the New Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:02,880",
+				"to": "00:14:06,760"
+			},
+			"offsets": {
+				"from": 842880,
+				"to": 846760
+			},
+			"text": " He gives us an insight into this tension in his own life, which I love this."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:06,760",
+				"to": "00:14:07,680"
+			},
+			"offsets": {
+				"from": 846760,
+				"to": 847680
+			},
+			"text": " I love his vulnerability."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:07,680",
+				"to": "00:14:10,500"
+			},
+			"offsets": {
+				"from": 847680,
+				"to": 850500
+			},
+			"text": " We say all the time at Canvas, we're real people with real lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,500",
+				"to": "00:14:13,600"
+			},
+			"offsets": {
+				"from": 850500,
+				"to": 853600
+			},
+			"text": " That's because the writers of Scripture were real people with real lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:13,600",
+				"to": "00:14:18,060"
+			},
+			"offsets": {
+				"from": 853600,
+				"to": 858060
+			},
+			"text": " Like, followers of Jesus are real people with real lives, real tension, real struggle."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,060",
+				"to": "00:14:22,320"
+			},
+			"offsets": {
+				"from": 858060,
+				"to": 862320
+			},
+			"text": " Paul says this about his own Christian life in Romans chapter 7."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,440",
+				"to": "00:14:28,340"
+			},
+			"offsets": {
+				"from": 862440,
+				"to": 868340
+			},
+			"text": " He says, I have discovered this principle of life, that when I want to do what is right,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,340",
+				"to": "00:14:30,960"
+			},
+			"offsets": {
+				"from": 868340,
+				"to": 870960
+			},
+			"text": " I inevitably do what is wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,960",
+				"to": "00:14:33,640"
+			},
+			"offsets": {
+				"from": 870960,
+				"to": 873640
+			},
+			"text": " How real and authentic is that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,640",
+				"to": "00:14:40,560"
+			},
+			"offsets": {
+				"from": 873640,
+				"to": 880560
+			},
+			"text": " He says, I love God's law with all of my heart, but there is another power within me that is"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,560",
+				"to": "00:14:42,140"
+			},
+			"offsets": {
+				"from": 880560,
+				"to": 882140
+			},
+			"text": " at war with my mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:42,140",
+				"to": "00:14:47,240"
+			},
+			"offsets": {
+				"from": 882140,
+				"to": 887240
+			},
+			"text": " This power makes me a slave to sin that is still within me."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:47,240",
+				"to": "00:14:51,020"
+			},
+			"offsets": {
+				"from": 887240,
+				"to": 891020
+			},
+			"text": " He says, oh, what a miserable man I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,020",
+				"to": "00:14:54,180"
+			},
+			"offsets": {
+				"from": 891020,
+				"to": 894180
+			},
+			"text": " Anybody feel this tension?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:54,180",
+				"to": "00:14:56,840"
+			},
+			"offsets": {
+				"from": 894180,
+				"to": 896840
+			},
+			"text": " This desire to do what God calls you to do?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,840",
+				"to": "00:15:01,420"
+			},
+			"offsets": {
+				"from": 896840,
+				"to": 901420
+			},
+			"text": " This desire to become more like Jesus, all while knowing that day in and day out, you act"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,420",
+				"to": "00:15:02,680"
+			},
+			"offsets": {
+				"from": 901420,
+				"to": 902680
+			},
+			"text": " outside of that desire?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,680",
+				"to": "00:15:05,800"
+			},
+			"offsets": {
+				"from": 902680,
+				"to": 905800
+			},
+			"text": " This is the tension of the Christian life."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:07,240",
+				"to": "00:15:11,400"
+			},
+			"offsets": {
+				"from": 907240,
+				"to": 911400
+			},
+			"text": " And oftentimes, we tend to respond to that tension with two responses."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:11,400",
+				"to": "00:15:16,840"
+			},
+			"offsets": {
+				"from": 911400,
+				"to": 916840
+			},
+			"text": " We either respond with legalism or with license."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,840",
+				"to": "00:15:19,040"
+			},
+			"offsets": {
+				"from": 916840,
+				"to": 919040
+			},
+			"text": " Two L's because I'm a good preacher, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:19,040",
+				"to": "00:15:20,020"
+			},
+			"offsets": {
+				"from": 919040,
+				"to": 920020
+			},
+			"text": " Stick with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,020",
+				"to": "00:15:23,480"
+			},
+			"offsets": {
+				"from": 920020,
+				"to": 923480
+			},
+			"text": " License is a weird word, but you've got to use it because it starts with an L, and that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,480",
+				"to": "00:15:23,860"
+			},
+			"offsets": {
+				"from": 923480,
+				"to": 923860
+			},
+			"text": " what we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,860",
+				"to": "00:15:26,120"
+			},
+			"offsets": {
+				"from": 923860,
+				"to": 926120
+			},
+			"text": " So legalism, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,120",
+				"to": "00:15:28,820"
+			},
+			"offsets": {
+				"from": 926120,
+				"to": 928820
+			},
+			"text": " We try and legislate the behavior out of our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,820",
+				"to": "00:15:33,020"
+			},
+			"offsets": {
+				"from": 928820,
+				"to": 933020
+			},
+			"text": " We try and say, I'm never going to do this thing again, so I'm going to create this box"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,020",
+				"to": "00:15:33,600"
+			},
+			"offsets": {
+				"from": 933020,
+				"to": 933600
+			},
+			"text": " around my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,600",
+				"to": "00:15:36,000"
+			},
+			"offsets": {
+				"from": 933600,
+				"to": 936000
+			},
+			"text": " I'm going to force myself to do these things that I don't want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,000",
+				"to": "00:15:37,820"
+			},
+			"offsets": {
+				"from": 936000,
+				"to": 937820
+			},
+			"text": " We try and legislate it."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,820",
+				"to": "00:15:39,860"
+			},
+			"offsets": {
+				"from": 937820,
+				"to": 939860
+			},
+			"text": " We try and create this legalistic mindset."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,860",
+				"to": "00:15:43,880"
+			},
+			"offsets": {
+				"from": 939860,
+				"to": 943880
+			},
+			"text": " And for any of us that have tried it, it works for a little bit."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:43,880",
+				"to": "00:15:46,560"
+			},
+			"offsets": {
+				"from": 943880,
+				"to": 946560
+			},
+			"text": " And then sometimes it makes it worse."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:46,560",
+				"to": "00:15:52,300"
+			},
+			"offsets": {
+				"from": 946560,
+				"to": 952300
+			},
+			"text": " Legalism falls short of God's design for the Christian life."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:52,300",
+				"to": "00:15:58,160"
+			},
+			"offsets": {
+				"from": 952300,
+				"to": 958160
+			},
+			"text": " Paul says in Galatians earlier in the book, he says, if righteousness comes through the law,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:58,160",
+				"to": "00:16:02,920"
+			},
+			"offsets": {
+				"from": 958160,
+				"to": 962920
+			},
+			"text": " if righteousness comes from our being able to do it, being able to create a law, a structure"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,920",
+				"to": "00:16:06,300"
+			},
+			"offsets": {
+				"from": 962920,
+				"to": 966300
+			},
+			"text": " around our lives, then Christ died for no purpose."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,300",
+				"to": "00:16:12,420"
+			},
+			"offsets": {
+				"from": 966300,
+				"to": 972420
+			},
+			"text": " Since legalism is wasting the sacrificial death of Jesus on your behalf."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:12,420",
+				"to": "00:16:13,720"
+			},
+			"offsets": {
+				"from": 972420,
+				"to": 973720
+			},
+			"text": " Legalism is not the answer."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:13,720",
+				"to": "00:16:16,620"
+			},
+			"offsets": {
+				"from": 973720,
+				"to": 976620
+			},
+			"text": " The second thing that we often turn to is license."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:16,620",
+				"to": "00:16:22,240"
+			},
+			"offsets": {
+				"from": 976620,
+				"to": 982240
+			},
+			"text": " We start to redefine what is right and wrong, and we convince ourselves that God doesn't care"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:22,240",
+				"to": "00:16:28,160"
+			},
+			"offsets": {
+				"from": 982240,
+				"to": 988160
+			},
+			"text": " about our behavior, that God just wants to keep forgiving us and abounding us with more"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,160",
+				"to": "00:16:28,740"
+			},
+			"offsets": {
+				"from": 988160,
+				"to": 988740
+			},
+			"text": " and more grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,740",
+				"to": "00:16:32,060"
+			},
+			"offsets": {
+				"from": 988740,
+				"to": 992060
+			},
+			"text": " And he doesn't care if we try and be obedient or we try and grow in our faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,060",
+				"to": "00:16:32,780"
+			},
+			"offsets": {
+				"from": 992060,
+				"to": 992780
+			},
+			"text": " He doesn't care."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,780",
+				"to": "00:16:36,660"
+			},
+			"offsets": {
+				"from": 992780,
+				"to": 996660
+			},
+			"text": " This is the struggle that Paul wrestles with in Romans."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:36,660",
+				"to": "00:16:41,340"
+			},
+			"offsets": {
+				"from": 996660,
+				"to": 1001340
+			},
+			"text": " He says the Romans, he kind of asks this hypothetical question that he hears from people."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,340",
+				"to": "00:16:46,600"
+			},
+			"offsets": {
+				"from": 1001340,
+				"to": 1006600
+			},
+			"text": " They say, shouldn't we just keep on sinning so that grace, so that God can show us more"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,600",
+				"to": "00:16:48,140"
+			},
+			"offsets": {
+				"from": 1006600,
+				"to": 1008140
+			},
+			"text": " and more of his wonderful grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:48,140",
+				"to": "00:16:53,500"
+			},
+			"offsets": {
+				"from": 1008140,
+				"to": 1013500
+			},
+			"text": " So if we tried legalism and it failed, then oftentimes we say, I'm just, I'm a sinner."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,500",
+				"to": "00:16:54,880"
+			},
+			"offsets": {
+				"from": 1013500,
+				"to": 1014880
+			},
+			"text": " I'm broken."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:54,880",
+				"to": "00:16:56,260"
+			},
+			"offsets": {
+				"from": 1014880,
+				"to": 1016260
+			},
+			"text": " I'm never going to get it right."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,260",
+				"to": "00:16:59,640"
+			},
+			"offsets": {
+				"from": 1016260,
+				"to": 1019640
+			},
+			"text": " So I'm just going to keep on sinning more and more because God loves me and his grace"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,640",
+				"to": "00:17:01,060"
+			},
+			"offsets": {
+				"from": 1019640,
+				"to": 1021060
+			},
+			"text": " is wonderful and awesome."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,060",
+				"to": "00:17:06,380"
+			},
+			"offsets": {
+				"from": 1021060,
+				"to": 1026380
+			},
+			"text": " Now, in both of these realities, there's truth, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,380",
+				"to": "00:17:13,400"
+			},
+			"offsets": {
+				"from": 1026380,
+				"to": 1033400
+			},
+			"text": " Like, God cares about our behavior and we should participate in this process of being made like"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,400",
+				"to": "00:17:16,440"
+			},
+			"offsets": {
+				"from": 1033400,
+				"to": 1036440
+			},
+			"text": " Jesus, but it can't happen to the extent of legalism."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,440",
+				"to": "00:17:23,220"
+			},
+			"offsets": {
+				"from": 1036440,
+				"to": 1043220
+			},
+			"text": " And at the same time, like, God is abounding in grace and love and we cannot out sin the forgiveness"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:23,220",
+				"to": "00:17:24,360"
+			},
+			"offsets": {
+				"from": 1043220,
+				"to": 1044360
+			},
+			"text": " and grace of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,360",
+				"to": "00:17:29,000"
+			},
+			"offsets": {
+				"from": 1044360,
+				"to": 1049000
+			},
+			"text": " But both of these solutions fall short."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:29,860",
+				"to": "00:17:35,340"
+			},
+			"offsets": {
+				"from": 1049860,
+				"to": 1055340
+			},
+			"text": " They fall short of God's design for our lives and they rob us of the abundant life that Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:35,340",
+				"to": "00:17:37,600"
+			},
+			"offsets": {
+				"from": 1055340,
+				"to": 1057600
+			},
+			"text": " died to purchase."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,600",
+				"to": "00:17:42,220"
+			},
+			"offsets": {
+				"from": 1057600,
+				"to": 1062220
+			},
+			"text": " So if legalism and license aren't the answer, then how do we solve this tension?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,220",
+				"to": "00:17:47,740"
+			},
+			"offsets": {
+				"from": 1062220,
+				"to": 1067740
+			},
+			"text": " Well, I think that's why Paul introduces this illustration of fruit of the Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,740",
+				"to": "00:17:53,180"
+			},
+			"offsets": {
+				"from": 1067740,
+				"to": 1073180
+			},
+			"text": " I think this illustration opens up our minds to how we can participate with God in the process."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,500",
+				"to": "00:17:59,640"
+			},
+			"offsets": {
+				"from": 1073500,
+				"to": 1079640
+			},
+			"text": " In verse 19, he says, when you follow the desires of your sinful nature, the results are very"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,640",
+				"to": "00:18:00,040"
+			},
+			"offsets": {
+				"from": 1079640,
+				"to": 1080040
+			},
+			"text": " clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,040",
+				"to": "00:18:03,000"
+			},
+			"offsets": {
+				"from": 1080040,
+				"to": 1083000
+			},
+			"text": " Sexual immorality, impurity, lustful pleasures."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,000",
+				"to": "00:18:05,000"
+			},
+			"offsets": {
+				"from": 1083000,
+				"to": 1085000
+			},
+			"text": " This is the part we don't put on the coffee mug."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,000",
+				"to": "00:18:06,600"
+			},
+			"offsets": {
+				"from": 1085000,
+				"to": 1086600
+			},
+			"text": " So if you're not familiar with it, that's why."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:06,600",
+				"to": "00:18:15,120"
+			},
+			"offsets": {
+				"from": 1086600,
+				"to": 1095120
+			},
+			"text": " Idolatry, sorcery, hostility, quarreling, jealousy, outbursts of anger, selfish ambition,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,120",
+				"to": "00:18:18,640"
+			},
+			"offsets": {
+				"from": 1095120,
+				"to": 1098640
+			},
+			"text": " dissension, division, envy, drunkenness, wild parties."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:18,640",
+				"to": "00:18:20,540"
+			},
+			"offsets": {
+				"from": 1098640,
+				"to": 1100540
+			},
+			"text": " Again, this would not look good on a t-shirt."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:20,960",
+				"to": "00:18:26,860"
+			},
+			"offsets": {
+				"from": 1100960,
+				"to": 1106860
+			},
+			"text": " And other sins like these, let me tell you again, as I have before, that anyone living"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,860",
+				"to": "00:18:30,040"
+			},
+			"offsets": {
+				"from": 1106860,
+				"to": 1110040
+			},
+			"text": " that sort of life will not inherit the kingdom of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,040",
+				"to": "00:18:35,240"
+			},
+			"offsets": {
+				"from": 1110040,
+				"to": 1115240
+			},
+			"text": " But the Holy Spirit, who does it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:35,240",
+				"to": "00:18:36,160"
+			},
+			"offsets": {
+				"from": 1115240,
+				"to": 1116160
+			},
+			"text": " Do you do it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,160",
+				"to": "00:18:37,160"
+			},
+			"offsets": {
+				"from": 1116160,
+				"to": 1117160
+			},
+			"text": " Or does the Holy Spirit do it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,160",
+				"to": "00:18:41,780"
+			},
+			"offsets": {
+				"from": 1117160,
+				"to": 1121780
+			},
+			"text": " The Holy Spirit produces this kind of fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,780",
+				"to": "00:18:47,920"
+			},
+			"offsets": {
+				"from": 1121780,
+				"to": 1127920
+			},
+			"text": " Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,560",
+				"to": "00:18:52,660"
+			},
+			"offsets": {
+				"from": 1128560,
+				"to": 1132660
+			},
+			"text": " There is no law against such things."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,660",
+				"to": "00:18:58,720"
+			},
+			"offsets": {
+				"from": 1132660,
+				"to": 1138720
+			},
+			"text": " So there are multiple illustrations in the New Testament that Paul and other writers use"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:58,720",
+				"to": "00:19:03,740"
+			},
+			"offsets": {
+				"from": 1138720,
+				"to": 1143740
+			},
+			"text": " to try and wrestle with this tension of you don't do what you want to do, like you want"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,740",
+				"to": "00:19:05,560"
+			},
+			"offsets": {
+				"from": 1143740,
+				"to": 1145560
+			},
+			"text": " to obey God and you try and you fail."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:05,560",
+				"to": "00:19:08,080"
+			},
+			"offsets": {
+				"from": 1145560,
+				"to": 1148080
+			},
+			"text": " And then you do what you don't want to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:08,080",
+				"to": "00:19:10,200"
+			},
+			"offsets": {
+				"from": 1148080,
+				"to": 1150200
+			},
+			"text": " You naturally just sin and sin and sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,760",
+				"to": "00:19:15,700"
+			},
+			"offsets": {
+				"from": 1150760,
+				"to": 1155700
+			},
+			"text": " And the writers of the New Testament use multiple illustrations, things like you are born again."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:15,700",
+				"to": "00:19:19,040"
+			},
+			"offsets": {
+				"from": 1155700,
+				"to": 1159040
+			},
+			"text": " You've been adopted into a new family."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,040",
+				"to": "00:19:21,160"
+			},
+			"offsets": {
+				"from": 1159040,
+				"to": 1161160
+			},
+			"text": " You have been crucified with Christ, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:21,160",
+				"to": "00:19:22,440"
+			},
+			"offsets": {
+				"from": 1161160,
+				"to": 1162440
+			},
+			"text": " You're familiar with this language."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,440",
+				"to": "00:19:23,680"
+			},
+			"offsets": {
+				"from": 1162440,
+				"to": 1163680
+			},
+			"text": " You've died."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,680",
+				"to": "00:19:24,440"
+			},
+			"offsets": {
+				"from": 1163680,
+				"to": 1164440
+			},
+			"text": " You've been buried."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,440",
+				"to": "00:19:26,840"
+			},
+			"offsets": {
+				"from": 1164440,
+				"to": 1166840
+			},
+			"text": " And you've been brought to new life."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:26,920",
+				"to": "00:19:31,800"
+			},
+			"offsets": {
+				"from": 1166920,
+				"to": 1171800
+			},
+			"text": " And the goal is to show, like, hey, this old sinful nature in you has been put to death"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,800",
+				"to": "00:19:34,280"
+			},
+			"offsets": {
+				"from": 1171800,
+				"to": 1174280
+			},
+			"text": " and you've been adopted into a new family."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:34,280",
+				"to": "00:19:37,660"
+			},
+			"offsets": {
+				"from": 1174280,
+				"to": 1177660
+			},
+			"text": " The family code is no longer that of sin and selfishness."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:37,660",
+				"to": "00:19:40,540"
+			},
+			"offsets": {
+				"from": 1177660,
+				"to": 1180540
+			},
+			"text": " The family code is that of what Jesus modeled for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,540",
+				"to": "00:19:43,260"
+			},
+			"offsets": {
+				"from": 1180540,
+				"to": 1183260
+			},
+			"text": " And all of these illustrations are helpful and good."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,340",
+				"to": "00:19:50,880"
+			},
+			"offsets": {
+				"from": 1183340,
+				"to": 1190880
+			},
+			"text": " But I personally think that this illustration of fruit does the best job at reconciling how"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:50,880",
+				"to": "00:19:54,300"
+			},
+			"offsets": {
+				"from": 1190880,
+				"to": 1194300
+			},
+			"text": " the individual Christian participates in this process."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:54,300",
+				"to": "00:20:00,760"
+			},
+			"offsets": {
+				"from": 1194300,
+				"to": 1200760
+			},
+			"text": " See, when Marissa and I moved out here, we bought an old house with a couple acres."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,760",
+				"to": "00:20:09,460"
+			},
+			"offsets": {
+				"from": 1200760,
+				"to": 1209460
+			},
+			"text": " And ever since then, I've had this desire to use the land, to grow a garden, to plant things,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,460",
+				"to": "00:20:12,080"
+			},
+			"offsets": {
+				"from": 1209460,
+				"to": 1212080
+			},
+			"text": " to get animals, to do all of the things."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,220",
+				"to": "00:20:16,180"
+			},
+			"offsets": {
+				"from": 1213220,
+				"to": 1216180
+			},
+			"text": " And it's been, what, over a year now?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,180",
+				"to": "00:20:18,180"
+			},
+			"offsets": {
+				"from": 1216180,
+				"to": 1218180
+			},
+			"text": " I haven't done any."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,180",
+				"to": "00:20:19,400"
+			},
+			"offsets": {
+				"from": 1218180,
+				"to": 1219400
+			},
+			"text": " I haven't."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,400",
+				"to": "00:20:28,500"
+			},
+			"offsets": {
+				"from": 1219400,
+				"to": 1228500
+			},
+			"text": " And the reason that I haven't, I really like the idea of eating off of the land that God"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,500",
+				"to": "00:20:29,580"
+			},
+			"offsets": {
+				"from": 1228500,
+				"to": 1229580
+			},
+			"text": " has provided for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,580",
+				"to": "00:20:30,720"
+			},
+			"offsets": {
+				"from": 1229580,
+				"to": 1230720
+			},
+			"text": " But here's why I haven't."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,720",
+				"to": "00:20:31,880"
+			},
+			"offsets": {
+				"from": 1230720,
+				"to": 1231880
+			},
+			"text": " Because I know."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:31,880",
+				"to": "00:20:41,100"
+			},
+			"offsets": {
+				"from": 1231880,
+				"to": 1241100
+			},
+			"text": " I know the moment that I till up a piece of ground that I am starting a lifelong war against"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,100",
+				"to": "00:20:42,400"
+			},
+			"offsets": {
+				"from": 1241100,
+				"to": 1242400
+			},
+			"text": " the effects of the curse."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,100",
+				"to": "00:20:43,280"
+			},
+			"offsets": {
+				"from": 1243100,
+				"to": 1243280
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,280",
+				"to": "00:20:45,420"
+			},
+			"offsets": {
+				"from": 1243280,
+				"to": 1245420
+			},
+			"text": " Like, we get this in Genesis chapter 3."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,420",
+				"to": "00:20:50,000"
+			},
+			"offsets": {
+				"from": 1245420,
+				"to": 1250000
+			},
+			"text": " Like, God says, part of the fall is like, it's hard to produce things."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,000",
+				"to": "00:20:51,460"
+			},
+			"offsets": {
+				"from": 1250000,
+				"to": 1251460
+			},
+			"text": " Work is hard."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,460",
+				"to": "00:20:53,940"
+			},
+			"offsets": {
+				"from": 1251460,
+				"to": 1253940
+			},
+			"text": " Taking care of the land is difficult."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,940",
+				"to": "00:20:59,100"
+			},
+			"offsets": {
+				"from": 1253940,
+				"to": 1259100
+			},
+			"text": " And I know the moment that I till up the land, there's going to be animals that come out of"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,100",
+				"to": "00:21:02,160"
+			},
+			"offsets": {
+				"from": 1259100,
+				"to": 1262160
+			},
+			"text": " nowhere to try and eat the fruit that I'm trying to harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,160",
+				"to": "00:21:07,040"
+			},
+			"offsets": {
+				"from": 1262160,
+				"to": 1267040
+			},
+			"text": " There's going to be weather things that I can't predict or don't know about."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,120",
+				"to": "00:21:10,960"
+			},
+			"offsets": {
+				"from": 1267120,
+				"to": 1270960
+			},
+			"text": " There's going to be weeds that start to grow up around the plant that I'm trying to harvest."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,960",
+				"to": "00:21:17,580"
+			},
+			"offsets": {
+				"from": 1270960,
+				"to": 1277580
+			},
+			"text": " There's going to be all of this outside forces at work to keep the garden from producing fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,580",
+				"to": "00:21:22,400"
+			},
+			"offsets": {
+				"from": 1278580,
+				"to": 1282400
+			},
+			"text": " The second thing is I personally know nothing about plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,400",
+				"to": "00:21:26,780"
+			},
+			"offsets": {
+				"from": 1282400,
+				"to": 1286780
+			},
+			"text": " Like, it's embarrassing how much I don't know about plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,780",
+				"to": "00:21:31,860"
+			},
+			"offsets": {
+				"from": 1286780,
+				"to": 1291860
+			},
+			"text": " And I know that if I'm going to garden, I should probably know a few things about the plants in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,940",
+				"to": "00:21:36,640"
+			},
+			"offsets": {
+				"from": 1291940,
+				"to": 1296640
+			},
+			"text": " I should know the difference between the weed and the plant because that could be problematic, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:36,640",
+				"to": "00:21:42,100"
+			},
+			"offsets": {
+				"from": 1296640,
+				"to": 1302100
+			},
+			"text": " And so, I haven't gotten over these lame excuses."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:42,280",
+				"to": "00:21:48,460"
+			},
+			"offsets": {
+				"from": 1302280,
+				"to": 1308460
+			},
+			"text": " But if I did, if I got over these lame excuses, started a garden, and then one day in the next few months"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,460",
+				"to": "00:21:53,100"
+			},
+			"offsets": {
+				"from": 1308460,
+				"to": 1313100
+			},
+			"text": " was able to harvest a cucumber or two and slice it up and put it in my salad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,100",
+				"to": "00:21:58,140"
+			},
+			"offsets": {
+				"from": 1313100,
+				"to": 1318140
+			},
+			"text": " would it make sense for me to sit back, take a bite of that cucumber, and say,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,140",
+				"to": "00:22:02,720"
+			},
+			"offsets": {
+				"from": 1318140,
+				"to": 1322720
+			},
+			"text": " man, I am so proud that I grew this cucumber?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,720",
+				"to": "00:22:05,180"
+			},
+			"offsets": {
+				"from": 1322720,
+				"to": 1325180
+			},
+			"text": " Would that make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,180",
+				"to": "00:22:10,100"
+			},
+			"offsets": {
+				"from": 1325180,
+				"to": 1330100
+			},
+			"text": " No, it wouldn't because I didn't grow the cucumber."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:10,100",
+				"to": "00:22:11,960"
+			},
+			"offsets": {
+				"from": 1330100,
+				"to": 1331960
+			},
+			"text": " I cannot grow a cucumber."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,960",
+				"to": "00:22:17,280"
+			},
+			"offsets": {
+				"from": 1331960,
+				"to": 1337280
+			},
+			"text": " Nothing, like, growing a cucumber takes so many things outside of my control."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,280",
+				"to": "00:22:21,000"
+			},
+			"offsets": {
+				"from": 1337280,
+				"to": 1341000
+			},
+			"text": " Sunlight, photosynthesis, like, soil that I didn't create."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,000",
+				"to": "00:22:27,420"
+			},
+			"offsets": {
+				"from": 1341000,
+				"to": 1347420
+			},
+			"text": " There's so many aspects of the cucumber coming to life out of the soil that God's in charge of"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,420",
+				"to": "00:22:29,180"
+			},
+			"offsets": {
+				"from": 1347420,
+				"to": 1349180
+			},
+			"text": " that I have no control over."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,180",
+				"to": "00:22:35,820"
+			},
+			"offsets": {
+				"from": 1349180,
+				"to": 1355820
+			},
+			"text": " But what I can do and pretty much have to do if I want this garden to produce fruit"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:35,820",
+				"to": "00:22:39,040"
+			},
+			"offsets": {
+				"from": 1355820,
+				"to": 1359040
+			},
+			"text": " is I have to work to create a hospitable environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:40,100",
+				"to": "00:22:44,760"
+			},
+			"offsets": {
+				"from": 1360100,
+				"to": 1364760
+			},
+			"text": " For God's work to happen in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,760",
+				"to": "00:22:51,520"
+			},
+			"offsets": {
+				"from": 1364760,
+				"to": 1371520
+			},
+			"text": " And if you're here and you're a follower of Jesus, God has taken up residence in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,520",
+				"to": "00:22:54,420"
+			},
+			"offsets": {
+				"from": 1371520,
+				"to": 1374420
+			},
+			"text": " The scriptures say the Holy Spirit has come into your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:54,420",
+				"to": "00:23:00,780"
+			},
+			"offsets": {
+				"from": 1374420,
+				"to": 1380780
+			},
+			"text": " Essentially what Paul is saying is God has shown up in your life and he has planted a garden on your property."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,960",
+				"to": "00:23:08,180"
+			},
+			"offsets": {
+				"from": 1380960,
+				"to": 1388180
+			},
+			"text": " God has planted a garden on your property and his goal, his purpose, is to create the fruit of the Spirit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:08,180",
+				"to": "00:23:12,900"
+			},
+			"offsets": {
+				"from": 1388180,
+				"to": 1392900
+			},
+			"text": " God has planted a garden with all of these aspects of the character of Jesus in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,900",
+				"to": "00:23:21,900"
+			},
+			"offsets": {
+				"from": 1392900,
+				"to": 1401900
+			},
+			"text": " His goal is to conform you into the image of Jesus, which is love, joy, peace, patience, kindness, goodness,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,140",
+				"to": "00:23:24,140"
+			},
+			"offsets": {
+				"from": 1402140,
+				"to": 1404140
+			},
+			"text": " faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,140",
+				"to": "00:23:28,740"
+			},
+			"offsets": {
+				"from": 1404140,
+				"to": 1408740
+			},
+			"text": " This is the goal of God in the life of a believer."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:28,740",
+				"to": "00:23:36,340"
+			},
+			"offsets": {
+				"from": 1408740,
+				"to": 1416340
+			},
+			"text": " But the moment he does that, stuff comes out."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,340",
+				"to": "00:23:40,260"
+			},
+			"offsets": {
+				"from": 1416340,
+				"to": 1420260
+			},
+			"text": " Like your own sinful flesh comes out."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:40,260",
+				"to": "00:23:46,320"
+			},
+			"offsets": {
+				"from": 1420260,
+				"to": 1426320
+			},
+			"text": " The enemy at work outside of your life wants to keep that fruit from being produced in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:46,380",
+				"to": "00:23:48,520"
+			},
+			"offsets": {
+				"from": 1426380,
+				"to": 1428520
+			},
+			"text": " And you can't do anything to produce the fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:48,520",
+				"to": "00:23:49,580"
+			},
+			"offsets": {
+				"from": 1428520,
+				"to": 1429580
+			},
+			"text": " God did it all."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,580",
+				"to": "00:23:59,820"
+			},
+			"offsets": {
+				"from": 1429580,
+				"to": 1439820
+			},
+			"text": " But what you can do is work to create a hospitable environment for the Holy Spirit to produce this fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,820",
+				"to": "00:24:01,720"
+			},
+			"offsets": {
+				"from": 1439820,
+				"to": 1441720
+			},
+			"text": " This is your responsibility."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,720",
+				"to": "00:24:05,980"
+			},
+			"offsets": {
+				"from": 1441720,
+				"to": 1445980
+			},
+			"text": " This is how this tension works out."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,980",
+				"to": "00:24:09,160"
+			},
+			"offsets": {
+				"from": 1445980,
+				"to": 1449160
+			},
+			"text": " God produces fruit, but you can create a hospitable environment."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,160",
+				"to": "00:24:09,960"
+			},
+			"offsets": {
+				"from": 1449160,
+				"to": 1449960
+			},
+			"text": " How do we do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,960",
+				"to": "00:24:10,900"
+			},
+			"offsets": {
+				"from": 1449960,
+				"to": 1450900
+			},
+			"text": " What does that look like?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,540",
+				"to": "00:24:18,940"
+			},
+			"offsets": {
+				"from": 1452540,
+				"to": 1458940
+			},
+			"text": " Well, number one, you identify the outside influences that want to infringe on the Spirit producing the fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,940",
+				"to": "00:24:26,620"
+			},
+			"offsets": {
+				"from": 1458940,
+				"to": 1466620
+			},
+			"text": " And Paul gives us a list here of some culturally relevant sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,620",
+				"to": "00:24:34,360"
+			},
+			"offsets": {
+				"from": 1466620,
+				"to": 1474360
+			},
+			"text": " You know, Paul's reacting specifically to sins that he knows are true in the church of Galatia."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:34,520",
+				"to": "00:24:44,340"
+			},
+			"offsets": {
+				"from": 1474520,
+				"to": 1484340
+			},
+			"text": " And so I'm not going to spend a whole ton of time diving into the specifics of the outside forces that are at work trying to keep the Holy Spirit from producing fruit in the lives of the Galatians."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,340",
+				"to": "00:24:53,700"
+			},
+			"offsets": {
+				"from": 1484340,
+				"to": 1493700
+			},
+			"text": " But I do think this list of sins falls into a pretty nice category of sins that we still wrestle with to this day."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:55,480",
+				"to": "00:24:58,660"
+			},
+			"offsets": {
+				"from": 1495480,
+				"to": 1498660
+			},
+			"text": " All of this list of sins, they fall into like three categories."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,660",
+				"to": "00:25:03,080"
+			},
+			"offsets": {
+				"from": 1498660,
+				"to": 1503080
+			},
+			"text": " There's sexual sin, there's spiritual sin, and there's relational sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:03,080",
+				"to": "00:25:07,300"
+			},
+			"offsets": {
+				"from": 1503080,
+				"to": 1507300
+			},
+			"text": " And these categories still work pretty nicely for where we're at today."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:07,300",
+				"to": "00:25:08,200"
+			},
+			"offsets": {
+				"from": 1507300,
+				"to": 1508200
+			},
+			"text": " It might look differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,200",
+				"to": "00:25:12,500"
+			},
+			"offsets": {
+				"from": 1508200,
+				"to": 1512500
+			},
+			"text": " Like sorcery probably isn't a sin that many of us in the room are struggling with."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,500",
+				"to": "00:25:20,460"
+			},
+			"offsets": {
+				"from": 1512500,
+				"to": 1520460
+			},
+			"text": " But idolatry, like worshiping things that aren't God, is a spiritual sin that you and I still struggle with."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,160",
+				"to": "00:25:33,600"
+			},
+			"offsets": {
+				"from": 1524160,
+				"to": 1533600
+			},
+			"text": " Because prostitution might not be a sin that you and I struggle with, but there is sexual sins that we struggle with, selfishness in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,600",
+				"to": "00:25:39,380"
+			},
+			"offsets": {
+				"from": 1533600,
+				"to": 1539380
+			},
+			"text": " And I think in each one of these areas of sin, the driving, motivating thing behind it is selfishness."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:39,380",
+				"to": "00:25:45,520"
+			},
+			"offsets": {
+				"from": 1539380,
+				"to": 1545520
+			},
+			"text": " We treat our sexuality in such a way that benefits us, and we don't care how it impacts those around us."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,520",
+				"to": "00:25:50,080"
+			},
+			"offsets": {
+				"from": 1545520,
+				"to": 1550080
+			},
+			"text": " We treat our spiritual lives very inwardly."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:50,140",
+				"to": "00:25:56,120"
+			},
+			"offsets": {
+				"from": 1550140,
+				"to": 1556120
+			},
+			"text": " We only care about our own spiritual lives and how it affects us, and we don't think about how the implications are on other people."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,120",
+				"to": "00:26:02,500"
+			},
+			"offsets": {
+				"from": 1556120,
+				"to": 1562500
+			},
+			"text": " Relationally, the longest part of this list, Paul lists like 20 sins and like 16 of them are relational."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:02,500",
+				"to": "00:26:06,760"
+			},
+			"offsets": {
+				"from": 1562500,
+				"to": 1566760
+			},
+			"text": " He cares about how we treat our neighbors, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,620",
+				"to": "00:26:19,160"
+			},
+			"offsets": {
+				"from": 1568620,
+				"to": 1579160
+			},
+			"text": " And so often, the predators that come out that try and keep us, that try and keep the Holy Spirit from producing the fruit in our lives,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,160",
+				"to": "00:26:22,540"
+			},
+			"offsets": {
+				"from": 1579160,
+				"to": 1582540
+			},
+			"text": " is this selfish desire."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,540",
+				"to": "00:26:26,900"
+			},
+			"offsets": {
+				"from": 1582540,
+				"to": 1586900
+			},
+			"text": " Selfish desire to do what we want to do how we want to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,980",
+				"to": "00:26:32,820"
+			},
+			"offsets": {
+				"from": 1586980,
+				"to": 1592820
+			},
+			"text": " And Paul says, identify the areas of your life that are infringing on the Holy Spirit producing fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:32,820",
+				"to": "00:26:34,560"
+			},
+			"offsets": {
+				"from": 1592820,
+				"to": 1594560
+			},
+			"text": " And here's what I can't do."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,560",
+				"to": "00:26:39,580"
+			},
+			"offsets": {
+				"from": 1594560,
+				"to": 1599580
+			},
+			"text": " I can't go through this list and like point at each one of you and tell you, for you, what it is for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:39,580",
+				"to": "00:26:46,740"
+			},
+			"offsets": {
+				"from": 1599580,
+				"to": 1606740
+			},
+			"text": " But what I can do is I can invite you to spend this next week praying, seeking."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:46,740",
+				"to": "00:26:52,660"
+			},
+			"offsets": {
+				"from": 1606740,
+				"to": 1612660
+			},
+			"text": " Maybe the Holy Spirit, even now, as you're like, you know, you know which one of those things on the list is your main struggle at the moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,440",
+				"to": "00:26:55,440"
+			},
+			"offsets": {
+				"from": 1613440,
+				"to": 1615440
+			},
+			"text": " And this is why it's a lifelong process, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,440",
+				"to": "00:26:59,260"
+			},
+			"offsets": {
+				"from": 1615440,
+				"to": 1619260
+			},
+			"text": " Because what you struggled with 10 years ago is probably different than what you struggle with right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,260",
+				"to": "00:27:07,500"
+			},
+			"offsets": {
+				"from": 1619260,
+				"to": 1627500
+			},
+			"text": " And so you're invited into this lifelong process of asking God, what are the things, what are the outside sins and influences in my life"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:07,500",
+				"to": "00:27:14,460"
+			},
+			"offsets": {
+				"from": 1627500,
+				"to": 1634460
+			},
+			"text": " that are keeping me from being a hospitable environment for the Holy Spirit to produce fruit in my life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,460",
+				"to": "00:27:17,100"
+			},
+			"offsets": {
+				"from": 1634460,
+				"to": 1637100
+			},
+			"text": " This is the question I'd love for us to wrestle with this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:17,100",
+				"to": "00:27:22,940"
+			},
+			"offsets": {
+				"from": 1637100,
+				"to": 1642940
+			},
+			"text": " What attitudes and actions are getting in the way of the Spirit producing fruit in my life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,440",
+				"to": "00:27:33,400"
+			},
+			"offsets": {
+				"from": 1643440,
+				"to": 1653400
+			},
+			"text": " Essentially, the works of the flesh, they flow out of our selfishness, and the fruit of the Spirit is produced from the selflessness that we have seen demonstrated in Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,400",
+				"to": "00:27:36,480"
+			},
+			"offsets": {
+				"from": 1653400,
+				"to": 1656480
+			},
+			"text": " So what attitudes and actions are getting in the way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,480",
+				"to": "00:27:48,460"
+			},
+			"offsets": {
+				"from": 1656480,
+				"to": 1668460
+			},
+			"text": " The second thing that you would do, if you wanted to have the fruit of the Spirit produced in your life, is you take a look for outside influences that are keeping fruit from growing."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:48,460",
+				"to": "00:27:53,920"
+			},
+			"offsets": {
+				"from": 1668460,
+				"to": 1673920
+			},
+			"text": " And then you would get to know the fruit, both intellectually and experientially, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,920",
+				"to": "00:27:55,720"
+			},
+			"offsets": {
+				"from": 1673920,
+				"to": 1675720
+			},
+			"text": " Like I said, I don't know anything about plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,720",
+				"to": "00:27:58,560"
+			},
+			"offsets": {
+				"from": 1675720,
+				"to": 1678560
+			},
+			"text": " So me harvesting plants, that would be a problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,560",
+				"to": "00:28:01,760"
+			},
+			"offsets": {
+				"from": 1678560,
+				"to": 1681760
+			},
+			"text": " I would harvest weeds and not harvest plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:01,820",
+				"to": "00:28:04,920"
+			},
+			"offsets": {
+				"from": 1681820,
+				"to": 1684920
+			},
+			"text": " And so I would have to get to know the plants."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,920",
+				"to": "00:28:12,400"
+			},
+			"offsets": {
+				"from": 1684920,
+				"to": 1692400
+			},
+			"text": " And like I said, this list is a clear, distinctive list of the holistic character of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:12,400",
+				"to": "00:28:16,980"
+			},
+			"offsets": {
+				"from": 1692400,
+				"to": 1696980
+			},
+			"text": " And so the invitation that Paul is giving you here is get to know Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,980",
+				"to": "00:28:22,980"
+			},
+			"offsets": {
+				"from": 1696980,
+				"to": 1702980
+			},
+			"text": " Get to know what he's like, how he interacts with his neighbors and his enemies,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,980",
+				"to": "00:28:28,540"
+			},
+			"offsets": {
+				"from": 1702980,
+				"to": 1708540
+			},
+			"text": " how he responds when sin is present in his cultural day."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:28,660",
+				"to": "00:28:29,800"
+			},
+			"offsets": {
+				"from": 1708660,
+				"to": 1709800
+			},
+			"text": " Get to know Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:29,800",
+				"to": "00:28:37,880"
+			},
+			"offsets": {
+				"from": 1709800,
+				"to": 1717880
+			},
+			"text": " And then ask yourself daily, what would Jesus do if he were me in this situation in my life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:37,880",
+				"to": "00:28:42,260"
+			},
+			"offsets": {
+				"from": 1717880,
+				"to": 1722260
+			},
+			"text": " Notice how I said intellectually and experientially."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,260",
+				"to": "00:28:51,400"
+			},
+			"offsets": {
+				"from": 1722260,
+				"to": 1731400
+			},
+			"text": " Again, if I read a bunch of books about plants and had pictures, like I would have more information and it would be helpful."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,400",
+				"to": "00:28:59,500"
+			},
+			"offsets": {
+				"from": 1731400,
+				"to": 1739500
+			},
+			"text": " But then you get in the garden and do the work and you'll experience some things that you wouldn't see in a textbook."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:59,500",
+				"to": "00:29:04,540"
+			},
+			"offsets": {
+				"from": 1739500,
+				"to": 1744540
+			},
+			"text": " And so get to know Jesus, both intellectually and experientially."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:04,540",
+				"to": "00:29:08,420"
+			},
+			"offsets": {
+				"from": 1744540,
+				"to": 1748420
+			},
+			"text": " Like go out and serve the poor and the powerless, the widow and the orphan."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,420",
+				"to": "00:29:10,120"
+			},
+			"offsets": {
+				"from": 1748420,
+				"to": 1750120
+			},
+			"text": " Do the things that Jesus did."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:10,120",
+				"to": "00:29:13,200"
+			},
+			"offsets": {
+				"from": 1750120,
+				"to": 1753200
+			},
+			"text": " Experience life the way that Jesus experienced it."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,200",
+				"to": "00:29:14,040"
+			},
+			"offsets": {
+				"from": 1753200,
+				"to": 1754040
+			},
+			"text": " Read the Gospels."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,040",
+				"to": "00:29:14,440"
+			},
+			"offsets": {
+				"from": 1754040,
+				"to": 1754440
+			},
+			"text": " Pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,440",
+				"to": "00:29:14,880"
+			},
+			"offsets": {
+				"from": 1754440,
+				"to": 1754880
+			},
+			"text": " Worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,880",
+				"to": "00:29:15,440"
+			},
+			"offsets": {
+				"from": 1754880,
+				"to": 1755440
+			},
+			"text": " Rest."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:15,440",
+				"to": "00:29:17,640"
+			},
+			"offsets": {
+				"from": 1755440,
+				"to": 1757640
+			},
+			"text": " Live in community with other Christ followers."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,640",
+				"to": "00:29:18,560"
+			},
+			"offsets": {
+				"from": 1757640,
+				"to": 1758560
+			},
+			"text": " Serve the poor."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:21,400",
+				"to": "00:29:31,800"
+			},
+			"offsets": {
+				"from": 1761400,
+				"to": 1771800
+			},
+			"text": " So the second question I'd love for us to wrestle with this week is what attitudes and actions can I add into my life that will help create a hospitable environment for the spirit to produce fruit in my life?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:31,800",
+				"to": "00:29:41,460"
+			},
+			"offsets": {
+				"from": 1771800,
+				"to": 1781460
+			},
+			"text": " See how this kind of wrestles with legalism and license and puts it into a box that at least helps our earthly minds understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,460",
+				"to": "00:29:42,980"
+			},
+			"offsets": {
+				"from": 1781460,
+				"to": 1782980
+			},
+			"text": " Again, like you don't produce the fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:42,980",
+				"to": "00:29:43,960"
+			},
+			"offsets": {
+				"from": 1782980,
+				"to": 1783960
+			},
+			"text": " You can't do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:43,960",
+				"to": "00:29:51,680"
+			},
+			"offsets": {
+				"from": 1783960,
+				"to": 1791680
+			},
+			"text": " But you can get rid of things that don't help the environment produce fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:51,680",
+				"to": "00:29:59,560"
+			},
+			"offsets": {
+				"from": 1791680,
+				"to": 1799560
+			},
+			"text": " And you can add things into your life that help the Holy Spirit, that create an environment for the Holy Spirit to produce fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:59,560",
+				"to": "00:30:04,140"
+			},
+			"offsets": {
+				"from": 1799560,
+				"to": 1804140
+			},
+			"text": " So this leads me to a couple of questions for the skeptics."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,140",
+				"to": "00:30:07,860"
+			},
+			"offsets": {
+				"from": 1804140,
+				"to": 1807860
+			},
+			"text": " I like to address the skeptic in the room because I know there's some of you in here and that's a good thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:08,060",
+				"to": "00:30:10,760"
+			},
+			"offsets": {
+				"from": 1808060,
+				"to": 1810760
+			},
+			"text": " We want people who are wrestling with these truths."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:10,760",
+				"to": "00:30:16,380"
+			},
+			"offsets": {
+				"from": 1810760,
+				"to": 1816380
+			},
+			"text": " So you might be thinking here, okay, will the spirit produce fruit in my life if I don't participate?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,380",
+				"to": "00:30:23,500"
+			},
+			"offsets": {
+				"from": 1816380,
+				"to": 1823500
+			},
+			"text": " Well, if you're in here and you've placed your faith and trust in Jesus, yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:23,500",
+				"to": "00:30:27,140"
+			},
+			"offsets": {
+				"from": 1823500,
+				"to": 1827140
+			},
+			"text": " Our salvation is not dependent on our works."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,140",
+				"to": "00:30:31,880"
+			},
+			"offsets": {
+				"from": 1827140,
+				"to": 1831880
+			},
+			"text": " If you've placed your trust and allegiance in Jesus alone, the spirit of God dwells in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:31,880",
+				"to": "00:30:33,340"
+			},
+			"offsets": {
+				"from": 1831880,
+				"to": 1833340
+			},
+			"text": " He has planted a garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:33,440",
+				"to": "00:30:39,820"
+			},
+			"offsets": {
+				"from": 1833440,
+				"to": 1839820
+			},
+			"text": " He's put the seeds of love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,820",
+				"to": "00:30:51,240"
+			},
+			"offsets": {
+				"from": 1839820,
+				"to": 1851240
+			},
+			"text": " However, this process is a lot more meaningful and beneficial and fruitful if you participate daily and regularly."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,660",
+				"to": "00:30:55,300"
+			},
+			"offsets": {
+				"from": 1853660,
+				"to": 1855300
+			},
+			"text": " I grew up in West Virginia."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:55,300",
+				"to": "00:30:57,300"
+			},
+			"offsets": {
+				"from": 1855300,
+				"to": 1857300
+			},
+			"text": " Don't hold this against me."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,300",
+				"to": "00:31:00,520"
+			},
+			"offsets": {
+				"from": 1857300,
+				"to": 1860520
+			},
+			"text": " No, it's just over the border."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:00,520",
+				"to": "00:31:05,020"
+			},
+			"offsets": {
+				"from": 1860520,
+				"to": 1865020
+			},
+			"text": " And us Virginians, let's be honest, we pretend like we're different."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:05,020",
+				"to": "00:31:06,100"
+			},
+			"offsets": {
+				"from": 1865020,
+				"to": 1866100
+			},
+			"text": " We're not that much different."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:06,100",
+				"to": "00:31:09,140"
+			},
+			"offsets": {
+				"from": 1866100,
+				"to": 1869140
+			},
+			"text": " Frederick County and Berkeley County are pretty similar."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,140",
+				"to": "00:31:11,220"
+			},
+			"offsets": {
+				"from": 1869140,
+				"to": 1871220
+			},
+			"text": " I'm just saying, I grew up in Berkeley County."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,220",
+				"to": "00:31:12,240"
+			},
+			"offsets": {
+				"from": 1871220,
+				"to": 1872240
+			},
+			"text": " I live in Frederick County."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,220",
+				"to": "00:31:15,040"
+			},
+			"offsets": {
+				"from": 1873220,
+				"to": 1875040
+			},
+			"text": " I just, I made a lot of enemies there."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:15,040",
+				"to": "00:31:16,480"
+			},
+			"offsets": {
+				"from": 1875040,
+				"to": 1876480
+			},
+			"text": " But, anyway."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,480",
+				"to": "00:31:18,720"
+			},
+			"offsets": {
+				"from": 1876480,
+				"to": 1878720
+			},
+			"text": " No, I grew up in West Virginia."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:18,720",
+				"to": "00:31:22,260"
+			},
+			"offsets": {
+				"from": 1878720,
+				"to": 1882260
+			},
+			"text": " And my parents still live in the home that I grew up in today."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,260",
+				"to": "00:31:33,060"
+			},
+			"offsets": {
+				"from": 1882260,
+				"to": 1893060
+			},
+			"text": " And I had these neighbors for a while that, they pretty, they pretty much live into the stereotype that you think of when you think of West Virginia."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:33,060",
+				"to": "00:31:36,340"
+			},
+			"offsets": {
+				"from": 1893060,
+				"to": 1896340
+			},
+			"text": " And I remember a couple summers, they didn't mow their grass at all."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:36,340",
+				"to": "00:31:38,880"
+			},
+			"offsets": {
+				"from": 1896340,
+				"to": 1898880
+			},
+			"text": " Not once."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,460",
+				"to": "00:31:46,580"
+			},
+			"offsets": {
+				"from": 1900460,
+				"to": 1906580
+			},
+			"text": " And what happened, which is incredible, is a stalk of corn grew up in their backyard."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,580",
+				"to": "00:31:48,820"
+			},
+			"offsets": {
+				"from": 1906580,
+				"to": 1908820
+			},
+			"text": " Like, my dad's laughing."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:48,820",
+				"to": "00:31:49,320"
+			},
+			"offsets": {
+				"from": 1908820,
+				"to": 1909320
+			},
+			"text": " He remembers."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:49,320",
+				"to": "00:31:50,420"
+			},
+			"offsets": {
+				"from": 1909320,
+				"to": 1910420
+			},
+			"text": " I went to their yard."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:50,420",
+				"to": "00:31:55,000"
+			},
+			"offsets": {
+				"from": 1910420,
+				"to": 1915000
+			},
+			"text": " I picked up, like, literally an ear of corn out of their yard that they did not plant."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,000",
+				"to": "00:32:02,980"
+			},
+			"offsets": {
+				"from": 1915000,
+				"to": 1922980
+			},
+			"text": " Like, essentially what had happened, I guess, is a bird flew over their yard and pooped out a corn seed or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:02,980",
+				"to": "00:32:05,700"
+			},
+			"offsets": {
+				"from": 1922980,
+				"to": 1925700
+			},
+			"text": " Again, I don't know plants, so if I'm explaining this wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,700",
+				"to": "00:32:07,520"
+			},
+			"offsets": {
+				"from": 1925700,
+				"to": 1927520
+			},
+			"text": " But they did nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:08,520",
+				"to": "00:32:13,960"
+			},
+			"offsets": {
+				"from": 1928520,
+				"to": 1933960
+			},
+			"text": " And somehow, like, fruit was still produced on their land."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,960",
+				"to": "00:32:17,120"
+			},
+			"offsets": {
+				"from": 1933960,
+				"to": 1937120
+			},
+			"text": " And maybe you're here."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,120",
+				"to": "00:32:21,900"
+			},
+			"offsets": {
+				"from": 1937120,
+				"to": 1941900
+			},
+			"text": " Maybe you're here and you've been neglecting the work of the Spirit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:21,900",
+				"to": "00:32:26,240"
+			},
+			"offsets": {
+				"from": 1941900,
+				"to": 1946240
+			},
+			"text": " For a couple of days or a couple of weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,240",
+				"to": "00:32:28,080"
+			},
+			"offsets": {
+				"from": 1946240,
+				"to": 1948080
+			},
+			"text": " Maybe a couple of months."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,080",
+				"to": "00:32:28,960"
+			},
+			"offsets": {
+				"from": 1948080,
+				"to": 1948960
+			},
+			"text": " Maybe years."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,960",
+				"to": "00:32:33,160"
+			},
+			"offsets": {
+				"from": 1948960,
+				"to": 1953160
+			},
+			"text": " Maybe you haven't thought about your commitment to Jesus in forever."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,800",
+				"to": "00:32:42,920"
+			},
+			"offsets": {
+				"from": 1955800,
+				"to": 1962920
+			},
+			"text": " What I know to be true is the Holy Spirit is still present in your life and still wants to produce this type of fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,240",
+				"to": "00:32:51,560"
+			},
+			"offsets": {
+				"from": 1963240,
+				"to": 1971560
+			},
+			"text": " He still wants you to put to death the works of the flesh and to allow him to produce the Holy Spirit's fruit in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,800",
+				"to": "00:33:08,200"
+			},
+			"offsets": {
+				"from": 1975800,
+				"to": 1988200
+			},
+			"text": " So, I just want to encourage you to consider the ways in which you might have allowed the environment of your heart in your life to be grown up with sinfulness and selfishness."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:08,440",
+				"to": "00:33:11,680"
+			},
+			"offsets": {
+				"from": 1988440,
+				"to": 1991680
+			},
+			"text": " Maybe you've ignored the Holy Spirit's work in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:11,680",
+				"to": "00:33:14,260"
+			},
+			"offsets": {
+				"from": 1991680,
+				"to": 1994260
+			},
+			"text": " He's still present and wants to do a work in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,260",
+				"to": "00:33:19,540"
+			},
+			"offsets": {
+				"from": 1994260,
+				"to": 1999540
+			},
+			"text": " And today can be a day that you can decide, I'm going to get back in the garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,540",
+				"to": "00:33:23,240"
+			},
+			"offsets": {
+				"from": 1999540,
+				"to": 2003240
+			},
+			"text": " It's a lifelong process that we've been invited to."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:23,240",
+				"to": "00:33:24,860"
+			},
+			"offsets": {
+				"from": 2003240,
+				"to": 2004860
+			},
+			"text": " And we don't produce the fruits."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,240",
+				"to": "00:33:29,740"
+			},
+			"offsets": {
+				"from": 2006240,
+				"to": 2009740
+			},
+			"text": " We just create the environment where the fruit is produced."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,740",
+				"to": "00:33:35,000"
+			},
+			"offsets": {
+				"from": 2009740,
+				"to": 2015000
+			},
+			"text": " We work to partner with the Holy Spirit's work in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:35,000",
+				"to": "00:33:38,100"
+			},
+			"offsets": {
+				"from": 2015000,
+				"to": 2018100
+			},
+			"text": " So, what might need to be taken away?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:38,100",
+				"to": "00:33:39,460"
+			},
+			"offsets": {
+				"from": 2018100,
+				"to": 2019460
+			},
+			"text": " What might need to be added?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:39,460",
+				"to": "00:33:45,880"
+			},
+			"offsets": {
+				"from": 2019460,
+				"to": 2025880
+			},
+			"text": " Not out of legalism, but out of this process of participation with God and what he wants to do in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,780",
+				"to": "00:33:56,800"
+			},
+			"offsets": {
+				"from": 2027780,
+				"to": 2036800
+			},
+			"text": " Second question that I hear skeptics wrestling with, and this is one that I wrestled with growing up, is, okay, so does that mean people who aren't followers of Jesus can't produce this kind of fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:56,800",
+				"to": "00:34:00,140"
+			},
+			"offsets": {
+				"from": 2036800,
+				"to": 2040140
+			},
+			"text": " And again, the answer is complicated."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:00,140",
+				"to": "00:34:02,800"
+			},
+			"offsets": {
+				"from": 2040140,
+				"to": 2042800
+			},
+			"text": " I would say, yes, but not completely."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,800",
+				"to": "00:34:06,000"
+			},
+			"offsets": {
+				"from": 2042800,
+				"to": 2046000
+			},
+			"text": " See, I've heard this text misused a lot in my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:06,000",
+				"to": "00:34:10,760"
+			},
+			"offsets": {
+				"from": 2046000,
+				"to": 2050760
+			},
+			"text": " I was taught by preachers that unbelievers can't be loving or joyful or patient or kind."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:10,760",
+				"to": "00:34:13,780"
+			},
+			"offsets": {
+				"from": 2050760,
+				"to": 2053780
+			},
+			"text": " People who don't follow Jesus can't be any of these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,880",
+				"to": "00:34:26,080"
+			},
+			"offsets": {
+				"from": 2053880,
+				"to": 2066080
+			},
+			"text": " And you and I probably through experience know that in many cases, people who aren't followers of Jesus are often far more loving than followers of Jesus, far more patient or kind."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,080",
+				"to": "00:34:42,220"
+			},
+			"offsets": {
+				"from": 2066080,
+				"to": 2082220
+			},
+			"text": " But I would say that they can't have all of it to the extent that the Holy Spirit wants to produce because, again, notice this is something that I want to point out."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:43,200",
+				"to": "00:34:45,000"
+			},
+			"offsets": {
+				"from": 2083200,
+				"to": 2085000
+			},
+			"text": " I was probably going to point it out earlier, but I didn't."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,000",
+				"to": "00:34:53,640"
+			},
+			"offsets": {
+				"from": 2085000,
+				"to": 2093640
+			},
+			"text": " The results of the flesh, notice it's plural, and notice the fruit of the Spirit is singular."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,640",
+				"to": "00:34:56,060"
+			},
+			"offsets": {
+				"from": 2093640,
+				"to": 2096060
+			},
+			"text": " Because this is a package deal."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,060",
+				"to": "00:34:59,100"
+			},
+			"offsets": {
+				"from": 2096060,
+				"to": 2099100
+			},
+			"text": " We don't get to pick and choose which ones come more naturally to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:59,100",
+				"to": "00:35:03,080"
+			},
+			"offsets": {
+				"from": 2099100,
+				"to": 2103080
+			},
+			"text": " Like, some of you in here, like, God's just giving you, like, you're just a patient person."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,080",
+				"to": "00:35:10,940"
+			},
+			"offsets": {
+				"from": 2103080,
+				"to": 2110940
+			},
+			"text": " And you don't get to claim that, like, the fruit is, that the Spirit is producing this great patience in you while you're not loving or joyful or kind."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,720",
+				"to": "00:35:13,680"
+			},
+			"offsets": {
+				"from": 2111720,
+				"to": 2113680
+			},
+			"text": " Like, it's a holistic package."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,680",
+				"to": "00:35:18,180"
+			},
+			"offsets": {
+				"from": 2113680,
+				"to": 2118180
+			},
+			"text": " Like, it's an explanation of who Jesus is."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,180",
+				"to": "00:35:22,760"
+			},
+			"offsets": {
+				"from": 2118180,
+				"to": 2122760
+			},
+			"text": " So you can't reject Jesus and then become like Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:22,760",
+				"to": "00:35:24,200"
+			},
+			"offsets": {
+				"from": 2122760,
+				"to": 2124200
+			},
+			"text": " Does that make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,200",
+				"to": "00:35:27,820"
+			},
+			"offsets": {
+				"from": 2124200,
+				"to": 2127820
+			},
+			"text": " Like, you can't say, I don't want to follow this guy."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,820",
+				"to": "00:35:28,580"
+			},
+			"offsets": {
+				"from": 2127820,
+				"to": 2128580
+			},
+			"text": " He's not my Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,580",
+				"to": "00:35:29,280"
+			},
+			"offsets": {
+				"from": 2128580,
+				"to": 2129280
+			},
+			"text": " He's not my Savior."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,280",
+				"to": "00:35:30,260"
+			},
+			"offsets": {
+				"from": 2129280,
+				"to": 2130260
+			},
+			"text": " I don't care about him."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,260",
+				"to": "00:35:32,140"
+			},
+			"offsets": {
+				"from": 2130260,
+				"to": 2132140
+			},
+			"text": " He's maybe a good teacher at best."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,140",
+				"to": "00:35:35,300"
+			},
+			"offsets": {
+				"from": 2132140,
+				"to": 2135300
+			},
+			"text": " And then naturally conform to the image of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:35,660",
+				"to": "00:35:59,120"
+			},
+			"offsets": {
+				"from": 2135660,
+				"to": 2159120
+			},
+			"text": " And so, yes, like, unbelievers will be far more loving at times or joyful or kind, but the whole goal is to become like Jesus, which is why believers have this unique opportunity to allow God to create in them something that they have no ability to create outside of the work of Jesus in their life."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,280",
+				"to": "00:36:10,400"
+			},
+			"offsets": {
+				"from": 2160280,
+				"to": 2170400
+			},
+			"text": " And so, if you're here and you're not a follower of Jesus, but this list sounds appealing to you, like you're like, this vision for life, I would love my life."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,400",
+				"to": "00:36:20,300"
+			},
+			"offsets": {
+				"from": 2170400,
+				"to": 2180300
+			},
+			"text": " And most of us in this room would probably say, I would love for my life to be built on the foundation of love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:20,380",
+				"to": "00:36:21,620"
+			},
+			"offsets": {
+				"from": 2180380,
+				"to": 2181620
+			},
+			"text": " That sounds excellent."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:21,620",
+				"to": "00:36:29,020"
+			},
+			"offsets": {
+				"from": 2181620,
+				"to": 2189020
+			},
+			"text": " The reason that sounds excellent is because that is God's design for his humanity, and Jesus lived it out perfectly."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:29,020",
+				"to": "00:36:37,180"
+			},
+			"offsets": {
+				"from": 2189020,
+				"to": 2197180
+			},
+			"text": " And he has invited people to follow his example, to live out this characteristic perfectly."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:37,180",
+				"to": "00:36:47,120"
+			},
+			"offsets": {
+				"from": 2197180,
+				"to": 2207120
+			},
+			"text": " This is ultimately God's design, and this is what God is going to usher in his kingdom when he comes back and when he restores all things as they should be."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:48,540",
+				"to": "00:36:52,800"
+			},
+			"offsets": {
+				"from": 2208540,
+				"to": 2212800
+			},
+			"text": " This character is the human expression of God's ultimate design."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:52,800",
+				"to": "00:36:54,880"
+			},
+			"offsets": {
+				"from": 2212800,
+				"to": 2214880
+			},
+			"text": " That's why we talk about abundant life."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:54,880",
+				"to": "00:37:00,060"
+			},
+			"offsets": {
+				"from": 2214880,
+				"to": 2220060
+			},
+			"text": " Like, this is what abundant life looks like, us living into the characteristics of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:00,060",
+				"to": "00:37:03,740"
+			},
+			"offsets": {
+				"from": 2220060,
+				"to": 2223740
+			},
+			"text": " Because that's what we were designed to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,740",
+				"to": "00:37:06,940"
+			},
+			"offsets": {
+				"from": 2223740,
+				"to": 2226940
+			},
+			"text": " When I was a youth pastor, I used to play this game with the kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,940",
+				"to": "00:37:11,100"
+			},
+			"offsets": {
+				"from": 2226940,
+				"to": 2231100
+			},
+			"text": " And I would get some two-by-fours and some, like, long nails."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:11,100",
+				"to": "00:37:12,620"
+			},
+			"offsets": {
+				"from": 2231100,
+				"to": 2232620
+			},
+			"text": " Like, long nails."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,260",
+				"to": "00:37:22,580"
+			},
+			"offsets": {
+				"from": 2233260,
+				"to": 2242580
+			},
+			"text": " And I would give one kid a rock and one kid, like, a helmet and one kid, like, a pool noodle and another kid a hammer."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:23,680",
+				"to": "00:37:27,180"
+			},
+			"offsets": {
+				"from": 2243680,
+				"to": 2247180
+			},
+			"text": " And then I would make them race to see who could get the nail on the board the fastest."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,180",
+				"to": "00:37:29,000"
+			},
+			"offsets": {
+				"from": 2247180,
+				"to": 2249000
+			},
+			"text": " And guess who won every single time?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:29,000",
+				"to": "00:37:31,960"
+			},
+			"offsets": {
+				"from": 2249000,
+				"to": 2251960
+			},
+			"text": " Thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:31,960",
+				"to": "00:37:33,060"
+			},
+			"offsets": {
+				"from": 2251960,
+				"to": 2253060
+			},
+			"text": " Thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,060",
+				"to": "00:37:35,800"
+			},
+			"offsets": {
+				"from": 2253060,
+				"to": 2255800
+			},
+			"text": " No, the kid with the hammer, they won every single time."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:35,800",
+				"to": "00:37:42,780"
+			},
+			"offsets": {
+				"from": 2255800,
+				"to": 2262780
+			},
+			"text": " Unless there was, like, a really, like, handyman kid with a rock, then sometimes he would beat the not-so-handy kid with a hammer."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,860",
+				"to": "00:37:46,040"
+			},
+			"offsets": {
+				"from": 2262860,
+				"to": 2266040
+			},
+			"text": " But the reason is because that's what the hammer is designed to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:46,040",
+				"to": "00:37:50,440"
+			},
+			"offsets": {
+				"from": 2266040,
+				"to": 2270440
+			},
+			"text": " And this is what humanity is designed to do by God."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,440",
+				"to": "00:37:55,020"
+			},
+			"offsets": {
+				"from": 2270440,
+				"to": 2275020
+			},
+			"text": " Before the fall, we are designed to perfectly produce this type of fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,020",
+				"to": "00:37:59,120"
+			},
+			"offsets": {
+				"from": 2275020,
+				"to": 2279120
+			},
+			"text": " Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,120",
+				"to": "00:38:05,200"
+			},
+			"offsets": {
+				"from": 2279120,
+				"to": 2285200
+			},
+			"text": " That's why when we live into this characteristic, it's what Jesus describes as the abundant life."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:05,200",
+				"to": "00:38:08,480"
+			},
+			"offsets": {
+				"from": 2285200,
+				"to": 2288480
+			},
+			"text": " I love how Tim Mackey puts it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:09,380",
+				"to": "00:38:17,020"
+			},
+			"offsets": {
+				"from": 2289380,
+				"to": 2297020
+			},
+			"text": " Tim Mackey says, the most Spirit-filled people that you know are the most fully human people that you know."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,020",
+				"to": "00:38:22,640"
+			},
+			"offsets": {
+				"from": 2297020,
+				"to": 2302640
+			},
+			"text": " The Spirit is trying to pull us into a fuller humanity."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,640",
+				"to": "00:38:27,140"
+			},
+			"offsets": {
+				"from": 2302640,
+				"to": 2307140
+			},
+			"text": " This is God's design for our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:27,140",
+				"to": "00:38:38,360"
+			},
+			"offsets": {
+				"from": 2307140,
+				"to": 2318360
+			},
+			"text": " To become like Jesus in His love and His joy and His peace and His patience and His kindness and goodness and faithfulness and gentleness and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:39,380",
+				"to": "00:38:46,100"
+			},
+			"offsets": {
+				"from": 2319380,
+				"to": 2326100
+			},
+			"text": " Now, again, this is a simple illustration."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,100",
+				"to": "00:38:51,180"
+			},
+			"offsets": {
+				"from": 2326100,
+				"to": 2331180
+			},
+			"text": " It will be really easy for me as a preacher to come up here and say, all right, makes sense, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,180",
+				"to": "00:38:51,880"
+			},
+			"offsets": {
+				"from": 2331180,
+				"to": 2331880
+			},
+			"text": " Now go do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,880",
+				"to": "00:38:56,540"
+			},
+			"offsets": {
+				"from": 2331880,
+				"to": 2336540
+			},
+			"text": " Like, we should all just be perfect at this next week because it's a simple illustration."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:56,540",
+				"to": "00:39:00,880"
+			},
+			"offsets": {
+				"from": 2336540,
+				"to": 2340880
+			},
+			"text": " Paul has opened up our eyes to understand how this process works."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:02,080",
+				"to": "00:39:06,300"
+			},
+			"offsets": {
+				"from": 2342080,
+				"to": 2346300
+			},
+			"text": " But like I said earlier, it's a simple illustration."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:06,300",
+				"to": "00:39:08,640"
+			},
+			"offsets": {
+				"from": 2346300,
+				"to": 2348640
+			},
+			"text": " It gives us some clarity to the process."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:08,640",
+				"to": "00:39:14,040"
+			},
+			"offsets": {
+				"from": 2348640,
+				"to": 2354040
+			},
+			"text": " But it doesn't make the process, it's not a shortcut to the end goal."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:14,040",
+				"to": "00:39:18,020"
+			},
+			"offsets": {
+				"from": 2354040,
+				"to": 2358020
+			},
+			"text": " It's a lifelong process of exploration."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:18,020",
+				"to": "00:39:24,440"
+			},
+			"offsets": {
+				"from": 2358020,
+				"to": 2364440
+			},
+			"text": " It's a lifelong process of daily, weekly, monthly asking ourselves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,560",
+				"to": "00:39:31,540"
+			},
+			"offsets": {
+				"from": 2365560,
+				"to": 2371540
+			},
+			"text": " Is my life a hospitable environment for the Holy Spirit to produce this kind of fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,540",
+				"to": "00:39:37,180"
+			},
+			"offsets": {
+				"from": 2371540,
+				"to": 2377180
+			},
+			"text": " To daily, weekly, monthly ask ourselves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:37,180",
+				"to": "00:39:47,480"
+			},
+			"offsets": {
+				"from": 2377180,
+				"to": 2387480
+			},
+			"text": " What attitudes and actions am I participating in that are not creating a hospitable environment for the Holy Spirit to produce fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:51,840",
+				"to": "00:39:53,560"
+			},
+			"offsets": {
+				"from": 2391840,
+				"to": 2393560
+			},
+			"text": " How can I change?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,560",
+				"to": "00:40:00,980"
+			},
+			"offsets": {
+				"from": 2393560,
+				"to": 2400980
+			},
+			"text": " What can I add to my life that would create a hospitable environment for the Holy Spirit to produce fruit?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:00,980",
+				"to": "00:40:09,300"
+			},
+			"offsets": {
+				"from": 2400980,
+				"to": 2409300
+			},
+			"text": " This is a lifelong process, Paul says in verse 24, after he gives us the fruit of the Spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:09,300",
+				"to": "00:40:10,980"
+			},
+			"offsets": {
+				"from": 2409300,
+				"to": 2410980
+			},
+			"text": " He says there's no law against these things."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,040",
+				"to": "00:40:22,080"
+			},
+			"offsets": {
+				"from": 2411040,
+				"to": 2422080
+			},
+			"text": " And he says those who belong to Christ have nailed their passions and desires of their sinful nature to Jesus' cross and crucified them there."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:22,080",
+				"to": "00:40:32,960"
+			},
+			"offsets": {
+				"from": 2422080,
+				"to": 2432960
+			},
+			"text": " Since we are now living by the Spirit, let us follow the Spirit's leading in every part of our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,960",
+				"to": "00:40:39,120"
+			},
+			"offsets": {
+				"from": 2432960,
+				"to": 2439120
+			},
+			"text": " Let us not become conceited or provoke one another or be jealous of one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:39,240",
+				"to": "00:40:43,860"
+			},
+			"offsets": {
+				"from": 2439240,
+				"to": 2443860
+			},
+			"text": " Let the Holy Spirit lead us in every part of our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:43,860",
+				"to": "00:40:45,560"
+			},
+			"offsets": {
+				"from": 2443860,
+				"to": 2445560
+			},
+			"text": " Do you hear that lifelong language?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:45,560",
+				"to": "00:40:53,700"
+			},
+			"offsets": {
+				"from": 2445560,
+				"to": 2453700
+			},
+			"text": " I was talking to a pastor who's been a pastor and a leader for like 40 years this week."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:53,700",
+				"to": "00:41:00,580"
+			},
+			"offsets": {
+				"from": 2453700,
+				"to": 2460580
+			},
+			"text": " And he said, you know, the more you walk with Jesus, the more you realize how much you aren't like him."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:00,580",
+				"to": "00:41:03,760"
+			},
+			"offsets": {
+				"from": 2460580,
+				"to": 2463760
+			},
+			"text": " This is a lifelong process."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,760",
+				"to": "00:41:15,120"
+			},
+			"offsets": {
+				"from": 2463760,
+				"to": 2475120
+			},
+			"text": " The more time we spend with Jesus, the more we are aware of our sinfulness and our brokenness and our need for him to keep breaking through the soil and producing his character and his life in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:18,220",
+				"to": "00:41:27,240"
+			},
+			"offsets": {
+				"from": 2478220,
+				"to": 2487240
+			},
+			"text": " This is a helpful illustration and a lifelong tension of the believer."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,020",
+				"to": "00:41:36,920"
+			},
+			"offsets": {
+				"from": 2489020,
+				"to": 2496920
+			},
+			"text": " Our job now is to spend the rest of our lives creating a hospitable environment for God to produce his fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:36,920",
+				"to": "00:41:44,360"
+			},
+			"offsets": {
+				"from": 2496920,
+				"to": 2504360
+			},
+			"text": " In our lives, we get to know Jesus who is the author, the beginning, and the perfecter, the end of our faith."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,520",
+				"to": "00:41:51,100"
+			},
+			"offsets": {
+				"from": 2505520,
+				"to": 2511100
+			},
+			"text": " And we get to know ourselves and the ways in which we naturally work against the Spirit in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,100",
+				"to": "00:41:57,680"
+			},
+			"offsets": {
+				"from": 2511100,
+				"to": 2517680
+			},
+			"text": " This is the process that we've been invited into."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,440",
+				"to": "00:42:01,620"
+			},
+			"offsets": {
+				"from": 2518440,
+				"to": 2521620
+			},
+			"text": " And this is the vision of the Christian life."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:01,620",
+				"to": "00:42:11,040"
+			},
+			"offsets": {
+				"from": 2521620,
+				"to": 2531040
+			},
+			"text": " If you're here and you're not a follower of Jesus, sometimes the invitation to follow Jesus can be watered down or confused."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:11,040",
+				"to": "00:42:13,440"
+			},
+			"offsets": {
+				"from": 2531040,
+				"to": 2533440
+			},
+			"text": " Sometimes it's a pessimistic vision."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:13,440",
+				"to": "00:42:15,920"
+			},
+			"offsets": {
+				"from": 2533440,
+				"to": 2535920
+			},
+			"text": " I've heard people share the gospel and they're like, you're a sinner."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:15,920",
+				"to": "00:42:17,240"
+			},
+			"offsets": {
+				"from": 2535920,
+				"to": 2537240
+			},
+			"text": " You're going to hell."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:17,240",
+				"to": "00:42:20,780"
+			},
+			"offsets": {
+				"from": 2537240,
+				"to": 2540780
+			},
+			"text": " Unless you just pray and repent right now and ask God for forgiveness."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:20,780",
+				"to": "00:42:24,960"
+			},
+			"offsets": {
+				"from": 2540780,
+				"to": 2544960
+			},
+			"text": " But the invitation of Jesus is so much more holistic and beautiful than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:25,200",
+				"to": "00:42:28,440"
+			},
+			"offsets": {
+				"from": 2545200,
+				"to": 2548440
+			},
+			"text": " This invitation is, this is what I created you to be."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:28,440",
+				"to": "00:42:31,320"
+			},
+			"offsets": {
+				"from": 2548440,
+				"to": 2551320
+			},
+			"text": " You're a hammer and you're living your life like a pool noodle."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:31,320",
+				"to": "00:42:33,240"
+			},
+			"offsets": {
+				"from": 2551320,
+				"to": 2553240
+			},
+			"text": " I've created you to be a hammer."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:33,240",
+				"to": "00:42:34,760"
+			},
+			"offsets": {
+				"from": 2553240,
+				"to": 2554760
+			},
+			"text": " Now come into this image."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:34,760",
+				"to": "00:42:36,140"
+			},
+			"offsets": {
+				"from": 2554760,
+				"to": 2556140
+			},
+			"text": " Come into this life."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:36,140",
+				"to": "00:42:39,460"
+			},
+			"offsets": {
+				"from": 2556140,
+				"to": 2559460
+			},
+			"text": " Live in the design that I have for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:39,460",
+				"to": "00:42:43,600"
+			},
+			"offsets": {
+				"from": 2559460,
+				"to": 2563600
+			},
+			"text": " So if you're living apart from that design,"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:43,600",
+				"to": "00:42:47,140"
+			},
+			"offsets": {
+				"from": 2563600,
+				"to": 2567140
+			},
+			"text": " sometimes you're going to butt up against some things"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:47,140",
+				"to": "00:42:49,880"
+			},
+			"offsets": {
+				"from": 2567140,
+				"to": 2569880
+			},
+			"text": " and you're going to not understand why life isn't fulfilling to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:49,880",
+				"to": "00:42:51,840"
+			},
+			"offsets": {
+				"from": 2569880,
+				"to": 2571840
+			},
+			"text": " It's because you're missing out."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:53,040",
+				"to": "00:42:55,300"
+			},
+			"offsets": {
+				"from": 2573040,
+				"to": 2575300
+			},
+			"text": " The invitation for you this morning is to come."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:55,300",
+				"to": "00:43:00,300"
+			},
+			"offsets": {
+				"from": 2575300,
+				"to": 2580300
+			},
+			"text": " To allow God to dwell in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:00,300",
+				"to": "00:43:02,300"
+			},
+			"offsets": {
+				"from": 2580300,
+				"to": 2582300
+			},
+			"text": " Show up in your life and plant a garden."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:02,300",
+				"to": "00:43:08,620"
+			},
+			"offsets": {
+				"from": 2582300,
+				"to": 2588620
+			},
+			"text": " And you just get to spend the rest of your life harvesting these fruits of the Spirit,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:08,620",
+				"to": "00:43:11,400"
+			},
+			"offsets": {
+				"from": 2588620,
+				"to": 2591400
+			},
+			"text": " this character of Jesus in your life."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:11,400",
+				"to": "00:43:12,520"
+			},
+			"offsets": {
+				"from": 2591400,
+				"to": 2592520
+			},
+			"text": " So for the rest of the series,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:12,520",
+				"to": "00:43:16,640"
+			},
+			"offsets": {
+				"from": 2592520,
+				"to": 2596640
+			},
+			"text": " we're going to look at each attribute, the character of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:16,640",
+				"to": "00:43:20,800"
+			},
+			"offsets": {
+				"from": 2596640,
+				"to": 2600800
+			},
+			"text": " We're going to ask ourselves these three questions over and over again."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:20,800",
+				"to": "00:43:26,520"
+			},
+			"offsets": {
+				"from": 2600800,
+				"to": 2606520
+			},
+			"text": " Is my life a hospitable environment for the Spirit to produce love or joy or patience?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:26,520",
+				"to": "00:43:34,600"
+			},
+			"offsets": {
+				"from": 2606520,
+				"to": 2614600
+			},
+			"text": " What attitudes and actions are getting in the way of the Spirit producing love or joy or patience or kindness or goodness?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,260",
+				"to": "00:43:44,180"
+			},
+			"offsets": {
+				"from": 2615260,
+				"to": 2624180
+			},
+			"text": " What attitudes and actions can I add into my life that will create a hospitable environment for the Spirit to produce whatever fruit it is in our lives?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:46,320",
+				"to": "00:43:56,480"
+			},
+			"offsets": {
+				"from": 2626320,
+				"to": 2636480
+			},
+			"text": " My heart, my prayer for our church is that we would be individuals seeking to create an environment for the Holy Spirit to produce this type of fruit in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:57,620",
+				"to": "00:44:12,600"
+			},
+			"offsets": {
+				"from": 2637620,
+				"to": 2652600
+			},
+			"text": " Like I said at the beginning, I can't think of a better thing for our world in this time than believers of Jesus manifesting the character of Jesus in difficult situations,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:12,600",
+				"to": "00:44:15,940"
+			},
+			"offsets": {
+				"from": 2652600,
+				"to": 2655940
+			},
+			"text": " in complex, highly emotional political conversations."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:19,560",
+				"to": "00:44:23,020"
+			},
+			"offsets": {
+				"from": 2659560,
+				"to": 2663020
+			},
+			"text": " We do the same thing Jesus would do if He was in those situations."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:23,020",
+				"to": "00:44:27,140"
+			},
+			"offsets": {
+				"from": 2663020,
+				"to": 2667140
+			},
+			"text": " We ask ourselves daily, what would Jesus do if He were me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,140",
+				"to": "00:44:30,020"
+			},
+			"offsets": {
+				"from": 2667140,
+				"to": 2670020
+			},
+			"text": " So I'm excited about this series."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:30,020",
+				"to": "00:44:31,240"
+			},
+			"offsets": {
+				"from": 2670020,
+				"to": 2671240
+			},
+			"text": " I hope you are too."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:31,240",
+				"to": "00:44:39,700"
+			},
+			"offsets": {
+				"from": 2671240,
+				"to": 2679700
+			},
+			"text": " We're going to end this morning in one of the things that we do every single week as a church."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:40,800",
+				"to": "00:44:47,940"
+			},
+			"offsets": {
+				"from": 2680800,
+				"to": 2687940
+			},
+			"text": " And this is a thing that we do corporately to create a hospitable environment for the Spirit to produce the character of Jesus in our life."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:47,940",
+				"to": "00:44:49,120"
+			},
+			"offsets": {
+				"from": 2687940,
+				"to": 2689120
+			},
+			"text": " We take communion together."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:49,120",
+				"to": "00:44:55,260"
+			},
+			"offsets": {
+				"from": 2689120,
+				"to": 2695260
+			},
+			"text": " And communion is a reminder of both the crucifixion and the second coming."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:55,260",
+				"to": "00:44:59,500"
+			},
+			"offsets": {
+				"from": 2695260,
+				"to": 2699500
+			},
+			"text": " It's a reminder that we live in the tension between the two."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:59,500",
+				"to": "00:45:07,900"
+			},
+			"offsets": {
+				"from": 2699500,
+				"to": 2707900
+			},
+			"text": " And that our goal is to be conformed to the image of the Savior who His body was broken for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:07,900",
+				"to": "00:45:10,160"
+			},
+			"offsets": {
+				"from": 2707900,
+				"to": 2710160
+			},
+			"text": " His blood was shed for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:10,200",
+				"to": "00:45:11,160"
+			},
+			"offsets": {
+				"from": 2710200,
+				"to": 2711160
+			},
+			"text": " This is an opportunity."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:11,160",
+				"to": "00:45:17,540"
+			},
+			"offsets": {
+				"from": 2711160,
+				"to": 2717540
+			},
+			"text": " This is something we add into our lives to produce a hospitable environment for the Holy Spirit to work."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:17,540",
+				"to": "00:45:29,200"
+			},
+			"offsets": {
+				"from": 2717540,
+				"to": 2729200
+			},
+			"text": " And the crucifixion, His body broken, His blood shed, is the ultimate example of all of these characteristics lived out perfectly."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:29,200",
+				"to": "00:45:32,800"
+			},
+			"offsets": {
+				"from": 2729200,
+				"to": 2732800
+			},
+			"text": " Now, I think about two of them specifically this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,800",
+				"to": "00:45:39,660"
+			},
+			"offsets": {
+				"from": 2732800,
+				"to": 2739660
+			},
+			"text": " The Scripture says, for the joy set before Jesus, He endured the cross."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:40,100",
+				"to": "00:45:47,060"
+			},
+			"offsets": {
+				"from": 2740100,
+				"to": 2747060
+			},
+			"text": " It was His joy that led Him to sacrificially lay down His life for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:47,440",
+				"to": "00:45:56,680"
+			},
+			"offsets": {
+				"from": 2747440,
+				"to": 2756680
+			},
+			"text": " Think about 1 John, that Jesus laid down His life for us."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:56,680",
+				"to": "00:46:00,640"
+			},
+			"offsets": {
+				"from": 2756680,
+				"to": 2760640
+			},
+			"text": " So we also ought to lay down our lives for our brothers and sisters."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:00,780",
+				"to": "00:46:27,520"
+			},
+			"offsets": {
+				"from": 2760780,
+				"to": 2787520
+			},
+			"text": " So this morning, I invite those of you that have placed your trust and allegiance in Jesus as the Lord of your life to take His body that was broken for you as a reminder of this character lived out on your behalf."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:27,520",
+				"to": "00:46:49,620"
+			},
+			"offsets": {
+				"from": 2787520,
+				"to": 2809620
+			},
+			"text": " And we, again, we drink the juice as a reminder of what true love expressed looks like, of the invocation that we have to follow in that love."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:50,480",
+				"to": "00:46:52,700"
+			},
+			"offsets": {
+				"from": 2810480,
+				"to": 2812700
+			},
+			"text": " Let's drink this juice together."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:52,700",
+				"to": "00:47:10,500"
+			},
+			"offsets": {
+				"from": 2812700,
+				"to": 2830500
+			},
+			"text": " Church, I'm looking forward to the opportunity to grow with you this summer into the image of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:10,500",
+				"to": "00:47:11,540"
+			},
+			"offsets": {
+				"from": 2830500,
+				"to": 2831540
+			},
+			"text": " Let's take this seriously."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:11,720",
+				"to": "00:47:18,440"
+			},
+			"offsets": {
+				"from": 2831720,
+				"to": 2838440
+			},
+			"text": " Let's be intentional about allowing God to create these things in our lives."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:18,440",
+				"to": "00:47:27,780"
+			},
+			"offsets": {
+				"from": 2838440,
+				"to": 2847780
+			},
+			"text": " Let's be in relationship with one another so that when we live opposite this, we have brothers and sisters who love us enough to point it out."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:27,780",
+				"to": "00:47:31,880"
+			},
+			"offsets": {
+				"from": 2847780,
+				"to": 2851880
+			},
+			"text": " Let's encourage one another to become more like Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:32,060",
+				"to": "00:47:42,580"
+			},
+			"offsets": {
+				"from": 2852060,
+				"to": 2862580
+			},
+			"text": " There's nothing the city of Winchester needs now more than followers of Jesus becoming like Christ and engaging culture with this fruit."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,580",
+				"to": "00:47:49,420"
+			},
+			"offsets": {
+				"from": 2862580,
+				"to": 2869420
+			},
+			"text": " Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:49,420",
+				"to": "00:47:49,940"
+			},
+			"offsets": {
+				"from": 2869420,
+				"to": 2869940
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:49,940",
+				"to": "00:47:52,500"
+			},
+			"offsets": {
+				"from": 2869940,
+				"to": 2872500
+			},
+			"text": " Father, you are good."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:57,840",
+				"to": "00:48:01,640"
+			},
+			"offsets": {
+				"from": 2877840,
+				"to": 2881640
+			},
+			"text": " And against your character, there is no law."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:01,640",
+				"to": "00:48:06,440"
+			},
+			"offsets": {
+				"from": 2881640,
+				"to": 2886440
+			},
+			"text": " Perfect justice, perfect love, perfect faithfulness is found in you."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:06,440",
+				"to": "00:48:12,200"
+			},
+			"offsets": {
+				"from": 2886440,
+				"to": 2892200
+			},
+			"text": " God, may we be a people that allow you to manifest that in us."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:12,200",
+				"to": "00:48:17,300"
+			},
+			"offsets": {
+				"from": 2892200,
+				"to": 2897300
+			},
+			"text": " Holy Spirit, show us when we get in the way of that process."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:17,300",
+				"to": "00:48:20,440"
+			},
+			"offsets": {
+				"from": 2897300,
+				"to": 2900440
+			},
+			"text": " Show us when we're neglecting that process."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:22,240",
+				"to": "00:48:24,060"
+			},
+			"offsets": {
+				"from": 2902240,
+				"to": 2904060
+			},
+			"text": " Draw us back into the invitation."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:24,060",
+				"to": "00:48:27,880"
+			},
+			"offsets": {
+				"from": 2904060,
+				"to": 2907880
+			},
+			"text": " Not out of shame."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:27,880",
+				"to": "00:48:34,720"
+			},
+			"offsets": {
+				"from": 2907880,
+				"to": 2914720
+			},
+			"text": " But out of an invitation to live in the way in which you designed us to live."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:34,720",
+				"to": "00:48:35,540"
+			},
+			"offsets": {
+				"from": 2914720,
+				"to": 2915540
+			},
+			"text": " For your glory."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:35,540",
+				"to": "00:48:36,780"
+			},
+			"offsets": {
+				"from": 2915540,
+				"to": 2916780
+			},
+			"text": " For our good."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:36,780",
+				"to": "00:48:38,580"
+			},
+			"offsets": {
+				"from": 2916780,
+				"to": 2918580
+			},
+			"text": " In Jesus' name I pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:38,580",
+				"to": "00:48:39,600"
+			},
+			"offsets": {
+				"from": 2918580,
+				"to": 2919600
+			},
+			"text": " Amen."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:39,600",
+				"to": "00:48:44,200"
+			},
+			"offsets": {
+				"from": 2919600,
+				"to": 2924200
+			},
+			"text": " Alright church, thanks for hanging out with us this morning."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:44,200",
+				"to": "00:48:45,560"
+			},
+			"offsets": {
+				"from": 2924200,
+				"to": 2925560
+			},
+			"text": " Hang out with your friends."
+		}
+	]
+}

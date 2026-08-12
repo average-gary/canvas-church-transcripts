@@ -1,0 +1,6973 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | DOTPROD = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/garykrause/models/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:24,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 24080
+			},
+			"text": " Good morning, James, it's good to see you here again, man."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,080",
+				"to": "00:00:25,100"
+			},
+			"offsets": {
+				"from": 24080,
+				"to": 25100
+			},
+			"text": " I've missed you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,100",
+				"to": "00:00:27,900"
+			},
+			"offsets": {
+				"from": 25100,
+				"to": 27900
+			},
+			"text": " So, for those who don't know me, my name's Kent."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,780",
+				"to": "00:00:33,380"
+			},
+			"offsets": {
+				"from": 28780,
+				"to": 33380
+			},
+			"text": " And you should ask yourselves, let's ponder for a moment together, why I would tell you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,380",
+				"to": "00:00:35,140"
+			},
+			"offsets": {
+				"from": 33380,
+				"to": 35140
+			},
+			"text": " my name, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,140",
+				"to": "00:00:40,360"
+			},
+			"offsets": {
+				"from": 35140,
+				"to": 40360
+			},
+			"text": " If I'm standing at the DMV or Starbucks, it's to get service and identify myself."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,360",
+				"to": "00:00:46,400"
+			},
+			"offsets": {
+				"from": 40360,
+				"to": 46400
+			},
+			"text": " But generally, I extend my hand and I say, hi, I'm Kent, and just stand there awkwardly"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,400",
+				"to": "00:00:47,600"
+			},
+			"offsets": {
+				"from": 46400,
+				"to": 47600
+			},
+			"text": " to you, say something back, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,600",
+				"to": "00:00:48,780"
+			},
+			"offsets": {
+				"from": 47600,
+				"to": 48780
+			},
+			"text": " Hi, Kent."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,780",
+				"to": "00:00:49,920"
+			},
+			"offsets": {
+				"from": 48780,
+				"to": 49920
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,920",
+				"to": "00:00:52,480"
+			},
+			"offsets": {
+				"from": 49920,
+				"to": 52480
+			},
+			"text": " And you actually say, hi, Kent, my name is?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,480",
+				"to": "00:00:52,980"
+			},
+			"offsets": {
+				"from": 52480,
+				"to": 52980
+			},
+			"text": " Gary."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,980",
+				"to": "00:00:53,380"
+			},
+			"offsets": {
+				"from": 52980,
+				"to": 53380
+			},
+			"text": " Gary."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,380",
+				"to": "00:00:54,840"
+			},
+			"offsets": {
+				"from": 53380,
+				"to": 54840
+			},
+			"text": " That's the way it works."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,560",
+				"to": "00:00:59,500"
+			},
+			"offsets": {
+				"from": 56560,
+				"to": 59500
+			},
+			"text": " So, I actually tell you my name to get to know you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,500",
+				"to": "00:01:01,520"
+			},
+			"offsets": {
+				"from": 59500,
+				"to": 61520
+			},
+			"text": " That's why we tell each other our names."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,520",
+				"to": "00:01:02,920"
+			},
+			"offsets": {
+				"from": 61520,
+				"to": 62920
+			},
+			"text": " It's a social convention, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,920",
+				"to": "00:01:05,780"
+			},
+			"offsets": {
+				"from": 62920,
+				"to": 65780
+			},
+			"text": " We are a small moment of vulnerability."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,780",
+				"to": "00:01:10,700"
+			},
+			"offsets": {
+				"from": 65780,
+				"to": 70700
+			},
+			"text": " I reveal a little thing about myself to you so that you'll reveal yourself back."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,260",
+				"to": "00:01:12,780"
+			},
+			"offsets": {
+				"from": 71260,
+				"to": 72780
+			},
+			"text": " That's why we tell each other our names."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,780",
+				"to": "00:01:18,260"
+			},
+			"offsets": {
+				"from": 72780,
+				"to": 78260
+			},
+			"text": " And let's say, it's not surprising if I do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,260",
+				"to": "00:01:19,860"
+			},
+			"offsets": {
+				"from": 78260,
+				"to": 79860
+			},
+			"text": " I'm just a guy that wanders through the lobby."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,860",
+				"to": "00:01:25,340"
+			},
+			"offsets": {
+				"from": 79860,
+				"to": 85340
+			},
+			"text": " Let's say the King of England, somebody you express, King of England, walks in here, walks"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,340",
+				"to": "00:01:26,520"
+			},
+			"offsets": {
+				"from": 85340,
+				"to": 86520
+			},
+			"text": " up and says, hi, my name's Charles."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,000",
+				"to": "00:01:30,280"
+			},
+			"offsets": {
+				"from": 88000,
+				"to": 90280
+			},
+			"text": " You're a little disquieted, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,280",
+				"to": "00:01:34,460"
+			},
+			"offsets": {
+				"from": 90280,
+				"to": 94460
+			},
+			"text": " Because we just generally think he's got better things to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,460",
+				"to": "00:01:37,480"
+			},
+			"offsets": {
+				"from": 94460,
+				"to": 97480
+			},
+			"text": " He's got more authority."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,480",
+				"to": "00:01:38,820"
+			},
+			"offsets": {
+				"from": 97480,
+				"to": 98820
+			},
+			"text": " He's got more wealth."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,820",
+				"to": "00:01:39,800"
+			},
+			"offsets": {
+				"from": 98820,
+				"to": 99800
+			},
+			"text": " He's notoriety."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,800",
+				"to": "00:01:40,760"
+			},
+			"offsets": {
+				"from": 99800,
+				"to": 100760
+			},
+			"text": " We're not sure why he's here."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,760",
+				"to": "00:01:41,580"
+			},
+			"offsets": {
+				"from": 100760,
+				"to": 101580
+			},
+			"text": " We distrust it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,580",
+				"to": "00:01:43,740"
+			},
+			"offsets": {
+				"from": 101580,
+				"to": 103740
+			},
+			"text": " And we're uneasy being that vulnerable, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,740",
+				"to": "00:01:49,180"
+			},
+			"offsets": {
+				"from": 103740,
+				"to": 109180
+			},
+			"text": " But it's very disquieting that he was willing to set aside his great dignity and be vulnerable"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,180",
+				"to": "00:01:50,800"
+			},
+			"offsets": {
+				"from": 109180,
+				"to": 110800
+			},
+			"text": " to us in that way, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:02:00,280"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 120280
+			},
+			"text": " Stretching to the obvious, Jason's right there with me, God, throughout Scripture, reveals"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,280",
+				"to": "00:02:01,620"
+			},
+			"offsets": {
+				"from": 120280,
+				"to": 121620
+			},
+			"text": " himself to a new person."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,620",
+				"to": "00:02:07,540"
+			},
+			"offsets": {
+				"from": 121620,
+				"to": 127540
+			},
+			"text": " And when he does that, he gives them his name in the same way so that he can get to know"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,540",
+				"to": "00:02:07,700"
+			},
+			"offsets": {
+				"from": 127540,
+				"to": 127700
+			},
+			"text": " them."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,700",
+				"to": "00:02:09,220"
+			},
+			"offsets": {
+				"from": 127700,
+				"to": 129220
+			},
+			"text": " Does that mean he didn't know who they were already?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,220",
+				"to": "00:02:09,540"
+			},
+			"offsets": {
+				"from": 129220,
+				"to": 129540
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,540",
+				"to": "00:02:14,420"
+			},
+			"offsets": {
+				"from": 129540,
+				"to": 134420
+			},
+			"text": " Psalms tells us, Psalm 139, even though, you know, he knows our very thoughts before we"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,420",
+				"to": "00:02:16,540"
+			},
+			"offsets": {
+				"from": 134420,
+				"to": 136540
+			},
+			"text": " say them, he still wants to get to know us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,540",
+				"to": "00:02:17,420"
+			},
+			"offsets": {
+				"from": 136540,
+				"to": 137420
+			},
+			"text": " It's a relationship."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,420",
+				"to": "00:02:21,060"
+			},
+			"offsets": {
+				"from": 137420,
+				"to": 141060
+			},
+			"text": " It's a moment of vulnerability, so we'll be back and build a relationship with us."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,060",
+				"to": "00:02:27,380"
+			},
+			"offsets": {
+				"from": 142060,
+				"to": 147380
+			},
+			"text": " And in doing so, as he reintroduces himself to man over and over, every time he meets a"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,380",
+				"to": "00:02:32,500"
+			},
+			"offsets": {
+				"from": 147380,
+				"to": 152500
+			},
+			"text": " new person, he introduces himself in a new way that's relevant to their context and the"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,500",
+				"to": "00:02:33,960"
+			},
+			"offsets": {
+				"from": 152500,
+				"to": 153960
+			},
+			"text": " way in which they're experiencing him."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,960",
+				"to": "00:02:40,160"
+			},
+			"offsets": {
+				"from": 153960,
+				"to": 160160
+			},
+			"text": " And in the Bible, particularly with God, a name is character and identity, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,160",
+				"to": "00:02:42,340"
+			},
+			"offsets": {
+				"from": 160160,
+				"to": 162340
+			},
+			"text": " It tells you who I am and what I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,340",
+				"to": "00:02:45,660"
+			},
+			"offsets": {
+				"from": 162340,
+				"to": 165660
+			},
+			"text": " That's why I'm telling, I'm revealing more of myself to you with my name."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,660",
+				"to": "00:02:47,980"
+			},
+			"offsets": {
+				"from": 165660,
+				"to": 167980
+			},
+			"text": " We occasionally, aspirationally name our kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,280",
+				"to": "00:02:52,120"
+			},
+			"offsets": {
+				"from": 168280,
+				"to": 172120
+			},
+			"text": " I named one of my sons Elijah because I had hopes that he would grow up to live a life"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,120",
+				"to": "00:02:53,360"
+			},
+			"offsets": {
+				"from": 172120,
+				"to": 173360
+			},
+			"text": " of great faith like Elijah."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,360",
+				"to": "00:02:58,620"
+			},
+			"offsets": {
+				"from": 173360,
+				"to": 178620
+			},
+			"text": " I named him, his middle name is Grant because I'd hope to have the, you know, the thorough"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,620",
+				"to": "00:03:01,580"
+			},
+			"offsets": {
+				"from": 178620,
+				"to": 181580
+			},
+			"text": " going kindness, the unending kindness that his grandfather had."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,580",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 181580,
+				"to": 183000
+			},
+			"text": " You know, I wanted to have those character traits."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:07,220"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 187220
+			},
+			"text": " But when God tells you his name and the character that it represents, it's a fact."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,340",
+				"to": "00:03:13,120"
+			},
+			"offsets": {
+				"from": 188340,
+				"to": 193120
+			},
+			"text": " And he reveals himself to people over and over throughout scripture because character is name"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,120",
+				"to": "00:03:13,640"
+			},
+			"offsets": {
+				"from": 193120,
+				"to": 193640
+			},
+			"text": " and identity."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,640",
+				"to": "00:03:17,580"
+			},
+			"offsets": {
+				"from": 193640,
+				"to": 197580
+			},
+			"text": " And we know that this happens both in the Old Testament and in the New Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,580",
+				"to": "00:03:19,700"
+			},
+			"offsets": {
+				"from": 197580,
+				"to": 199700
+			},
+			"text": " And he wants us to come to know him."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,700",
+				"to": "00:03:22,760"
+			},
+			"offsets": {
+				"from": 199700,
+				"to": 202760
+			},
+			"text": " And he reveals his name as he's coming to meet us."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,760",
+				"to": "00:03:29,500"
+			},
+			"offsets": {
+				"from": 202760,
+				"to": 209500
+			},
+			"text": " He revealed the name of the coming Messiah to the prophet Isaiah, who in 9.6 tells us the"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,500",
+				"to": "00:03:36,020"
+			},
+			"offsets": {
+				"from": 209500,
+				"to": 216020
+			},
+			"text": " coming Messiah would have the names Emmanuel, wonderful counselor, mighty God, everlasting father,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,020",
+				"to": "00:03:36,900"
+			},
+			"offsets": {
+				"from": 216020,
+				"to": 216900
+			},
+			"text": " prince of peace."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,340",
+				"to": "00:03:40,780"
+			},
+			"offsets": {
+				"from": 217340,
+				"to": 220780
+			},
+			"text": " And we're going to, we're going to go through these names in the next couple of weeks leading"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,780",
+				"to": "00:03:47,160"
+			},
+			"offsets": {
+				"from": 220780,
+				"to": 227160
+			},
+			"text": " up to, as we approach the annual celebration of nativity, when God reached out and actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,160",
+				"to": "00:03:50,440"
+			},
+			"offsets": {
+				"from": 227160,
+				"to": 230440
+			},
+			"text": " became man, we're going to walk through this series on those names and what that means about"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,440",
+				"to": "00:03:50,640"
+			},
+			"offsets": {
+				"from": 230440,
+				"to": 230640
+			},
+			"text": " him."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,640",
+				"to": "00:03:54,360"
+			},
+			"offsets": {
+				"from": 230640,
+				"to": 234360
+			},
+			"text": " And we have to notice those aren't strictly speaking names you would call somebody walking"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,360",
+				"to": "00:03:56,220"
+			},
+			"offsets": {
+				"from": 234360,
+				"to": 236220
+			},
+			"text": " down the street, hi, wonderful counselor, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,220",
+				"to": "00:04:02,000"
+			},
+			"offsets": {
+				"from": 236220,
+				"to": 242000
+			},
+			"text": " But it is in the Bible, and particularly with God, names are character and identity."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,000",
+				"to": "00:04:06,520"
+			},
+			"offsets": {
+				"from": 242000,
+				"to": 246520
+			},
+			"text": " And in each week, we're going to walk through one of these names, Emmanuel, God with us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,580",
+				"to": "00:04:07,260"
+			},
+			"offsets": {
+				"from": 246580,
+				"to": 247260
+			},
+			"text": " wonderful counselor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,260",
+				"to": "00:04:12,900"
+			},
+			"offsets": {
+				"from": 247260,
+				"to": 252900
+			},
+			"text": " But today, what we're going to do is we're going to talk about where God, where we meet"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,900",
+				"to": "00:04:13,680"
+			},
+			"offsets": {
+				"from": 252900,
+				"to": 253680
+			},
+			"text": " God in the Old Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,680",
+				"to": "00:04:17,660"
+			},
+			"offsets": {
+				"from": 253680,
+				"to": 257660
+			},
+			"text": " This is sort of a background on names of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,660",
+				"to": "00:04:21,640"
+			},
+			"offsets": {
+				"from": 257660,
+				"to": 261640
+			},
+			"text": " And so we're going to look particularly at a time when God meets Moses on Mount Sinai in"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,640",
+				"to": "00:04:27,060"
+			},
+			"offsets": {
+				"from": 261640,
+				"to": 267060
+			},
+			"text": " Exodus 34 in preparation for that to help us understand what was going on with Moses and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,060",
+				"to": "00:04:31,520"
+			},
+			"offsets": {
+				"from": 267060,
+				"to": 271520
+			},
+			"text": " why God would choose to reveal himself to Moses in the way he did at that time, which is this"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,520",
+				"to": "00:04:32,600"
+			},
+			"offsets": {
+				"from": 271520,
+				"to": 272600
+			},
+			"text": " very rich introduction."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,600",
+				"to": "00:04:35,400"
+			},
+			"offsets": {
+				"from": 272600,
+				"to": 275400
+			},
+			"text": " There's a little background I need to give you."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,400",
+				"to": "00:04:43,980"
+			},
+			"offsets": {
+				"from": 275400,
+				"to": 283980
+			},
+			"text": " So let's start with the fact that in Hebrew, the language Hebrew, by our reckoning, meaning"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,980",
+				"to": "00:04:45,100"
+			},
+			"offsets": {
+				"from": 283980,
+				"to": 285100
+			},
+			"text": " is kind of triangulated."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,100",
+				"to": "00:04:51,580"
+			},
+			"offsets": {
+				"from": 285100,
+				"to": 291580
+			},
+			"text": " In Western languages, we have this conception that if I have a thought and I form it precisely"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,580",
+				"to": "00:04:56,080"
+			},
+			"offsets": {
+				"from": 291580,
+				"to": 296080
+			},
+			"text": " enough, I can transfer it, you know, out of my mouth, through the air, in your ear, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,080",
+				"to": "00:05:00,560"
+			},
+			"offsets": {
+				"from": 296080,
+				"to": 300560
+			},
+			"text": " you'll have exactly, precisely, if I do it well enough, the conception that I was trying"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,560",
+				"to": "00:05:01,000"
+			},
+			"offsets": {
+				"from": 300560,
+				"to": 301000
+			},
+			"text": " to give you."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,000",
+				"to": "00:05:04,040"
+			},
+			"offsets": {
+				"from": 301000,
+				"to": 304040
+			},
+			"text": " It's all about precision of packaging in my thought."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,040",
+				"to": "00:05:08,060"
+			},
+			"offsets": {
+				"from": 304040,
+				"to": 308060
+			},
+			"text": " Hebrew, as far as we can tell from the language, it didn't even entertain that notion, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,900",
+				"to": "00:05:12,960"
+			},
+			"offsets": {
+				"from": 308900,
+				"to": 312960
+			},
+			"text": " The idea that I could, with precision, tell you exactly what I'm thinking was a little"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,960",
+				"to": "00:05:13,640"
+			},
+			"offsets": {
+				"from": 312960,
+				"to": 313640
+			},
+			"text": " foreign to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,640",
+				"to": "00:05:18,580"
+			},
+			"offsets": {
+				"from": 313640,
+				"to": 318580
+			},
+			"text": " In Hebrew, more or less, what you do is you say an idea, and you repeat it, and you give"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,580",
+				"to": "00:05:22,280"
+			},
+			"offsets": {
+				"from": 318580,
+				"to": 322280
+			},
+			"text": " an analogy, and you give an imagery, and you give a simile, and you give a metaphor, pretty"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,280",
+				"to": "00:05:23,460"
+			},
+			"offsets": {
+				"from": 322280,
+				"to": 323460
+			},
+			"text": " much like what I'm doing right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,460",
+				"to": "00:05:30,040"
+			},
+			"offsets": {
+				"from": 323460,
+				"to": 330040
+			},
+			"text": " You surround the concept space in which the thing you're trying to say exists, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,040",
+				"to": "00:05:31,800"
+			},
+			"offsets": {
+				"from": 330040,
+				"to": 331800
+			},
+			"text": " So you triangulate the center of the meaning."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,800",
+				"to": "00:05:37,100"
+			},
+			"offsets": {
+				"from": 331800,
+				"to": 337100
+			},
+			"text": " And as you can imagine, the more grand that concept is, the more holy, which means removed"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,100",
+				"to": "00:05:41,020"
+			},
+			"offsets": {
+				"from": 337100,
+				"to": 341020
+			},
+			"text": " from us it is, the more words are required to encapsulate this idea."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,020",
+				"to": "00:05:43,620"
+			},
+			"offsets": {
+				"from": 341020,
+				"to": 343620
+			},
+			"text": " So there are many, many, many, many names of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,620",
+				"to": "00:05:47,560"
+			},
+			"offsets": {
+				"from": 343620,
+				"to": 347560
+			},
+			"text": " So many that scholars don't agree on how many names there are."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,560",
+				"to": "00:05:56,540"
+			},
+			"offsets": {
+				"from": 347560,
+				"to": 356540
+			},
+			"text": " The Hebrew Jewish rabbis tend to settle around 72, which is a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,540",
+				"to": "00:06:03,020"
+			},
+			"offsets": {
+				"from": 356540,
+				"to": 363020
+			},
+			"text": " Protestant theologians who get very didactic and can't agree on the difference between an"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,020",
+				"to": "00:06:05,700"
+			},
+			"offsets": {
+				"from": 363020,
+				"to": 365700
+			},
+			"text": " adjective and a name, say there's about 900."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,700",
+				"to": "00:06:07,180"
+			},
+			"offsets": {
+				"from": 365700,
+				"to": 367180
+			},
+			"text": " Some of them get as high as 900."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,180",
+				"to": "00:06:11,240"
+			},
+			"offsets": {
+				"from": 367180,
+				"to": 371240
+			},
+			"text": " My very favorite is a rabbi who says, there are actually infinite names of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,240",
+				"to": "00:06:12,460"
+			},
+			"offsets": {
+				"from": 371240,
+				"to": 372460
+			},
+			"text": " We just haven't heard them all yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,460",
+				"to": "00:06:13,440"
+			},
+			"offsets": {
+				"from": 372460,
+				"to": 373440
+			},
+			"text": " And I really like that one."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,440",
+				"to": "00:06:15,100"
+			},
+			"offsets": {
+				"from": 373440,
+				"to": 375100
+			},
+			"text": " Yeah, it's good, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,100",
+				"to": "00:06:15,760"
+			},
+			"offsets": {
+				"from": 375100,
+				"to": 375760
+			},
+			"text": " It's good."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,760",
+				"to": "00:06:25,060"
+			},
+			"offsets": {
+				"from": 375760,
+				"to": 385060
+			},
+			"text": " But we first meet God in the Bible in verse one, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,060",
+				"to": "00:06:27,740"
+			},
+			"offsets": {
+				"from": 385060,
+				"to": 387740
+			},
+			"text": " Because the Bible's about God and his position to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,740",
+				"to": "00:06:30,040"
+			},
+			"offsets": {
+				"from": 387740,
+				"to": 390040
+			},
+			"text": " And it's introducing to us who he is and what he does."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,040",
+				"to": "00:06:33,480"
+			},
+			"offsets": {
+				"from": 390040,
+				"to": 393480
+			},
+			"text": " So in Genesis 1, 1, it says, in the beginning, God created the heavens and the earth."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,800",
+				"to": "00:06:39,000"
+			},
+			"offsets": {
+				"from": 393800,
+				"to": 399000
+			},
+			"text": " The word used there is Elohim, which is the plural masculine of the generic name for God"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,000",
+				"to": "00:06:40,200"
+			},
+			"offsets": {
+				"from": 399000,
+				"to": 400200
+			},
+			"text": " used in the day, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,200",
+				"to": "00:06:45,820"
+			},
+			"offsets": {
+				"from": 400200,
+				"to": 405820
+			},
+			"text": " It was also the name, this plural, it would be the name for the absolute authority in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,820",
+				"to": "00:06:47,340"
+			},
+			"offsets": {
+				"from": 405820,
+				"to": 407340
+			},
+			"text": " universe that everyone would recognize that."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,340",
+				"to": "00:06:53,120"
+			},
+			"offsets": {
+				"from": 407340,
+				"to": 413120
+			},
+			"text": " And the Bible spends the rest of much of the Old Testament explaining that this plural identity"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,120",
+				"to": "00:06:54,420"
+			},
+			"offsets": {
+				"from": 413120,
+				"to": 414420
+			},
+			"text": " is one."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,420",
+				"to": "00:06:57,040"
+			},
+			"offsets": {
+				"from": 414420,
+				"to": 417040
+			},
+			"text": " Here, O Israel, the Lord your God is one."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,040",
+				"to": "00:06:58,200"
+			},
+			"offsets": {
+				"from": 417040,
+				"to": 418200
+			},
+			"text": " The Elohim is one."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,200",
+				"to": "00:07:00,140"
+			},
+			"offsets": {
+				"from": 418200,
+				"to": 420140
+			},
+			"text": " And you will love that God with all your heart, soul, and mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,140",
+				"to": "00:07:01,460"
+			},
+			"offsets": {
+				"from": 420140,
+				"to": 421460
+			},
+			"text": " You still have no other gods before me."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,460",
+				"to": "00:07:06,640"
+			},
+			"offsets": {
+				"from": 421460,
+				"to": 426640
+			},
+			"text": " Over and over, it says this plural idea that you've grown up with, that's one identity, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,120",
+				"to": "00:07:13,820"
+			},
+			"offsets": {
+				"from": 428120,
+				"to": 433820
+			},
+			"text": " But it's still so grand and so far beyond us that this plural name expresses the unlimited,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,820",
+				"to": "00:07:17,420"
+			},
+			"offsets": {
+				"from": 433820,
+				"to": 437420
+			},
+			"text": " unearthly, massive magnificence of his glorious nature."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,420",
+				"to": "00:07:19,960"
+			},
+			"offsets": {
+				"from": 437420,
+				"to": 439960
+			},
+			"text": " He's beyond all things that he created."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,960",
+				"to": "00:07:22,760"
+			},
+			"offsets": {
+				"from": 439960,
+				"to": 442760
+			},
+			"text": " He was the first and created all things."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,760",
+				"to": "00:07:24,720"
+			},
+			"offsets": {
+				"from": 442760,
+				"to": 444720
+			},
+			"text": " That's the message of Genesis 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,720",
+				"to": "00:07:26,460"
+			},
+			"offsets": {
+				"from": 444720,
+				"to": 446460
+			},
+			"text": " So Elohim is the creator God."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,460",
+				"to": "00:07:28,780"
+			},
+			"offsets": {
+				"from": 446460,
+				"to": 448780
+			},
+			"text": " And then in chapter 2, calls him by a different name."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,780",
+				"to": "00:07:30,180"
+			},
+			"offsets": {
+				"from": 448780,
+				"to": 450180
+			},
+			"text": " Why would it do that, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,980",
+				"to": "00:07:34,760"
+			},
+			"offsets": {
+				"from": 450980,
+				"to": 454760
+			},
+			"text": " Because the God creator of the universe has now come down and met a single man and is"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,760",
+				"to": "00:07:35,960"
+			},
+			"offsets": {
+				"from": 454760,
+				"to": 455960
+			},
+			"text": " talking to him, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,960",
+				"to": "00:07:40,240"
+			},
+			"offsets": {
+				"from": 455960,
+				"to": 460240
+			},
+			"text": " And so he's called Yahweh Elohim in the second chapter."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,240",
+				"to": "00:07:41,040"
+			},
+			"offsets": {
+				"from": 460240,
+				"to": 461040
+			},
+			"text": " Yahweh has a meaning."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,040",
+				"to": "00:07:42,360"
+			},
+			"offsets": {
+				"from": 461040,
+				"to": 462360
+			},
+			"text": " We'll get back to what that is later."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,360",
+				"to": "00:07:47,220"
+			},
+			"offsets": {
+				"from": 462360,
+				"to": 467220
+			},
+			"text": " But here you have a personal name attached to sort of a title, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,220",
+				"to": "00:07:50,740"
+			},
+			"offsets": {
+				"from": 467220,
+				"to": 470740
+			},
+			"text": " Elohim, God, creator God, larger than the universe."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,740",
+				"to": "00:07:51,600"
+			},
+			"offsets": {
+				"from": 470740,
+				"to": 471600
+			},
+			"text": " It's kind of a role."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,600",
+				"to": "00:07:54,900"
+			},
+			"offsets": {
+				"from": 471600,
+				"to": 474900
+			},
+			"text": " When we say pastor Ryan, it's kind of the same thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,900",
+				"to": "00:08:00,780"
+			},
+			"offsets": {
+				"from": 474900,
+				"to": 480780
+			},
+			"text": " Pastor is what his significance is to us, what his relationship, it encapsulates his authority"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,780",
+				"to": "00:08:01,700"
+			},
+			"offsets": {
+				"from": 480780,
+				"to": 481700
+			},
+			"text": " in this room, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,700",
+				"to": "00:08:05,040"
+			},
+			"offsets": {
+				"from": 481700,
+				"to": 485040
+			},
+			"text": " And if you say pastor, he'll turn around and say what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,040",
+				"to": "00:08:09,060"
+			},
+			"offsets": {
+				"from": 485040,
+				"to": 489060
+			},
+			"text": " If you say Ryan, he'll also turn around and say what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,060",
+				"to": "00:08:12,900"
+			},
+			"offsets": {
+				"from": 489060,
+				"to": 492900
+			},
+			"text": " But he'll have a slightly different expectation each time if it's pastor or Ryan."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,900",
+				"to": "00:08:14,420"
+			},
+			"offsets": {
+				"from": 492900,
+				"to": 494420
+			},
+			"text": " One's more personal than the other."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,420",
+				"to": "00:08:19,020"
+			},
+			"offsets": {
+				"from": 494420,
+				"to": 499020
+			},
+			"text": " And to identify that we understand that Ryan and pastor are the same person, we say pastor"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,020",
+				"to": "00:08:20,040"
+			},
+			"offsets": {
+				"from": 499020,
+				"to": 500040
+			},
+			"text": " Ryan, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,040",
+				"to": "00:08:23,860"
+			},
+			"offsets": {
+				"from": 500040,
+				"to": 503860
+			},
+			"text": " In much the same way, God is referred to as Yahweh Elohim."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,860",
+				"to": "00:08:29,720"
+			},
+			"offsets": {
+				"from": 503860,
+				"to": 509720
+			},
+			"text": " And I'm always just known as Kent, but God is far more magnificent than that."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,580",
+				"to": "00:08:34,040"
+			},
+			"offsets": {
+				"from": 510580,
+				"to": 514040
+			},
+			"text": " But it takes more to encapsulate who he is."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,040",
+				"to": "00:08:36,800"
+			},
+			"offsets": {
+				"from": 514040,
+				"to": 516800
+			},
+			"text": " So those are the first two and most common names for God."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,800",
+				"to": "00:08:41,780"
+			},
+			"offsets": {
+				"from": 516800,
+				"to": 521780
+			},
+			"text": " But throughout scripture, he's given other names, which would be sort of El, which is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,780",
+				"to": "00:08:45,720"
+			},
+			"offsets": {
+				"from": 521780,
+				"to": 525720
+			},
+			"text": " generic word for God with a character trait attached."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,720",
+				"to": "00:08:49,980"
+			},
+			"offsets": {
+				"from": 525720,
+				"to": 529980
+			},
+			"text": " As he reveals himself to new people in their situation, and they need to understand who he"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,980",
+				"to": "00:08:51,140"
+			},
+			"offsets": {
+				"from": 529980,
+				"to": 531140
+			},
+			"text": " is to them, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,500",
+				"to": "00:08:56,000"
+			},
+			"offsets": {
+				"from": 531500,
+				"to": 536000
+			},
+			"text": " So you have God Elohim, you have Lord Yahweh, you have God full of compassion, El-Rakum."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,000",
+				"to": "00:08:59,820"
+			},
+			"offsets": {
+				"from": 536000,
+				"to": 539820
+			},
+			"text": " You have the God who's all-powerful, all-sufficient, self-sufficient, El Shaddai."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:59,820",
+				"to": "00:09:04,040"
+			},
+			"offsets": {
+				"from": 539820,
+				"to": 544040
+			},
+			"text": " You'll have the God who provides our needs, that's Yahweh Yaira."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,040",
+				"to": "00:09:09,260"
+			},
+			"offsets": {
+				"from": 544040,
+				"to": 549260
+			},
+			"text": " And as each new person encounters this new facet of God, they hear a new name."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:09,340",
+				"to": "00:09:13,820"
+			},
+			"offsets": {
+				"from": 549340,
+				"to": 553820
+			},
+			"text": " For instance, Abraham in Genesis 14 is given this miraculous victory."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,820",
+				"to": "00:09:18,140"
+			},
+			"offsets": {
+				"from": 553820,
+				"to": 558140
+			},
+			"text": " He's able to save his relatives in battle, and he comes back and gives thanks."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,140",
+				"to": "00:09:23,280"
+			},
+			"offsets": {
+				"from": 558140,
+				"to": 563280
+			},
+			"text": " And at that moment, he experiences God as El Elyon, God Most High."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:23,280",
+				"to": "00:09:29,860"
+			},
+			"offsets": {
+				"from": 563280,
+				"to": 569860
+			},
+			"text": " Because in that moment, when Melchizedek introduces him to God as God Most High, Abraham has just"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,860",
+				"to": "00:09:37,420"
+			},
+			"offsets": {
+				"from": 569860,
+				"to": 577420
+			},
+			"text": " encountered him as a powerfully, physically involved being that he should yield worship and gifts to."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:37,420",
+				"to": "00:09:42,100"
+			},
+			"offsets": {
+				"from": 577420,
+				"to": 582100
+			},
+			"text": " Up to that point, he may have been a little more of a distant concept, but he's become very"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,100",
+				"to": "00:09:42,900"
+			},
+			"offsets": {
+				"from": 582100,
+				"to": 582900
+			},
+			"text": " solid and real."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,900",
+				"to": "00:09:44,600"
+			},
+			"offsets": {
+				"from": 582900,
+				"to": 584600
+			},
+			"text": " He's the Most High ruler, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,600",
+				"to": "00:09:54,280"
+			},
+			"offsets": {
+				"from": 584600,
+				"to": 594280
+			},
+			"text": " When Abraham starts a covenant with God, he's El Shaddai, the self-sufficient one who can take"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:54,280",
+				"to": "00:09:55,940"
+			},
+			"offsets": {
+				"from": 594280,
+				"to": 595940
+			},
+			"text": " care of the covenant on his own, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:56,940",
+				"to": "00:10:03,060"
+			},
+			"offsets": {
+				"from": 596940,
+				"to": 603060
+			},
+			"text": " A little bit later, so that's in Genesis 14, two chapters later in Genesis 16, Hagar, Abraham's"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:03,060",
+				"to": "00:10:06,400"
+			},
+			"offsets": {
+				"from": 603060,
+				"to": 606400
+			},
+			"text": " wife's servant, is lost in the desert, dying of thirst."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,400",
+				"to": "00:10:08,380"
+			},
+			"offsets": {
+				"from": 606400,
+				"to": 608380
+			},
+			"text": " And she's an Egyptian."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,380",
+				"to": "00:10:10,560"
+			},
+			"offsets": {
+				"from": 608380,
+				"to": 610560
+			},
+			"text": " She's grown up with a pantheist understanding."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:10,560",
+				"to": "00:10:15,820"
+			},
+			"offsets": {
+				"from": 610560,
+				"to": 615820
+			},
+			"text": " She's not looking for God, but she is looking for help, and she's lost in the desert."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:15,820",
+				"to": "00:10:18,700"
+			},
+			"offsets": {
+				"from": 615820,
+				"to": 618700
+			},
+			"text": " She needs salvation, and she's beyond the help of any person."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,700",
+				"to": "00:10:21,380"
+			},
+			"offsets": {
+				"from": 618700,
+				"to": 621380
+			},
+			"text": " And God reaches out and saves her in this story."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,560",
+				"to": "00:10:28,100"
+			},
+			"offsets": {
+				"from": 622560,
+				"to": 628100
+			},
+			"text": " And she recognizes him as El Roy, the God who sees me, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,220",
+				"to": "00:10:31,840"
+			},
+			"offsets": {
+				"from": 629220,
+				"to": 631840
+			},
+			"text": " She had never experienced a God before that could see."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,840",
+				"to": "00:10:37,060"
+			},
+			"offsets": {
+				"from": 631840,
+				"to": 637060
+			},
+			"text": " They were idols of wood and stone that represented the chaos, the uncontrollable chaos in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,060",
+				"to": "00:10:38,860"
+			},
+			"offsets": {
+				"from": 637060,
+				"to": 638860
+			},
+			"text": " world around her that she had to fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:38,860",
+				"to": "00:10:44,460"
+			},
+			"offsets": {
+				"from": 638860,
+				"to": 644460
+			},
+			"text": " And now she's experienced a God who sees her in her distress, pulls her out of the trouble"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,460",
+				"to": "00:10:45,000"
+			},
+			"offsets": {
+				"from": 644460,
+				"to": 645000
+			},
+			"text": " in the desert."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,000",
+				"to": "00:10:48,180"
+			},
+			"offsets": {
+				"from": 645000,
+				"to": 648180
+			},
+			"text": " And this is emblematic of what's going to happen to the people of Israel."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:49,060",
+				"to": "00:10:53,940"
+			},
+			"offsets": {
+				"from": 649060,
+				"to": 653940
+			},
+			"text": " As God sees their distress in the desert, pulls them out of the pantheism of Egypt, and introduces"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,940",
+				"to": "00:10:57,540"
+			},
+			"offsets": {
+				"from": 653940,
+				"to": 657540
+			},
+			"text": " himself to them at Mount Sinai, which is where we meet Moses, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:57,540",
+				"to": "00:10:58,900"
+			},
+			"offsets": {
+				"from": 657540,
+				"to": 658900
+			},
+			"text": " In Exodus 34."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,900",
+				"to": "00:11:05,120"
+			},
+			"offsets": {
+				"from": 658900,
+				"to": 665120
+			},
+			"text": " So Elohim is, it's used about 2,600 times in Scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:05,120",
+				"to": "00:11:07,480"
+			},
+			"offsets": {
+				"from": 665120,
+				"to": 667480
+			},
+			"text": " Yahweh's used about 6,800 times."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,480",
+				"to": "00:11:10,900"
+			},
+			"offsets": {
+				"from": 667480,
+				"to": 670900
+			},
+			"text": " The next most common is about 500 times, much fewer."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:10,900",
+				"to": "00:11:12,500"
+			},
+			"offsets": {
+				"from": 670900,
+				"to": 672500
+			},
+			"text": " But it's Adonai."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:12,500",
+				"to": "00:11:14,300"
+			},
+			"offsets": {
+				"from": 672500,
+				"to": 674300
+			},
+			"text": " And I'm just going to take a little moment."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:14,300",
+				"to": "00:11:18,920"
+			},
+			"offsets": {
+				"from": 674300,
+				"to": 678920
+			},
+			"text": " You guys might think I've been geeky so far, but just, you need to know this, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,660",
+				"to": "00:11:23,760"
+			},
+			"offsets": {
+				"from": 679660,
+				"to": 683760
+			},
+			"text": " Um, it's important to understand the difference between these, to understand what is happening"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:23,760",
+				"to": "00:11:25,180"
+			},
+			"offsets": {
+				"from": 683760,
+				"to": 685180
+			},
+			"text": " when Moses talks to God, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:25,180",
+				"to": "00:11:30,400"
+			},
+			"offsets": {
+				"from": 685180,
+				"to": 690400
+			},
+			"text": " Um, so, Yahweh is the personal name of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:30,400",
+				"to": "00:11:32,720"
+			},
+			"offsets": {
+				"from": 690400,
+				"to": 692720
+			},
+			"text": " And if you could put the next slide up, it'll help."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,720",
+				"to": "00:11:41,220"
+			},
+			"offsets": {
+				"from": 692720,
+				"to": 701220
+			},
+			"text": " The, um, and it's, uh, it was, it was referenced as a tetragrammaton, Y-H-W-H, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:41,220",
+				"to": "00:11:43,780"
+			},
+			"offsets": {
+				"from": 701220,
+				"to": 703780
+			},
+			"text": " Uh, and it was out of reverence."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,780",
+				"to": "00:11:46,080"
+			},
+			"offsets": {
+				"from": 703780,
+				"to": 706080
+			},
+			"text": " The scribes didn't write his personal name down."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,740",
+				"to": "00:11:50,560"
+			},
+			"offsets": {
+				"from": 706740,
+				"to": 710560
+			},
+			"text": " Uh, that, but when you transliterate it into English, it looks like Y-H-W-H."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:50,560",
+				"to": "00:11:54,300"
+			},
+			"offsets": {
+				"from": 710560,
+				"to": 714300
+			},
+			"text": " And so it was just a placeholder that was put there for the name of God, because we reverently"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:54,300",
+				"to": "00:11:57,220"
+			},
+			"offsets": {
+				"from": 714300,
+				"to": 717220
+			},
+			"text": " don't want to overuse his personal name, was the scribes' take."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,220",
+				"to": "00:12:00,820"
+			},
+			"offsets": {
+				"from": 717220,
+				"to": 720820
+			},
+			"text": " However, we are Westerners that pronounce everything, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,820",
+				"to": "00:12:02,260"
+			},
+			"offsets": {
+				"from": 720820,
+				"to": 722260
+			},
+			"text": " That's what you do in English."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,360",
+				"to": "00:12:07,340"
+			},
+			"offsets": {
+				"from": 722360,
+				"to": 727340
+			},
+			"text": " And so if you put vowels into Y-H-W-H, you come out with the word Yahweh, which we pronounce,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:07,340",
+				"to": "00:12:08,720"
+			},
+			"offsets": {
+				"from": 727340,
+				"to": 728720
+			},
+			"text": " that's how we pronounce the name of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,720",
+				"to": "00:12:16,020"
+			},
+			"offsets": {
+				"from": 728720,
+				"to": 736020
+			},
+			"text": " If you take that word and translate it from Hebrew to Greek to Latin to Middle English to"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,020",
+				"to": "00:12:18,880"
+			},
+			"offsets": {
+				"from": 736020,
+				"to": 738880
+			},
+			"text": " us, Jehovah is the word that comes out the other end, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,880",
+				"to": "00:12:20,340"
+			},
+			"offsets": {
+				"from": 738880,
+				"to": 740340
+			},
+			"text": " It's the same word."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,340",
+				"to": "00:12:24,400"
+			},
+			"offsets": {
+				"from": 740340,
+				"to": 744400
+			},
+			"text": " You can tell it's English because there is no J in Hebrew, Greek, or Latin."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:25,000",
+				"to": "00:12:26,860"
+			},
+			"offsets": {
+				"from": 745000,
+				"to": 746860
+			},
+			"text": " Any J word is an English version of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,860",
+				"to": "00:12:33,300"
+			},
+			"offsets": {
+				"from": 746860,
+				"to": 753300
+			},
+			"text": " So Y-H-W-H, Yahweh, and Jehovah are all the same word, and they're all the placeholders"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:33,300",
+				"to": "00:12:36,880"
+			},
+			"offsets": {
+				"from": 753300,
+				"to": 756880
+			},
+			"text": " for the name of God when he introduces himself to Moses."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:37,600",
+				"to": "00:12:45,080"
+			},
+			"offsets": {
+				"from": 757600,
+				"to": 765080
+			},
+			"text": " And they also, depending on your translation, you'll see one of those three, but the most"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:45,080",
+				"to": "00:12:48,680"
+			},
+			"offsets": {
+				"from": 765080,
+				"to": 768680
+			},
+			"text": " common name you'll see is uppercase L-O-R-D, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,680",
+				"to": "00:12:49,460"
+			},
+			"offsets": {
+				"from": 768680,
+				"to": 769460
+			},
+			"text": " All caps."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:49,460",
+				"to": "00:12:52,000"
+			},
+			"offsets": {
+				"from": 769460,
+				"to": 772000
+			},
+			"text": " And that's a placeholder for the name of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,000",
+				"to": "00:12:57,360"
+			},
+			"offsets": {
+				"from": 772000,
+				"to": 777360
+			},
+			"text": " However, Adonai, the next most common name, is actually translated confusingly, Lord, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,360",
+				"to": "00:13:04,740"
+			},
+			"offsets": {
+				"from": 777360,
+				"to": 784740
+			},
+			"text": " So if you see L-O-R-D spelled in normal case, that means my ruler, my master."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:05,340",
+				"to": "00:13:10,180"
+			},
+			"offsets": {
+				"from": 785340,
+				"to": 790180
+			},
+			"text": " And when God forms a covenant with people, he becomes their covenant Lord, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,180",
+				"to": "00:13:13,340"
+			},
+			"offsets": {
+				"from": 790180,
+				"to": 793340
+			},
+			"text": " Just like an earthly ruler would, but from a much higher dignity."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,340",
+				"to": "00:13:18,860"
+			},
+			"offsets": {
+				"from": 793340,
+				"to": 798860
+			},
+			"text": " And when you make a covenant with a Lord, it's a blood oath."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,860",
+				"to": "00:13:23,640"
+			},
+			"offsets": {
+				"from": 798860,
+				"to": 803640
+			},
+			"text": " I will become your people, we will become your people, and you'll become our Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,640",
+				"to": "00:13:27,240"
+			},
+			"offsets": {
+				"from": 803640,
+				"to": 807240
+			},
+			"text": " And if we break this, may death take us all, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,240",
+				"to": "00:13:28,340"
+			},
+			"offsets": {
+				"from": 807240,
+				"to": 808340
+			},
+			"text": " That's what a covenant is."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,340",
+				"to": "00:13:34,260"
+			},
+			"offsets": {
+				"from": 808340,
+				"to": 814260
+			},
+			"text": " And so Adonai is the role that God assumes to people that go into covenant with him, even"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,260",
+				"to": "00:13:36,760"
+			},
+			"offsets": {
+				"from": 814260,
+				"to": 816760
+			},
+			"text": " though Yahweh, L-O-R-D, is his name."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:36,760",
+				"to": "00:13:38,720"
+			},
+			"offsets": {
+				"from": 816760,
+				"to": 818720
+			},
+			"text": " And that'll be relevant when we talk to Moses."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:38,720",
+				"to": "00:13:47,060"
+			},
+			"offsets": {
+				"from": 818720,
+				"to": 827060
+			},
+			"text": " In Exodus, when Moses encounters God, he reveals to Moses these names, plus this description,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:47,060",
+				"to": "00:13:48,460"
+			},
+			"offsets": {
+				"from": 827060,
+				"to": 828460
+			},
+			"text": " a rich list of characteristics."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,460",
+				"to": "00:13:56,740"
+			},
+			"offsets": {
+				"from": 828460,
+				"to": 836740
+			},
+			"text": " So let's read that together, which I have here somewhere."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:58,900",
+				"to": "00:14:05,360"
+			},
+			"offsets": {
+				"from": 838900,
+				"to": 845360
+			},
+			"text": " Exodus 34, 5 through 10, the Lord descended in a cloud and stood there with him, and they're"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,360",
+				"to": "00:14:11,060"
+			},
+			"offsets": {
+				"from": 845360,
+				"to": 851060
+			},
+			"text": " on a mountain, Mount Sinai, and proclaimed the name, the Lord, Yahweh, the Lord, Yahweh,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,060",
+				"to": "00:14:15,680"
+			},
+			"offsets": {
+				"from": 851060,
+				"to": 855680
+			},
+			"text": " passed before him and proclaimed, the Lord, the Lord, a God, L, merciful and gracious,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,680",
+				"to": "00:14:20,980"
+			},
+			"offsets": {
+				"from": 855680,
+				"to": 860980
+			},
+			"text": " merciful and gracious, slow to anger, abounding in steadfast love and faithfulness, keeping"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,980",
+				"to": "00:14:25,940"
+			},
+			"offsets": {
+				"from": 860980,
+				"to": 865940
+			},
+			"text": " steadfast love for thousands, and that means thousands of generations, forgiving iniquity and"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,940",
+				"to": "00:14:30,500"
+			},
+			"offsets": {
+				"from": 865940,
+				"to": 870500
+			},
+			"text": " transgressions and sins, but who will by no means clear the guilty, visiting the iniquities"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,500",
+				"to": "00:14:33,840"
+			},
+			"offsets": {
+				"from": 870500,
+				"to": 873840
+			},
+			"text": " of the father and their children and the children's children of the third and fourth generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:33,840",
+				"to": "00:14:38,500"
+			},
+			"offsets": {
+				"from": 873840,
+				"to": 878500
+			},
+			"text": " And Moses quickly bowed his head toward the earth and whispered, worshiped, and said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:38,960",
+				"to": "00:14:46,260"
+			},
+			"offsets": {
+				"from": 878960,
+				"to": 886260
+			},
+			"text": " if now I have found favor in your sight, O Lord, Adonai, please let the Adonai go in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,260",
+				"to": "00:14:50,260"
+			},
+			"offsets": {
+				"from": 886260,
+				"to": 890260
+			},
+			"text": " midst of us, for it's a stiff-necked people, and pardon our iniquity and our sin, and take"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,260",
+				"to": "00:14:51,080"
+			},
+			"offsets": {
+				"from": 890260,
+				"to": 891080
+			},
+			"text": " us for your inheritance."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,080",
+				"to": "00:14:57,060"
+			},
+			"offsets": {
+				"from": 891080,
+				"to": 897060
+			},
+			"text": " And he said, behold, I'm making a covenant before all your people, I will do marvels such"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,060",
+				"to": "00:15:01,700"
+			},
+			"offsets": {
+				"from": 897060,
+				"to": 901700
+			},
+			"text": " have not been created in all the earth or in any nation, and all the people among whom"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,700",
+				"to": "00:15:06,040"
+			},
+			"offsets": {
+				"from": 901700,
+				"to": 906040
+			},
+			"text": " you are, who you are, shall see the work of the Lord, Yahweh, for it's an awesome thing"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:06,040",
+				"to": "00:15:08,560"
+			},
+			"offsets": {
+				"from": 906040,
+				"to": 908560
+			},
+			"text": " that I will do with you, observe what I command you this day."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,560",
+				"to": "00:15:12,820"
+			},
+			"offsets": {
+				"from": 908560,
+				"to": 912820
+			},
+			"text": " So, that's probably not what you expected."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:12,820",
+				"to": "00:15:15,060"
+			},
+			"offsets": {
+				"from": 912820,
+				"to": 915060
+			},
+			"text": " That sounded a little like a mixed message."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,060",
+				"to": "00:15:19,700"
+			},
+			"offsets": {
+				"from": 915060,
+				"to": 919700
+			},
+			"text": " Sounds a little like a, you might be asking yourself, why so angry, God, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:19,700",
+				"to": "00:15:23,500"
+			},
+			"offsets": {
+				"from": 919700,
+				"to": 923500
+			},
+			"text": " I thought you were going to reveal your character to me, and what I heard was, you're going to"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,500",
+				"to": "00:15:24,520"
+			},
+			"offsets": {
+				"from": 923500,
+				"to": 924520
+			},
+			"text": " punish my grandkids."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:24,520",
+				"to": "00:15:27,400"
+			},
+			"offsets": {
+				"from": 924520,
+				"to": 927400
+			},
+			"text": " So, what's up with that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,400",
+				"to": "00:15:30,020"
+			},
+			"offsets": {
+				"from": 927400,
+				"to": 930020
+			},
+			"text": " To answer that question, to understand, was he angry?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,120",
+				"to": "00:15:31,360"
+			},
+			"offsets": {
+				"from": 930120,
+				"to": 931360
+			},
+			"text": " Why did he respond that way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,360",
+				"to": "00:15:35,100"
+			},
+			"offsets": {
+				"from": 931360,
+				"to": 935100
+			},
+			"text": " What was going on that he would reveal himself in this way?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,100",
+				"to": "00:15:39,700"
+			},
+			"offsets": {
+				"from": 935100,
+				"to": 939700
+			},
+			"text": " We're going to go back just a little bit to Exodus 3, to this same mountain, when Moses"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,700",
+				"to": "00:15:41,560"
+			},
+			"offsets": {
+				"from": 939700,
+				"to": 941560
+			},
+			"text": " first encounters Yahweh, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:41,560",
+				"to": "00:15:55,100"
+			},
+			"offsets": {
+				"from": 941560,
+				"to": 955100
+			},
+			"text": " The Lord, in Exodus 3, 4 through 6, Moses sees Yahweh as a burning bush."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,220",
+				"to": "00:15:56,320"
+			},
+			"offsets": {
+				"from": 955220,
+				"to": 956320
+			},
+			"text": " You've heard this story, perhaps."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:56,320",
+				"to": "00:16:01,060"
+			},
+			"offsets": {
+				"from": 956320,
+				"to": 961060
+			},
+			"text": " It's a theophany, God's divine self is revealed in a physical form."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,060",
+				"to": "00:16:06,960"
+			},
+			"offsets": {
+				"from": 961060,
+				"to": 966960
+			},
+			"text": " And he tells Moses, I am Yahweh, the Elohim of your fathers, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,960",
+				"to": "00:16:11,400"
+			},
+			"offsets": {
+				"from": 966960,
+				"to": 971400
+			},
+			"text": " I am this person, this God, it's my personal name, and I want to deal with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:11,400",
+				"to": "00:16:14,980"
+			},
+			"offsets": {
+				"from": 971400,
+				"to": 974980
+			},
+			"text": " And I'm the creator God that your fathers told you about, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:17,800",
+				"to": "00:16:25,880"
+			},
+			"offsets": {
+				"from": 977800,
+				"to": 985880
+			},
+			"text": " In verse 14, or we'll start in 12, we'll start in 13, and then Moses said, well, who, God"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,880",
+				"to": "00:16:31,760"
+			},
+			"offsets": {
+				"from": 985880,
+				"to": 991760
+			},
+			"text": " tells Moses to go to the people of, go to Egypt, and get, he says, I'm the God of the Elohim"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,760",
+				"to": "00:16:35,620"
+			},
+			"offsets": {
+				"from": 991760,
+				"to": 995620
+			},
+			"text": " of your fathers, Abraham, Isaac, and Jacob, with whom he had made a covenant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,620",
+				"to": "00:16:39,980"
+			},
+			"offsets": {
+				"from": 995620,
+				"to": 999980
+			},
+			"text": " He'd made a covenant that their children would be great, Abraham's children would be greater"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:39,980",
+				"to": "00:16:43,260"
+			},
+			"offsets": {
+				"from": 999980,
+				"to": 1003260
+			},
+			"text": " than the sands of the sea, and currently they're sitting in slavery in Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:43,960",
+				"to": "00:16:49,160"
+			},
+			"offsets": {
+				"from": 1003960,
+				"to": 1009160
+			},
+			"text": " And so God says to Moses, I need you to go back to Egypt, get the people, and bring them"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,160",
+				"to": "00:16:51,020"
+			},
+			"offsets": {
+				"from": 1009160,
+				"to": 1011020
+			},
+			"text": " back here to worship me, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,020",
+				"to": "00:16:55,840"
+			},
+			"offsets": {
+				"from": 1011020,
+				"to": 1015840
+			},
+			"text": " That's why he brought them out of Egypt, verse 12, certainly I will be with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:55,840",
+				"to": "00:16:58,940"
+			},
+			"offsets": {
+				"from": 1015840,
+				"to": 1018940
+			},
+			"text": " When you've brought the people out of Egypt, you'll come to this mountain and worship me"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,940",
+				"to": "00:16:59,460"
+			},
+			"offsets": {
+				"from": 1018940,
+				"to": 1019460
+			},
+			"text": " at this mountain."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:59,460",
+				"to": "00:17:05,200"
+			},
+			"offsets": {
+				"from": 1019460,
+				"to": 1025200
+			},
+			"text": " And Moses said to God, well, then who may I say, and what if they say to me, what is"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:05,200",
+				"to": "00:17:06,340"
+			},
+			"offsets": {
+				"from": 1025200,
+				"to": 1026340
+			},
+			"text": " his name, who shall I say to them?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,340",
+				"to": "00:17:07,360"
+			},
+			"offsets": {
+				"from": 1026340,
+				"to": 1027360
+			},
+			"text": " Because why did he say that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,360",
+				"to": "00:17:08,940"
+			},
+			"offsets": {
+				"from": 1027360,
+				"to": 1028940
+			},
+			"text": " Because they haven't met Yahweh yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:08,940",
+				"to": "00:17:13,660"
+			},
+			"offsets": {
+				"from": 1028940,
+				"to": 1033660
+			},
+			"text": " They know him by, as the Elohim of their fathers, but they don't know about Yahweh."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,660",
+				"to": "00:17:17,260"
+			},
+			"offsets": {
+				"from": 1033660,
+				"to": 1037260
+			},
+			"text": " And Moses says, well, you've introduced yourself to me, but what should I tell them, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,260",
+				"to": "00:17:24,840"
+			},
+			"offsets": {
+				"from": 1037260,
+				"to": 1044840
+			},
+			"text": " And God says to Moses, I am who I am, which is to say, I existed, I will exist, and I'm"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,840",
+				"to": "00:17:26,120"
+			},
+			"offsets": {
+				"from": 1044840,
+				"to": 1046120
+			},
+			"text": " just me, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,120",
+				"to": "00:17:28,500"
+			},
+			"offsets": {
+				"from": 1046120,
+				"to": 1048500
+			},
+			"text": " You can't compare me to something else."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,520",
+				"to": "00:17:34,100"
+			},
+			"offsets": {
+				"from": 1050520,
+				"to": 1054100
+			},
+			"text": " And thus you shall say to the sons of Israel, I am sent me to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,100",
+				"to": "00:17:39,040"
+			},
+			"offsets": {
+				"from": 1054100,
+				"to": 1059040
+			},
+			"text": " The Lord, the God of your fathers, the God of Abraham, the God of Isaac, that's the Elohim"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,040",
+				"to": "00:17:42,560"
+			},
+			"offsets": {
+				"from": 1059040,
+				"to": 1062560
+			},
+			"text": " of God, Abraham, Isaac, and Jacob, has sent me to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:42,560",
+				"to": "00:17:44,180"
+			},
+			"offsets": {
+				"from": 1062560,
+				"to": 1064180
+			},
+			"text": " So I am sent me to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,180",
+				"to": "00:17:47,020"
+			},
+			"offsets": {
+				"from": 1064180,
+				"to": 1067020
+			},
+			"text": " The Lord, Yahweh, has sent me to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:47,020",
+				"to": "00:17:49,940"
+			},
+			"offsets": {
+				"from": 1067020,
+				"to": 1069940
+			},
+			"text": " He identifies I am with Yahweh when he says that."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,940",
+				"to": "00:17:54,780"
+			},
+			"offsets": {
+				"from": 1069940,
+				"to": 1074780
+			},
+			"text": " And you have to notice, reading the Hebrew, that I am and Yahweh are spelled very similarly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:54,780",
+				"to": "00:17:55,780"
+			},
+			"offsets": {
+				"from": 1074780,
+				"to": 1075780
+			},
+			"text": " right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,780",
+				"to": "00:18:00,480"
+			},
+			"offsets": {
+				"from": 1075780,
+				"to": 1080480
+			},
+			"text": " Yahweh appears, God is presenting it as a form of the concept, I am."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:00,800",
+				"to": "00:18:05,540"
+			},
+			"offsets": {
+				"from": 1080800,
+				"to": 1085540
+			},
+			"text": " And later in verse, it's actually in verse 7 and then in chapter 6 as well, he points"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,540",
+				"to": "00:18:10,240"
+			},
+			"offsets": {
+				"from": 1085540,
+				"to": 1090240
+			},
+			"text": " out that Abraham, Isaac, and Jacob didn't know me as Yahweh, they knew me as El Shaddai,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,240",
+				"to": "00:18:11,260"
+			},
+			"offsets": {
+				"from": 1090240,
+				"to": 1091260
+			},
+			"text": " the all-powerful one."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:11,260",
+				"to": "00:18:19,900"
+			},
+			"offsets": {
+				"from": 1091260,
+				"to": 1099900
+			},
+			"text": " But in verse 7, when you have gotten the people of Israel, and you brought them across the desert"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,900",
+				"to": "00:18:23,260"
+			},
+			"offsets": {
+				"from": 1099900,
+				"to": 1103260
+			},
+			"text": " through my mighty works, and you come back to this mountain to worship me, at that point"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:23,260",
+				"to": "00:18:27,620"
+			},
+			"offsets": {
+				"from": 1103260,
+				"to": 1107620
+			},
+			"text": " in verse 7, I will take you for my people, and I will be your God."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,280",
+				"to": "00:18:30,820"
+			},
+			"offsets": {
+				"from": 1108280,
+				"to": 1110820
+			},
+			"text": " And we see that Yahweh means, I will be."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:30,820",
+				"to": "00:18:31,700"
+			},
+			"offsets": {
+				"from": 1110820,
+				"to": 1111700
+			},
+			"text": " And what will I be?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,700",
+				"to": "00:18:33,180"
+			},
+			"offsets": {
+				"from": 1111700,
+				"to": 1113180
+			},
+			"text": " I will be with you."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,180",
+				"to": "00:18:38,080"
+			},
+			"offsets": {
+				"from": 1113180,
+				"to": 1118080
+			},
+			"text": " Yahweh is the name that means, I will be with you in the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,080",
+				"to": "00:18:38,840"
+			},
+			"offsets": {
+				"from": 1118080,
+				"to": 1118840
+			},
+			"text": " Who will you be?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,840",
+				"to": "00:18:42,320"
+			},
+			"offsets": {
+				"from": 1118840,
+				"to": 1122320
+			},
+			"text": " You will be the people in the covenant with me, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:42,320",
+				"to": "00:18:45,480"
+			},
+			"offsets": {
+				"from": 1122320,
+				"to": 1125480
+			},
+			"text": " This is his covenant personal ownership name."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,480",
+				"to": "00:18:48,660"
+			},
+			"offsets": {
+				"from": 1125480,
+				"to": 1128660
+			},
+			"text": " It's not just, I'm your Lord, Adonai."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,660",
+				"to": "00:18:54,120"
+			},
+			"offsets": {
+				"from": 1128660,
+				"to": 1134120
+			},
+			"text": " It's I am your covenant ruler, who always will be and always, always have been, always will"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,120",
+				"to": "00:18:55,900"
+			},
+			"offsets": {
+				"from": 1134120,
+				"to": 1135900
+			},
+			"text": " be, and you always will be with me."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,900",
+				"to": "00:19:01,740"
+			},
+			"offsets": {
+				"from": 1135900,
+				"to": 1141740
+			},
+			"text": " So when he says to Moses, I will be with you for a thousand generations, he's saying the"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:01,740",
+				"to": "00:19:03,280"
+			},
+			"offsets": {
+				"from": 1141740,
+				"to": 1143280
+			},
+			"text": " same thing, and he means it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,280",
+				"to": "00:19:04,320"
+			},
+			"offsets": {
+				"from": 1143280,
+				"to": 1144320
+			},
+			"text": " Make sense?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,480",
+				"to": "00:19:17,000"
+			},
+			"offsets": {
+				"from": 1146480,
+				"to": 1157000
+			},
+			"text": " In Leviticus 26, he says, God says to the priest, I will come and I make a tabernacle"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,000",
+				"to": "00:19:17,480"
+			},
+			"offsets": {
+				"from": 1157000,
+				"to": 1157480
+			},
+			"text": " among you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,480",
+				"to": "00:19:19,180"
+			},
+			"offsets": {
+				"from": 1157480,
+				"to": 1159180
+			},
+			"text": " I will come and make a dwelling among you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,180",
+				"to": "00:19:22,800"
+			},
+			"offsets": {
+				"from": 1159180,
+				"to": 1162800
+			},
+			"text": " And the whole teaching of Leviticus is how are you going to live your life around me once"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:22,800",
+				"to": "00:19:23,540"
+			},
+			"offsets": {
+				"from": 1162800,
+				"to": 1163540
+			},
+			"text": " I'm living with you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,900",
+				"to": "00:19:29,300"
+			},
+			"offsets": {
+				"from": 1163900,
+				"to": 1169300
+			},
+			"text": " I'm, I am holy and you're not, I am divine and you're human, but I'm going to come live"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,300",
+				"to": "00:19:29,700"
+			},
+			"offsets": {
+				"from": 1169300,
+				"to": 1169700
+			},
+			"text": " among you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,700",
+				"to": "00:19:30,940"
+			},
+			"offsets": {
+				"from": 1169700,
+				"to": 1170940
+			},
+			"text": " And here's how you're going to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,940",
+				"to": "00:19:32,960"
+			},
+			"offsets": {
+				"from": 1170940,
+				"to": 1172960
+			},
+			"text": " I'm going to tabernacle among you."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:32,960",
+				"to": "00:19:40,220"
+			},
+			"offsets": {
+				"from": 1172960,
+				"to": 1180220
+			},
+			"text": " And John 1 14, speaking of Christ, we're told the word became flesh and tabernacled among"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:40,220",
+				"to": "00:19:42,560"
+			},
+			"offsets": {
+				"from": 1180220,
+				"to": 1182560
+			},
+			"text": " us, came and dwelt among us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:42,560",
+				"to": "00:19:45,780"
+			},
+			"offsets": {
+				"from": 1182560,
+				"to": 1185780
+			},
+			"text": " And we beheld his glory, the glory of the only begotten of the father."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:45,780",
+				"to": "00:19:47,840"
+			},
+			"offsets": {
+				"from": 1185780,
+				"to": 1187840
+			},
+			"text": " Where else had we seen the glory invest a tabernacle?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:47,840",
+				"to": "00:19:51,040"
+			},
+			"offsets": {
+				"from": 1187840,
+				"to": 1191040
+			},
+			"text": " Was at the foot of Mount Sinai, right where Moses is speaking right now."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,040",
+				"to": "00:19:53,880"
+			},
+			"offsets": {
+				"from": 1191040,
+				"to": 1193880
+			},
+			"text": " God has said, I'm going to come live among you in his glory filled the tabernacle."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,900",
+				"to": "00:20:00,060"
+			},
+			"offsets": {
+				"from": 1193900,
+				"to": 1200060
+			},
+			"text": " And they lived their lives around him and tried to follow him badly, much like we do."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,060",
+				"to": "00:20:03,940"
+			},
+			"offsets": {
+				"from": 1200060,
+				"to": 1203940
+			},
+			"text": " And that God's tabernacle is among us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,940",
+				"to": "00:20:10,240"
+			},
+			"offsets": {
+				"from": 1203940,
+				"to": 1210240
+			},
+			"text": " And all this is leading to Revelation 21 3, John's vision of the end of the age, when"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,240",
+				"to": "00:20:15,140"
+			},
+			"offsets": {
+				"from": 1210240,
+				"to": 1215140
+			},
+			"text": " he says, after the new heaven and the new earth have come down, behold, the tabernacle"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,140",
+				"to": "00:20:16,140"
+			},
+			"offsets": {
+				"from": 1215140,
+				"to": 1216140
+			},
+			"text": " of God is among us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:16,140",
+				"to": "00:20:17,400"
+			},
+			"offsets": {
+				"from": 1216140,
+				"to": 1217400
+			},
+			"text": " His dwelling is among us."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:17,400",
+				"to": "00:20:19,840"
+			},
+			"offsets": {
+				"from": 1217400,
+				"to": 1219840
+			},
+			"text": " He will dwell among them and they shall be his people."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,840",
+				"to": "00:20:21,340"
+			},
+			"offsets": {
+				"from": 1219840,
+				"to": 1221340
+			},
+			"text": " And God himself will be among them."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:21,340",
+				"to": "00:20:23,220"
+			},
+			"offsets": {
+				"from": 1221340,
+				"to": 1223220
+			},
+			"text": " He'll wipe away every tear from their eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:23,220",
+				"to": "00:20:24,900"
+			},
+			"offsets": {
+				"from": 1223220,
+				"to": 1224900
+			},
+			"text": " There will no longer be any death."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,900",
+				"to": "00:20:28,460"
+			},
+			"offsets": {
+				"from": 1224900,
+				"to": 1228460
+			},
+			"text": " There will no longer be any mourning or crying or pain for the first things have passed away."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,460",
+				"to": "00:20:34,980"
+			},
+			"offsets": {
+				"from": 1228460,
+				"to": 1234980
+			},
+			"text": " This is what God is promising Moses on this mountain in Exodus, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,980",
+				"to": "00:20:40,860"
+			},
+			"offsets": {
+				"from": 1234980,
+				"to": 1240860
+			},
+			"text": " And it's going to happen through the intervention of Christ, which we'll talk about in a second,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,860",
+				"to": "00:20:43,100"
+			},
+			"offsets": {
+				"from": 1240860,
+				"to": 1243100
+			},
+			"text": " so that it's there at the end of the age in Revelation."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:43,760",
+				"to": "00:20:48,660"
+			},
+			"offsets": {
+				"from": 1243760,
+				"to": 1248660
+			},
+			"text": " This is God reaching his hand down from Genesis, and it's an invitation to meet you, telling"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,660",
+				"to": "00:20:51,120"
+			},
+			"offsets": {
+				"from": 1248660,
+				"to": 1251120
+			},
+			"text": " you his name all the way through scripture to the last chapter."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,120",
+				"to": "00:20:55,620"
+			},
+			"offsets": {
+				"from": 1251120,
+				"to": 1255620
+			},
+			"text": " So when he says in verse 7, who will I be?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,620",
+				"to": "00:20:58,660"
+			},
+			"offsets": {
+				"from": 1255620,
+				"to": 1258660
+			},
+			"text": " I will be Yahweh, your always God."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,660",
+				"to": "00:21:01,900"
+			},
+			"offsets": {
+				"from": 1258660,
+				"to": 1261900
+			},
+			"text": " Also Elohim, your creator God."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:02,000",
+				"to": "00:21:04,600"
+			},
+			"offsets": {
+				"from": 1262000,
+				"to": 1264600
+			},
+			"text": " And you'll know that I am Yahweh, who brought you out of Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,600",
+				"to": "00:21:06,900"
+			},
+			"offsets": {
+				"from": 1264600,
+				"to": 1266900
+			},
+			"text": " So this is who God was."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,900",
+				"to": "00:21:13,260"
+			},
+			"offsets": {
+				"from": 1266900,
+				"to": 1273260
+			},
+			"text": " And now in Exodus, between Exodus 3, when God introduced himself to Moses this way, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:13,260",
+				"to": "00:21:17,080"
+			},
+			"offsets": {
+				"from": 1273260,
+				"to": 1277080
+			},
+			"text": " Exodus 34, when Moses is sitting on the mountain, what happened to make him so angry, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,080",
+				"to": "00:21:18,040"
+			},
+			"offsets": {
+				"from": 1277080,
+				"to": 1278040
+			},
+			"text": " What was that about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,780",
+				"to": "00:21:26,340"
+			},
+			"offsets": {
+				"from": 1279780,
+				"to": 1286340
+			},
+			"text": " For 15 chapters in three months, between Exodus 3 and 19, God is bringing the children of"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,340",
+				"to": "00:21:27,960"
+			},
+			"offsets": {
+				"from": 1286340,
+				"to": 1287960
+			},
+			"text": " Israel miraculously out of Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:27,960",
+				"to": "00:21:33,080"
+			},
+			"offsets": {
+				"from": 1287960,
+				"to": 1293080
+			},
+			"text": " There's the 10 plagues, there's the Passover, there's the parting of the Red Sea, there's"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:33,080",
+				"to": "00:21:37,100"
+			},
+			"offsets": {
+				"from": 1293080,
+				"to": 1297100
+			},
+			"text": " giving them food and water miraculously in the wilderness so that they can survive and"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,100",
+				"to": "00:21:40,000"
+			},
+			"offsets": {
+				"from": 1297100,
+				"to": 1300000
+			},
+			"text": " get to the foot of this mountain, which in some Bibles will be called Mount Horeb and"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,000",
+				"to": "00:21:41,580"
+			},
+			"offsets": {
+				"from": 1300000,
+				"to": 1301580
+			},
+			"text": " some Mount Sinai, that's the same mountain."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:41,580",
+				"to": "00:21:48,600"
+			},
+			"offsets": {
+				"from": 1301580,
+				"to": 1308600
+			},
+			"text": " For the next three months and 12 chapters, God tells them the law."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,720",
+				"to": "00:21:50,260"
+			},
+			"offsets": {
+				"from": 1308720,
+				"to": 1310260
+			},
+			"text": " How are you supposed to live your life around me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,260",
+				"to": "00:21:51,780"
+			},
+			"offsets": {
+				"from": 1310260,
+				"to": 1311780
+			},
+			"text": " I've said, I'm going to come tabernacle among you."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,780",
+				"to": "00:21:52,560"
+			},
+			"offsets": {
+				"from": 1311780,
+				"to": 1312560
+			},
+			"text": " How's that going to work?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:52,560",
+				"to": "00:21:53,840"
+			},
+			"offsets": {
+				"from": 1312560,
+				"to": 1313840
+			},
+			"text": " And I give you your law."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:53,840",
+				"to": "00:21:57,640"
+			},
+			"offsets": {
+				"from": 1313840,
+				"to": 1317640
+			},
+			"text": " And most importantly, most significantly in chapter 23, he gives them the covenant where"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,640",
+				"to": "00:21:58,920"
+			},
+			"offsets": {
+				"from": 1317640,
+				"to": 1318920
+			},
+			"text": " he becomes their Adonai, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,920",
+				"to": "00:22:02,460"
+			},
+			"offsets": {
+				"from": 1318920,
+				"to": 1322460
+			},
+			"text": " He renews the covenant that was promised to Abraham, to his people."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,460",
+				"to": "00:22:04,440"
+			},
+			"offsets": {
+				"from": 1322460,
+				"to": 1324440
+			},
+			"text": " And he said, here's how you're going to live around me."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:04,440",
+				"to": "00:22:05,560"
+			},
+			"offsets": {
+				"from": 1324440,
+				"to": 1325560
+			},
+			"text": " And this is a blood oath."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,560",
+				"to": "00:22:08,140"
+			},
+			"offsets": {
+				"from": 1325560,
+				"to": 1328140
+			},
+			"text": " If you break it, your life is forfeit."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,140",
+				"to": "00:22:13,640"
+			},
+			"offsets": {
+				"from": 1328140,
+				"to": 1333640
+			},
+			"text": " And before the stone dust was wiped off the tablets in which this promise was written"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,640",
+				"to": "00:22:16,780"
+			},
+			"offsets": {
+				"from": 1333640,
+				"to": 1336780
+			},
+			"text": " down in the terms of this covenant, they broke it, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,840",
+				"to": "00:22:20,340"
+			},
+			"offsets": {
+				"from": 1337840,
+				"to": 1340340
+			},
+			"text": " The golden calf, if you've heard the story of the golden calf, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,340",
+				"to": "00:22:24,060"
+			},
+			"offsets": {
+				"from": 1340340,
+				"to": 1344060
+			},
+			"text": " They're at the foot of this mountain and they said, all right, we've made a covenant with"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,060",
+				"to": "00:22:24,320"
+			},
+			"offsets": {
+				"from": 1344060,
+				"to": 1344320
+			},
+			"text": " God."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,320",
+				"to": "00:22:27,760"
+			},
+			"offsets": {
+				"from": 1344320,
+				"to": 1347760
+			},
+			"text": " We would like to now worship him the way we're accustomed to worshiping gods in Egypt."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,760",
+				"to": "00:22:34,160"
+			},
+			"offsets": {
+				"from": 1347760,
+				"to": 1354160
+			},
+			"text": " We're going to make a golden calf, an idol that we can control and fear."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,160",
+				"to": "00:22:37,460"
+			},
+			"offsets": {
+				"from": 1354160,
+				"to": 1357460
+			},
+			"text": " And we're going to accept that he does stuff beyond our control."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,980",
+				"to": "00:22:41,300"
+			},
+			"offsets": {
+				"from": 1357980,
+				"to": 1361300
+			},
+			"text": " And we're going to have a bit of a, you know, maybe a little bit of an orgy, a little party"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,300",
+				"to": "00:22:43,680"
+			},
+			"offsets": {
+				"from": 1361300,
+				"to": 1363680
+			},
+			"text": " and the foot of the mountain."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:43,680",
+				"to": "00:22:47,520"
+			},
+			"offsets": {
+				"from": 1363680,
+				"to": 1367520
+			},
+			"text": " And we're just going to celebrate God our way."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:47,520",
+				"to": "00:22:52,640"
+			},
+			"offsets": {
+				"from": 1367520,
+				"to": 1372640
+			},
+			"text": " Instead of listening to the terms of the covenant, they just, and so they are now liable for death."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:52,640",
+				"to": "00:22:53,620"
+			},
+			"offsets": {
+				"from": 1372640,
+				"to": 1373620
+			},
+			"text": " They're liable to death."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,620",
+				"to": "00:22:57,680"
+			},
+			"offsets": {
+				"from": 1373620,
+				"to": 1377680
+			},
+			"text": " They've signed a covenant with the creator God and broken it like immediately."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,920",
+				"to": "00:23:01,860"
+			},
+			"offsets": {
+				"from": 1378920,
+				"to": 1381860
+			},
+			"text": " Which by the way, is what we all tend to do, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,860",
+				"to": "00:23:05,660"
+			},
+			"offsets": {
+				"from": 1381860,
+				"to": 1385660
+			},
+			"text": " This is not, this is not crazy old people in the desert doing this."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:05,660",
+				"to": "00:23:06,880"
+			},
+			"offsets": {
+				"from": 1385660,
+				"to": 1386880
+			},
+			"text": " We do this every day."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,880",
+				"to": "00:23:08,200"
+			},
+			"offsets": {
+				"from": 1386880,
+				"to": 1388200
+			},
+			"text": " We commit our lives to Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,560",
+				"to": "00:23:12,760"
+			},
+			"offsets": {
+				"from": 1389560,
+				"to": 1392760
+			},
+			"text": " And then the next day, what we don't want to do, we do, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,760",
+				"to": "00:23:16,600"
+			},
+			"offsets": {
+				"from": 1392760,
+				"to": 1396600
+			},
+			"text": " The sin comes upon us and they have sinned at the foot of the mountain."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:16,600",
+				"to": "00:23:20,480"
+			},
+			"offsets": {
+				"from": 1396600,
+				"to": 1400480
+			},
+			"text": " And God is at the top of the mountain with Moses as Moses comes back to him and says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:20,480",
+				"to": "00:23:25,600"
+			},
+			"offsets": {
+				"from": 1400480,
+				"to": 1405600
+			},
+			"text": " they are a stiff-necked people, but please pardon our iniquity and our sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:25,600",
+				"to": "00:23:27,580"
+			},
+			"offsets": {
+				"from": 1405600,
+				"to": 1407580
+			},
+			"text": " How many of you have prayed a prayer like that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:27,580",
+				"to": "00:23:29,140"
+			},
+			"offsets": {
+				"from": 1407580,
+				"to": 1409140
+			},
+			"text": " I am a stiff-necked person."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:29,140",
+				"to": "00:23:30,520"
+			},
+			"offsets": {
+				"from": 1409140,
+				"to": 1410520
+			},
+			"text": " Please pardon my iniquity and sin."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,520",
+				"to": "00:23:36,600"
+			},
+			"offsets": {
+				"from": 1410520,
+				"to": 1416600
+			},
+			"text": " They broke the covenant immediately."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:36,840",
+				"to": "00:23:42,200"
+			},
+			"offsets": {
+				"from": 1416840,
+				"to": 1422200
+			},
+			"text": " And Moses is back on top of the mountain, revealing to Moses his justice and his mercy, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,200",
+				"to": "00:23:44,920"
+			},
+			"offsets": {
+				"from": 1422200,
+				"to": 1424920
+			},
+			"text": " Moses is interceding."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:44,920",
+				"to": "00:23:49,040"
+			},
+			"offsets": {
+				"from": 1424920,
+				"to": 1429040
+			},
+			"text": " God has just said in chapter 33, how about you guys just wander out in the desert and die?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,040",
+				"to": "00:23:49,600"
+			},
+			"offsets": {
+				"from": 1429040,
+				"to": 1429600
+			},
+			"text": " How about that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,600",
+				"to": "00:23:51,940"
+			},
+			"offsets": {
+				"from": 1429600,
+				"to": 1431940
+			},
+			"text": " I'm just going to let you go."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,940",
+				"to": "00:23:53,100"
+			},
+			"offsets": {
+				"from": 1431940,
+				"to": 1433100
+			},
+			"text": " Go on without me."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,100",
+				"to": "00:23:53,600"
+			},
+			"offsets": {
+				"from": 1433100,
+				"to": 1433600
+			},
+			"text": " Get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:53,600",
+				"to": "00:23:54,800"
+			},
+			"offsets": {
+				"from": 1433600,
+				"to": 1434800
+			},
+			"text": " He actually says, get out of here."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:54,800",
+				"to": "00:23:58,140"
+			},
+			"offsets": {
+				"from": 1434800,
+				"to": 1438140
+			},
+			"text": " Which sounds very passive-aggressive."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:58,140",
+				"to": "00:24:01,060"
+			},
+			"offsets": {
+				"from": 1438140,
+				"to": 1441060
+			},
+			"text": " This is the idiomatic language of the day."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:01,060",
+				"to": "00:24:03,840"
+			},
+			"offsets": {
+				"from": 1441060,
+				"to": 1443840
+			},
+			"text": " This is a bargaining language that was used."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:05,080",
+				"to": "00:24:12,780"
+			},
+			"offsets": {
+				"from": 1445080,
+				"to": 1452780
+			},
+			"text": " C.S. Lewis once famously said, if we were clams, God would come to us in the form of perfect clamhood and speak to us in clam language is implied, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,780",
+				"to": "00:24:14,560"
+			},
+			"offsets": {
+				"from": 1452780,
+				"to": 1454560
+			},
+			"text": " Because that's what we can understand."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:14,560",
+				"to": "00:24:20,820"
+			},
+			"offsets": {
+				"from": 1454560,
+				"to": 1460820
+			},
+			"text": " So he's drawing a picture for Moses of what's going to happen without him if they leave this covenant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,820",
+				"to": "00:24:22,940"
+			},
+			"offsets": {
+				"from": 1460820,
+				"to": 1462940
+			},
+			"text": " You're going to go out in the desert and you're just going to die."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,940",
+				"to": "00:24:24,180"
+			},
+			"offsets": {
+				"from": 1462940,
+				"to": 1464180
+			},
+			"text": " You're not going to make it to the promised land."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:24,180",
+				"to": "00:24:25,420"
+			},
+			"offsets": {
+				"from": 1464180,
+				"to": 1465420
+			},
+			"text": " You're not going to get to worship here on the mountain."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,500",
+				"to": "00:24:30,840"
+			},
+			"offsets": {
+				"from": 1465500,
+				"to": 1470840
+			},
+			"text": " You're not going to be my covenant people, but if you stay in covenant, we can make that happen still."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,840",
+				"to": "00:24:38,200"
+			},
+			"offsets": {
+				"from": 1470840,
+				"to": 1478200
+			},
+			"text": " He also is saying, in other idiomatic language, you call it the three generations versus the thousand generations thing, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,200",
+				"to": "00:24:42,600"
+			},
+			"offsets": {
+				"from": 1478200,
+				"to": 1482600
+			},
+			"text": " He says, your sins will be visited on you to the third and the fourth generation."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,600",
+				"to": "00:24:43,320"
+			},
+			"offsets": {
+				"from": 1482600,
+				"to": 1483320
+			},
+			"text": " What is that about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,320",
+				"to": "00:24:46,300"
+			},
+			"offsets": {
+				"from": 1483320,
+				"to": 1486300
+			},
+			"text": " That is about we believe we can sin in isolation."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:47,160",
+				"to": "00:24:52,840"
+			},
+			"offsets": {
+				"from": 1487160,
+				"to": 1492840
+			},
+			"text": " We believe I can sin and I'll take the punishment and it won't hurt my kids and that never happens, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:52,840",
+				"to": "00:24:54,280"
+			},
+			"offsets": {
+				"from": 1492840,
+				"to": 1494280
+			},
+			"text": " Hurting people hurt people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,280",
+				"to": "00:24:55,860"
+			},
+			"offsets": {
+				"from": 1494280,
+				"to": 1495860
+			},
+			"text": " Sinning people hurt people."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:57,080",
+				"to": "00:25:05,460"
+			},
+			"offsets": {
+				"from": 1497080,
+				"to": 1505460
+			},
+			"text": " And the problems that you invest in yourself and you think you can control will eventually overflow and it will hurt your kids and your family."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:05,460",
+				"to": "00:25:08,280"
+			},
+			"offsets": {
+				"from": 1505460,
+				"to": 1508280
+			},
+			"text": " And God's saying, there are consequences."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,280",
+				"to": "00:25:15,980"
+			},
+			"offsets": {
+				"from": 1508280,
+				"to": 1515980
+			},
+			"text": " And I will find a way to absorb those consequences so that we can have blessings to a thousand generations, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:15,980",
+				"to": "00:25:18,560"
+			},
+			"offsets": {
+				"from": 1515980,
+				"to": 1518560
+			},
+			"text": " You don't get to sin in isolation."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,560",
+				"to": "00:25:21,240"
+			},
+			"offsets": {
+				"from": 1518560,
+				"to": 1521240
+			},
+			"text": " You do have to state the terms of the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,240",
+				"to": "00:25:26,080"
+			},
+			"offsets": {
+				"from": 1521240,
+				"to": 1526080
+			},
+			"text": " But it goes on and gives this list that you don't need to be a Bible scholar to read."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,500",
+				"to": "00:25:27,840"
+			},
+			"offsets": {
+				"from": 1526500,
+				"to": 1527840
+			},
+			"text": " It says, he is merciful."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,840",
+				"to": "00:25:29,160"
+			},
+			"offsets": {
+				"from": 1527840,
+				"to": 1529160
+			},
+			"text": " I am merciful."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,160",
+				"to": "00:25:30,560"
+			},
+			"offsets": {
+				"from": 1529160,
+				"to": 1530560
+			},
+			"text": " That is, I'm compassionate."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,560",
+				"to": "00:25:34,980"
+			},
+			"offsets": {
+				"from": 1530560,
+				"to": 1534980
+			},
+			"text": " Like a father to his children, he'll absorb the debt that we have incurred and take it upon himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,980",
+				"to": "00:25:35,740"
+			},
+			"offsets": {
+				"from": 1534980,
+				"to": 1535740
+			},
+			"text": " When did this happen?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,740",
+				"to": "00:25:40,380"
+			},
+			"offsets": {
+				"from": 1535740,
+				"to": 1540380
+			},
+			"text": " He says, he is gracious."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:40,380",
+				"to": "00:25:47,220"
+			},
+			"offsets": {
+				"from": 1540380,
+				"to": 1547220
+			},
+			"text": " Not only is he merciful, withholding the full brunt of what we deserve, but he's also providing more than we could ever have deserved."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:47,220",
+				"to": "00:25:54,060"
+			},
+			"offsets": {
+				"from": 1547220,
+				"to": 1554060
+			},
+			"text": " Think of this as a slave population that he's giving new life and wealth and opportunity to."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,880",
+				"to": "00:25:56,220"
+			},
+			"offsets": {
+				"from": 1554880,
+				"to": 1556220
+			},
+			"text": " He says, he's slow to anger."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,220",
+				"to": "00:26:03,500"
+			},
+			"offsets": {
+				"from": 1556220,
+				"to": 1563500
+			},
+			"text": " And that's extremely relevant because everybody at the foot of the mountain has every reason to believe his strong anger is about to come down on them."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:03,500",
+				"to": "00:26:07,340"
+			},
+			"offsets": {
+				"from": 1563500,
+				"to": 1567340
+			},
+			"text": " And he's letting them know, you deserve death, but I am slow to anger."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:07,340",
+				"to": "00:26:09,420"
+			},
+			"offsets": {
+				"from": 1567340,
+				"to": 1569420
+			},
+			"text": " We're going to find a way to deal with this."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,260",
+				"to": "00:26:13,120"
+			},
+			"offsets": {
+				"from": 1570260,
+				"to": 1573120
+			},
+			"text": " And then he says, I'm abounding in loving kindness and faithfulness."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:13,120",
+				"to": "00:26:17,500"
+			},
+			"offsets": {
+				"from": 1573120,
+				"to": 1577500
+			},
+			"text": " The actual word there is chesed, which excites some people in this auditorium, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:17,500",
+				"to": "00:26:22,720"
+			},
+			"offsets": {
+				"from": 1577500,
+				"to": 1582720
+			},
+			"text": " Because it's a characteristic spoken of God over and over throughout the scripture."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,860",
+				"to": "00:26:26,940"
+			},
+			"offsets": {
+				"from": 1582860,
+				"to": 1586940
+			},
+			"text": " In the New Testament, they use agape, the divine love, to render that idea of chesed."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,940",
+				"to": "00:26:34,460"
+			},
+			"offsets": {
+				"from": 1586940,
+				"to": 1594460
+			},
+			"text": " It's a difficult, again, it's a large concept to get around, which is why even in English it's translated abounding in love and faithfulness."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:34,460",
+				"to": "00:26:37,760"
+			},
+			"offsets": {
+				"from": 1594460,
+				"to": 1597760
+			},
+			"text": " But it captures a sense of fidelity apart from anything else."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:37,760",
+				"to": "00:26:41,360"
+			},
+			"offsets": {
+				"from": 1597760,
+				"to": 1601360
+			},
+			"text": " It's used so often that it's sometimes referred to as a name of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:42,500",
+				"to": "00:26:44,120"
+			},
+			"offsets": {
+				"from": 1602500,
+				"to": 1604120
+			},
+			"text": " And not just by modern scholars."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,120",
+				"to": "00:26:47,440"
+			},
+			"offsets": {
+				"from": 1604120,
+				"to": 1607440
+			},
+			"text": " 1 John 4, 8, John says God is love, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,440",
+				"to": "00:26:48,880"
+			},
+			"offsets": {
+				"from": 1607440,
+				"to": 1608880
+			},
+			"text": " Agape."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,880",
+				"to": "00:26:56,000"
+			},
+			"offsets": {
+				"from": 1608880,
+				"to": 1616000
+			},
+			"text": " He is equating God with the concept of this chesed, this never stopping, never giving up, unbreaking, always and forever love."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,000",
+				"to": "00:27:02,660"
+			},
+			"offsets": {
+				"from": 1616000,
+				"to": 1622660
+			},
+			"text": " And that is from a book called the Jesus Storybook Bible that was written for kids, which I recommend that every adult read."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:02,660",
+				"to": "00:27:06,420"
+			},
+			"offsets": {
+				"from": 1622660,
+				"to": 1626420
+			},
+			"text": " But it does an excellent job of translating chesed."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,420",
+				"to": "00:27:08,260"
+			},
+			"offsets": {
+				"from": 1626420,
+				"to": 1628260
+			},
+			"text": " It's probably the best translation I've ever heard."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,680",
+				"to": "00:27:13,240"
+			},
+			"offsets": {
+				"from": 1628680,
+				"to": 1633240
+			},
+			"text": " God's never stopping, never giving up, unbreaking, always and forever love."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:13,240",
+				"to": "00:27:14,420"
+			},
+			"offsets": {
+				"from": 1633240,
+				"to": 1634420
+			},
+			"text": " That is what it means."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:14,420",
+				"to": "00:27:26,120"
+			},
+			"offsets": {
+				"from": 1634420,
+				"to": 1646120
+			},
+			"text": " And here it says God is abounding in this loving kindness and faithfulness, which is to say he's just bursting forth with never stopping, never giving up, unbreaking, always and forever love."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,120",
+				"to": "00:27:30,740"
+			},
+			"offsets": {
+				"from": 1646120,
+				"to": 1650740
+			},
+			"text": " While he has to deal with these people that just broke the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,740",
+				"to": "00:27:36,680"
+			},
+			"offsets": {
+				"from": 1650740,
+				"to": 1656680
+			},
+			"text": " In case he's saying, and he emphasizes the faithfulness there."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,040",
+				"to": "00:27:43,080"
+			},
+			"offsets": {
+				"from": 1657040,
+				"to": 1663080
+			},
+			"text": " In case he's saying, you thought I would dump you for your recent deliberate unfaithfulness, I won't."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:43,080",
+				"to": "00:27:44,580"
+			},
+			"offsets": {
+				"from": 1663080,
+				"to": 1664580
+			},
+			"text": " We sing this all the time."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:44,580",
+				"to": "00:27:45,320"
+			},
+			"offsets": {
+				"from": 1664580,
+				"to": 1665320
+			},
+			"text": " He won't fail you."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:45,320",
+				"to": "00:27:46,020"
+			},
+			"offsets": {
+				"from": 1665320,
+				"to": 1666020
+			},
+			"text": " He won't fail me."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,020",
+				"to": "00:27:47,800"
+			},
+			"offsets": {
+				"from": 1666020,
+				"to": 1667800
+			},
+			"text": " That's what it's talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,800",
+				"to": "00:27:50,020"
+			},
+			"offsets": {
+				"from": 1667800,
+				"to": 1670020
+			},
+			"text": " This is what he's referring to."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:50,020",
+				"to": "00:27:53,560"
+			},
+			"offsets": {
+				"from": 1670020,
+				"to": 1673560
+			},
+			"text": " He won't fail you even when you deliberately fail him."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,560",
+				"to": "00:27:55,960"
+			},
+			"offsets": {
+				"from": 1673560,
+				"to": 1675960
+			},
+			"text": " He takes that debt upon himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,960",
+				"to": "00:28:03,600"
+			},
+			"offsets": {
+				"from": 1675960,
+				"to": 1683600
+			},
+			"text": " He came to earth to absorb our debts and to deal with the consequences of our sin that we do not have the capacity to survive."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:03,740",
+				"to": "00:28:05,840"
+			},
+			"offsets": {
+				"from": 1683740,
+				"to": 1685840
+			},
+			"text": " The wages of sin is death."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:05,840",
+				"to": "00:28:13,020"
+			},
+			"offsets": {
+				"from": 1685840,
+				"to": 1693020
+			},
+			"text": " This is what the children of Israel are experiencing at the foot of this mountain, that Moses is pleading with God, we don't want the death, please."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,020",
+				"to": "00:28:13,520"
+			},
+			"offsets": {
+				"from": 1693020,
+				"to": 1693520
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,460",
+				"to": "00:28:22,640"
+			},
+			"offsets": {
+				"from": 1694460,
+				"to": 1702640
+			},
+			"text": " And God is finding a way to absorb their sins and our sins by healing up the covenant, by taking the sin on himself."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,640",
+				"to": "00:28:30,060"
+			},
+			"offsets": {
+				"from": 1702640,
+				"to": 1710060
+			},
+			"text": " And we celebrate here at Christmas, a time when he came to do that, to fulfill the goodness that is part of his name."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,000",
+				"to": "00:28:41,500"
+			},
+			"offsets": {
+				"from": 1712000,
+				"to": 1721500
+			},
+			"text": " Because like a father, he wants to make it possible to survive the consequences of our actions so that we can mature, take on his character that he describes to us in his name and become more like him."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:42,560",
+				"to": "00:28:49,060"
+			},
+			"offsets": {
+				"from": 1722560,
+				"to": 1729060
+			},
+			"text": " He says, not only in case you missed the hesed, he follows that up with, I forgive iniquity and transgression."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:49,060",
+				"to": "00:28:58,060"
+			},
+			"offsets": {
+				"from": 1729060,
+				"to": 1738060
+			},
+			"text": " In case you missed the previous bullet, let's, and you misinterpret this light-handed justice that you're going to experience for anger or abandonment."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:58,120",
+				"to": "00:29:08,140"
+			},
+			"offsets": {
+				"from": 1738120,
+				"to": 1748140
+			},
+			"text": " He's worried the people in the desert won't understand, lest you fear that God can't forgive your recent indefensible, belligerent, defiant unfaithfulness."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,600",
+				"to": "00:29:14,480"
+			},
+			"offsets": {
+				"from": 1748600,
+				"to": 1754480
+			},
+			"text": " And I'm talking to you and me, not just the people at the foot of the mountain, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:14,480",
+				"to": "00:29:17,520"
+			},
+			"offsets": {
+				"from": 1754480,
+				"to": 1757520
+			},
+			"text": " He will forgive your sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:17,520",
+				"to": "00:29:25,440"
+			},
+			"offsets": {
+				"from": 1757520,
+				"to": 1765440
+			},
+			"text": " And this, again, is the reason for the Advent season and for understanding the character of God packaged in the names of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,440",
+				"to": "00:29:28,920"
+			},
+			"offsets": {
+				"from": 1765440,
+				"to": 1768920
+			},
+			"text": " And lastly, though, just like a good father, he is just."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:28,920",
+				"to": "00:29:35,180"
+			},
+			"offsets": {
+				"from": 1768920,
+				"to": 1775180
+			},
+			"text": " We will experience the consequences and as much, and we would not appreciate that."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:35,180",
+				"to": "00:29:39,520"
+			},
+			"offsets": {
+				"from": 1775180,
+				"to": 1779520
+			},
+			"text": " We would think we'd gotten away with it if we didn't see how it hurts those around us, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:39,520",
+				"to": "00:29:45,240"
+			},
+			"offsets": {
+				"from": 1779520,
+				"to": 1785240
+			},
+			"text": " Were he not merciful, were he not just, he couldn't be merciful."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:45,240",
+				"to": "00:29:48,140"
+			},
+			"offsets": {
+				"from": 1785240,
+				"to": 1788140
+			},
+			"text": " And were he not merciful, we couldn't survive the justice."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:48,140",
+				"to": "00:29:54,640"
+			},
+			"offsets": {
+				"from": 1788140,
+				"to": 1794640
+			},
+			"text": " And so the sins of the children are affecting your, my sins are affecting my children and grandchildren."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:54,640",
+				"to": "00:29:58,880"
+			},
+			"offsets": {
+				"from": 1794640,
+				"to": 1798880
+			},
+			"text": " But if we'll stay with him, he is faithful to a thousand generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:58,880",
+				"to": "00:30:03,260"
+			},
+			"offsets": {
+				"from": 1798880,
+				"to": 1803260
+			},
+			"text": " Have you, if a generation is 20 to 40 years, that's 20 to 40,000 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:04,020",
+				"to": "00:30:06,520"
+			},
+			"offsets": {
+				"from": 1804020,
+				"to": 1806520
+			},
+			"text": " Moses was standing on this mountain 3,500 years ago."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:06,520",
+				"to": "00:30:12,480"
+			},
+			"offsets": {
+				"from": 1806520,
+				"to": 1812480
+			},
+			"text": " So by this reckoning, we have 16 to 36,000 generation, you know, years to go of that blessing."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:12,480",
+				"to": "00:30:16,240"
+			},
+			"offsets": {
+				"from": 1812480,
+				"to": 1816240
+			},
+			"text": " The implication, it is idiomatic."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:16,240",
+				"to": "00:30:19,480"
+			},
+			"offsets": {
+				"from": 1816240,
+				"to": 1819480
+			},
+			"text": " It's saying as long as there are generations, I will be with you, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:21,600",
+				"to": "00:30:30,260"
+			},
+			"offsets": {
+				"from": 1821600,
+				"to": 1830260
+			},
+			"text": " And so he goes on and lists out, in Exodus 30, 10, he immediately therefore said, when Moses begs, please forgive us."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:30,260",
+				"to": "00:30:35,300"
+			},
+			"offsets": {
+				"from": 1830260,
+				"to": 1835300
+			},
+			"text": " He doesn't, he just flies right past it and says, let's get back to the covenant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:35,300",
+				"to": "00:30:38,020"
+			},
+			"offsets": {
+				"from": 1835300,
+				"to": 1838020
+			},
+			"text": " Here are the terms of the covenant, let's renew the covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,020",
+				"to": "00:30:39,520"
+			},
+			"offsets": {
+				"from": 1838020,
+				"to": 1839520
+			},
+			"text": " And he starts listing them out."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:39,560",
+				"to": "00:30:46,320"
+			},
+			"offsets": {
+				"from": 1839560,
+				"to": 1846320
+			},
+			"text": " But there's a little parenthetical in verse 14 of Exodus 34, 14, where God says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:46,320",
+				"to": "00:30:52,600"
+			},
+			"offsets": {
+				"from": 1846320,
+				"to": 1852600
+			},
+			"text": " here it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:52,600",
+				"to": "00:30:54,280"
+			},
+			"offsets": {
+				"from": 1852600,
+				"to": 1854280
+			},
+			"text": " You shall, yeah, parenthetically."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:54,280",
+				"to": "00:30:56,420"
+			},
+			"offsets": {
+				"from": 1854280,
+				"to": 1856420
+			},
+			"text": " Oh, and by the way, you shall worship no other God."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:56,420",
+				"to": "00:31:01,820"
+			},
+			"offsets": {
+				"from": 1856420,
+				"to": 1861820
+			},
+			"text": " For the Lord, Yahweh, whose name is Jealous, is a jealous L, God."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:03,200",
+				"to": "00:31:07,000"
+			},
+			"offsets": {
+				"from": 1863200,
+				"to": 1867000
+			},
+			"text": " He just said his name is Jealous in the midst of saying all this other stuff."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:07,000",
+				"to": "00:31:09,640"
+			},
+			"offsets": {
+				"from": 1867000,
+				"to": 1869640
+			},
+			"text": " And we have to understand what he meant by that."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,640",
+				"to": "00:31:13,840"
+			},
+			"offsets": {
+				"from": 1869640,
+				"to": 1873840
+			},
+			"text": " Jealous and zealous are derivatives of the same concept that was spoken here."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:13,840",
+				"to": "00:31:19,020"
+			},
+			"offsets": {
+				"from": 1873840,
+				"to": 1879020
+			},
+			"text": " And we know a J, a J word means that's a modern version of that word, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:19,020",
+				"to": "00:31:20,780"
+			},
+			"offsets": {
+				"from": 1879020,
+				"to": 1880780
+			},
+			"text": " Because there's no J in Hebrew, Latin or Greek."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:20,780",
+				"to": "00:31:29,420"
+			},
+			"offsets": {
+				"from": 1880780,
+				"to": 1889420
+			},
+			"text": " The concept of jealous that we have today comes from France, as you might imagine, in the 1200s."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:29,960",
+				"to": "00:31:38,660"
+			},
+			"offsets": {
+				"from": 1889960,
+				"to": 1898660
+			},
+			"text": " This idea of sort of envy and suspicion, wishing you had what others had, jealous of what they've got that I don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:38,660",
+				"to": "00:31:40,340"
+			},
+			"offsets": {
+				"from": 1898660,
+				"to": 1900340
+			},
+			"text": " That is not what God is saying here."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:40,340",
+				"to": "00:31:46,640"
+			},
+			"offsets": {
+				"from": 1900340,
+				"to": 1906640
+			},
+			"text": " What he is saying is that he is fiercely, passionately, protective, and jealous of what he has."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:46,640",
+				"to": "00:31:52,660"
+			},
+			"offsets": {
+				"from": 1906640,
+				"to": 1912660
+			},
+			"text": " He's warning you, don't go serve other gods because I am jealous, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:52,660",
+				"to": "00:31:56,640"
+			},
+			"offsets": {
+				"from": 1912660,
+				"to": 1916640
+			},
+			"text": " I will fight to preserve what is mine."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:56,700",
+				"to": "00:32:00,360"
+			},
+			"offsets": {
+				"from": 1916700,
+				"to": 1920360
+			},
+			"text": " And this covenant that we've made, I'm going to do the work to make sure it stays."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:00,360",
+				"to": "00:32:05,380"
+			},
+			"offsets": {
+				"from": 1920360,
+				"to": 1925380
+			},
+			"text": " This is reflected in Exodus 27."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,380",
+				"to": "00:32:09,540"
+			},
+			"offsets": {
+				"from": 1925380,
+				"to": 1929540
+			},
+			"text": " The first two commandments are, have no other gods before me, no graven images."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,540",
+				"to": "00:32:13,060"
+			},
+			"offsets": {
+				"from": 1929540,
+				"to": 1933060
+			},
+			"text": " He also says, don't take my name in vain."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:13,060",
+				"to": "00:32:15,260"
+			},
+			"offsets": {
+				"from": 1933060,
+				"to": 1935260
+			},
+			"text": " That doesn't mean don't cuss, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:15,260",
+				"to": "00:32:19,420"
+			},
+			"offsets": {
+				"from": 1935260,
+				"to": 1939420
+			},
+			"text": " Thou shalt not take my name in vain means you don't take on my character."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:19,420",
+				"to": "00:32:22,180"
+			},
+			"offsets": {
+				"from": 1939420,
+				"to": 1942180
+			},
+			"text": " You don't wear the jersey and play for a different team, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:22,700",
+				"to": "00:32:25,780"
+			},
+			"offsets": {
+				"from": 1942700,
+				"to": 1945780
+			},
+			"text": " It means you're going to take my character and my name on you, my identity."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:25,780",
+				"to": "00:32:27,380"
+			},
+			"offsets": {
+				"from": 1945780,
+				"to": 1947380
+			},
+			"text": " You have to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:27,380",
+				"to": "00:32:29,100"
+			},
+			"offsets": {
+				"from": 1947380,
+				"to": 1949100
+			},
+			"text": " You don't carry it casually."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:29,100",
+				"to": "00:32:35,240"
+			},
+			"offsets": {
+				"from": 1949100,
+				"to": 1955240
+			},
+			"text": " It's a significant commitment that is lifelong and generations long."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:35,240",
+				"to": "00:32:36,500"
+			},
+			"offsets": {
+				"from": 1955240,
+				"to": 1956500
+			},
+			"text": " We've said a thousand generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:36,500",
+				"to": "00:32:37,920"
+			},
+			"offsets": {
+				"from": 1956500,
+				"to": 1957920
+			},
+			"text": " We're passing this on to our kids."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,400",
+				"to": "00:32:42,500"
+			},
+			"offsets": {
+				"from": 1959400,
+				"to": 1962500
+			},
+			"text": " Paul takes that idea of zealousness for the character of God."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:42,500",
+				"to": "00:32:47,380"
+			},
+			"offsets": {
+				"from": 1962500,
+				"to": 1967380
+			},
+			"text": " And we know that he had a mixed idea of what zeal was."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:47,380",
+				"to": "00:32:50,360"
+			},
+			"offsets": {
+				"from": 1967380,
+				"to": 1970360
+			},
+			"text": " He says he was zealous for protecting worship."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:50,360",
+				"to": "00:32:54,660"
+			},
+			"offsets": {
+				"from": 1970360,
+				"to": 1974660
+			},
+			"text": " Because he had also read this thing where the children of Israel worshipped in the wrong way"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:54,660",
+				"to": "00:32:56,320"
+			},
+			"offsets": {
+				"from": 1974660,
+				"to": 1976320
+			},
+			"text": " and broke the covenant and were punished."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:56,320",
+				"to": "00:33:00,000"
+			},
+			"offsets": {
+				"from": 1976320,
+				"to": 1980000
+			},
+			"text": " And so he sees the church as worshipping in the wrong way."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:00,000",
+				"to": "00:33:01,820"
+			},
+			"offsets": {
+				"from": 1980000,
+				"to": 1981820
+			},
+			"text": " And he goes to persecute the church, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:01,960",
+				"to": "00:33:03,220"
+			},
+			"offsets": {
+				"from": 1981960,
+				"to": 1983220
+			},
+			"text": " That's what Paul was doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,220",
+				"to": "00:33:05,440"
+			},
+			"offsets": {
+				"from": 1983220,
+				"to": 1985440
+			},
+			"text": " And then he has a revelation."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:05,440",
+				"to": "00:33:07,940"
+			},
+			"offsets": {
+				"from": 1985440,
+				"to": 1987940
+			},
+			"text": " And he explains that revelation in Romans 12."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,940",
+				"to": "00:33:10,720"
+			},
+			"offsets": {
+				"from": 1987940,
+				"to": 1990720
+			},
+			"text": " Ryan read it a few weeks ago where he says,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:10,720",
+				"to": "00:33:12,520"
+			},
+			"offsets": {
+				"from": 1990720,
+				"to": 1992520
+			},
+			"text": " I will be zealous in the spirit."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,520",
+				"to": "00:33:14,720"
+			},
+			"offsets": {
+				"from": 1992520,
+				"to": 1994720
+			},
+			"text": " I'll be serving the Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:14,720",
+				"to": "00:33:16,160"
+			},
+			"offsets": {
+				"from": 1994720,
+				"to": 1996160
+			},
+			"text": " I'll be practicing hospitality."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:16,160",
+				"to": "00:33:18,700"
+			},
+			"offsets": {
+				"from": 1996160,
+				"to": 1998700
+			},
+			"text": " I'll be blessing those who curse me."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,700",
+				"to": "00:33:19,340"
+			},
+			"offsets": {
+				"from": 1998700,
+				"to": 1999340
+			},
+			"text": " I'll be humble."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,340",
+				"to": "00:33:21,760"
+			},
+			"offsets": {
+				"from": 1999340,
+				"to": 2001760
+			},
+			"text": " We'll never have any vengeance, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:21,760",
+				"to": "00:33:26,260"
+			},
+			"offsets": {
+				"from": 2001760,
+				"to": 2006260
+			},
+			"text": " He's describing what it means to be zealous of the name and character of Christ."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,620",
+				"to": "00:33:30,800"
+			},
+			"offsets": {
+				"from": 2006620,
+				"to": 2010800
+			},
+			"text": " You take upon you this way of living that Christ exhibited,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:30,800",
+				"to": "00:33:32,660"
+			},
+			"offsets": {
+				"from": 2010800,
+				"to": 2012660
+			},
+			"text": " which is winning through surrender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:32,660",
+				"to": "00:33:36,080"
+			},
+			"offsets": {
+				"from": 2012660,
+				"to": 2016080
+			},
+			"text": " which is leading through sacrifice and humility,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:36,080",
+				"to": "00:33:37,840"
+			},
+			"offsets": {
+				"from": 2016080,
+				"to": 2017840
+			},
+			"text": " laying down your life for your friends,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,840",
+				"to": "00:33:40,780"
+			},
+			"offsets": {
+				"from": 2017840,
+				"to": 2020780
+			},
+			"text": " living in the perfect love of God, agape love,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:40,780",
+				"to": "00:33:42,280"
+			},
+			"offsets": {
+				"from": 2020780,
+				"to": 2022280
+			},
+			"text": " is to lay down your life for others."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:42,280",
+				"to": "00:33:46,420"
+			},
+			"offsets": {
+				"from": 2022280,
+				"to": 2026420
+			},
+			"text": " So zeal is now taking that character on and never letting go of it."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:46,420",
+				"to": "00:33:48,760"
+			},
+			"offsets": {
+				"from": 2026420,
+				"to": 2028760
+			},
+			"text": " And Paul lays that out for us in the New Testament."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:48,760",
+				"to": "00:33:52,240"
+			},
+			"offsets": {
+				"from": 2028760,
+				"to": 2032240
+			},
+			"text": " That's what it means to take on the name of Christ and not take his name in vain."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,580",
+				"to": "00:33:59,640"
+			},
+			"offsets": {
+				"from": 2035580,
+				"to": 2039640
+			},
+			"text": " In Romans 10, we're told that whosoever calls upon the name of the Lord shall be saved."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:59,640",
+				"to": "00:34:05,640"
+			},
+			"offsets": {
+				"from": 2039640,
+				"to": 2045640
+			},
+			"text": " That is not saying this is a magical incantation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,640",
+				"to": "00:34:07,660"
+			},
+			"offsets": {
+				"from": 2045640,
+				"to": 2047660
+			},
+			"text": " You can say the name and you'll be saved, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:07,660",
+				"to": "00:34:11,220"
+			},
+			"offsets": {
+				"from": 2047660,
+				"to": 2051220
+			},
+			"text": " He's saying if you take on the name of the Lord,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:11,220",
+				"to": "00:34:14,080"
+			},
+			"offsets": {
+				"from": 2051220,
+				"to": 2054080
+			},
+			"text": " if you call upon it, say, I want in on that covenant,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:14,080",
+				"to": "00:34:16,300"
+			},
+			"offsets": {
+				"from": 2054080,
+				"to": 2056300
+			},
+			"text": " you will experience salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:16,300",
+				"to": "00:34:19,440"
+			},
+			"offsets": {
+				"from": 2056300,
+				"to": 2059440
+			},
+			"text": " Philippians 12, 11 says, at the name of Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:19,440",
+				"to": "00:34:22,540"
+			},
+			"offsets": {
+				"from": 2059440,
+				"to": 2062540
+			},
+			"text": " again, J word, that means new, the name of the word is Yeshua,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:22,540",
+				"to": "00:34:24,380"
+			},
+			"offsets": {
+				"from": 2062540,
+				"to": 2064380
+			},
+			"text": " that we translate Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:24,380",
+				"to": "00:34:26,180"
+			},
+			"offsets": {
+				"from": 2064380,
+				"to": 2066180
+			},
+			"text": " And it means Yahweh is my salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,180",
+				"to": "00:34:26,860"
+			},
+			"offsets": {
+				"from": 2066180,
+				"to": 2066860
+			},
+			"text": " Who's Yahweh?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:26,860",
+				"to": "00:34:31,900"
+			},
+			"offsets": {
+				"from": 2066860,
+				"to": 2071900
+			},
+			"text": " He's the God who is, will always be with you in that covenant, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:31,900",
+				"to": "00:34:35,000"
+			},
+			"offsets": {
+				"from": 2071900,
+				"to": 2075000
+			},
+			"text": " He's the one you can't escape, the never stopping, never giving up,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:35,000",
+				"to": "00:34:36,440"
+			},
+			"offsets": {
+				"from": 2075000,
+				"to": 2076440
+			},
+			"text": " unbreaking, always and forever love."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:36,440",
+				"to": "00:34:39,340"
+			},
+			"offsets": {
+				"from": 2076440,
+				"to": 2079340
+			},
+			"text": " He's extended his hand and said, hi, I'm Yahweh."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:39,340",
+				"to": "00:34:40,760"
+			},
+			"offsets": {
+				"from": 2079340,
+				"to": 2080760
+			},
+			"text": " Who are you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:40,760",
+				"to": "00:34:42,240"
+			},
+			"offsets": {
+				"from": 2080760,
+				"to": 2082240
+			},
+			"text": " Will you join me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,240",
+				"to": "00:34:50,300"
+			},
+			"offsets": {
+				"from": 2084240,
+				"to": 2090300
+			},
+			"text": " Joel says, he'll pour out his spirit to all men and anyone who calls on his name will be saved,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,300",
+				"to": "00:34:51,980"
+			},
+			"offsets": {
+				"from": 2090300,
+				"to": 2091980
+			},
+			"text": " which is what Paul is quoting."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,980",
+				"to": "00:34:56,060"
+			},
+			"offsets": {
+				"from": 2091980,
+				"to": 2096060
+			},
+			"text": " Philippians says, the name of Jesus, Yeshua, is the salvation."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,720",
+				"to": "00:35:03,980"
+			},
+			"offsets": {
+				"from": 2096720,
+				"to": 2103980
+			},
+			"text": " So that in Matthew 5, in the Lord's prayer, we pray, hallowed be thy name."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,980",
+				"to": "00:35:05,960"
+			},
+			"offsets": {
+				"from": 2103980,
+				"to": 2105960
+			},
+			"text": " Are we praying for the name?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,960",
+				"to": "00:35:08,360"
+			},
+			"offsets": {
+				"from": 2105960,
+				"to": 2108360
+			},
+			"text": " We're praying for the character and the identity,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,360",
+				"to": "00:35:14,520"
+			},
+			"offsets": {
+				"from": 2108360,
+				"to": 2114520
+			},
+			"text": " that it be holy and preserved and stay separate and unsullied from our lower selves."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,940",
+				"to": "00:35:19,800"
+			},
+			"offsets": {
+				"from": 2115940,
+				"to": 2119800
+			},
+			"text": " It's a loyal declaration of what is and a humble wish of what should always be,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:19,800",
+				"to": "00:35:26,040"
+			},
+			"offsets": {
+				"from": 2119800,
+				"to": 2126040
+			},
+			"text": " that his name always be held sacred and holy as we never take his name in vain, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,200",
+				"to": "00:35:29,940"
+			},
+			"offsets": {
+				"from": 2127200,
+				"to": 2129940
+			},
+			"text": " Isaiah gives us the promise of this Messiah to come"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:29,940",
+				"to": "00:35:31,700"
+			},
+			"offsets": {
+				"from": 2129940,
+				"to": 2131700
+			},
+			"text": " that we're going to be talking about in these coming weeks."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:31,700",
+				"to": "00:35:36,860"
+			},
+			"offsets": {
+				"from": 2131700,
+				"to": 2136860
+			},
+			"text": " And that promise is that that Messiah will bring about the justice and mercy"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,860",
+				"to": "00:35:41,480"
+			},
+			"offsets": {
+				"from": 2136860,
+				"to": 2141480
+			},
+			"text": " exhibited and explained to Moses in Exodus 34."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,480",
+				"to": "00:35:47,140"
+			},
+			"offsets": {
+				"from": 2141480,
+				"to": 2147140
+			},
+			"text": " There will be one who comes and takes the punishment for the sins that we cannot absorb"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,140",
+				"to": "00:35:49,740"
+			},
+			"offsets": {
+				"from": 2147140,
+				"to": 2149740
+			},
+			"text": " so that we can stay with him."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,740",
+				"to": "00:35:54,100"
+			},
+			"offsets": {
+				"from": 2149740,
+				"to": 2154100
+			},
+			"text": " And in the end of the book, he will be tabernacle among us"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:54,100",
+				"to": "00:35:56,620"
+			},
+			"offsets": {
+				"from": 2154100,
+				"to": 2156620
+			},
+			"text": " and he will be our God and we'll be his people."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,200",
+				"to": "00:36:01,560"
+			},
+			"offsets": {
+				"from": 2157200,
+				"to": 2161560
+			},
+			"text": " He will come as, so the gospel is this lengthy handshake"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,560",
+				"to": "00:36:04,240"
+			},
+			"offsets": {
+				"from": 2161560,
+				"to": 2164240
+			},
+			"text": " from Genesis down through Revelation of God saying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,240",
+				"to": "00:36:06,680"
+			},
+			"offsets": {
+				"from": 2164240,
+				"to": 2166680
+			},
+			"text": " here's my name, here's how it's relevant to you."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,680",
+				"to": "00:36:07,440"
+			},
+			"offsets": {
+				"from": 2166680,
+				"to": 2167440
+			},
+			"text": " It's my character."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:07,440",
+				"to": "00:36:10,120"
+			},
+			"offsets": {
+				"from": 2167440,
+				"to": 2170120
+			},
+			"text": " I want you to take on my identity, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,120",
+				"to": "00:36:16,260"
+			},
+			"offsets": {
+				"from": 2170120,
+				"to": 2176260
+			},
+			"text": " And he's waiting to introduce, he's the mighty God, the Prince of Peace."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:16,260",
+				"to": "00:36:19,960"
+			},
+			"offsets": {
+				"from": 2176260,
+				"to": 2179960
+			},
+			"text": " And he reintroduces himself to us, but we protect ourselves"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,960",
+				"to": "00:36:22,640"
+			},
+			"offsets": {
+				"from": 2179960,
+				"to": 2182640
+			},
+			"text": " and we leave him hanging with his hand out."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,640",
+				"to": "00:36:26,800"
+			},
+			"offsets": {
+				"from": 2182640,
+				"to": 2186800
+			},
+			"text": " Despite the fact that he knows who we are, he's looking right at you."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:26,800",
+				"to": "00:36:27,560"
+			},
+			"offsets": {
+				"from": 2186800,
+				"to": 2187560
+			},
+			"text": " He made you."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,560",
+				"to": "00:36:30,320"
+			},
+			"offsets": {
+				"from": 2187560,
+				"to": 2190320
+			},
+			"text": " He wants you to know him."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:30,320",
+				"to": "00:36:31,600"
+			},
+			"offsets": {
+				"from": 2190320,
+				"to": 2191600
+			},
+			"text": " He's stretching out in grace."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,600",
+				"to": "00:36:34,340"
+			},
+			"offsets": {
+				"from": 2191600,
+				"to": 2194340
+			},
+			"text": " And here at this time of year when we celebrate the nativity"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:34,340",
+				"to": "00:36:38,600"
+			},
+			"offsets": {
+				"from": 2194340,
+				"to": 2198600
+			},
+			"text": " and we're celebrating when God physically became flesh and dwelt among us,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,600",
+				"to": "00:36:41,940"
+			},
+			"offsets": {
+				"from": 2198600,
+				"to": 2201940
+			},
+			"text": " came down and rubbed up against us and literally shook some hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,160",
+				"to": "00:36:49,300"
+			},
+			"offsets": {
+				"from": 2205160,
+				"to": 2209300
+			},
+			"text": " He gave himself vulnerably and approached approachably with the name Yeshua."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,300",
+				"to": "00:36:50,140"
+			},
+			"offsets": {
+				"from": 2209300,
+				"to": 2210140
+			},
+			"text": " I am Yeshua."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,140",
+				"to": "00:36:50,820"
+			},
+			"offsets": {
+				"from": 2210140,
+				"to": 2210820
+			},
+			"text": " I am the Savior."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:50,820",
+				"to": "00:36:53,120"
+			},
+			"offsets": {
+				"from": 2210820,
+				"to": 2213120
+			},
+			"text": " And humanity killed him for this vulnerability."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:53,120",
+				"to": "00:36:57,420"
+			},
+			"offsets": {
+				"from": 2213120,
+				"to": 2217420
+			},
+			"text": " An immortal came down to know us and experienced death"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:57,420",
+				"to": "00:37:05,100"
+			},
+			"offsets": {
+				"from": 2217420,
+				"to": 2225100
+			},
+			"text": " so that he could reach into death and bring us out if we would grip that extended hand."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:05,320",
+				"to": "00:37:09,780"
+			},
+			"offsets": {
+				"from": 2225320,
+				"to": 2229780
+			},
+			"text": " That's the gospel starting in Genesis, going through Exodus, coming down to us today."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,780",
+				"to": "00:37:15,500"
+			},
+			"offsets": {
+				"from": 2229780,
+				"to": 2235500
+			},
+			"text": " That thousands of generations of goodness is available to us despite our sins."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:16,580",
+				"to": "00:37:22,680"
+			},
+			"offsets": {
+				"from": 2236580,
+				"to": 2242680
+			},
+			"text": " And that thousands of generations includes the generations we're in right now, clearly, still available."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,680",
+				"to": "00:37:27,520"
+			},
+			"offsets": {
+				"from": 2242680,
+				"to": 2247520
+			},
+			"text": " The Lord God, the oath of the covenant that he gave Abraham in Genesis 15,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:27,520",
+				"to": "00:37:31,960"
+			},
+			"offsets": {
+				"from": 2247520,
+				"to": 2251960
+			},
+			"text": " is fulfilled in the crucifixion of Christ,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:31,960",
+				"to": "00:37:35,320"
+			},
+			"offsets": {
+				"from": 2251960,
+				"to": 2255320
+			},
+			"text": " who came to take on the debt of the sins, the broken covenant."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:37,020",
+				"to": "00:37:39,720"
+			},
+			"offsets": {
+				"from": 2257020,
+				"to": 2259720
+			},
+			"text": " And his name was God saves us, Yeshua."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:39,720",
+				"to": "00:37:42,340"
+			},
+			"offsets": {
+				"from": 2259720,
+				"to": 2262340
+			},
+			"text": " And God is with us, Emmanuel."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:42,340",
+				"to": "00:37:45,780"
+			},
+			"offsets": {
+				"from": 2262340,
+				"to": 2265780
+			},
+			"text": " And he was God's anointed, Yeshua Christus, Emmanuel."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,780",
+				"to": "00:37:49,260"
+			},
+			"offsets": {
+				"from": 2265780,
+				"to": 2269260
+			},
+			"text": " And for this reason, he comes down and he reaches out to us."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:49,260",
+				"to": "00:37:53,180"
+			},
+			"offsets": {
+				"from": 2269260,
+				"to": 2273180
+			},
+			"text": " And that is why we're going to study the names of God for the next couple of weeks, okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:53,180",
+				"to": "00:37:54,940"
+			},
+			"offsets": {
+				"from": 2273180,
+				"to": 2274940
+			},
+			"text": " Let's pray."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:54,940",
+				"to": "00:37:59,220"
+			},
+			"offsets": {
+				"from": 2274940,
+				"to": 2279220
+			},
+			"text": " Father God, we just pray that we can, as a group,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:59,220",
+				"to": "00:38:01,820"
+			},
+			"offsets": {
+				"from": 2279220,
+				"to": 2281820
+			},
+			"text": " take on your character as revealed in your names."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,020",
+				"to": "00:38:07,160"
+			},
+			"offsets": {
+				"from": 2282020,
+				"to": 2287160
+			},
+			"text": " And that we will, this Christmas, come to know you more clearly, more openly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:07,160",
+				"to": "00:38:12,200"
+			},
+			"offsets": {
+				"from": 2287160,
+				"to": 2292200
+			},
+			"text": " and open ourselves up more vulnerably to accept what you reveal to us of yourself."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:12,200",
+				"to": "00:38:19,800"
+			},
+			"offsets": {
+				"from": 2292200,
+				"to": 2299800
+			},
+			"text": " And as painful as it can be to reveal to a holy God our sinful selves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:19,800",
+				"to": "00:38:23,680"
+			},
+			"offsets": {
+				"from": 2299800,
+				"to": 2303680
+			},
+			"text": " I just pray that you would let us have the courage to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:23,680",
+				"to": "00:38:25,840"
+			},
+			"offsets": {
+				"from": 2303680,
+				"to": 2305840
+			},
+			"text": " Confess our sins to one another."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:25,840",
+				"to": "00:38:31,080"
+			},
+			"offsets": {
+				"from": 2305840,
+				"to": 2311080
+			},
+			"text": " Open up to the possibility of living life a little differently."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:32,020",
+				"to": "00:38:34,280"
+			},
+			"offsets": {
+				"from": 2312020,
+				"to": 2314280
+			},
+			"text": " And never take your name with us in vain."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:34,280",
+				"to": "00:38:38,460"
+			},
+			"offsets": {
+				"from": 2314280,
+				"to": 2318460
+			},
+			"text": " Never claim to be Christians and not actually let your character sink into us, Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:38,460",
+				"to": "00:38:40,740"
+			},
+			"offsets": {
+				"from": 2318460,
+				"to": 2320740
+			},
+			"text": " Give us the strength to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:40,740",
+				"to": "00:38:43,860"
+			},
+			"offsets": {
+				"from": 2320740,
+				"to": 2323860
+			},
+			"text": " Those who haven't done that, I pray that they would reach out,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:43,860",
+				"to": "00:38:45,660"
+			},
+			"offsets": {
+				"from": 2323860,
+				"to": 2325660
+			},
+			"text": " take your hand, and come to know you more."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:45,660",
+				"to": "00:38:47,200"
+			},
+			"offsets": {
+				"from": 2325660,
+				"to": 2327200
+			},
+			"text": " In Jesus' name, amen."
+		}
+	]
+}
