@@ -7,7 +7,7 @@ duration: 00:46:28
 series: "Like No Other"
 transcript_source: whisper-large-v3-turbo
 word_count: 7663
-themes: ["christology", "lordship", "faith and trust", "divine testing", "submission", "eternal hope"]
+themes: ["Christology", "lordship", "faith and trust", "divine testing", "submission", "eternal hope"]
 scriptures: ["John 6:1-14", "John 6:16-20", "John 5:18", "John 5:45-47", "Deuteronomy 18:18-19", "Exodus 16:4", "Romans 8:31-39", "Romans 8:34", "Psalm 107"]
 ---
 

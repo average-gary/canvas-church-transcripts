@@ -7,7 +7,7 @@ duration: 00:44:32
 series: "JAMES"
 transcript_source: whisper-large-v3-turbo
 word_count: 7747
-themes: ["trials", "spiritual maturity", "joy", "perseverance", "christlikeness", "obedience"]
+themes: ["trials", "spiritual maturity", "joy", "perseverance", "Christlikeness", "obedience"]
 scriptures: ["James 1:1-4", "Romans 8:29", "Hebrews 4:14-16", "Psalm 51", "John 9"]
 ---
 

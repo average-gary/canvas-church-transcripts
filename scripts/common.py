@@ -126,10 +126,13 @@ def parse_whisper_json(path):
 # *correct* in lowercase are deliberately absent - church, gospel, father, son,
 # spirit, devil, disciples - as are book names that double as ordinary English
 # ("a good job", "he acts", "the numbers", "forgot to mark"); those are handled
-# by BOOK_WORDS below, which only fires next to a chapter number.
+# by BOOK_WORDS below, which only fires next to a chapter number. `advent` and
+# `lent` are absent for the same reason ("the advent of machinery", "no one would
+# have lent him the money"); Whisper capitalises the church seasons on its own.
 PROPER = (
     "God Jesus Christ Messiah Lord Bible Scripture Scriptures Gospels Torah "
-    "Christian Christians Christlike Christmas Easter Advent Lent Passover "
+    "Christian Christians Christianity Christlike Christlikeness Christology "
+    "Antichrist Emmanuel Immanuel Christmas Easter Passover "
     "Pentecost Sabbath Satan Pharaoh Caesar "
     "Israel Israelite Israelites Judah Jerusalem Zion Egypt Egyptian Egyptians "
     "Babylon Babylonian Assyria Persia Rome Roman Romans Corinth Ephesus Philippi "
@@ -155,6 +158,10 @@ PHRASES = {
     "sermon on the mount": "Sermon on the Mount",
     "son of god": "Son of God", "son of man": "Son of Man",
     "kingdom of god": "kingdom of God", "word of god": "word of God",
+    "fruit of the spirit": "fruit of the Spirit",
+    "fruits of the spirit": "fruits of the Spirit",
+    "gift of the spirit": "gift of the Spirit",
+    "gifts of the spirit": "gifts of the Spirit",
 }
 
 # Capitalised only beside a chapter number or after "book/letter/gospel of",
@@ -176,6 +183,27 @@ _BOOKS_ALT = "|".join(sorted(BOOK_WORDS, key=len, reverse=True))
 _BOOK_NUM_RE = re.compile(r"\b(%s)(\s+\d)" % _BOOKS_ALT)
 _BOOK_OF_RE = re.compile(r"\b((?:book|letter|gospel|prophet)\s+of\s+)(%s)\b" % _BOOKS_ALT)
 _BOOK_ORD_RE = re.compile(r"\b(first|second|third|1|2|3)(\s+)(%s)\b" % _BOOKS_ALT, re.I)
+# "false gospels" is a counterfeit message, not the four books. "other gospels"
+# is either one; it stays lowercase because a wrong capital reads worse than a
+# missing one, and Whisper capitalises it itself where it means the four.
+_MAKES_COMMON = re.compile(r"\b(?:false|counterfeit|other)\s+$", re.I)
+
+
+def _expand_phrase(m):
+    """Substitute a PHRASES value, keeping a capital the text already had.
+
+    Values whose first word is ordinary English are stored lowercase ("kingdom
+    of God"), so replacing blindly would demote a legitimate "Kingdom of God" at
+    the start of a sentence.
+    """
+    out = PHRASES[m.group(1).lower()]
+    return out[0].upper() + out[1:] if m.group(1)[0].isupper() else out
+
+
+def _raise_proper(m):
+    if m.group(1) == "gospels" and _MAKES_COMMON.search(m.string[:m.start()]):
+        return m.group(1)
+    return _CANON[m.group(1)]
 
 
 def fix_caps(text):
@@ -186,8 +214,8 @@ def fix_caps(text):
     words; the wins are concentrated in transcriptions that came out uncased,
     which `unpunctuated()` finds and which are better re-run than patched.
     """
-    text = _PHRASE_RE.sub(lambda m: PHRASES[m.group(1).lower()], text)
-    text = _PROPER_RE.sub(lambda m: _CANON[m.group(1)], text)
+    text = _PHRASE_RE.sub(_expand_phrase, text)
+    text = _PROPER_RE.sub(_raise_proper, text)
     text = _BOOK_NUM_RE.sub(lambda m: m.group(1).capitalize() + m.group(2), text)
     text = _BOOK_OF_RE.sub(lambda m: m.group(1) + m.group(2).capitalize(), text)
     text = _BOOK_ORD_RE.sub(
@@ -355,10 +383,18 @@ def _self_check():
     assert fix_caps("turn to john 3:16") == "turn to John 3:16"
     assert fix_caps("read the book of numbers") == "read the book of Numbers"
     assert fix_caps("in first corinthians") == "in first Corinthians"
+    assert fix_caps("the fruit of the spirit is love") == \
+        "the fruit of the Spirit is love"
+    assert fix_caps("growing in christlikeness") == "growing in Christlikeness"
+    assert fix_caps("read the four gospels") == "read the four Gospels"
+    # A phrase the text already capitalised keeps its capital.
+    assert fix_caps("Kingdom of god is near") == "Kingdom of God is near"
     # ...and leaves ordinary English alone.
     for phrase in ("i did a good job today", "please mark your calendar",
                    "the numbers are down", "he acts like that", "our church",
-                   "the gospel of grace", "a revelation to me", "godly living"):
+                   "the gospel of grace", "a revelation to me", "godly living",
+                   "they preach false gospels", "he lent him the money",
+                   "before the advent of machinery", "in the spirit of unity"):
         assert fix_caps(phrase) == phrase, phrase
 
     # A typo'd video id in the overlay would be silently ignored otherwise.

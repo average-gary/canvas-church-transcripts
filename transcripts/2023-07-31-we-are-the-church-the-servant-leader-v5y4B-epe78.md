@@ -7,7 +7,7 @@ duration: 00:50:05
 series: "We Are the Church"
 transcript_source: whisper-large-v3-turbo
 word_count: 6735
-themes: ["servant leadership", "discipleship", "authority", "christlikeness", "reproduction", "balance"]
+themes: ["servant leadership", "discipleship", "authority", "Christlikeness", "reproduction", "balance"]
 scriptures: ["Philippians 2:5-11", "John 15:9-17", "2 Timothy 2", "Romans 8:28-29"]
 ---
 

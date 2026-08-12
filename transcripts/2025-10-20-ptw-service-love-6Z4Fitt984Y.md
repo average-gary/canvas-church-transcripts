@@ -7,7 +7,7 @@ duration: 00:52:43
 series: "Practicing the Way: SERVICE"
 transcript_source: whisper-large-v3-turbo
 word_count: 8409
-themes: ["spiritual formation", "service", "love", "fruit of the spirit", "character transformation", "partnership with God"]
+themes: ["spiritual formation", "service", "love", "fruit of the Spirit", "character transformation", "partnership with God"]
 scriptures: ["Mark 10:45", "Matthew 7:16-18", "Ephesians 4", "Genesis 1-3", "1 John 2:6", "1 John 3:18", "1 John 4:7", "Galatians 5:22-23", "1 Corinthians 13"]
 ---
 
@@ -117,7 +117,7 @@ This sermon introduces a four-week series on service by arguing that genuine ser
 
 **[00:31:47](https://www.youtube.com/watch?v=6Z4Fitt984Y&t=1907s)** until eventually, of course, I can't take it anymore and then I silently, quietly leave this church and go to another church and continue to talk to the circuit.
 
-**[00:31:57](https://www.youtube.com/watch?v=6Z4Fitt984Y&t=1917s)** All because I've been working on fake fruit. I think, right? I read the fruit of the spirit and we're gonna get there. I read the fruit of the spirit and I think, oh, okay, I have to really work at being patient and merciful and kind and self-controlled and, you know, not actually being those things. I'm just gonna fake them really good. When we forget, apple trees aren't working at being apple trees. Right? Apples grow on apple trees because that's what the apple tree is. So if I'm looking at the fruit and trying to work backwards so I can manufacture it, then none of it's real. All right, that's my little diversion. So am I becoming more like Jesus in my character and my action? You know, Jesus called out elephants and runes. Jesus actively worked
+**[00:31:57](https://www.youtube.com/watch?v=6Z4Fitt984Y&t=1917s)** All because I've been working on fake fruit. I think, right? I read the fruit of the Spirit and we're gonna get there. I read the fruit of the Spirit and I think, oh, okay, I have to really work at being patient and merciful and kind and self-controlled and, you know, not actually being those things. I'm just gonna fake them really good. When we forget, apple trees aren't working at being apple trees. Right? Apples grow on apple trees because that's what the apple tree is. So if I'm looking at the fruit and trying to work backwards so I can manufacture it, then none of it's real. All right, that's my little diversion. So am I becoming more like Jesus in my character and my action? You know, Jesus called out elephants and runes. Jesus actively worked
 
 **[00:32:54](https://www.youtube.com/watch?v=6Z4Fitt984Y&t=1974s)** to destroy and tear down fake peace in order to build real peace. Right? 1 John 2, verse 6 says, the one who says he remains in him, remains in Jesus, should walk just as he walked. So this is one of the fruits in my life that I'm looking at. And by the way, I don't just wanna self-evaluate that. I'm listening for feedback. I'm humbling myself. Right? For other people, is being around Sam starting to feel a little bit more like being around Jesus or not? Right? Man, I've known Sam for 10 years. He's become so much more patient, so much more self-controlled, so much more faithful, so much more service-oriented. Right? You're seeing, and we know these people too, right? We talked about some bad examples, but we know these people too. We're like, man,
 

@@ -7,7 +7,7 @@ duration: 00:43:08
 series: "My Part Matters"
 transcript_source: whisper-large-v3-turbo
 word_count: 7719
-themes: ["gossip", "unity", "speech", "heart motives", "insecurity", "christlikeness"]
+themes: ["gossip", "unity", "speech", "heart motives", "insecurity", "Christlikeness"]
 scriptures: ["Ephesians 4:25-32", "Proverbs 18:8", "Proverbs 13:3", "Proverbs 19:5", "Proverbs 10:18", "Proverbs 16:28", "Proverbs 18:2", "Proverbs 17:4", "Matthew 12:34-36", "Romans 12:17-19", "Proverbs 29:25", "2 Thessalonians 3:11", "2 Corinthians 5:20", "Ephesians 4:29", "1 Peter 2:21-25"]
 ---
 

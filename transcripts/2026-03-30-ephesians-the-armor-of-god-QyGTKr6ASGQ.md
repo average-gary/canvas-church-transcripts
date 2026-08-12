@@ -27,7 +27,7 @@ This Palm Sunday sermon on Ephesians 6:10-20 reframes the armor of God passage a
 - People are not our enemy; the struggle is spiritual, not against flesh and blood
 - God himself is the warrior (Isaiah 59) who clothes his church in his own armor
 - Truth and righteousness/justice together hold the church and guard what is central
-- The sword of the Spirit is the word of God—ultimately Jesus—not a weapon of violence
+- The sword of the Spirit is the Word of God—ultimately Jesus—not a weapon of violence
 
 **Scripture:** Ephesians 6:10-20, Isaiah 59, Zechariah 9, John 1:1, Ephesians 2-3
 

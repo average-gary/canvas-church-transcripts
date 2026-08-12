@@ -7,7 +7,7 @@ duration: 00:53:27
 series: "JAMES"
 transcript_source: whisper-large-v3-turbo
 word_count: 8377
-themes: ["faith and works", "justification", "fruit of the spirit", "obedience", "sanctification", "spiritual formation"]
+themes: ["faith and works", "justification", "fruit of the Spirit", "obedience", "sanctification", "spiritual formation"]
 scriptures: ["James 2:14-26", "Matthew 25", "Matthew 7", "Genesis 22", "Joshua 2", "Hebrews 11", "Ephesians 2:8-10", "Luke 6", "John 15", "Galatians 5:22-23"]
 ---
 

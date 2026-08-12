@@ -7,7 +7,7 @@ duration: 00:35:57
 series: "ADVENT 2023"
 transcript_source: whisper-large-v3-turbo
 word_count: 6289
-themes: ["hope", "Advent", "redemption", "righteousness", "kindness", "lineage", "seeds and fruit"]
+themes: ["hope", "advent", "redemption", "righteousness", "kindness", "lineage", "seeds and fruit"]
 scriptures: ["Ruth 1-4", "Romans 5:3-5", "1 Peter 1:3", "John 15:8", "1 Corinthians 15", "Psalm 22:1"]
 ---
 

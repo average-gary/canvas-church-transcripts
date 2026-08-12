@@ -7,7 +7,7 @@ duration: 00:23:37
 series: "Names of God"
 transcript_source: whisper-large-v3-turbo
 word_count: 3943
-themes: ["Advent", "hope", "discipleship", "loving enemies", "resurrection", "kingdom of God"]
+themes: ["advent", "hope", "discipleship", "loving enemies", "resurrection", "kingdom of God"]
 scriptures: ["Isaiah 9:6-7", "Matthew 5-7", "Hebrews 12:1-2"]
 ---
 

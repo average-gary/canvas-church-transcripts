@@ -111,7 +111,7 @@ Hits resolve to a timestamped YouTube link, so you land on the moment itself.
 ```
 
 `build_site.py` renders `docs/` from the same artifacts everything else uses, so
-it is disposable — the directory is wiped and rebuilt each run. 834 pages: one
+it is disposable — the directory is wiped and rebuilt each run. 840 pages: one
 per sermon, plus series, theme, scripture-book, timeline, and a full index.
 
 Search is two layers:
@@ -171,6 +171,14 @@ are all relative and `.nojekyll` is written, so it works from a project subpath
   beside a chapter number or after "book/letter/gospel of". A good transcript has
   a couple of dozen of these; hundreds means the file was decoded uncased and
   wants `--redo-unpunctuated` instead.
+- **Every word added to `PROPER` is a bet, and some lose.** `Lent` capitalised
+  "no one would have lent him this much money"; `Advent` capitalised "the advent
+  of machinery and electricity"; `Gospels` capitalised "false gospels", which
+  means a counterfeit message, not the four books. Before adding a word, count
+  how often Whisper already gets it right (`data/whisper/` is the pre-`fix_caps`
+  text) and read the contexts where it doesn't — a wrong capital reads worse than
+  a missing one. `fix_caps` runs over summaries too, via `load_summary()`, so the
+  theme pages on the website are where a bad entry shows up first.
 - `render.py` also flags any transcript under 200 words as suspicious. To find
   the opposite problem — transcription stopping early — compare the last cue's
   end against the video duration; one sermon covers only 60% because the

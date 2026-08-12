@@ -7,7 +7,7 @@ duration: 00:46:09
 series: "ADVENT 2024"
 transcript_source: whisper-large-v3-turbo
 word_count: 7094
-themes: ["joy", "grace", "Advent", "incarnation", "contentment", "gratitude"]
+themes: ["joy", "grace", "advent", "incarnation", "contentment", "gratitude"]
 scriptures: ["Luke 2:8-14", "2 Corinthians 6", "Psalm 103", "1 Timothy 6", "John 4:14"]
 ---
 
