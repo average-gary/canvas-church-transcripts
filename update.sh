@@ -84,7 +84,10 @@ fi
 
 echo
 echo "==> ingesting"
-./run.sh transcribe render summarize render search
+# Called directly rather than through run.sh so an unattended run can yield the
+# CPU: a scheduled job should not peg eight whisper threads while someone works.
+python3 -u scripts/transcribe.py ${TRANSCRIBE_ARGS:---nice 10}
+./run.sh render summarize render search
 ./site.sh
 
 if [ -z "$(git status --porcelain)" ]; then
