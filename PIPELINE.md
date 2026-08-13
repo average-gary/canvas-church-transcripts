@@ -77,6 +77,45 @@ Decisions live in `data/series_manual.json` (`{video_id: [series, ...]}`), merge
 by `load_index()`. They cannot live in `data/index.json`: `fetch_playlists.py`
 rebuilds `series` from the playlists on every run and would wipe them.
 
+## Ingesting new sermons
+
+```bash
+./update.sh --dry-run    # poll and report, change nothing
+./update.sh              # ingest what turned up, rebuild, commit
+./update.sh --push       # ...and publish to GitHub Pages
+```
+
+Nothing about this is special-cased for "new": every stage already skips work it
+has done, so `update.sh` is a thin wrapper that polls, decides whether anything
+changed, and only then pays for the rest.
+
+The gate is the SHA-256 of `data/index.json`. It changes when a video appears, when
+an old sermon gains a series because someone finally made a playlist, and when a
+date gets backfilled — all three want a rebuild. Unchanged means the run stops
+before touching anything, which is the normal outcome most days. Verified against
+the live channel: a full poll rewrites `index.json` byte-identically when nothing
+has moved, so a daily schedule does not produce daily commits.
+
+A no-op poll is `./run.sh index playlists` — two channel requests plus one per
+playlist, about 40 for this channel, and one `fetch_meta` call per genuinely new
+video. Cheap enough to run daily, far too expensive to run in a loop.
+
+To schedule it on macOS, launchd survives reboots and skips missed runs while the
+machine is asleep:
+
+```bash
+# ~/Library/LaunchAgents/church.transcripts.update.plist -> runs daily at 13:00
+launchctl load -w ~/Library/LaunchAgents/church.transcripts.update.plist
+```
+
+GitHub Actions cannot do this job: transcription needs `whisper.cpp` and a 1.5 GB
+local model, so the machine holding the model is the only place the pipeline runs.
+
+Two things it deliberately does not do: it never deletes a sermon pulled from the
+channel (the artifact in `data/whisper/` is the durable copy, and a video going
+private should not silently empty the archive), and it does not push unless asked,
+because pushing publishes.
+
 ## Output
 
 ```
