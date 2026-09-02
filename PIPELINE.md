@@ -166,6 +166,23 @@ Search is two layers:
 Clicking any gutter timestamp seeks the embedded player. Each timestamp is also
 a real link to YouTube, so it still works if the IFrame API is blocked.
 
+### Assistants reading the site
+
+`build_site.py` also writes `docs/llms.txt`, `robots.txt` and `sitemap.xml`.
+
+`llms.txt` leads with provenance, because the failure it fixes was a trust
+failure, not a parsing one: an assistant sent here by a link could not tell an
+unofficial archive from an official one, and spent its effort deciding whether
+the site was legitimate instead of answering. It now states plainly that this is
+unofficial, that the church's channel is authoritative, that the sermons are
+already public, and that the transcripts are unedited machine output — then
+points at `text/<slug>.txt` as the preferred format. The same disclosure appears
+in the footer of all 840 pages, since most arrivals land on a sermon, not the
+index.
+
+Set `SITE_BASE_URL` if the site moves; the absolute URLs in `llms.txt` and
+`sitemap.xml` come from it.
+
 `docs/` is laid out for GitHub Pages served from a branch's `/docs` folder. Links
 are all relative and `.nojekyll` is written, so it works from a project subpath
 (`/repo-name/`) without configuration.
