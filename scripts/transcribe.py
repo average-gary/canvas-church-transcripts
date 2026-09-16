@@ -57,8 +57,12 @@ def download_audio(vid, tries=3):
     for attempt in range(1, tries + 1):
         if raw and raw.exists():
             break
+        # Recent uploads often have no audio-only stream yet -- only muxed
+        # video+audio. Fall back to the smallest track that carries audio and
+        # let --extract-audio strip the video; wasteful in bandwidth, but the
+        # alternative is waiting days for YouTube to emit a DASH audio format.
         cmd = ["yt-dlp", "--no-warnings", "--retries", "5",
-               "-f", "bestaudio[ext=m4a]/bestaudio",
+               "-f", "bestaudio[ext=m4a]/bestaudio/worst[acodec!=none]/best",
                "--extract-audio", "--audio-format", "m4a",
                "-o", str(AUDIO / "%(id)s.%(ext)s"),
                f"https://www.youtube.com/watch?v={vid}"]

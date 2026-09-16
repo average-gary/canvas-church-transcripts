@@ -13,6 +13,11 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+# YouTube blocks unauthenticated audio downloads ("confirm you're not a bot").
+# run.sh exports this for its own stages, but the transcribe stage below is
+# invoked directly so it can be niced -- it needs the cookies too.
+export YT_COOKIES_FROM_BROWSER="${YT_COOKIES_FROM_BROWSER:-chrome}"
+
 PUSH=0
 DRY=0
 for a in "$@"; do
@@ -38,21 +43,21 @@ before_hash=$(shasum -a 256 data/index.json | cut -d" " -f1)
 
 echo "==> polling the channel"
 # Polling writes both of these, so a dry run keeps copies and puts them back.
+# The restore runs from a trap rather than inline: the report below has to read
+# the *fresh* index to name the new sermons, and an early exit ("nothing new")
+# must still put the originals back.
 if [ "$DRY" = 1 ]; then
   for f in data/index.json data/playlists.json; do
     [ -f "$f" ] && cp "$f" "$f.pre-dry-run"
   done
+  trap 'for f in data/index.json data/playlists.json; do
+          [ -f "$f.pre-dry-run" ] && mv "$f.pre-dry-run" "$f"
+        done' EXIT
 fi
 ./run.sh index playlists
 
 after_hash=$(shasum -a 256 data/index.json | cut -d" " -f1)
 new_ids=$(comm -13 <(echo "$before_ids") <(sermon_ids) || true)
-
-if [ "$DRY" = 1 ]; then
-  for f in data/index.json data/playlists.json; do
-    [ -f "$f.pre-dry-run" ] && mv "$f.pre-dry-run" "$f"
-  done
-fi
 
 # The index is the source of truth for everything downstream, so its hash is the
 # gate: it changes for a new video, a new series assignment on an old one, or a
