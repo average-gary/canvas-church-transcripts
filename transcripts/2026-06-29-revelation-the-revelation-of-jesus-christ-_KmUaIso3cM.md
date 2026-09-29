@@ -4,7 +4,7 @@ video_id: _KmUaIso3cM
 url: https://www.youtube.com/watch?v=_KmUaIso3cM
 date: 2026-06-29
 duration: 00:36:13
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 6968
 themes: ["revelation", "persecution", "faithful witness", "prophecy", "apocalyptic literature", "obedience"]

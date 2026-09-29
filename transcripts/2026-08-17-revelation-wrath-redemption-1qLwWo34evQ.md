@@ -4,7 +4,7 @@ video_id: 1qLwWo34evQ
 url: https://www.youtube.com/watch?v=1qLwWo34evQ
 date: 2026-08-17
 duration: 00:48:15
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7467
 themes: ["wrath", "judgment", "repentance", "redemption", "atonement", "patience"]

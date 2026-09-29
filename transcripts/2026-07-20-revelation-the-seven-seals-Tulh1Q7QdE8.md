@@ -4,7 +4,7 @@ video_id: Tulh1Q7QdE8
 url: https://www.youtube.com/watch?v=Tulh1Q7QdE8
 date: 2026-07-20
 duration: 00:54:03
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 8824
 themes: ["persecution", "prayer", "faithfulness", "suffering", "spiritual warfare", "false gospels", "endurance"]

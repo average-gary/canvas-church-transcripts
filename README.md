@@ -1,6 +1,6 @@
 # Canvas Community Church - Sermon Transcripts
 
-243 sermons, 198 hours of audio, 1,767,712 words.
+245 sermons, 200 hours of audio, 1,784,460 words.
 
 **Browse and search it: <https://average-gary.github.io/canvas-church-transcripts/>**
 
@@ -264,10 +264,12 @@ python3 scripts/search.py "the kingdom of God"
 | 2023-06-12 | [POURED OUT: Why Church Membership?](transcripts/2023-06-12-poured-out-why-church-membership-P0gnCLvlew0.md) | 6,910 |
 | 2023-06-05 | [Poured Out: Seat-Belt Christians](transcripts/2023-06-05-poured-out-seat-belt-christians-jaWKgiHCgOQ.md) | 6,273 |
 
-### Practicing the Way WITNESS (2)
+### Practicing the Way WITNESS (4)
 
 | Date | Sermon | Words |
 | --- | --- | --- |
+| 2026-09-28 | [PTW Witness: SHARE THE GOOD NEWS](transcripts/2026-09-28-ptw-witness-share-the-good-news-igAaJXEouIA.md) | 7,778 |
+| 2026-09-21 | [PTW Witness: PARTNER WITH THE HOLY SPIRIT](transcripts/2026-09-21-ptw-witness-partner-with-the-holy-spirit-ruhOP_VKRUs.md) | 8,970 |
 | 2026-09-14 | [PTW Witness: PRACTICE HOSPITALITY](transcripts/2026-09-14-ptw-witness-practice-hospitality-LeDBBo1co2Y.md) | 8,783 |
 | 2026-09-07 | [PTW Witness: BEGIN WITH LOVE](transcripts/2026-09-07-ptw-witness-begin-with-love-_pt-59HpWio.md) | 8,354 |
 
@@ -357,21 +359,11 @@ python3 scripts/search.py "the kingdom of God"
 | 2023-04-10 | [Resurrection Rumors: Of First Importance](transcripts/2023-04-10-resurrection-rumors-of-first-importance-UzZCar3IjgQ.md) | 6,623 |
 | 2023-04-03 | [The Words of Communion](transcripts/2023-04-03-the-words-of-communion-ZPxrC3URbY0.md) | 4,360 |
 
-### REVELATION (11)
+### REVELATION (1)
 
 | Date | Sermon | Words |
 | --- | --- | --- |
-| 2026-08-31 | [REVELATION: World Made New](transcripts/2026-08-31-revelation-world-made-new-bbmX5l3KcZA.md) | 7,855 |
-| 2026-08-24 | [REVELATION: Escaping Babylon](transcripts/2026-08-24-revelation-escaping-babylon-ngzo9otJzuQ.md) | 9,451 |
-| 2026-08-17 | [REVELATION: Wrath & Redemption](transcripts/2026-08-17-revelation-wrath-redemption-1qLwWo34evQ.md) | 7,467 |
 | 2026-08-10 | [REVELATION: Counterfeit Kingdoms](transcripts/2026-08-10-revelation-counterfeit-kingdoms-0thnS6ZKDm8.md) | 9,742 |
-| 2026-08-03 | [REVELATION: God's Redemptive Story](transcripts/2026-08-03-revelation-gods-redemptive-story-xiMizFjxz74.md) | 5,358 |
-| 2026-07-27 | [REVELATION: The Seven Trumpets](transcripts/2026-07-27-revelation-the-seven-trumpets-45zzG8fq4K0.md) | 9,155 |
-| 2026-07-20 | [REVELATION: The Seven Seals](transcripts/2026-07-20-revelation-the-seven-seals-Tulh1Q7QdE8.md) | 8,824 |
-| 2026-07-13 | [REVELATION: Pledge Allegiance to the Lamb](transcripts/2026-07-13-revelation-pledge-allegiance-to-the-lamb-eNDZAQ3RMGY.md) | 5,677 |
-| 2026-07-06 | [REVELATION: Listening to King Jesus](transcripts/2026-07-06-revelation-listening-to-king-jesus-RN3qPQxsrt4.md) | 8,743 |
-| 2026-06-29 | [REVELATION: The Revelation of Jesus Christ](transcripts/2026-06-29-revelation-the-revelation-of-jesus-christ-_KmUaIso3cM.md) | 6,968 |
-| 2026-06-27 | [Revelation with Dr. David deSilva](transcripts/2026-06-27-revelation-with-dr-david-desilva-5NZLg7DRsLY.md) | 7,663 |
 
 ### RUTH (5)
 
@@ -467,10 +459,20 @@ python3 scripts/search.py "the kingdom of God"
 | 2024-01-08 | [Looking Ahead: Our Mission, Vision, & Values](transcripts/2024-01-08-looking-ahead-our-mission-vision-values-vNXHH-b7dY4.md) | 7,534 |
 | 2024-01-01 | [Church at Home: Looking at The Sermon on the Mount](transcripts/2024-01-01-church-at-home-looking-at-the-sermon-on-the-mount-urnetM-gfW0.md) | 5,745 |
 
-### (standalone) (11)
+### (standalone) (21)
 
 | Date | Sermon | Words |
 | --- | --- | --- |
+| 2026-08-31 | [REVELATION: World Made New](transcripts/2026-08-31-revelation-world-made-new-bbmX5l3KcZA.md) | 7,855 |
+| 2026-08-24 | [REVELATION: Escaping Babylon](transcripts/2026-08-24-revelation-escaping-babylon-ngzo9otJzuQ.md) | 9,451 |
+| 2026-08-17 | [REVELATION: Wrath & Redemption](transcripts/2026-08-17-revelation-wrath-redemption-1qLwWo34evQ.md) | 7,467 |
+| 2026-08-03 | [REVELATION: God's Redemptive Story](transcripts/2026-08-03-revelation-gods-redemptive-story-xiMizFjxz74.md) | 5,358 |
+| 2026-07-27 | [REVELATION: The Seven Trumpets](transcripts/2026-07-27-revelation-the-seven-trumpets-45zzG8fq4K0.md) | 9,155 |
+| 2026-07-20 | [REVELATION: The Seven Seals](transcripts/2026-07-20-revelation-the-seven-seals-Tulh1Q7QdE8.md) | 8,824 |
+| 2026-07-13 | [REVELATION: Pledge Allegiance to the Lamb](transcripts/2026-07-13-revelation-pledge-allegiance-to-the-lamb-eNDZAQ3RMGY.md) | 5,677 |
+| 2026-07-06 | [REVELATION: Listening to King Jesus](transcripts/2026-07-06-revelation-listening-to-king-jesus-RN3qPQxsrt4.md) | 8,743 |
+| 2026-06-29 | [REVELATION: The Revelation of Jesus Christ](transcripts/2026-06-29-revelation-the-revelation-of-jesus-christ-_KmUaIso3cM.md) | 6,968 |
+| 2026-06-27 | [Revelation with Dr. David deSilva](transcripts/2026-06-27-revelation-with-dr-david-desilva-5NZLg7DRsLY.md) | 7,663 |
 | 2025-04-21 | [Easter 2025: WHO IS JESUS?](transcripts/2025-04-21-easter-2025-who-is-jesus-91jqRKiyH1Y.md) | 5,861 |
 | 2025-03-10 | [What Can Separate Us?](transcripts/2025-03-10-what-can-separate-us-KjsMRC9wVS8.md) | 4,289 |
 | 2024-12-23 | [Sunday @ Canvas Community Church](transcripts/2024-12-23-sunday-canvas-community-church-_mrf6jihG2A.md) | 6,498 |

@@ -4,7 +4,7 @@ video_id: xiMizFjxz74
 url: https://www.youtube.com/watch?v=xiMizFjxz74
 date: 2026-08-03
 duration: 00:31:58
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 5358
 themes: ["redemption", "baptism", "spiritual warfare", "suffering", "faithfulness", "perseverance"]

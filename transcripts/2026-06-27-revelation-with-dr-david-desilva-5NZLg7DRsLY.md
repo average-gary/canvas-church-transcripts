@@ -4,7 +4,7 @@ video_id: 5NZLg7DRsLY
 url: https://www.youtube.com/watch?v=5NZLg7DRsLY
 date: 2026-06-27
 duration: 05:13:55
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7663
 themes: ["biblical interpretation", "faithful witness", "idolatry", "empire and power", "economic compromise", "prophecy"]

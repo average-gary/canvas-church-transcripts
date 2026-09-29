@@ -4,7 +4,7 @@ video_id: RN3qPQxsrt4
 url: https://www.youtube.com/watch?v=RN3qPQxsrt4
 date: 2026-07-06
 duration: 00:54:14
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 8743
 themes: ["allegiance", "faithfulness", "suffering", "obedience", "citizenship", "idolatry"]

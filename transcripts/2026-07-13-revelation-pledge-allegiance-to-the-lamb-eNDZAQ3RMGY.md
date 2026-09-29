@@ -4,7 +4,7 @@ video_id: eNDZAQ3RMGY
 url: https://www.youtube.com/watch?v=eNDZAQ3RMGY
 date: 2026-07-13
 duration: 00:40:17
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 5677
 themes: ["worship", "kingdom of God", "sacrificial love", "suffering", "witness", "allegiance", "sovereignty"]

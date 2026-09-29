@@ -4,7 +4,7 @@ video_id: ngzo9otJzuQ
 url: https://www.youtube.com/watch?v=ngzo9otJzuQ
 date: 2026-08-24
 duration: 01:04:32
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 9451
 themes: ["idolatry", "materialism", "exploitation", "justice", "faithfulness", "devotion", "self-control"]

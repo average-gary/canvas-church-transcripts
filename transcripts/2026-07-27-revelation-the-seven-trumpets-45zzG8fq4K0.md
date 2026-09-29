@@ -4,7 +4,7 @@ video_id: 45zzG8fq4K0
 url: https://www.youtube.com/watch?v=45zzG8fq4K0
 date: 2026-07-27
 duration: 01:07:45
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 9155
 themes: ["repentance", "judgment", "idolatry", "perseverance", "grace", "witness"]

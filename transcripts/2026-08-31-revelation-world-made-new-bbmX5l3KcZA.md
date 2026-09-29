@@ -4,7 +4,7 @@ video_id: bbmX5l3KcZA
 url: https://www.youtube.com/watch?v=bbmX5l3KcZA
 date: 2026-08-31
 duration: 00:43:04
-series: "REVELATION"
+series: null
 transcript_source: whisper-large-v3-turbo
 word_count: 7855
 themes: ["new creation", "holiness", "redemption", "presence of God", "living water", "faithfulness"]
